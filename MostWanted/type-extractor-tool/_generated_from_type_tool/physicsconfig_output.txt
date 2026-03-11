@@ -1,0 +1,1142 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+>> 14: (F2_85_22_B9)
+>> id: (83_06_B9_EF)
+
+CgsResource.Handle
+>> 14: (8A_E4_3F_0B)
+>> id: (A3_E1_89_8A)
+
+float32_t
+>> 14: (87_6D_0A_53)
+>> id: (E4_97_56_9F)
+
+bool8_t
+>> 14: (8C_D7_46_52)
+>> id: (0F_EE_3F_41)
+
+Genesys.Object
+>> 14: (E7_25_DB_2E)
+>> id: (43_95_24_D7)
+
+Genesys.Gen.CameraGameplayShakeEffect.Translation.AxisParams extends Genesys.Object
+>> 14: (DC_8F_06_00)
+>> id: (D2_62_D8_63)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {90_AB_84_91} ("Amplitude")
+  0x14  : float32_t
+           muId: {79_0A_FD_00} ("Inwards_Damping")
+  0x18  : float32_t
+           muId: {51_54_94_BE} ("Lower_Translation_Limit")
+  0x1C  : float32_t
+           muId: {75_E0_E5_F6} ("Outwards_Damping")
+  0x20  : float32_t
+           muId: {82_CB_00_16} ("Spring_Coefficient")
+  0x24  : float32_t
+           muId: {CD_C7_E9_81} ("Upper_Translation_Limit")
+  0x28  : bool8_t
+           muId: {DC_FE_2F_B5} ("Invert_Force_Direction")
+
+Genesys.Gen.CameraGameplayShakeEffect.Translation extends Genesys.Object
+>> 14: (DA_8F_06_00)
+>> id: (33_A1_3E_49)
+  0xC   : Genesys.Gen.CameraGameplayShakeEffect.Translation.AxisParams
+           muId: {E7_1E_9F_5E} ("X")
+  0x38  : Genesys.Gen.CameraGameplayShakeEffect.Translation.AxisParams
+           muId: {51_02_5E_5A} ("Y")
+  0x64  : Genesys.Gen.CameraGameplayShakeEffect.Translation.AxisParams
+           muId: {8B_27_1D_57} ("Z")
+  0x90  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x94  : float32_t
+           muId: {90_AB_84_91} ("Amplitude")
+
+Genesys.Gen.CameraGameplayShakeEffect.Rotation.AxisParams extends Genesys.Object
+>> 14: (DB_8F_06_00)
+>> id: (D9_B1_E6_09)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {90_AB_84_91} ("Amplitude")
+  0x14  : float32_t
+           muId: {B6_A4_2F_67} ("Damping")
+  0x18  : float32_t
+           muId: {8A_44_7E_12} ("Maximum_Angle")
+  0x1C  : float32_t
+           muId: {A9_03_B2_87} ("Minimum_Angle")
+  0x20  : float32_t
+           muId: {82_CB_00_16} ("Spring_Coefficient")
+  0x24  : bool8_t
+           muId: {DC_FE_2F_B5} ("Invert_Force_Direction")
+
+Genesys.Gen.CameraGameplayShakeEffect.Rotation extends Genesys.Object
+>> 14: (D9_8F_06_00)
+>> id: (48_B8_4C_B2)
+  0xC   : Genesys.Gen.CameraGameplayShakeEffect.Rotation.AxisParams
+           muId: {24_88_14_A0} ("Pitch")
+  0x34  : Genesys.Gen.CameraGameplayShakeEffect.Rotation.AxisParams
+           muId: {6C_6C_6F_52} ("Roll")
+  0x5C  : Genesys.Gen.CameraGameplayShakeEffect.Rotation.AxisParams
+           muId: {29_87_BD_41} ("Yaw")
+  0x84  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x88  : float32_t
+           muId: {90_AB_84_91} ("Amplitude")
+
+Genesys.Gen.CameraGameplayShakeEffect extends Genesys.Object
+>> 14: (D8_8F_06_00)
+>> id: (D5_69_9B_70)
+  0xC   : Genesys.Gen.CameraGameplayShakeEffect.Translation
+           muId: {CB_80_4F_63} ("Translation")
+  0xA4  : Genesys.Gen.CameraGameplayShakeEffect.Rotation
+           muId: {B8_71_8B_0C} ("Rotation")
+  0x130 : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.CollisionEffects.BattlingEffect.SkidEffects extends Genesys.Object
+>> 14: (C7_7D_0F_00)
+>> id: (03_B1_56_8C)
+  0xC   : CgsResource.Handle
+           muId: {7B_D9_23_E0} ("HighDamageSkidEffect")
+  0x14  : CgsResource.Handle
+           muId: {77_A6_51_39} ("LowDamageSkidEffect")
+  0x1C  : float32_t
+           muId: {D0_EC_7A_5E} ("HighDamageForSkidEffect")
+  0x20  : float32_t
+           muId: {73_71_2D_D3} ("LowDamageForSkidEffect")
+
+Genesys.Gen.CollisionEffects.BattlingEffect.ExtraRollParams extends Genesys.Object
+>> 14: (1E_57_07_00)
+>> id: (CA_6E_93_04)
+  0xC   : float32_t
+           muId: {8B_77_56_B6}
+  0x10  : float32_t
+           muId: {78_87_B2_D3}
+  0x14  : float32_t
+           muId: {FF_50_09_D5}
+
+Genesys.Gen.CollisionEffects.BattlingEffect extends Genesys.Object
+>> 14: (1A_57_07_00)
+>> id: (F9_D8_34_CA)
+  0xC   : Genesys.Gen.CollisionEffects.BattlingEffect.SkidEffects
+           muId: {AD_F7_73_E3}
+  0x30  : Genesys.Gen.CollisionEffects.BattlingEffect.SkidEffects
+           muId: {15_1C_16_16} ("LooserShrinks")
+  0x54  : Genesys.Gen.CollisionEffects.BattlingEffect.SkidEffects
+           muId: {0D_37_94_5A}
+  0x78  : Genesys.Gen.CollisionEffects.BattlingEffect.ExtraRollParams
+           muId: {60_75_65_91}
+  0x90  : Genesys.Gen.CollisionEffects.BattlingEffect.ExtraRollParams
+           muId: {60_32_3E_BC}
+  0xA8  : CgsResource.Handle
+           muId: {C6_71_57_46} ("Cam_Effect_Stable")
+  0xB0  : CgsResource.Handle
+           muId: {4B_DD_EC_77} ("Cam_Effect_Unstable")
+  0xB8  : float32_t
+           muId: {D5_D3_35_6E} ("Cam_Effect_Scale")
+  0xBC  : float32_t
+           muId: {7A_21_14_FF} ("Stable_Camera_Threshold")
+  0xC0  : float32_t
+           muId: {C0_32_FA_26} ("Unstable_Camera_Threshold")
+
+Genesys.Gen.CollisionEffects.TrafficEffect.ExtraRollParams extends Genesys.Object
+>> 14: (5C_29_10_00)
+>> id: (6B_B6_93_5E)
+  0xC   : float32_t
+           muId: {8B_77_56_B6}
+  0x10  : float32_t
+           muId: {78_87_B2_D3}
+  0x14  : float32_t
+           muId: {FF_50_09_D5}
+
+Genesys.Gen.CollisionEffects.TrafficEffect extends Genesys.Object
+>> 14: (1C_57_07_00)
+>> id: (7B_2C_02_F9)
+  0xC   : Genesys.Gen.CollisionEffects.TrafficEffect.ExtraRollParams
+           muId: {60_75_65_91}
+  0x24  : Genesys.Gen.CollisionEffects.TrafficEffect.ExtraRollParams
+           muId: {60_32_3E_BC}
+  0x3C  : Genesys.Gen.CollisionEffects.TrafficEffect.ExtraRollParams
+           muId: {02_E2_26_01}
+  0x54  : CgsResource.Handle
+           muId: {A2_14_00_70} ("Cam_Effect")
+  0x5C  : CgsResource.Handle
+           muId: {4B_DD_EC_77} ("Cam_Effect_Unstable")
+  0x64  : float32_t
+           muId: {D5_D3_35_6E} ("Cam_Effect_Scale")
+  0x68  : float32_t
+           muId: {7A_21_14_FF} ("Stable_Camera_Threshold")
+  0x6C  : float32_t
+           muId: {C0_32_FA_26} ("Unstable_Camera_Threshold")
+
+Genesys.Gen.CollisionEffects.WorldEffect extends Genesys.Object
+>> 14: (1B_57_07_00)
+>> id: (A8_65_71_C1)
+  0xC   : CgsResource.Handle
+           muId: {A2_14_00_70} ("Cam_Effect")
+  0x14  : CgsResource.Handle
+           muId: {4B_DD_EC_77} ("Cam_Effect_Unstable")
+  0x1C  : float32_t
+           muId: {D5_D3_35_6E} ("Cam_Effect_Scale")
+  0x20  : float32_t
+           muId: {7A_21_14_FF} ("Stable_Camera_Threshold")
+  0x24  : float32_t
+           muId: {C0_32_FA_26} ("Unstable_Camera_Threshold")
+
+Genesys.Gen.CollisionEffects extends Genesys.Object
+>> 14: (19_57_07_00)
+>> id: (69_1F_92_AD)
+  0xC   : Genesys.Gen.CollisionEffects.BattlingEffect
+           muId: {0D_F6_7C_0F} ("Battling_Collision_Effect")
+  0xD0  : Genesys.Gen.CollisionEffects.TrafficEffect
+           muId: {D3_80_20_CB} ("Traffic_Collision_Effect")
+  0x140 : Genesys.Gen.CollisionEffects.WorldEffect
+           muId: {33_3E_CF_D1} ("World_Collision_Effect")
+  0x168 : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.Physics.LandingDamage.Pitch extends Genesys.Object
+>> 14: (34_29_10_00)
+>> id: (5A_6E_77_E3)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {95_71_2F_7A}
+  0x14  : float32_t
+           muId: {EE_04_B4_EE} ("MaxDamage")
+  0x18  : float32_t
+           muId: {08_20_57_82}
+  0x1C  : float32_t
+           muId: {86_BF_07_0E}
+  0x20  : float32_t
+           muId: {DE_29_BA_DD}
+
+Genesys.Gen.Physics.LandingDamage.Roll extends Genesys.Object
+>> 14: (36_29_10_00)
+>> id: (D8_B3_B0_AD)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {A5_D9_6B_C4}
+  0x14  : float32_t
+           muId: {7D_2E_EF_3A}
+  0x18  : float32_t
+           muId: {7E_86_AA_10}
+  0x1C  : float32_t
+           muId: {24_CC_6F_A5}
+
+Genesys.Gen.Physics.LandingDamage extends Genesys.Object
+>> 14: (33_29_10_00)
+>> id: (9B_67_75_03)
+  0xC   : Genesys.Gen.Physics.LandingDamage.Pitch
+           muId: {24_88_14_A0} ("Pitch")
+  0x30  : Genesys.Gen.Physics.LandingDamage.Roll
+           muId: {6C_6C_6F_52} ("Roll")
+  0x50  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x54  : float32_t
+           muId: {7B_B4_DE_BF}
+
+Genesys.Gen.CollisionInfo extends Genesys.Object
+>> 14: (CC_D7_05_00)
+>> id: (57_C7_4F_CF)
+  0xC   : CgsResource.Handle
+           muId: {9F_0B_30_5A} ("Collision_Effects")
+  0x14  : CgsResource.Handle
+           muId: {39_60_7C_06} ("Damage_Bars")
+  0x1C  : CgsResource.Handle
+           muId: {08_D7_73_6A} ("Damage_Graphs")
+  0x24  : CgsResource.Handle
+           muId: {0F_45_00_80} ("Global_Collision_Responses")
+  0x2C  : CgsResource.Handle
+           muId: {FD_3E_6B_E7} ("Race_Car_Collision_Responses")
+  0x34  : CgsResource.Handle
+           muId: {C2_04_20_C0} ("World_Collision_Responses")
+  0x3C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x40  : float32_t
+           muId: {A3_F6_AF_40} ("Average_World_Strength")
+  0x44  : float32_t
+           muId: {04_44_A3_2F}
+  0x48  : float32_t
+           muId: {E3_A5_92_64}
+  0x4C  : float32_t
+           muId: {DC_3F_6C_2A}
+  0x50  : float32_t
+           muId: {F1_DD_6D_22}
+  0x54  : float32_t
+           muId: {C8_6F_23_12} ("BloodstainedEnds")
+  0x58  : Genesys.Gen.Physics.LandingDamage *
+           muId: {F5_2F_9C_EA} ("Landing_Damage")
+
+Genesys.Gen.CollisionInfo.BattlingDamage extends Genesys.Object
+>> 14: (6E_EF_07_00)
+>> id: (D5_DC_12_EA)
+  0xC   : float32_t
+           muId: {B9_C5_1C_73}
+  0x10  : float32_t
+           muId: {C5_2A_C7_42}
+  0x14  : float32_t
+           muId: {22_9E_53_F7}
+  0x18  : float32_t
+           muId: {4E_F1_C8_0B}
+  0x1C  : float32_t
+           muId: {A2_46_FF_6C}
+  0x20  : float32_t
+           muId: {44_1A_9A_E5}
+
+Genesys.Gen.CollisionInfo.BattlingEffect.ExtraRollParams extends Genesys.Object
+>> 14: (DD_F0_07_00)
+>> id: (DC_0A_F1_B1)
+  0xC   : float32_t
+           muId: {F9_8B_E6_5C} ("Damage_For_Full_Extra_Roll")
+  0x10  : float32_t
+           muId: {95_25_C9_37} ("Damage_For_No_Extra_Roll")
+  0x14  : float32_t
+           muId: {F9_57_64_36} ("Extra_Limit_Duration")
+
+Genesys.Gen.CollisionInfo.BattlingEffect extends Genesys.Object
+>> 14: (CD_D7_05_00)
+>> id: (70_6D_B6_32)
+  0xC   : Genesys.Gen.CollisionInfo.BattlingEffect.ExtraRollParams
+           muId: {2D_D6_9B_1C} ("AI_Extra_Roll")
+  0x24  : Genesys.Gen.CollisionInfo.BattlingEffect.ExtraRollParams
+           muId: {4A_23_91_35} ("Player_Extra_Roll")
+  0x3C  : CgsResource.Handle
+           muId: {A2_14_00_70} ("Cam_Effect")
+  0x44  : float32_t
+           muId: {D5_D3_35_6E} ("Cam_Effect_Scale")
+  0x48  : float32_t
+           muId: {C6_37_B3_BC}
+
+Genesys.Gen.CollisionInfoDamageProfile extends Genesys.Object
+>> 14: (6D_EF_07_00)
+>> id: (8A_FF_20_36)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {60_04_2A_FE}
+  0x14  : float32_t
+           muId: {55_39_0E_8F}
+  0x18  : float32_t
+           muId: {72_35_12_84}
+  0x1C  : float32_t
+           muId: {0A_3E_86_9D}
+  0x20  : float32_t
+           muId: {0D_06_C0_D1} ("Minimum_Damage")
+
+Genesys.Gen.CollisionInfo.PayloadDamage extends Genesys.Object
+>> 14: (7D_FB_06_00)
+>> id: (1B_31_97_BC)
+  0xC   : Genesys.Gen.CollisionInfoDamageProfile *
+           muId: {25_7A_2A_81}
+  0x10  : Genesys.Gen.CollisionInfoDamageProfile *
+           muId: {B5_43_5D_3C} ("SelfInflicted")
+
+Genesys.Gen.CollisionInfo.TrafficEffect extends Genesys.Object
+>> 14: (D3_F0_07_00)
+>> id: (87_AF_E3_6C)
+  0xC   : CgsResource.Handle
+           muId: {A2_14_00_70} ("Cam_Effect")
+  0x14  : float32_t
+           muId: {D5_D3_35_6E} ("Cam_Effect_Scale")
+
+Genesys.Gen.CollisionInfo.WorldDamage extends Genesys.Object
+>> 14: (6A_EF_07_00)
+>> id: (2D_10_2A_D7)
+  0xC   : Genesys.Gen.CollisionInfoDamageProfile *
+           muId: {77_8B_5F_EC} ("Aggressive")
+  0x10  : Genesys.Gen.CollisionInfoDamageProfile *
+           muId: {D8_5E_85_42} ("Self_Inflicted")
+
+Genesys.Gen.CollisionInfo.WorldEffect extends Genesys.Object
+>> 14: (69_EF_07_00)
+>> id: (95_1D_AD_BE)
+  0xC   : CgsResource.Handle
+           muId: {A2_14_00_70} ("Cam_Effect")
+  0x14  : float32_t
+           muId: {D5_D3_35_6E} ("Cam_Effect_Scale")
+
+Genesys.Gen.CollisionResponses_Global.RaceCarVsRaceCar.Params extends Genesys.Object
+>> 14: (CC_F0_07_00)
+>> id: (2A_B6_E9_BC)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {22_6A_2F_3E} ("Damage")
+  0x18  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_Global.RaceCarVsRaceCar.CrashedParams extends Genesys.Object
+>> 14: (DC_F0_07_00)
+>> id: (49_67_5A_53)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_Global.RaceCarVsRaceCar extends Genesys.Object
+>> 14: (B0_F0_07_00)
+>> id: (C8_38_AA_88)
+  0xC   : Genesys.Gen.CollisionResponses_Global.RaceCarVsRaceCar.Params
+           muId: {50_34_66_4E} ("Stable")
+  0x28  : Genesys.Gen.CollisionResponses_Global.RaceCarVsRaceCar.Params
+           muId: {3E_EE_C1_68} ("Unstable")
+  0x44  : Genesys.Gen.CollisionResponses_Global.RaceCarVsRaceCar.CrashedParams
+           muId: {84_B7_93_36} ("Crashed")
+  0x5C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x60  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0x64  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_Global.CrashingRaceCarVsTraffic extends Genesys.Object
+>> 14: (BB_F0_07_00)
+>> id: (9C_87_62_E4)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {E8_03_04_83} ("Crashing_Race_Car_Angular_Solve")
+  0x14  : float32_t
+           muId: {0B_A0_55_86} ("Crashing_Race_Car_Linear_Solve")
+  0x18  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0x1C  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+  0x20  : float32_t
+           muId: {76_9A_E6_31} ("Traffic_Angular_Solve")
+  0x24  : float32_t
+           muId: {A9_5F_C2_16} ("Traffic_Linear_Solve")
+
+Genesys.Gen.CollisionResponses_Global.TrafficVsDynamic extends Genesys.Object
+>> 14: (B4_F0_07_00)
+>> id: (B7_9F_5B_47)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {4F_1E_AA_1C} ("Dynamic_Angular_Solve")
+  0x14  : float32_t
+           muId: {BD_73_7A_35} ("Dynamic_Linear_Solve")
+  0x18  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+  0x1C  : float32_t
+           muId: {76_9A_E6_31} ("Traffic_Angular_Solve")
+  0x20  : float32_t
+           muId: {A9_5F_C2_16} ("Traffic_Linear_Solve")
+
+Genesys.Gen.CollisionResponses_Global.CrashingRaceCarVsCrashingRaceCar extends Genesys.Object
+>> 14: (B3_F0_07_00)
+>> id: (46_B5_CC_D9)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0x18  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+  0x1C  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_Global.TrafficVsTraffic extends Genesys.Object
+>> 14: (B2_F0_07_00)
+>> id: (39_72_6C_A5)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0x18  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+  0x1C  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_Global.DynamicVsDynamic extends Genesys.Object
+>> 14: (B5_F0_07_00)
+>> id: (E8_ED_B4_B8)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+  0x18  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_Global extends Genesys.Object
+>> 14: (AD_F0_07_00)
+>> id: (48_96_F9_8C)
+  0xC   : Genesys.Gen.CollisionResponses_Global.RaceCarVsRaceCar
+           muId: {37_F2_2D_4B} ("Race_Car_Vs_Race_Car")
+  0x74  : Genesys.Gen.CollisionResponses_Global.CrashingRaceCarVsTraffic
+           muId: {4F_35_E2_7D} ("Crashing_Race_Car_Vs_Traffic")
+  0x9C  : Genesys.Gen.CollisionResponses_Global.TrafficVsDynamic
+           muId: {58_C3_F6_09} ("Traffic_Vs_Dynamic")
+  0xC0  : Genesys.Gen.CollisionResponses_Global.CrashingRaceCarVsCrashingRaceCar
+           muId: {66_B9_AA_49} ("Crashing_Race_Car_Vs_Crashing_Race_Car")
+  0xE0  : Genesys.Gen.CollisionResponses_Global.TrafficVsTraffic
+           muId: {14_AA_9B_D3} ("Traffic_Vs_Traffic")
+  0x100 : Genesys.Gen.CollisionResponses_Global.DynamicVsDynamic
+           muId: {3D_CB_85_5C} ("Dynamic_Vs_Dynamic")
+  0x11C : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.DamageParams extends Genesys.Object
+>> 14: (E3_F0_07_00)
+>> id: (81_4A_38_40)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {22_6A_2F_3E} ("Damage")
+  0x18  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.BasicParams extends Genesys.Object
+>> 14: (E4_F0_07_00)
+>> id: (7F_D3_92_C3)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic extends Genesys.Object
+>> 14: (B8_F0_07_00)
+>> id: (64_29_AF_EC)
+  0xC   : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.DamageParams
+           muId: {D1_A4_D5_41} ("Player_Stable")
+  0x28  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.DamageParams
+           muId: {B1_78_BA_F5} ("Player_Unstable")
+  0x44  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.DamageParams
+           muId: {0F_3F_DB_7B} ("Traffic_Stable")
+  0x60  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.DamageParams
+           muId: {D3_A8_A2_48} ("Traffic_Unstable")
+  0x7C  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.BasicParams
+           muId: {39_8B_4C_BD} ("Player_Crashed")
+  0x94  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.BasicParams
+           muId: {95_B0_F2_61} ("Player_Invulnerable")
+  0xAC  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.BasicParams
+           muId: {38_5D_72_D2} ("Player_Low_Speed")
+  0xC4  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic.BasicParams
+           muId: {95_34_51_46} ("Traffic_Low_Speed")
+  0xDC  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xE0  : float32_t
+           muId: {04_00_FF_C1}
+  0xE4  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0xE8  : float32_t
+           muId: {62_5D_2F_74} ("Full_High_Speed_MPH")
+  0xEC  : float32_t
+           muId: {88_FB_63_A5} ("Full_Low_Speed_MPH")
+  0xF0  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.DamageParams extends Genesys.Object
+>> 14: (CE_F0_07_00)
+>> id: (B0_39_AF_62)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {22_6A_2F_3E} ("Damage")
+  0x18  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.BasicParams extends Genesys.Object
+>> 14: (DB_F0_07_00)
+>> id: (1C_AD_98_DE)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI extends Genesys.Object
+>> 14: (CD_F0_07_00)
+>> id: (8E_8A_90_A4)
+  0xC   : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.DamageParams
+           muId: {97_D7_FD_D2} ("AI_Stable")
+  0x28  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.DamageParams
+           muId: {B1_3F_E1_D8} ("AI_Unstable")
+  0x44  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.DamageParams
+           muId: {D1_A4_D5_41} ("Player_Stable")
+  0x60  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.DamageParams
+           muId: {B1_78_BA_F5} ("Player_Unstable")
+  0x7C  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.BasicParams
+           muId: {7E_D0_61_BD} ("AI_Crashed")
+  0x94  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.BasicParams
+           muId: {39_8B_4C_BD} ("Player_Crashed")
+  0xAC  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.BasicParams
+           muId: {95_B0_F2_61} ("Player_Invulnerable")
+  0xC4  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI.BasicParams
+           muId: {82_53_91_52} ("Player_When_AI_Crashed")
+  0xDC  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xE0  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0xE4  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic.DamageParams extends Genesys.Object
+>> 14: (E5_F0_07_00)
+>> id: (BA_D9_5A_CC)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {22_6A_2F_3E} ("Damage")
+  0x18  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic.BasicParams extends Genesys.Object
+>> 14: (E6_F0_07_00)
+>> id: (74_54_51_C9)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic extends Genesys.Object
+>> 14: (CF_F0_07_00)
+>> id: (E2_81_00_5D)
+  0xC   : Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic.DamageParams
+           muId: {97_D7_FD_D2} ("AI_Stable")
+  0x28  : Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic.DamageParams
+           muId: {B1_3F_E1_D8} ("AI_Unstable")
+  0x44  : Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic.DamageParams
+           muId: {0F_3F_DB_7B} ("Traffic_Stable")
+  0x60  : Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic.DamageParams
+           muId: {D3_A8_A2_48} ("Traffic_Unstable")
+  0x7C  : Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic.BasicParams
+           muId: {7E_D0_61_BD} ("AI_Crashed")
+  0x94  : Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic.BasicParams
+           muId: {0B_6D_DB_20} ("AI_Low_Speed")
+  0xAC  : Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic.BasicParams
+           muId: {95_34_51_46} ("Traffic_Low_Speed")
+  0xC4  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xC8  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0xCC  : float32_t
+           muId: {62_5D_2F_74} ("Full_High_Speed_MPH")
+  0xD0  : float32_t
+           muId: {88_FB_63_A5} ("Full_Low_Speed_MPH")
+  0xD4  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_RaceCar.PlayerVsCrashingRaceCar.Profile extends Genesys.Object
+>> 14: (CA_F0_07_00)
+>> id: (F0_8C_AE_FC)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {E8_03_04_83} ("Crashing_Race_Car_Angular_Solve")
+  0x14  : float32_t
+           muId: {0B_A0_55_86} ("Crashing_Race_Car_Linear_Solve")
+  0x18  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0x1C  : float32_t
+           muId: {9D_AB_CB_DC} ("Player_Angular_Solve")
+  0x20  : float32_t
+           muId: {28_39_58_91} ("Player_Linear_Solve")
+  0x24  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_RaceCar.PlayerVsCrashingRaceCar.BasicParams extends Genesys.Object
+>> 14: (FA_F0_07_00)
+>> id: (B9_2F_86_F9)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_RaceCar.PlayerVsCrashingRaceCar extends Genesys.Object
+>> 14: (B7_F0_07_00)
+>> id: (C2_12_DD_EC)
+  0xC   : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsCrashingRaceCar.Profile
+           muId: {47_85_37_68} ("First_Frame")
+  0x34  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsCrashingRaceCar.Profile
+           muId: {75_6F_34_BD} ("Low_Speed")
+  0x5C  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsCrashingRaceCar.Profile
+           muId: {76_DE_03_7D} ("Subsequent_Frames")
+  0x84  : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsCrashingRaceCar.BasicParams
+           muId: {95_B0_F2_61} ("Player_Invulnerable")
+  0x9C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xA0  : float32_t
+           muId: {62_5D_2F_74} ("Full_High_Speed_MPH")
+  0xA4  : float32_t
+           muId: {88_FB_63_A5} ("Full_Low_Speed_MPH")
+
+Genesys.Gen.CollisionResponses_RaceCar.AIVsCrashingRaceCar.Params extends Genesys.Object
+>> 14: (D2_F0_07_00)
+>> id: (B0_4E_5D_28)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {FD_B8_04_3B} ("AI_Angular_Solve")
+  0x14  : float32_t
+           muId: {56_5B_47_33} ("AI_Linear_Solve")
+  0x18  : float32_t
+           muId: {E8_03_04_83} ("Crashing_Race_Car_Angular_Solve")
+  0x1C  : float32_t
+           muId: {0B_A0_55_86} ("Crashing_Race_Car_Linear_Solve")
+  0x20  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0x24  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_RaceCar.AIVsCrashingRaceCar extends Genesys.Object
+>> 14: (D1_F0_07_00)
+>> id: (2B_14_62_E5)
+  0xC   : Genesys.Gen.CollisionResponses_RaceCar.AIVsCrashingRaceCar.Params
+           muId: {9F_86_A9_4C} ("High_Speed")
+  0x34  : Genesys.Gen.CollisionResponses_RaceCar.AIVsCrashingRaceCar.Params
+           muId: {75_6F_34_BD} ("Low_Speed")
+  0x5C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x60  : float32_t
+           muId: {62_5D_2F_74} ("Full_High_Speed_MPH")
+  0x64  : float32_t
+           muId: {88_FB_63_A5} ("Full_Low_Speed_MPH")
+
+Genesys.Gen.CollisionResponses_RaceCar.RaceCarVsDynamic.BasicParams extends Genesys.Object
+>> 14: (FB_F0_07_00)
+>> id: (E7_62_87_7E)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_14_EA_E5} ("Angular_Solve")
+  0x14  : float32_t
+           muId: {B1_2E_88_E3} ("Linear_Solve")
+
+Genesys.Gen.CollisionResponses_RaceCar.RaceCarVsDynamic extends Genesys.Object
+>> 14: (B9_F0_07_00)
+>> id: (AF_F7_71_DA)
+  0xC   : Genesys.Gen.CollisionResponses_RaceCar.RaceCarVsDynamic.BasicParams
+           muId: {36_3B_F4_17} ("Race_Car_Invulnerable")
+  0x24  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x28  : float32_t
+           muId: {4F_1E_AA_1C} ("Dynamic_Angular_Solve")
+  0x2C  : float32_t
+           muId: {BD_73_7A_35} ("Dynamic_Linear_Solve")
+  0x30  : float32_t
+           muId: {C8_58_72_20} ("Race_Car_Angular_Solve")
+  0x34  : float32_t
+           muId: {8B_B2_5E_E7} ("Race_Car_Linear_Solve")
+  0x38  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_RaceCar extends Genesys.Object
+>> 14: (B6_F0_07_00)
+>> id: (1F_47_19_C7)
+  0xC   : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsTraffic
+           muId: {56_4A_EB_C6} ("Player_Vs_Traffic")
+  0x100 : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsAI
+           muId: {5A_3C_05_8B} ("Player_Vs_AI")
+  0x1E8 : Genesys.Gen.CollisionResponses_RaceCar.AIVsTraffic
+           muId: {31_BF_E1_EF} ("AI_Vs_Traffic")
+  0x2C0 : Genesys.Gen.CollisionResponses_RaceCar.PlayerVsCrashingRaceCar
+           muId: {0C_84_B4_6E} ("Player_Vs_Crashing_Race_Car")
+  0x368 : Genesys.Gen.CollisionResponses_RaceCar.AIVsCrashingRaceCar
+           muId: {99_74_44_79} ("AI_Vs_Crashing_Race_Car")
+  0x3D0 : Genesys.Gen.CollisionResponses_RaceCar.RaceCarVsDynamic
+           muId: {30_3D_3C_2E} ("AI_Car_Vs_Dynamic")
+  0x40C : Genesys.Gen.CollisionResponses_RaceCar.RaceCarVsDynamic
+           muId: {71_94_D5_C7} ("Player_or_Network_car_Vs_Dynamic")
+  0x448 : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.CollisionResponses_World.Player.FlipState extends Genesys.Object
+>> 14: (2A_F1_07_00)
+>> id: (4C_31_8B_B0)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {78_D6_97_DC} ("FlipGraphPower")
+  0x14  : float32_t
+           muId: {19_28_EE_9E} ("FlipMinThreshold")
+  0x18  : float32_t
+           muId: {52_50_0C_97} ("FlipScale")
+  0x1C  : float32_t
+           muId: {B6_54_1A_3F} ("PlayerSpeedMPH")
+
+Genesys.Gen.CollisionResponses_World.Player extends Genesys.Object
+>> 14: (FD_F0_07_00)
+>> id: (FD_ED_9D_18)
+  0xC   : Genesys.Gen.CollisionResponses_World.Player.FlipState
+           muId: {8D_E3_98_20} ("HighSpeedFlipState")
+  0x2C  : Genesys.Gen.CollisionResponses_World.Player.FlipState
+           muId: {20_86_8D_84} ("LowSpeedFlipState")
+  0x4C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x50  : float32_t
+           muId: {5A_6F_1B_16} ("DynamicFriction")
+  0x54  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+  0x58  : float32_t
+           muId: {36_3D_1B_A9} ("SolvePositionAngularScale")
+  0x5C  : float32_t
+           muId: {30_C6_0D_ED} ("SolveVelocityAngularScale")
+  0x60  : float32_t
+           muId: {95_9A_53_C7} ("StaticFriction")
+
+Genesys.Gen.CollisionResponses_World.CrashedPlayer.ConstraintData extends Genesys.Object
+>> 14: (2D_29_10_00)
+>> id: (5E_F3_27_2F)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0x14  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_World.CrashedPlayer extends Genesys.Object
+>> 14: (2C_29_10_00)
+>> id: (4F_05_F9_19)
+  0xC   : Genesys.Gen.CollisionResponses_World.CrashedPlayer.ConstraintData
+           muId: {97_BB_48_32}
+  0x24  : Genesys.Gen.CollisionResponses_World.CrashedPlayer.ConstraintData
+           muId: {BA_E6_95_2C} ("DodgeGinger")
+  0x3C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x40  : float32_t
+           muId: {7C_A9_3D_1E}
+  0x44  : float32_t
+           muId: {0C_CC_26_C2}
+
+Genesys.Gen.CollisionResponses_World.InAirPlayer extends Genesys.Object
+>> 14: (BC_28_10_00)
+>> id: (8A_CE_69_15)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {5A_6F_1B_16} ("DynamicFriction")
+  0x14  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+  0x18  : float32_t
+           muId: {36_3D_1B_A9} ("SolvePositionAngularScale")
+  0x1C  : float32_t
+           muId: {30_C6_0D_ED} ("SolveVelocityAngularScale")
+  0x20  : float32_t
+           muId: {95_9A_53_C7} ("StaticFriction")
+
+Genesys.Gen.CollisionResponses_World.Traffic extends Genesys.Object
+>> 14: (26_F1_07_00)
+>> id: (0A_68_E0_18)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0x14  : float32_t
+           muId: {88_D9_3A_45} ("Restitution")
+
+Genesys.Gen.CollisionResponses_World extends Genesys.Object
+>> 14: (FC_F0_07_00)
+>> id: (40_62_ED_A3)
+  0xC   : Genesys.Gen.CollisionResponses_World.Player
+           muId: {5C_54_8F_56} ("Player")
+  0x70  : Genesys.Gen.CollisionResponses_World.CrashedPlayer
+           muId: {32_19_4D_F1} ("CrashedPlayer")
+  0xB8  : Genesys.Gen.CollisionResponses_World.InAirPlayer
+           muId: {56_5D_12_46} ("InAirPlayer")
+  0xDC  : Genesys.Gen.CollisionResponses_World.Traffic
+           muId: {6D_5C_39_16} ("CrashedTraffic")
+  0xF4  : Genesys.Gen.CollisionResponses_World.Traffic
+           muId: {66_34_1C_3B} ("Traffic")
+  0x10C : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.DamageBarProfiles extends Genesys.Object
+>> 14: (FF_F0_07_00)
+>> id: (E2_46_A1_AF)
+  0xC   : CgsResource.Handle
+           muId: {10_7C_E1_2A} ("AI")
+  0x14  : CgsResource.Handle
+           muId: {FF_C3_08_B3} ("ImpactorSustaining")
+  0x1C  : CgsResource.Handle
+           muId: {4D_08_58_76} ("PlayerOnline")
+  0x24  : CgsResource.Handle
+           muId: {66_34_1C_3B} ("Traffic")
+  0x2C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+uint8_t
+>> 14: (11_C0_AB_8E)
+>> id: (35_34_7F_1D)
+
+Genesys.Gen.DamageBarProfiles.Profile.SegmentData extends Genesys.Object
+>> 14: (02_F1_07_00)
+>> id: (20_54_D5_2B)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {A5_02_EF_22} ("DamageToLeaveSegment")
+  0x14  : uint8_t
+           muId: {3F_DC_0C_08} ("Segment")
+
+uint16_t
+>> 14: (D6_93_2A_A3)
+>> id: (82_F3_7A_EC)
+
+Genesys.Gen.DamageBarProfiles.Profile extends Genesys.Object
+>> 14: (01_F1_07_00)
+>> id: (7D_20_49_39)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {14_0A_C0_21} ("SegmentRechargeTime")
+  0x14  : float32_t
+           muId: {05_0E_C8_22} ("SegmentRechargeWait")
+  0x18  : Genesys.Gen.DamageBarProfiles.Profile.SegmentData * [size @ 0x20]
+           muId: {4D_CF_58_38} ("SegmentLimits")
+  0x1C  : Genesys.Gen.DamageBarProfiles.Profile.SegmentData * [size @ 0x22]
+           muId: {9D_B6_BB_B2} ("WorldSegmentLimits")
+  0x20  : uint16_t
+           muId: {66_DF_6C_3D} ("SegmentLimitsCount")
+  0x22  : uint16_t
+           muId: {39_D6_52_92} ("WorldSegmentLimitsCount")
+
+Genesys.Gen.ImpactDamageGraphs.Graph extends Genesys.Object
+>> 14: (DF_F0_07_00)
+>> id: (65_8D_7D_4D)
+  0xC   : float32_t
+           muId: {A1_1C_DF_64} ("MaximumClosingVelocityMPH")
+  0x10  : float32_t
+           muId: {5C_CD_07_F1} ("MaximumVelocityDamage")
+  0x14  : float32_t
+           muId: {04_7C_65_A4} ("MediumClosingVelocityMPH")
+  0x18  : float32_t
+           muId: {DD_7F_7B_A7} ("MediumVelocityDamage")
+  0x1C  : float32_t
+           muId: {E0_CB_EB_5D} ("MinimumClosingVelocityMPH")
+  0x20  : float32_t
+           muId: {8A_C4_EA_AE} ("MinimumVelocityDamage")
+
+Genesys.Gen.ImpactDamageGraphs extends Genesys.Object
+>> 14: (DE_F0_07_00)
+>> id: (0B_B1_A0_97)
+  0xC   : Genesys.Gen.ImpactDamageGraphs.Graph
+           muId: {42_B7_AA_97} ("GeneralDamageGraph")
+  0x30  : Genesys.Gen.ImpactDamageGraphs.Graph
+           muId: {CE_9C_D6_3F} ("RaceCarVsRaceCarDamageGraph")
+  0x54  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x58  : float32_t
+           muId: {63_A9_4E_67} ("VelocityForFullDamageMPH")
+
+Genesys.Gen.Physics.CrashingRules.ImpactRules.DamageToDeal extends Genesys.Object
+>> 14: (2A_29_10_00)
+>> id: (58_72_C2_4C)
+  0xC   : float32_t
+           muId: {27_0A_4B_A3} ("DamageToDeal")
+  0x10  : bool8_t
+           muId: {FC_F6_41_1B} ("ShouldWreck")
+
+Genesys.Gen.Physics.CrashingRules.ImpactRules extends Genesys.Object
+>> 14: (27_29_10_00)
+>> id: (47_A5_6C_DC)
+  0xC   : float32_t * [size @ 0x1C]
+           muId: {10_A7_17_16}
+  0x10  : float32_t * [size @ 0x1E]
+           muId: {68_AA_14_24}
+  0x14  : float32_t * [size @ 0x22]
+           muId: {08_E9_C0_D6}
+  0x18  : Genesys.Gen.Physics.CrashingRules.ImpactRules.DamageToDeal * [size @ 0x20]
+           muId: {1B_8E_91_F5} ("DamageOverride")
+  0x1C  : uint16_t
+           muId: {02_E2_EC_F6}
+  0x1E  : uint16_t
+           muId: {5D_68_B5_77}
+  0x20  : uint16_t
+           muId: {C7_53_62_8F}
+  0x22  : uint16_t
+           muId: {CB_EF_F5_87}
+
+Genesys.Gen.Physics.CrashingRules extends Genesys.Object
+>> 14: (26_29_10_00)
+>> id: (71_FA_84_E7)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x38]
+           muId: {60_14_06_22}
+  0x14  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x3A]
+           muId: {5E_D4_FD_1D}
+  0x18  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x3C]
+           muId: {42_99_CF_5C}
+  0x1C  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x3E]
+           muId: {42_54_00_90} ("LandingRules")
+  0x20  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x40]
+           muId: {AD_EF_97_28}
+  0x24  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x42]
+           muId: {C6_65_56_3A} ("PlayerRules")
+  0x28  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x44]
+           muId: {CA_FB_26_3E} ("PropsRules")
+  0x2C  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x46]
+           muId: {1F_A2_7C_C9} ("RoadblockRules")
+  0x30  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x48]
+           muId: {A7_E7_1A_71} ("TrafficRules")
+  0x34  : Genesys.Gen.Physics.CrashingRules.ImpactRules * [size @ 0x4A]
+           muId: {80_AC_E9_49} ("WorldRules")
+  0x38  : uint16_t
+           muId: {D6_F6_C2_C4}
+  0x3A  : uint16_t
+           muId: {98_0A_FB_C8}
+  0x3C  : uint16_t
+           muId: {4B_8F_B2_87}
+  0x3E  : uint16_t
+           muId: {E6_DD_6E_ED}
+  0x40  : uint16_t
+           muId: {51_08_5F_F4}
+  0x42  : uint16_t
+           muId: {E5_C6_6B_36}
+  0x44  : uint16_t
+           muId: {40_D8_D7_EE}
+  0x46  : uint16_t
+           muId: {8D_1A_30_DD}
+  0x48  : uint16_t
+           muId: {48_AF_48_A2}
+  0x4A  : uint16_t
+           muId: {B4_2B_82_04}
+
+Genesys.Gen.Physics.DamageBarProfile.ImpactLocationDamageScale extends Genesys.Object
+>> 14: (3D_29_10_00)
+>> id: (A7_F2_15_0B)
+  0xC   : float32_t
+           muId: {62_AB_50_44}
+  0x10  : float32_t
+           muId: {64_AC_49_92}
+  0x14  : float32_t
+           muId: {60_7A_87_43}
+  0x18  : float32_t
+           muId: {A8_91_A2_FF}
+  0x1C  : float32_t
+           muId: {B9_AD_4F_BC}
+  0x20  : float32_t
+           muId: {6C_6C_9F_45}
+  0x24  : float32_t
+           muId: {20_1A_41_DE}
+
+Genesys.Gen.Physics.DamageBarProfile.Segment extends Genesys.Object
+>> 14: (BE_28_10_00)
+>> id: (34_7D_09_0A)
+  0xC   : float32_t
+           muId: {25_79_94_00}
+  0x10  : float32_t
+           muId: {06_33_3C_C6}
+  0x14  : float32_t
+           muId: {A0_25_99_65} ("LampsCorked")
+  0x18  : float32_t
+           muId: {38_9C_AF_84}
+  0x1C  : float32_t
+           muId: {4F_20_AF_C4} ("RechargeTime")
+  0x20  : float32_t
+           muId: {5E_24_A7_C7}
+  0x24  : float32_t
+           muId: {65_7A_69_53} ("Size")
+  0x28  : bool8_t
+           muId: {D3_EE_E6_5A}
+  0x29  : bool8_t
+           muId: {FF_65_76_4A} ("Recharges")
+  0x2A  : bool8_t
+           muId: {4B_C8_7D_1E} ("AdapterWales")
+
+Genesys.Gen.Physics.DamageBarProfile extends Genesys.Object
+>> 14: (BD_28_10_00)
+>> id: (D9_8E_BA_CD)
+  0xC   : Genesys.Gen.Physics.DamageBarProfile.ImpactLocationDamageScale
+           muId: {13_C9_50_99}
+  0x34  : CgsResource.Handle
+           muId: {DF_EE_B2_82} ("CrashingRules")
+  0x3C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x40  : float32_t
+           muId: {5F_E1_C1_11}
+  0x44  : float32_t
+           muId: {4A_AC_01_8F}
+  0x48  : float32_t
+           muId: {F0_07_DB_3B} ("EjectedRubbish")
+  0x4C  : float32_t
+           muId: {A1_E8_AE_29}
+  0x50  : float32_t
+           muId: {BD_23_87_04}
+  0x54  : float32_t
+           muId: {6E_F9_E1_00}
+  0x58  : float32_t
+           muId: {70_20_06_AE}
+  0x5C  : float32_t
+           muId: {55_5C_76_D6}
+  0x60  : float32_t
+           muId: {47_85_6B_86}
+  0x64  : float32_t
+           muId: {9E_D2_86_2A}
+  0x68  : float32_t
+           muId: {0A_F8_8D_BA}
+  0x6C  : float32_t
+           muId: {B8_6F_40_73}
+  0x70  : Genesys.Gen.Physics.DamageBarProfile.Segment * [size @ 0x74]
+           muId: {80_92_23_9B} ("Segments")
+  0x74  : uint16_t
+           muId: {61_25_98_00} ("SegmentsCount")
+
+Genesys.Gen.RaceCarHandlingDisruptionEffect extends Genesys.Object
+>> 14: (31_57_07_00)
+>> id: (2B_35_23_D4)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {F4_D7_35_FE} ("EffectDuration")
+  0x14  : float32_t
+           muId: {47_36_07_D4}
+  0x18  : float32_t
+           muId: {5C_74_EE_CA} ("HighSpeedFrontLatGrip")
+  0x1C  : float32_t
+           muId: {F0_3C_46_B0} ("HighSpeedFrontLongGrip")
+  0x20  : float32_t
+           muId: {0A_31_ED_26} ("HighSpeedRearLatGrip")
+  0x24  : float32_t
+           muId: {ED_D7_A6_43} ("HighSpeedRearLongGrip")
+  0x28  : float32_t
+           muId: {F8_03_44_45} ("HighSpeedSteerAmount")
+  0x2C  : float32_t
+           muId: {B0_F8_15_1F}
+  0x30  : float32_t
+           muId: {D8_E2_C2_5F} ("HighSpeedThreshold")
+  0x34  : float32_t
+           muId: {BA_C3_C3_8B} ("LowSpeedFrontLatGrip")
+  0x38  : float32_t
+           muId: {30_B7_B6_AD} ("LowSpeedFrontLongGrip")
+  0x3C  : float32_t
+           muId: {06_4E_9F_FF} ("LowSpeedRearLatGrip")
+  0x40  : float32_t
+           muId: {0B_60_8B_02} ("LowSpeedRearLongGrip")
+  0x44  : float32_t
+           muId: {F4_7C_36_9C} ("LowSpeedSteerAmount")
+  0x48  : float32_t
+           muId: {70_73_E5_02}
+  0x4C  : float32_t
+           muId: {75_87_D7_FB} ("LowSpeedThreshold")
+  0x50  : bool8_t
+           muId: {35_AA_42_CD} ("AffectsAllWheels")

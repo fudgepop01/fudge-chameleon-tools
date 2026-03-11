@@ -1,0 +1,487 @@
+path: "ActiveGameMode"
+{
+  "LBSortedPlayerIndex1": 1,
+  "LBSortedPlayerIndex2": 2,
+  "LBSortedPlayerIndex3": 3,
+  "LBSortedPlayerIndex4": 4,
+  "LBSortedPlayerIndex5": 5,
+  "LBSortedPlayerIndex6": 6,
+  "LBSortedPlayerIndex7": 7,
+  "LBSortedPlayerIndex8": 8,
+  "LBSortedPlayerIndex9": 9,
+  "LBSortedPlayerIndex10": 10,
+  "LBSortedPlayerIndex11": 11,
+  "LBSortedPlayerIndex12": 12,
+  "MatchBonus": 0,
+  "adapters": {
+    "Player": {
+      "dataSource": "Players.Player",
+      "mappedSources": [
+        {
+          "source": "ActiveGameMode.Scores",
+          "key": "PlayerIndex"
+        },
+        {
+          "source": "ActiveGameMode.Rivals",
+          "key": "PlayerIndex"
+        }
+      ]
+    },
+    "Leaderboard": [
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex1",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex2",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex3",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex4",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex5",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex6",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex7",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex8",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex9",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex10",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex11",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "ActiveGameMode.LBSortedPlayerIndex12",
+        "expectsHash": true
+      }
+    ],
+    "RaceLeaderboard": [
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[1]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[2]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[3]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[4]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[5]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[6]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[7]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[8]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[9]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[10]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[11]",
+        "expectsHash": true
+      },
+      {
+        "dataSource": "ActiveGameMode.Player",
+        "dataSourceLength": 1,
+        "index": "DistanceToFinishManager.Position[12]",
+        "expectsHash": true
+      }
+    ]
+  },
+  "IsPaused": false
+}
+-----
+path: "OnlineScoringFeedbackData"
+{}
+-----
+path: ""
+{
+  "Params": {
+    "lPathToEntitlementId": "Widget.DLC1.Entitlement"
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "NewGame": true
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "lpcValue": "Widget.EasyDrive.EasyDrive.TierHistory[1].SelectedId"
+  }
+}
+-----
+path: "Matchmaking"
+{
+  "NumMatchedPlayers": 0,
+  "MinAcceptedPlayerCount": 0
+}
+-----
+path: ""
+{
+  "Params": {}
+}
+-----
+path: "RespawnParams"
+{}
+-----
+path: "Killcam"
+{
+  "adapters": {
+    "Aggressor": {
+      "dataSource": "Players.Player",
+      "index": "Players.LocalPlayer.WreckScoringPlayer",
+      "offset": 1
+    },
+    "AggressorRollout": {
+      "dataSource": "Rollouts.SelectedRollouts",
+      "index": "Players.LocalPlayer.WreckScoringPlayer",
+      "offset": 1
+    },
+    "IsWreckTakenOutWeapon": {
+      "dataSource": "Players.LocalPlayer.IsWreckTakenOutWeapon",
+      "AND": "Players.LocalPlayer.IsWreckTakenOutJammed(NOT)"
+    },
+    "IsWreckTakenOutJammedWeapon": {
+      "dataSource": "Players.LocalPlayer.IsWreckTakenOutWeapon",
+      "AND": "Players.LocalPlayer.IsWreckTakenOutJammed"
+    },
+    "AggressorHasDlc1": {
+      "dataSource": "Killcam.Aggressor.HasBoughtPack",
+      "index": "GamePackManager.Config.DLC1_Pack"
+    },
+    "AggressorHasDlc2": {
+      "dataSource": "Killcam.Aggressor.HasBoughtPack",
+      "index": "GamePackManager.Config.DLC2_Pack"
+    },
+    "AggressorHasDlc3": {
+      "dataSource": "Killcam.Aggressor.HasBoughtPack",
+      "index": "GamePackManager.Config.DLC3_Pack"
+    },
+    "AggressorHasDlc4": {
+      "dataSource": "Killcam.Aggressor.HasBoughtPack",
+      "index": "GamePackManager.Config.DLC4_Pack"
+    },
+    "AggressorVehicleGamePack": {
+      "dataSource": "GamePackManager.GamePacks",
+      "index": "Killcam.AggressorRollout.VehicleGamePackId"
+    }
+  }
+}
+-----
+path: "SPVisible"
+{
+  "IsVisible": true
+}
+-----
+path: ""
+{
+  "Params": {
+    "liDlcVersion": 1
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "liDlcVersion": 2
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "lPathToEntitlementId": "Widget.DLC2.Entitlement"
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "liDlcVersion": 3
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "lPathToEntitlementId": "Widget.DLC3.Entitlement"
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "liDlcVersion": 4
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "lPathToEntitlementId": "Widget.DLC4.Entitlement"
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "lpcValue": "Widget.EasyDrive.EasyDrive.TierHistory[2].SelectedId"
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "lpcViewModelName": "Recommends"
+  }
+}
+-----
+path: "ActiveGameMode"
+{
+  "MatchBonus": 0,
+  "adapters": {
+    "Player": {
+      "dataSource": "Players.Player",
+      "mappedSources": [
+        {
+          "source": "ActiveGameMode.Scores",
+          "key": "PlayerIndex"
+        },
+        {
+          "source": "ActiveGameMode.Rivals",
+          "key": "PlayerIndex"
+        }
+      ]
+    },
+    "PartLeaderboard": [
+      {
+        "dataSource": "ActiveGameMode.PlayerData.1",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.2",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.3",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.4",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.5",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.6",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.7",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.8",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.9",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.10",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.11",
+        "dataSourceLength": 1
+      },
+      {
+        "dataSource": "ActiveGameMode.PlayerData.12",
+        "dataSourceLength": 1
+      }
+    ],
+    "RaceLeaderboard": {
+      "dataSource": "ActiveGameMode.PartLeaderboard",
+      "dataSourceLength": "ActiveGameMode.LeaderboardLength",
+      "mappedSources": [
+        {
+          "source": "Players.Player",
+          "key": "PlayerIndex",
+          "expectsHash": true
+        }
+      ]
+    },
+    "FirstPlacePlayer": {
+      "dataSource": "Players.Player",
+      "index": "ActiveGameMode.FirstPlace"
+    }
+  },
+  "CurrentPart": -1,
+  "IsPaused": false
+}
+-----
+path: ""
+{
+  "Params": {
+    "Won": true
+  }
+}
+-----
+path: ""
+{
+  "Params": {
+    "Won": false
+  }
+}
+-----
+path: "GameState"
+{
+  "Weapons": {
+    "Count": 3,
+    "GetWeapon": [
+      {
+        "Name": "EMP",
+        "Count": 2,
+        "IconString": 384083
+      },
+      {
+        "Name": "Taser",
+        "Count": 3,
+        "IconString": 384083
+      },
+      {
+        "Name": "Spikestrip",
+        "Count": 1,
+        "IconString": 384083
+      }
+    ]
+  },
+  "Takedown": {
+    "Name": "iAngus",
+    "Weapon": "Taser"
+  }
+}
+-----
+path: "OnlinePass"
+{
+  "ShowOnlinePass": true
+}
+-----
+path: ""
+{
+  "Params": {
+    "NewGame": false
+  }
+}
+-----
+path: "SafeForDialogs"
+{
+  "CanShow": true
+}
+-----
+path: "PostBoot"
+{
+  "InPostBoot": true
+}
+-----
+path: "WaitingForBoot"
+{
+  "IsWaiting": true
+}
+-----

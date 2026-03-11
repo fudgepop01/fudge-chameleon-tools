@@ -1,0 +1,50 @@
+146165144147145160157160060061o
+
+
+char
+>> 14: (9F_57_FE_8C)
+>> id: (05_52_C1_F7)
+
+uint32_t
+>> 14: (81_F3_2A_0E)
+>> id: (D4_2E_65_69)
+
+CgsCore.StringBase
+>> 14: (01_43_40_40)
+>> id: (95_FB_EA_BE)
+  0x0   : char (offset) [size @ 0x4]
+           muId: {3F_7A_EB_8F} ("Buffer")
+  0x4   : uint32_t
+           muId: {38_73_C0_7F} ("Capacity")
+
+CgsCore.UniqueId
+>> 14: (F2_85_22_B9)
+>> id: (83_06_B9_EF)
+
+Genesys.Object
+>> 14: (E7_25_DB_2E)
+>> id: (43_95_24_D7)
+
+Genesys.Gen.UIListItems.Item extends Genesys.Object
+>> 14: (7C_33_00_00)
+>> id: (06_09_2E_F5)
+  0xC   : CgsCore.StringBase
+           muId: {9B_D3_8A_B2} ("Value")
+  0x14  : CgsCore.UniqueId
+           muId: {F8_45_C8_A4} ("DisplayString")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+uint16_t
+>> 14: (D6_93_2A_A3)
+>> id: (82_F3_7A_EC)
+
+Genesys.Gen.UIListItems extends Genesys.Object
+>> 14: (8F_2A_00_00)
+>> id: (9C_8E_21_A8)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.UIListItems.Item * [size @ 0x14]
+           muId: {40_AD_DD_D3} ("Items")
+  0x14  : uint16_t
+           muId: {1C_D4_2D_FA} ("ItemsCount")

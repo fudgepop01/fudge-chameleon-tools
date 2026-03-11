@@ -1,0 +1,124 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+>> 14: (F2_85_22_B9)
+>> id: (83_06_B9_EF)
+
+CgsResource.Handle
+>> 14: (8A_E4_3F_0B)
+>> id: (A3_E1_89_8A)
+
+DE_30_00_00
+>> 14: (DE_30_00_00)
+>> id: (01_50_F8_C2)
+  0xFFFFFFFF: 
+           muId: {2F_F4_88_A4} ("Invalid")
+  0x0   : 
+           muId: {F9_A1_42_A9} ("Small")
+  0x1   : 
+           muId: {78_8C_72_7C} ("Medium")
+  0x2   : 
+           muId: {3D_CC_0F_D1} ("Large")
+
+float32_t
+>> 14: (87_6D_0A_53)
+>> id: (E4_97_56_9F)
+
+Genesys.Object
+>> 14: (E7_25_DB_2E)
+>> id: (43_95_24_D7)
+
+Genesys.Gen.TrafficFlow extends Genesys.Object
+>> 14: (65_2A_00_00)
+>> id: (AF_CD_40_4E)
+  0xC   : CgsResource.Handle
+           muId: {CC_EB_76_1B} ("FlowType")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {A2_94_DE_9A}
+  0x1C  : float32_t
+           muId: {6F_B3_D4_08}
+  0x20  : float32_t
+           muId: {D8_B9_48_2C} ("Density")
+  0x24  : float32_t
+           muId: {F1_A8_46_B4} ("Speed")
+  0x28  : float32_t
+           muId: {79_F1_39_7B}
+  0x2C  : float32_t
+           muId: {A1_53_D9_2E}
+
+Genesys.Gen.TrafficFlowType.TrafficFlowType extends Genesys.Object
+>> 14: (4E_33_00_00)
+>> id: (8C_43_2D_E1)
+  0xC   : CgsResource.Handle
+           muId: {AE_54_F0_A5} ("TrafficVehicleType")
+  0x14  : CgsCore.UniqueId
+           muId: {45_A6_60_34} ("Colour")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x1C  : float32_t
+           muId: {DF_BE_3D_78} ("Proportion")
+
+uint16_t
+>> 14: (D6_93_2A_A3)
+>> id: (82_F3_7A_EC)
+
+Genesys.Gen.TrafficFlowType extends Genesys.Object
+>> 14: (67_2A_00_00)
+>> id: (1B_E2_B3_77)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.TrafficFlowType.TrafficFlowType * [size @ 0x14]
+           muId: {CC_EB_76_1B} ("FlowType")
+  0x14  : uint16_t
+           muId: {C1_F7_10_5A} ("FlowTypeCount")
+
+rw.math.vpu.Vector4
+>> 14: (12_9F_20_28)
+>> id: (C2_29_A8_2F)
+  0x0   : float32_t [4] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+uint32_t
+>> 14: (81_F3_2A_0E)
+>> id: (D4_2E_65_69)
+
+bool8_t
+>> 14: (8C_D7_46_52)
+>> id: (0F_EE_3F_41)
+
+Genesys.Gen.TrafficVehicle extends Genesys.Object
+>> 14: (6C_2A_00_00)
+>> id: (CA_5D_4E_B1)
+  0x10  : rw.math.vpu.Vector4
+           muId: {66_8A_91_73} ("PositivePitch_NegativePitch_Yaw_Roll")
+  0x20  : CgsResource.Handle
+           muId: {77_38_16_34} ("Trailer")
+  0x28  : CgsResource.Handle
+           muId: {8E_1F_24_63} ("Traits")
+  0x30  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x34  : CgsCore.UniqueId
+           muId: {79_1A_1E_71} ("VehicleComponent")
+  0x38  : uint32_t
+           muId: {F0_BF_4C_A7} ("Score")
+  0x3C  : bool8_t
+           muId: {88_F8_2D_17}
+  0x3D  : bool8_t
+           muId: {E0_6E_91_AD} ("UseThickWheelSmoke")
+
+Genesys.Gen.TrafficVehicleTraits extends Genesys.Object
+>> 14: (6D_2A_00_00)
+>> id: (9A_9B_0B_91)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {EF_A2_2C_FF} ("Acceleration")
+  0x14  : DE_30_00_00
+           muId: {F0_A1_42_A7} ("Scale")
+
+int16_t
+>> 14: (35_0C_D4_BF)
+>> id: (56_24_52_29)

@@ -1,0 +1,760 @@
+146165144147145160157160060061o
+
+
+2A_BE_07_00
+>> 14: (2A_BE_07_00)
+>> id: (81_DA_AA_F6)
+  0x0   : 
+           muId: {4C_E4_44_97} ("HighQuality")
+  0x1   : 
+           muId: {F2_EE_D4_87} ("LowQuality")
+
+float32_t
+>> 14: (87_6D_0A_53)
+>> id: (E4_97_56_9F)
+
+rw.math.vpu.Vector4
+>> 14: (12_9F_20_28)
+>> id: (C2_29_A8_2F)
+  0x0   : float32_t [4] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+93_32_00_00_0_1
+>> 14: (93_32_00_00_0_1)
+>> id: (96_97_1D_AB)
+  0x10  : rw.math.vpu.Vector4
+           muId: {9E_20_A9_A2}
+  0x20  : rw.math.vpu.Vector4
+           muId: {47_08_B3_1E} ("CustomizableDemodulate")
+  0x30  : rw.math.vpu.Vector4
+           muId: {F4_80_8C_C0}
+  0x40  : rw.math.vpu.Vector4
+           muId: {2D_A8_96_7C}
+  0x50  : rw.math.vpu.Vector4
+           muId: {62_D2_CA_C2}
+  0x60  : rw.math.vpu.Vector4
+           muId: {31_4D_49_0B}
+  0x70  : rw.math.vpu.Vector4
+           muId: {91_E3_5A_D9}
+  0x80  : rw.math.vpu.Vector4
+           muId: {E8_65_53_B7}
+
+A1_2E_00_00
+>> 14: (A1_2E_00_00)
+>> id: (78_B8_84_C8)
+  0x0   : 
+           muId: {FE_8E_E1_AD}
+  0x1   : 
+           muId: {FD_8E_E1_AD}
+  0x2   : 
+           muId: {FC_8E_E1_AD}
+  0x3   : 
+           muId: {FB_8E_E1_AD}
+  0x4   : 
+           muId: {FA_8E_E1_AD}
+  0x5   : 
+           muId: {F9_8E_E1_AD}
+
+A3_37_09_00
+>> 14: (A3_37_09_00)
+>> id: (89_71_BF_E5)
+  0x0   : 
+           muId: {6D_4C_5C_18} ("Default")
+  0x1   : 
+           muId: {D5_BD_40_AB} ("Helicopter")
+
+B3_27_00_00_0_2
+>> 14: (B3_27_00_00_0_2)
+>> id: (45_D9_1A_4D)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {48_58_54_E9} ("CameraAligned")
+
+char
+>> 14: (9F_57_FE_8C)
+>> id: (05_52_C1_F7)
+
+uint32_t
+>> 14: (81_F3_2A_0E)
+>> id: (D4_2E_65_69)
+
+CgsCore.StringBase
+>> 14: (01_43_40_40)
+>> id: (95_FB_EA_BE)
+  0x0   : char (offset) [size @ 0x4]
+           muId: {3F_7A_EB_8F} ("Buffer")
+  0x4   : uint32_t
+           muId: {38_73_C0_7F} ("Capacity")
+
+CgsCore.UniqueId
+>> 14: (F2_85_22_B9)
+>> id: (83_06_B9_EF)
+
+CgsResource.Handle
+>> 14: (8A_E4_3F_0B)
+>> id: (A3_E1_89_8A)
+
+F0_2F_00_00
+>> 14: (F0_2F_00_00)
+>> id: (6B_30_DF_8D)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {D7_79_73_2F}
+  0x2   : 
+           muId: {9B_EC_27_2A}
+  0x3   : 
+           muId: {E6_7F_FC_5B}
+
+bool8_t
+>> 14: (8C_D7_46_52)
+>> id: (0F_EE_3F_41)
+
+Genesys.Object
+>> 14: (E7_25_DB_2E)
+>> id: (43_95_24_D7)
+
+Genesys.Gen.Behaviour extends Genesys.Object
+>> 14: (18_27_00_00)
+>> id: (09_97_15_D1)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+
+uint16_t
+>> 14: (D6_93_2A_A3)
+>> id: (82_F3_7A_EC)
+
+Genesys.Gen.DynamicAdditionalInfo extends Genesys.Object
+>> 14: (1E_FC_06_00)
+>> id: (AF_E3_6E_F3)
+  0xC   : CgsResource.Handle
+           muId: {EB_97_BD_04} ("Sequence")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {5F_CC_F9_82}
+  0x1C  : float32_t
+           muId: {3C_23_F0_67}
+  0x20  : float32_t
+           muId: {B2_60_1C_2D} ("Strength")
+  0x24  : uint16_t
+           muId: {F0_BF_4C_A7} ("Score")
+  0x26  : bool8_t
+           muId: {9D_D0_86_55}
+  0x27  : bool8_t
+           muId: {63_5B_31_C2}
+  0x28  : bool8_t
+           muId: {AB_4B_C9_94}
+
+Genesys.Gen.CompoundAdditionalInfo extends Genesys.Gen.DynamicAdditionalInfo
+>> 14: (3A_90_06_00)
+>> id: (EC_02_6F_0F)
+  0xC   : CgsResource.Handle
+           muId: {EB_97_BD_04} ("Sequence")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {5F_CC_F9_82}
+  0x1C  : float32_t
+           muId: {3C_23_F0_67}
+  0x20  : float32_t
+           muId: {B2_60_1C_2D} ("Strength")
+  0x24  : uint16_t
+           muId: {F0_BF_4C_A7} ("Score")
+  0x26  : bool8_t
+           muId: {9D_D0_86_55}
+  0x27  : bool8_t
+           muId: {63_5B_31_C2}
+  0x28  : bool8_t
+           muId: {AB_4B_C9_94}
+  0x2C  : float32_t
+           muId: {EC_03_F8_D7}
+  0x30  : float32_t
+           muId: {8B_60_F6_E7}
+  0x34  : float32_t
+           muId: {EB_7E_C8_08}
+
+Genesys.Gen.Corona.Beam extends Genesys.Object
+>> 14: (93_32_00_00)
+>> id: (C9_34_B7_BF)
+  0x10  : 93_32_00_00_0_1
+           muId: {E5_52_C3_4B}
+  0xA0  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0xB0  : rw.math.vpu.Vector4
+           muId: {0F_05_4C_03}
+  0xC0  : CgsResource.Handle
+           muId: {8E_CD_E5_01} ("Material")
+  0xC8  : float32_t
+           muId: {7E_4D_97_A2} ("EndRadius")
+  0xCC  : float32_t
+           muId: {FE_5F_B6_E9} ("StartRadius")
+  0xD0  : 2A_BE_07_00
+           muId: {A3_BE_0F_BE} ("RenderBuffer")
+
+Genesys.Gen.Corona.Flare extends Genesys.Object
+>> 14: (94_32_00_00)
+>> id: (C8_1A_CA_2A)
+  0x10  : 93_32_00_00_0_1
+           muId: {DA_D3_9B_F6}
+  0xA0  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0xB0  : rw.math.vpu.Vector4
+           muId: {2C_C1_9C_2B}
+  0xC0  : CgsResource.Handle
+           muId: {8E_CD_E5_01} ("Material")
+  0xC8  : float32_t
+           muId: {A3_CA_56_A1} ("Position")
+  0xCC  : float32_t
+           muId: {2D_15_11_1F} ("RotationOffset")
+  0xD0  : 2A_BE_07_00
+           muId: {A3_BE_0F_BE} ("RenderBuffer")
+
+Genesys.Gen.Corona.Glow extends Genesys.Object
+>> 14: (91_32_00_00)
+>> id: (B5_41_C3_E9)
+  0x10  : 93_32_00_00_0_1
+           muId: {E5_52_C3_4B}
+  0xA0  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0xB0  : rw.math.vpu.Vector4
+           muId: {D4_41_6E_2D}
+  0xC0  : CgsResource.Handle
+           muId: {8E_CD_E5_01} ("Material")
+  0xC8  : float32_t
+           muId: {74_17_53_A9} ("DepthBias")
+  0xCC  : float32_t
+           muId: {2D_15_11_1F} ("RotationOffset")
+  0xD0  : 2A_BE_07_00
+           muId: {A3_BE_0F_BE} ("RenderBuffer")
+
+Genesys.Gen.Corona extends Genesys.Object
+>> 14: (B3_27_00_00)
+>> id: (49_97_64_C1)
+  0x10  : 93_32_00_00_0_1
+           muId: {EE_6D_0B_33}
+  0xA0  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xA4  : float32_t
+           muId: {91_26_3B_79}
+  0xA8  : float32_t
+           muId: {33_85_B6_88} ("MaxVisibleDistance")
+  0xAC  : float32_t
+           muId: {A7_E3_E3_C4} ("VisibilityTestDepthBias")
+  0xB0  : Genesys.Gen.Corona.Beam * [size @ 0xCA]
+           muId: {21_66_92_E9} ("Beams")
+  0xB4  : Genesys.Gen.Corona.Flare * [size @ 0xCE]
+           muId: {E8_70_03_A3} ("Flares")
+  0xB8  : Genesys.Gen.Corona.Glow * [size @ 0xCC]
+           muId: {5F_D1_C1_60} ("EnvMapGlows")
+  0xBC  : Genesys.Gen.Corona.Glow * [size @ 0xD0]
+           muId: {4A_17_59_F7} ("Glows")
+  0xC0  : Genesys.Gen.Corona.Glow * [size @ 0xD2]
+           muId: {F2_D7_92_23} ("PlanarReflectionGlows")
+  0xC4  : Genesys.Gen.Corona.Glow * [size @ 0xD4]
+           muId: {AB_81_E3_9E} ("RearViewMirrorGlows")
+  0xC8  : B3_27_00_00_0_2
+           muId: {FD_1A_96_F3} ("Flags")
+  0xCA  : uint16_t
+           muId: {D0_8D_3F_B8} ("BeamsCount")
+  0xCC  : uint16_t
+           muId: {77_85_D7_2A} ("EnvMapGlowsCount")
+  0xCE  : uint16_t
+           muId: {A3_D9_5B_62} ("FlaresCount")
+  0xD0  : uint16_t
+           muId: {53_DC_A8_EE} ("GlowsCount")
+  0xD2  : uint16_t
+           muId: {AD_87_F3_0A} ("PlanarReflectionGlowsCount")
+  0xD4  : uint16_t
+           muId: {79_7B_77_D9} ("RearViewMirrorGlowsCount")
+
+Genesys.Gen.EnableCompoundBehaviour extends Genesys.Gen.Behaviour
+>> 14: (F2_A1_05_00)
+>> id: (D6_15_D6_F9)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+
+Genesys.Gen.Light_Base.FlashPattern extends Genesys.Object
+>> 14: (F1_32_00_00)
+>> id: (12_48_17_F4)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+  0x14  : float32_t
+           muId: {91_62_09_06} ("Frequency")
+  0x18  : float32_t
+           muId: {CE_F0_C4_3A}
+  0x1C  : float32_t
+           muId: {B7_24_D9_D3} ("Offset")
+  0x20  : F0_2F_00_00
+           muId: {65_70_79_54} ("Type")
+
+Genesys.Gen.Light_Base extends Genesys.Object
+>> 14: (58_28_00_00)
+>> id: (F1_2B_E6_48)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : Genesys.Gen.Light_Base.FlashPattern
+           muId: {B8_EC_0A_80}
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13}
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+
+Genesys.Gen.Light_Cone extends Genesys.Gen.Light_Base
+>> 14: (59_28_00_00)
+>> id: (ED_C9_D7_11)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : Genesys.Gen.Light_Base.FlashPattern
+           muId: {B8_EC_0A_80}
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13}
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+  0x60  : float32_t
+           muId: {DF_DA_70_54}
+
+Genesys.Gen.Light_Point extends Genesys.Gen.Light_Base
+>> 14: (5B_28_00_00)
+>> id: (EC_FA_AF_14)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : Genesys.Gen.Light_Base.FlashPattern
+           muId: {B8_EC_0A_80}
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13}
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+
+Genesys.Gen.Light_Spot extends Genesys.Gen.Light_Cone
+>> 14: (D8_41_08_00)
+>> id: (82_86_CE_B2)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : Genesys.Gen.Light_Base.FlashPattern
+           muId: {B8_EC_0A_80}
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13}
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+  0x60  : float32_t
+           muId: {DF_DA_70_54}
+  0x70  : float32_t
+           muId: {52_F1_16_BF}
+
+Genesys.Gen.MakePhysicalBehaviour extends Genesys.Gen.Behaviour
+>> 14: (9D_D7_05_00)
+>> id: (E1_D5_78_1C)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+  0x1C  : A3_37_09_00
+           muId: {9F_FE_59_0A}
+  0x1E  : bool8_t
+           muId: {31_08_D6_9A} ("Collidable")
+  0x1F  : bool8_t
+           muId: {3D_31_ED_0A} ("InitiallyFrozen")
+  0x20  : bool8_t
+           muId: {0E_F4_49_5E}
+
+rw.math.vpu.Vector3
+>> 14: (B1_0A_44_B6)
+>> id: (A5_F5_99_F3)
+  0x0   : float32_t [3] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+rw.math.vpu.Matrix44Affine
+>> 14: (F9_53_77_D2)
+>> id: (B6_8B_60_0E)
+  0x0   : rw.math.vpu.Vector4 [4] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+int32_t
+>> 14: (62_6C_D4_12)
+>> id: (83_BE_99_18)
+
+Genesys.Gen.PhysicalDefinition.RigidBody.BoxVolume extends Genesys.Object
+>> 14: (9D_27_00_00_1_2)
+>> id: (28_77_C8_41)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : rw.math.vpu.Vector3
+           muId: {AD_FE_27_37} ("Halfsize")
+  0x60  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x64  : int32_t
+           muId: {65_4A_36_49} ("I6Je")
+
+Genesys.Gen.PhysicalDefinition.RigidBody.CapsuleVolume extends Genesys.Object
+>> 14: (9D_27_00_00_1_5)
+>> id: (01_12_FC_16)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x54  : float32_t
+           muId: {39_D1_C7_2C} ("HalfLength")
+  0x58  : float32_t
+           muId: {81_5C_A0_C2} ("Radius")
+
+Genesys.Gen.PhysicalDefinition.RigidBody.ConvexHullVolume extends Genesys.Object
+>> 14: (9D_27_00_00_1_6)
+>> id: (63_33_D3_31)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : CgsResource.Handle
+           muId: {48_F7_54_A9} ("ConvexHull")
+  0x58  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.PhysicalDefinition.RigidBody.CylinderVolume extends Genesys.Object
+>> 14: (9D_27_00_00_1_4)
+>> id: (01_12_FC_16)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x54  : float32_t
+           muId: {39_D1_C7_2C} ("HalfLength")
+  0x58  : float32_t
+           muId: {81_5C_A0_C2} ("Radius")
+
+Genesys.Gen.PhysicalDefinition.RigidBody.SphereVolume extends Genesys.Object
+>> 14: (9D_27_00_00_1_3)
+>> id: (F9_19_5E_AF)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x54  : float32_t
+           muId: {81_5C_A0_C2} ("Radius")
+
+Genesys.Gen.PhysicalDefinition.RigidBody extends Genesys.Object
+>> 14: (9D_27_00_00_1_1)
+>> id: (5D_6D_83_CC)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {B4_29_0C_0D} ("BodyToObjectTransform")
+  0x50  : rw.math.vpu.Vector3
+           muId: {D9_2B_70_D2} ("ComOffset")
+  0x60  : rw.math.vpu.Vector3
+           muId: {92_53_E1_9C} ("Inertia_Scale")
+  0x70  : rw.math.vpu.Vector3
+           muId: {83_D6_DB_62} ("LocalAABBCenter")
+  0x80  : rw.math.vpu.Vector3
+           muId: {ED_02_E9_98} ("LocalAABBHalfDiagonal")
+  0x90  : bool8_t * [size @ 0xCE]
+           muId: {E1_DD_AD_8E} ("SymmetricalInAxis")
+  0x94  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x98  : float32_t
+           muId: {F6_C6_48_56} ("AngularDrag")
+  0x9C  : float32_t
+           muId: {C1_37_AC_44} ("Bounciness")
+  0xA0  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0xA4  : float32_t
+           muId: {F4_35_68_FA} ("LinearDrag")
+  0xA8  : float32_t
+           muId: {73_73_61_4D} ("Mass")
+  0xAC  : Genesys.Gen.PhysicalDefinition.RigidBody.BoxVolume * [size @ 0xC4]
+           muId: {41_5A_25_F6} ("BoxVolumes")
+  0xB0  : Genesys.Gen.PhysicalDefinition.RigidBody.CapsuleVolume * [size @ 0xC6]
+           muId: {06_57_96_0A} ("CapsuleVolumes")
+  0xB4  : Genesys.Gen.PhysicalDefinition.RigidBody.ConvexHullVolume *
+           muId: {78_97_DF_32} ("BoundingConvexHull")
+  0xB8  : Genesys.Gen.PhysicalDefinition.RigidBody.ConvexHullVolume * [size @ 0xC8]
+           muId: {0B_A1_22_AA} ("ConvexHullVolumes")
+  0xBC  : Genesys.Gen.PhysicalDefinition.RigidBody.CylinderVolume * [size @ 0xCA]
+           muId: {A4_FD_AF_8B} ("CylinderVolumes")
+  0xC0  : Genesys.Gen.PhysicalDefinition.RigidBody.SphereVolume * [size @ 0xCC]
+           muId: {39_1A_FA_62} ("SphereVolumes")
+  0xC4  : uint16_t
+           muId: {34_D3_A3_68} ("BoxVolumesCount")
+  0xC6  : uint16_t
+           muId: {44_D1_CD_27} ("CapsuleVolumesCount")
+  0xC8  : uint16_t
+           muId: {F8_BE_96_4B} ("ConvexHullVolumesCount")
+  0xCA  : uint16_t
+           muId: {7D_47_C4_83} ("CylinderVolumesCount")
+  0xCC  : uint16_t
+           muId: {66_1D_4F_2E} ("SphereVolumesCount")
+  0xCE  : uint16_t
+           muId: {73_97_49_BB} ("SymmetricalInAxisCount")
+  0xD0  : bool8_t
+           muId: {44_6B_47_3C} ("IsWheel")
+
+Genesys.Gen.PhysicalDefinition extends Genesys.Object
+>> 14: (9D_27_00_00_1)
+>> id: (96_2D_8D_39)
+  0x10  : rw.math.vpu.Vector3
+           muId: {83_D6_DB_62} ("LocalAABBCenter")
+  0x20  : rw.math.vpu.Vector3
+           muId: {ED_02_E9_98} ("LocalAABBHalfDiagonal")
+  0x30  : CgsResource.Handle
+           muId: {E1_20_AA_B8} ("AdditionalInfo")
+  0x38  : CgsCore.StringBase * [size @ 0x4E]
+           muId: {48_B9_10_6D} ("RigidBodiesNames")
+  0x3C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x40  : Genesys.Gen.PhysicalDefinition.RigidBody * [size @ 0x4C]
+           muId: {B7_06_5A_53} ("RigidBodies")
+  0x44  : int32_t
+           muId: {7F_3F_5D_65} ("GameChangerId")
+  0x48  : int32_t
+           muId: {EF_2A_BE_64} ("MainRigidBodyIndex")
+  0x4C  : uint16_t
+           muId: {9C_34_C5_52} ("RigidBodiesCount")
+  0x4E  : uint16_t
+           muId: {52_4C_2E_3A} ("RigidBodiesNamesCount")
+  0x50  : bool8_t
+           muId: {7B_AA_1C_23}
+  0x51  : bool8_t
+           muId: {16_1B_F9_06}
+
+Genesys.Gen.SmashProxyBehaviour extends Genesys.Gen.Behaviour
+>> 14: (9C_90_06_00)
+>> id: (B7_E8_37_C2)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+  0x1C  : float32_t
+           muId: {8B_60_F6_E7}
+
+Genesys.Gen.WCPlaySoundBehaviour.PropSurfaceSound extends Genesys.Object
+>> 14: (99_22_04_00)
+>> id: (B9_AC_70_67)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {26_FA_8D_48} ("Surface")
+  0x14  : CgsResource.Handle * [size @ 0x20]
+           muId: {0A_6E_98_E8} ("Rolling_Waves")
+  0x18  : CgsResource.Handle * [size @ 0x22]
+           muId: {EE_62_F0_71} ("Scraping_Waves")
+  0x1C  : CgsResource.Handle * [size @ 0x24]
+           muId: {3A_DE_51_B6} ("Waves")
+  0x20  : uint16_t
+           muId: {11_14_07_62}
+  0x22  : uint16_t
+           muId: {FB_47_5F_89}
+  0x24  : uint16_t
+           muId: {0C_4B_51_BC} ("WavesCount")
+
+Genesys.Gen.WCPlaySoundBehaviour extends Genesys.Gen.Behaviour
+>> 14: (D8_2A_00_00)
+>> id: (FB_72_73_F3)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+  0x20  : rw.math.vpu.Vector3
+           muId: {B7_24_D9_D3} ("Offset")
+  0x30  : CgsResource.Handle
+           muId: {3E_EA_33_3F} ("MixerChannel")
+  0x38  : CgsResource.Handle * [size @ 0x44]
+           muId: {DF_7E_27_B8}
+  0x3C  : CgsResource.Handle * [size @ 0x46]
+           muId: {40_5F_FD_8D}
+  0x40  : Genesys.Gen.WCPlaySoundBehaviour.PropSurfaceSound * [size @ 0x48]
+           muId: {7C_74_9E_0C} ("Surface_Collisions")
+  0x44  : uint16_t
+           muId: {AF_2E_40_E0}
+  0x46  : uint16_t
+           muId: {FE_B7_88_D9}
+  0x48  : uint16_t
+           muId: {9A_7C_BB_0E}
+
+Genesys.Gen.WCVfxBehaviour.Coronas extends Genesys.Object
+>> 14: (92_33_00_00)
+>> id: (1C_74_FD_F8)
+  0xC   : CgsResource.Handle
+           muId: {92_72_F0_31} ("Corona_definition")
+  0x14  : CgsCore.UniqueId
+           muId: {6D_41_3E_C5} ("Locator_group")
+
+Genesys.Gen.WCVfxBehaviour.Lights extends Genesys.Object
+>> 14: (94_33_00_00)
+>> id: (C0_7E_EA_42)
+  0xC   : CgsResource.Handle
+           muId: {FF_86_A7_54} ("LightDefinition")
+  0x14  : CgsCore.UniqueId
+           muId: {C1_E1_3F_F7} ("LocatorGroup")
+
+Genesys.Gen.WCVfxBehaviour.SpotEffects extends Genesys.Object
+>> 14: (93_33_00_00)
+>> id: (83_9E_A4_F9)
+  0xC   : CgsResource.Handle
+           muId: {41_D1_31_9A}
+  0x14  : CgsCore.UniqueId
+           muId: {6D_41_3E_C5} ("Locator_group")
+
+Genesys.Gen.WCVfxBehaviour extends Genesys.Gen.Behaviour
+>> 14: (E0_2A_00_00)
+>> id: (CE_85_D4_17)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+  0x1C  : CgsResource.Handle
+           muId: {1C_BA_2A_B6} ("ImpactEffect")
+  0x24  : CgsResource.Handle
+           muId: {BE_A2_24_45}
+  0x2C  : float32_t
+           muId: {1F_74_D7_C8} ("FlashFrequency")
+  0x30  : float32_t
+           muId: {61_6F_43_29}
+  0x34  : float32_t
+           muId: {49_0D_F5_5A}
+  0x38  : float32_t
+           muId: {89_B1_B6_17} ("NonprocedurallySlocum")
+  0x3C  : float32_t
+           muId: {79_DB_E8_7F}
+  0x40  : Genesys.Gen.WCVfxBehaviour.Coronas * [size @ 0x54]
+           muId: {0E_76_E3_66} ("Coronas")
+  0x44  : Genesys.Gen.WCVfxBehaviour.Lights * [size @ 0x56]
+           muId: {DE_D7_66_98} ("Lights")
+  0x48  : Genesys.Gen.WCVfxBehaviour.SpotEffects * [size @ 0x58]
+           muId: {70_EC_B1_8A}
+  0x4C  : int32_t
+           muId: {1A_19_E7_19}
+  0x50  : int32_t
+           muId: {D5_10_2E_39}
+  0x54  : uint16_t
+           muId: {B0_05_8C_9F} ("CoronasCount")
+  0x56  : uint16_t
+           muId: {E1_FF_1C_E4} ("LightsCount")
+  0x58  : uint16_t
+           muId: {1C_9B_35_8E}
+  0x5A  : bool8_t
+           muId: {AE_AE_EC_9A}
+  0x5B  : bool8_t
+           muId: {CC_25_F9_74}
+  0x5C  : bool8_t
+           muId: {F6_C8_F1_62}
+  0x5D  : bool8_t
+           muId: {1E_F7_62_AD}
+  0x5E  : bool8_t
+           muId: {BB_F7_32_6E}
+  0x5F  : bool8_t
+           muId: {C1_21_EA_74}
+  0x60  : bool8_t
+           muId: {A4_7F_73_98}
+  0x61  : bool8_t
+           muId: {D1_70_D6_5B}
+  0x62  : bool8_t
+           muId: {96_32_80_45}
+  0x63  : bool8_t
+           muId: {F7_49_3D_55}
+  0x64  : bool8_t
+           muId: {39_DD_86_04}
+  0x65  : bool8_t
+           muId: {C8_C3_CD_2D}
+  0x66  : bool8_t
+           muId: {9B_36_93_45}
+  0x67  : bool8_t
+           muId: {46_08_82_B1}
+  0x68  : bool8_t
+           muId: {10_E2_F0_90}
+  0x69  : bool8_t
+           muId: {64_FE_44_06}
+  0x6A  : bool8_t
+           muId: {85_C9_BC_E9}
+  0x6B  : bool8_t
+           muId: {C9_2C_7F_8F}
+
+int16_t
+>> 14: (35_0C_D4_BF)
+>> id: (56_24_52_29)

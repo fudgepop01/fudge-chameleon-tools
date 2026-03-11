@@ -1,0 +1,398 @@
+name: Game Mode
+  param count: 0
+name: Set Game Mode End Reason
+  param count: 0
+name: SwapGameMode
+  param count: 2
+name: Game Running Behaviour
+  param count: 0
+name: Upload Challenge State Changes
+  param count: 0
+name: Run Child Behaviour
+  param count: 0
+name: Exit When Binding Is True
+  param count: 1
+name: Pause Messages
+  param count: 11
+name: Show Player Joined or Left Feedback
+  param count: 0
+name: HSM.Wait For Children
+  param count: 0
+name: Write To PageRunner Session
+  param count: 5
+name: CallHSMHook
+  param count: 1
+name: HSM.Play Online Results Scoring Actions
+  param count: 0
+name: Run PageRunner2 Context
+  param count: 5
+name: Activate Widget Group
+  param count: 4
+name: Upload Results
+  param count: 0
+name: HSM.UploadOnlineUnlocks
+  param count: 0
+name: EnableTriggers
+  param count: 0
+name: RecordOnlineEventWinner
+  param count: 1
+name: HSM.Is Binding True
+  param count: 1
+name: Mode End Conditions
+  param count: 0
+name: Run Gamelogic Sequence
+  param count: 3
+name: HSM.CheckForFalseStarts
+  param count: 0
+name: ShowMeetupPOI
+  param count: 0
+name: HSM.Do Checkpoints Online
+  param count: 0
+name: Minimap Icons
+  param count: 0
+name: Weapons Active
+  param count: 0
+name: Is In Online Game
+  param count: 0
+name: Minimap Icons Online
+  param count: 1
+name: Online.ConsumeAndShowUnlocks
+  param count: 0
+name: HSM.ActivateSpotting.ActivateSpotting
+  param count: 0
+name: HostSetGameModeEnd
+  param count: 0
+name: Listen for Photo Request
+  param count: 1
+name: Wait For Photo Completion
+  param count: 0
+name: Take Photo
+  param count: 0
+name: HSM.StartPhotoUpload
+  param count: 0
+name: Wait for Horn Press
+  param count: 1
+name: Set Sim Pause State
+  param count: 1
+name: Select Exit Point From Binding
+  param count: 2
+name: SyncProfileWithServer
+  param count: 1
+name: HSM.GrantLimitedEdDoubleSP
+  param count: 0
+name: HSM.Wait For Downloadable Progression Data
+  param count: 0
+name: Refresh Autolog Server Manifest
+  param count: 0
+name: Reconnect To Autolog Server
+  param count: 0
+name: HSM.SetPendingOnlineErrorDialog
+  param count: 1
+name: ServerOperation
+  param count: 1
+name: RunStoreEnumeration
+  param count: 0
+name: Wait For Time
+  param count: 2
+name: Refresh User Entitlements
+  param count: 0
+name: CallHSMHookScoped
+  param count: 2
+name: Offline Pause
+  param count: 0
+name: Exit When Binding Changes
+  param count: 1
+name: Wait for System Menu
+  param count: 1
+name: Wait for UI Input
+  param count: 1
+name: OnlineScoringFeedback
+  param count: 0
+name: OnlineCarSwap
+  param count: 1
+name: ManageRepairPoints
+  param count: 0
+name: Set Black Background State
+  param count: 1
+name: HSM.CheckAndAwardChangeRolloutAchievement
+  param count: 0
+name: Write to DataState
+  param count: 3
+name: WriteSessonString
+  param count: 2
+name: Run Sub Network
+  param count: 2
+name: Set Layout Set
+  param count: 4
+name: ShowDialog
+  param count: 3
+name: Wait For Photo Input
+  param count: 0
+name: Pause AutoLog
+  param count: 0
+name: Run Layout
+  param count: 2
+name: Disable Control Group
+  param count: 1
+name: HSM.Suppress Prefetched Screens
+  param count: 0
+name: SignInAddControls
+  param count: 1
+name: SignInControl
+  param count: 1
+name: SignInKeyboardEntry
+  param count: 5
+name: SignInEditableTextIsEmpty
+  param count: 1
+name: SignInShowError
+  param count: 5
+name: Set Fail Login State
+  param count: 1
+name: Set Success Login State
+  param count: 1
+name: Check for Entitlement
+  param count: 1
+name: Set Game Error String
+  param count: 1
+name: Disable World Rendering
+  param count: 2
+name: Invite Failed
+  param count: 0
+name: Is Invite Pending
+  param count: 0
+name: FirstPartySignIn
+  param count: 0
+name: ShowVITASystemMessage
+  param count: 1
+name: Disconnect From Blaze
+  param count: 0
+name: Toggle Loading Screen
+  param count: 2
+name: Mute All Rumble
+  param count: 1
+name: Run PageRunner Context
+  param count: 4
+name: Handle Browser Input
+  param count: 0
+name: Delete From PageRunner Session
+  param count: 1
+name: Take a ProfilePicture
+  param count: 0
+name: Load Feedback Message Group
+  param count: 3
+name: Show Game Error Message
+  param count: 0
+name: Clear UI Post Fx
+  param count: 0
+name: HSM.UploadConcoursRequest
+  param count: 0
+name: Send Invite
+  param count: 0
+name: Create Game
+  param count: 2
+name: Quick Join Game
+  param count: 0
+name: LeavePlaygroup
+  param count: 0
+name: Leave Game
+  param count: 1
+name: Join Playgroup By User Id
+  param count: 0
+name: Join Game
+  param count: 0
+name: HSM.ShowPendingOnlineErrorDialog
+  param count: 0
+name: CreatePlaygroup
+  param count: 0
+name: CheckForValidConnectionForMP
+  param count: 0
+name: Override PageRunner Page
+  param count: 2
+name: Select Exit From HSM Hook
+  param count: 1
+name: HSM.LoadStringSet
+  param count: 1
+name: Wait for Feedback Message Group Loaded
+  param count: 2
+name: Switch to 60Hz mode
+  param count: 1
+name: HSM.Disable Game Stats Timer
+  param count: 0
+name: End Game
+  param count: 0
+name: Reset Game
+  param count: 0
+name: Sync Game State
+  param count: 0
+name: RequestTrafficRestart
+  param count: 0
+name: Sync Time
+  param count: 0
+name: Mute All Sound
+  param count: 1
+name: Do Body Shop
+  param count: 0
+name: HSM.Prefetch Screen
+  param count: 1
+name: Play Song List
+  param count: 4
+name: HSM.Run Kill Cam Sequence
+  param count: 3
+name: ListenForCarjackerActivated
+  param count: 0
+name: HSM.Input Detected
+  param count: 0
+name: Wait For Chase End
+  param count: 0
+name: Is Binding Not Null
+  param count: 1
+name: HSM.HideChevrons
+  param count: 0
+name: Disable Scoring
+  param count: 0
+name: HSMPauseIntroWhenSkipping
+  param count: 0
+name: HSM.PauseAIForRaceStart
+  param count: 0
+name: Allow Sim Pause
+  param count: 0
+name: Run HUD Sub Network
+  param count: 0
+name: Do Cost to State Scoring
+  param count: 0
+name: HSM.HostEasyGuide
+  param count: 0
+name: Do Event Starts
+  param count: 8
+name: TryToPlaySpeech
+  param count: 1
+name: Do Blacklist Shutdowns
+  param count: 0
+name: HSMCarSwapLogic
+  param count: 0
+name: Gymkhana Checkpoints
+  param count: 0
+name: GetSpeedwallTimesToBeat
+  param count: 0
+name: HSM.SelectEasyDriveShortcut
+  param count: 0
+name: EnableAutologAlertPolling
+  param count: 0
+name: HSM.Crash Escapes
+  param count: 0
+name: HSM.ClearSelectedEvent
+  param count: 0
+name: PauseSim
+  param count: 0
+name: PickNextFreedriveEvent
+  param count: 0
+name: Exit When Game Mode Time Has Passed
+  param count: 1
+name: Do Online Event Starts
+  param count: 4
+name: HSM.Teleport To Meetup
+  param count: 2
+name: BindingIsTrueForTime
+  param count: 2
+name: Cache Players Score 
+  param count: 0
+name: Launch
+  param count: 0
+name: HSM.Wait for all Active Players to be Synced
+  param count: 0
+name: HSM.Ensure Online Car Colours Correct
+  param count: 0
+name: Sync Online Results Start
+  param count: 0
+name: HSM.RunChallenge
+  param count: 0
+name: HSMShakedownUpdate
+  param count: 0
+name: Do Waypoints
+  param count: 1
+name: HSMDoDriftScoring
+  param count: 0
+name: HSM.DoSmashAndGrabScoring
+  param count: 0
+name: Wait For Graphics Prepare Behaviour
+  param count: 0
+name: InGame
+  param count: 0
+name: Playing Game
+  param count: 0
+name: Run Game Mode
+  param count: 0
+name: Preload Cop Cars
+  param count: 0
+name: Listen for Invite
+  param count: 0
+name: Accept Invite
+  param count: 0
+name: Has Invite Been Accepted
+  param count: 0
+name: ShowUserFeedbackDialog
+  param count: 7
+name: Stop Movie
+  param count: 0
+name: Wait For Vehicle List Loaded
+  param count: 0
+name: HSM.Is Brand New Profile
+  param count: 0
+name: HSM.HACK Is Autotest Running
+  param count: 0
+name: Do Collectables
+  param count: 0
+name: HSM.Enable Game Stats Timer
+  param count: 0
+name: Wait For Loading Screen Showing
+  param count: 0
+name: Wait For Loading Screen Not Showing
+  param count: 0
+name: Wait For System Reboot Request
+  param count: 0
+name: Show System Error Message
+  param count: 0
+name: Reboot
+  param count: 0
+name: Play Feedback Message
+  param count: 3
+name: Player 1 Pad Bind Behaviour
+  param count: 1
+name: Run Startup Script
+  param count: 0
+name: Locale Check
+  param count: 0
+name: Bind Controller Behaviour
+  param count: 1
+name: Load World
+  param count: 0
+name: DEBUG Autoselect World
+  param count: 0
+name: Load Profile
+  param count: 0
+name: Start Loading All Data
+  param count: 0
+name: Select Profile
+  param count: 0
+name: Enumerate Entitlements
+  param count: 0
+name: End Settings Screen
+  param count: 1
+name: Start Car Select
+  param count: 2
+name: Show Car Select
+  param count: 1
+name: Set In Safehouse
+  param count: 0
+name: Should Show Car Select
+  param count: 0
+name: Is PageRunner Context Open
+  param count: 1
+name: DEBUG Autobind Pad 0
+  param count: 0
+name: DEBUG Start Free Ride
+  param count: 0
+name: HSM.EnableDemoMode
+  param count: 1
+name: Award Debug Tickets, Milestones, And Unlocks
+  param count: 0

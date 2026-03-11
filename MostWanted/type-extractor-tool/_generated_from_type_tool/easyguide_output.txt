@@ -1,0 +1,60 @@
+146165144147145160157160060061o
+
+
+00_0F_16_00
+>> 14: (00_0F_16_00)
+>> id: (FA_B2_D2_17)
+  0x0   : 
+           muId: {DC_A6_45_53}
+  0x1   : 
+           muId: {7F_17_05_73}
+  0x2   : 
+           muId: {99_E4_0A_66}
+
+CgsCore.UniqueId
+>> 14: (F2_85_22_B9)
+>> id: (83_06_B9_EF)
+
+CgsResource.Handle
+>> 14: (8A_E4_3F_0B)
+>> id: (A3_E1_89_8A)
+
+uint16_t
+>> 14: (D6_93_2A_A3)
+>> id: (82_F3_7A_EC)
+
+uint8_t
+>> 14: (11_C0_AB_8E)
+>> id: (35_34_7F_1D)
+
+Genesys.Object
+>> 14: (E7_25_DB_2E)
+>> id: (43_95_24_D7)
+
+Genesys.Gen.EasyGuide.Page extends Genesys.Object
+>> 14: (E5_0E_16_00)
+>> id: (51_5D_57_D0)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {C9_6F_44_C3}
+  0x14  : CgsCore.UniqueId * [size @ 0x29]
+           muId: {6E_07_96_1C}
+  0x18  : CgsCore.UniqueId
+           muId: {EB_97_BD_04} ("Sequence")
+  0x1C  : CgsCore.UniqueId * [size @ 0x26]
+           muId: {74_78_65_54} ("Text")
+  0x20  : CgsResource.Handle * [size @ 0x28]
+           muId: {77_50_50_1A}
+  0x24  : 00_0F_16_00
+           muId: {45_24_01_30}
+  0x26  : uint16_t
+           muId: {C6_0F_30_BA}
+  0x28  : uint8_t
+           muId: {EC_51_A3_B5}
+  0x29  : uint8_t
+           muId: {59_63_FD_96}
+
+int16_t
+>> 14: (35_0C_D4_BF)
+>> id: (56_24_52_29)
