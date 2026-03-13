@@ -1,0 +1,682 @@
+00_72_01_00 (608032): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_CODE_CONSUMED\0"
+  
+01_72_01_00 (608033): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_CODE_CONSUMED_LE1\0"
+  
+02_72_01_00 (608034): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_CS\0"
+  
+03_72_01_00 (608035): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_CS_LE\0"
+  
+04_72_01_00 (608036): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_PURCHASE\0"
+  
+05_72_01_00 (608037): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_SHAREDCONSOLE\0"
+  
+06_72_01_00 (608038): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_TRIAL\0"
+  
+07_72_01_00 (608039): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PURCHASE_LE\0"
+  
+08_72_01_00 (608040): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "RACER_TIMESAVER\0"
+  
+0C_72_01_00 (608050): GenesysGenNucleusGrantMappingsList
+more info:
+  itemCount: 12
+  
+0D_72_01_00 (608051): GenesysGenNucleusGrantMappingsList
+more info:
+  itemCount: 12
+  
+0E_34_04_00 (2577520): GenesysObjCollection
+more info:
+  count: 1102
+  types:
+    - GenesysGenOnlineChallenge
+  
+11_72_01_00 (608055): GenesysGenStorePack
+more info:
+  count: 0
+  
+11_E3_10_00 (17852165): GenesysGenOnlineDrivingTestListGroups
+
+14_72_01_00 (608064): GenesysGenEntitlement
+more info:
+  name: "OnlinePass\0"
+  description: "OnlinePass Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+15_1B_22_00 (35869015): GenesysGenStoreItem
+
+15_72_01_00 (608065): GenesysGenEntitlement
+more info:
+  name: "SlimJim\0"
+  description: "SlimJim Pack\0"
+  entitlementTag: "deliberately not set \0"
+  
+16_1B_22_00 (35869016): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_PREMIUMPLUS_PACK\0"
+  
+18_42_00_00 (92448): GenesysGenEventList
+more info:
+  count: 1
+  
+1A_1B_22_00 (35869026): GenesysGenStorePack
+more info:
+  count: 0
+  
+1A_72_01_00 (608070): GenesysGenEntitlement
+more info:
+  name: "LimitedEdition\0"
+  description: "LimitedEdition Entitlement\0"
+  entitlementTag: "\0"
+  
+1C_F5_05_00 (3736616): GenesysObjCollection
+more info:
+  count: 40
+  types:
+    - GenesysGenHeatLevel
+  
+21_64_04_00 (2652023): GenesysObjCollection
+more info:
+  count: 4
+  types:
+    - GenesysGenGameplayRevengeBonus
+  
+28_29_10_00 (17142034): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 0
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+2B_29_10_00 (17142037): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 0
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+2C_AD_17_00 (22353504): GenesysGenEntitlement
+more info:
+  name: "TimeSavers_1\0"
+  description: "TimeSavers_1 Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+2D_AD_17_00 (22353505): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PULC_TIMESAVERS_1\0"
+  
+2E_AD_17_00 (22353506): GenesysGenStoreItem
+
+31_72_01_00 (608105): GenesysGenStoreItem
+
+32_AD_17_00 (22353510): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PULC_SUPERSERIES\0"
+  
+34_AD_17_00 (22353512): GenesysGenEntitlement
+more info:
+  name: "SuperSeries\0"
+  description: "SuperSeries Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+39_41_00_00 (91799): GenesysGenUicamera
+
+3A_41_00_00 (91800): GenesysGenUicamera
+
+3D_FB_06_00 (4551987): GenesysObjCollection
+more info:
+  count: 395
+  types:
+    - GenesysGenGameplayTrigger
+  
+5E_31_0F_00 (10049144): GenesysObjCollection
+more info:
+  count: 28
+  types:
+    - GenesysGenGameplayOfflineUpgrade
+  
+5F_03_04_00 (2502663): GenesysGenEventList
+more info:
+  count: 109
+  
+67_71_01_00 (607591): GenesysGenStorePackList
+more info:
+  count: 11
+  
+6C_46_17_00 (22172502): GenesysGenThankYouScreenItem
+more info:
+  messageID: 1525350
+  
+6D_46_17_00 (22172503): GenesysGenThankYouScreenItem
+more info:
+  messageID: 1525351
+  
+6E_46_17_00 (22172504): GenesysGenThankYouScreenItem
+more info:
+  messageID: 1525352
+  
+73_46_17_00 (22172515): GenesysGenThankYouScreenItem
+more info:
+  messageID: 1525364
+  
+76_46_17_00 (22172518): GenesysGenThankYouScreenItem
+more info:
+  messageID: 1525365
+  
+77_46_17_00 (22172519): GenesysGenThankYouScreenItem
+more info:
+  messageID: 1525353
+  
+78_46_17_00 (22172520): GenesysGenThankYouScreenItem
+more info:
+  messageID: 1525362
+  
+7E_AD_17_00 (22353730): GenesysGenEntitlement
+more info:
+  name: "PreOrderSpeed\0"
+  description: "PreOrderSpeed Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+7F_AD_17_00 (22353731): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_PROMO_SPEED\0"
+  
+82_A5_06_00 (4412806): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+83_A5_06_00 (4412807): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 1
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+85_AD_17_00 (22353737): GenesysGenEntitlement
+more info:
+  name: "PreOrderStrike\0"
+  description: "PreOrderStrike Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+86_AD_17_00 (22353744): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_PROMO_STRIKE\0"
+  
+87_38_09_00 (6308501): GenesysObjCollection
+more info:
+  count: 6
+  types:
+    - GenesysGenSafehouse
+  
+87_A5_06_00 (4412817): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 1
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+88_A5_06_00 (4412818): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+89_A5_06_00 (4412819): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 0
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+89_AD_17_00 (22353747): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_PROMO_POWER\0"
+  
+8B_AD_17_00 (22353749): GenesysGenEntitlement
+more info:
+  name: "PreOrderPower\0"
+  description: "PreOrderPower Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+8D_28_21_00 (35074153): GenesysObjCollection
+more info:
+  count: 163
+  types:
+    - GenesysGenGameplayDriftMarker
+  
+8E_1A_22_00 (35868706): GenesysGenStorePack
+more info:
+  count: 6
+  
+8E_FA_06_00 (4551512): GenesysObjCollection
+more info:
+  count: 200
+  types:
+    - GenesysGenAiplayerType
+  
+8F_1A_22_00 (35868707): GenesysGenStoreItem
+
+94_61_04_00 (2650404): GenesysObjCollection
+more info:
+  count: 118
+  types:
+    - GenesysGenRollout
+  
+A2_33_00_00 (78360): GenesysObjCollection
+more info:
+  count: 15
+  types:
+    - GenesysGenThankyouMapping
+  
+A2_A5_06_00 (4412952): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 0
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+AC_1D_10_00 (17129842): GenesysObjCollection
+more info:
+  count: 25
+  types:
+    - GenesysGenGameplayCopType
+  
+AC_95_21_00 (35655684): GenesysGenEntitlement
+more info:
+  name: "TerminalVelocityPack \0"
+  description: "DLC2 Terminal Velocity Pack Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+AC_AE_1F_00 (34038578): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_DLCPACK1\0"
+  
+AD_95_21_00 (35655685): GenesysGenEntitlement
+more info:
+  name: "MovieLegendsPack \0"
+  description: "DLC3 Movie Legends Pack Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+AE_95_21_00 (35655686): GenesysGenEntitlement
+more info:
+  name: "NFSHeroesPack\0"
+  description: "DLC4 NFS Heroes Pack Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+B0_46_11_00 (18031112): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "DIRECT_DOWNLOAD\0"
+  
+B1_AE_1F_00 (34038583): GenesysGenThankYouScreenItem
+more info:
+  messageID: 2076334
+  
+B4_95_21_00 (35655698): GenesysGenStoreItem
+
+B5_95_21_00 (35655699): GenesysGenStoreItem
+
+B6_95_21_00 (35655700): GenesysGenStoreItem
+
+B7_33_00_00 (78393): GenesysObjCollection
+more info:
+  count: 2
+  types:
+    - GenesysGenEventLocation
+  
+B7_95_21_00 (35655701): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_DLCPACK2\0"
+  
+B8_92_0E_00 (9785444): GenesysObjCollection
+more info:
+  count: 11
+  types:
+    - GenesysGenPhysicsDamageBarProfile
+  
+B8_95_21_00 (35655702): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_DLCPACK4\0"
+  
+B9_45_20_00 (34689025): GenesysGenEntitlement
+more info:
+  name: "UltimateSpeedPack \0"
+  description: "DLC1 Ultimate Speed Pack Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+B9_95_21_00 (35655703): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_DLCPACK3\0"
+  
+BA_33_00_00 (78402): GenesysObjCollection
+more info:
+  count: 5
+  types:
+    - GenesysGenGamePack
+  
+BA_95_21_00 (35655704): GenesysGenStorePack
+more info:
+  count: 0
+  
+BB_95_21_00 (35655705): GenesysGenStorePack
+more info:
+  count: 0
+  
+BB_F6_0E_00 (9963111): GenesysGenStoreItem
+
+BC_33_00_00 (78404): GenesysObjCollection
+more info:
+  count: 34
+  types:
+    - GenesysGenGameplayMilestone
+  
+BC_95_21_00 (35655712): GenesysGenStorePack
+more info:
+  count: 0
+  
+BC_F6_0E_00 (9963112): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_PROMO_SLIMJIM_DODGE\0"
+  
+BD_33_00_00 (78405): GenesysObjCollection
+more info:
+  count: 71
+  types:
+    - GenesysGenGameRank
+  
+BD_95_21_00 (35655713): GenesysGenStoreItem
+
+BD_A5_06_00 (4412997): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+BD_F3_05_00 (3735671): GenesysObjCollection
+more info:
+  count: 223
+  types:
+    - GenesysGenScoringAction
+  
+BD_F6_0E_00 (9963113): GenesysGenStorePack
+more info:
+  count: 0
+  
+BE_33_00_00_1 (78406): GenesysGenGameUnlockList
+
+BE_A5_06_00 (4412998): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 0
+  
+C0_D1_17_00 (22417444): GenesysObjCollection
+more info:
+  count: 67
+  types:
+    - GenesysGenPaintPackGroup
+  
+C1_37_09_00 (6307991): GenesysObjCollection
+more info:
+  count: 18
+  types:
+    - GenesysGenRoadBlockDefinition
+  
+C2_37_09_00 (6307992): GenesysObjCollection
+more info:
+  count: 40
+  types:
+    - GenesysGenRoadBlockLayer
+  
+C8_33_00_00 (78422): GenesysObjCollection
+more info:
+  count: 0
+  types: []
+  
+CB_92_0E_00 (9785475): GenesysObjCollection
+more info:
+  count: 183
+  types:
+    - GenesysGenCarSwapSpot
+  
+CC_95_21_00 (35655734): GenesysGenStorePack
+more info:
+  count: 0
+  
+CD_8E_14_00 (20214391): GenesysObjCollection
+more info:
+  count: 666
+  types:
+    - GenesysGenOnlineLicensePlate
+  
+CF_95_21_00 (35655737): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_90_DAY_PACK\0"
+  
+D1_33_00_00 (78437): GenesysObjCollection
+more info:
+  count: 24
+  types:
+    - GenesysGenStoreItem
+  
+D1_95_21_00 (35655745): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_ULTIMATE_PACK\0"
+  
+D2_95_21_00 (35655746): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_HOLIDAY_PACK\0"
+  
+D3_95_21_00 (35655747): GenesysGenStorePack
+more info:
+  count: 0
+  
+D3_F3_1F_00 (34160693): GenesysGenStoreItem
+
+D4_95_21_00 (35655748): GenesysGenStoreItem
+
+D7_95_21_00 (35655751): GenesysGenStoreItem
+
+D7_F3_1F_00 (34160697): GenesysGenStorePack
+more info:
+  count: 0
+  
+D8_95_21_00 (35655752): GenesysGenStorePack
+more info:
+  count: 0
+  
+DA_95_21_00 (35655760): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_ULTIMATE_OLP_PACK\0"
+  
+DB_95_21_00 (35655761): GenesysGenStoreItem
+
+DC_71_01_00 (607876): GenesysGenNucleusEntitlementTags
+
+DD_95_21_00 (35655763): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_MOD_TS_PACK_1\0"
+  
+DE_95_21_00 (35655764): GenesysGenEntitlement
+more info:
+  name: "ModTimesaver1\0"
+  description: "Mod Timesaver 1 Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+DF_71_01_00 (607879): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "DEMO_ONLINE_ACCESS\0"
+  
+E0_95_21_00 (35655766): GenesysGenStoreItem
+
+E2_95_21_00 (35655768): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_MOD_TS_PACK_2\0"
+  
+E3_95_21_00 (35655769): GenesysGenEntitlement
+more info:
+  name: "ModTimesaver2\0"
+  description: "Mod Timesaver 2 Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+E4_B2_17_00 (22360356): GenesysGenGameplayRevengeBonus
+more info:
+  instFeatureCount: 0
+  instGenesysGenNitrousParametersCount: 0
+  instGenesysGenPerformanceModifierCount: 1
+  
+E5_95_21_00 (35655777): GenesysGenStoreItem
+
+E6_F3_0E_00 (9935170): GenesysObjCollection
+more info:
+  count: 2854
+  types:
+    - GenesysGenCloudCompeteAward
+  
+E7_95_21_00 (35655779): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_MOD_TS_PACK_3\0"
+  
+E8_95_21_00 (35655780): GenesysGenEntitlement
+more info:
+  name: "ModTimesaver3\0"
+  description: "Mod Timesaver 3 Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+E8_B2_17_00 (22360360): GenesysGenGameplayRevengeBonus
+more info:
+  instFeatureCount: 0
+  instGenesysGenNitrousParametersCount: 0
+  instGenesysGenPerformanceModifierCount: 1
+  
+EA_95_21_00 (35655782): GenesysGenStoreItem
+
+EA_A8_23_00 (36925442): GenesysGenThankYouScreenItem
+more info:
+  messageID: 2337001
+  
+EC_95_21_00 (35655784): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_MOD_TS_PACK_ALL\0"
+  
+EC_B2_17_00 (22360370): GenesysGenGameplayRevengeBonus
+more info:
+  instFeatureCount: 0
+  instGenesysGenNitrousParametersCount: 1
+  instGenesysGenPerformanceModifierCount: 0
+  
+ED_6E_22_00 (36005409): GenesysGenThankYouScreenItem
+more info:
+  messageID: 2256629
+  
+EE_40_00_00 (91682): GenesysGenCarSelectData
+more info:
+  uimemoryLimit: 0
+  uiresourceLimit: 0
+  instCopPlacementsCount: 1
+  instRacerPlacementsCount: 1
+  
+EE_6E_22_00 (36005410): GenesysGenThankYouScreenItem
+more info:
+  messageID: 2256627
+  
+EF_6E_22_00 (36005411): GenesysGenThankYouScreenItem
+more info:
+  messageID: 2256628
+  
+EF_A8_23_00 (36925447): GenesysGenThankYouScreenItem
+more info:
+  messageID: 2337006
+  
+F0_95_21_00 (35655794): GenesysGenStoreItem
+
+F0_B2_17_00 (22360374): GenesysGenGameplayRevengeBonus
+more info:
+  instFeatureCount: 1
+  instGenesysGenNitrousParametersCount: 0
+  instGenesysGenPerformanceModifierCount: 0
+  
+F2_95_21_00 (35655796): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFSMW_MOD_ULT_TS_PACK\0"
+  
+F2_A8_23_00 (36925456): GenesysGenThankYouScreenItem
+more info:
+  messageID: 2337009
+  
+F3_2E_0F_00 (10047577): GenesysObjCollection
+more info:
+  count: 14
+  types:
+    - GenesysGenGameplayBlacklistShutdownData
+  
+F5_71_01_00 (608009): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFS11:PC:LIMITED_EDITION\0"
+  
+F7_30_0F_00 (10048885): GenesysObjCollection
+more info:
+  count: 95
+  types:
+    - GenesysGenGameplayAllowedVehicleList
+  
+FA_71_01_00 (608020): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "ONLINE_ACCESS\0"
+  
+FB_71_01_00 (608021): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PDLC_SHAREDCONSOLE\0"
+  

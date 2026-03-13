@@ -1,0 +1,15 @@
+13_30_02_00 (1323897): GenesysGenCopSoundSet
+
+14_30_02_00 (1323904): GenesysGenSirenSoundSet
+
+17_6B_07_00 (4743527): GenesysGenMixerChannel
+
+20_6B_07_00 (4743542): GenesysGenSoundDistanceFalloff
+
+33_D3_03_00 (2426485): GenesysGenTyreSound
+
+39_30_02_00 (1324055): GenesysGenSirenSoundSet
+
+83_38_0B_00 (7557987): GenesysGenSequence
+
+F6_3A_0B_00 (7559568): GenesysGenSirenSoundSet

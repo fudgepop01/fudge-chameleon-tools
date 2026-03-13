@@ -1,0 +1,19 @@
+07_F0_05_00_1 (3707175): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+57_65_0A_00 (6820611): GenesysGenWcvfxBehaviour
+
+58_65_0A_00 (6820612): GenesysGenWcremoveWorldEntityBehaviour
+
+59_65_0A_00 (6820613): GenesysGenMakePhysicalBehaviour
+
+7C_37_09_00_1 (6307880): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+87_37_09_00 (6307897): GenesysGenWcvfxBehaviour
+
+88_37_09_00 (6307904): GenesysGenWcvfxBehaviour
+
+96_A8_05_00 (3606584): GenesysGenCorona
+
+CB_5A_09_00 (6369383): GenesysGenWcplaySoundBehaviour
+
+FA_FC_06_00 (4553080): GenesysGenMakePhysicalBehaviour

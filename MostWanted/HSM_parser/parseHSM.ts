@@ -1,9 +1,10 @@
 import { readFile, writeFile } from "fs/promises";
-import { Hsm } from "../hsm";
+import { Hsm } from "./hsm";
 import KaitaiStream from "kaitai-struct/KaitaiStream"
 import { CleanKStruct } from "../helpers/recursiveOmit";
 
 const ParseHsmFile = async () => {
+    // change this to the HSM file you're looking to parse
     const res = (await readFile(__dirname + '/E8_F1_0E_00.dat'));
     const HSM = new Hsm(new KaitaiStream(res));
     return HSM;

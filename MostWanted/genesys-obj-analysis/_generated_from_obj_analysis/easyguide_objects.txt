@@ -1,0 +1,541 @@
+06_B8_1E_00 (33632656): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D4_57_1D_00
+    - 2A_58_1D_00
+  
+07_B8_1E_00 (33632657): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D3_57_1D_00
+    - 29_58_1D_00
+  
+08_B8_1E_00 (33632658): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C0_57_1D_00
+    - 2B_58_1D_00
+  
+0A_B8_1E_00 (33632660): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D6_57_1D_00
+    - 2D_58_1D_00
+  
+0B_B8_1E_00 (33632661): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D7_57_1D_00
+    - 2E_58_1D_00
+  
+0C_B8_1E_00 (33632662): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D8_57_1D_00
+    - 2F_58_1D_00
+  
+0D_B8_1E_00 (33632663): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D9_57_1D_00
+    - 30_58_1D_00
+  
+10_B8_1E_00 (33632768): GenesysGenEasyGuidePage
+more info:
+  text:
+    - ED_57_1D_00
+    - 32_58_1D_00
+  
+12_B8_1E_00 (33632770): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 0B_58_1D_00
+    - 31_58_1D_00
+  
+14_B8_1E_00 (33632772): GenesysGenEasyGuidePage
+more info:
+  text:
+    - DD_57_1D_00
+    - 36_58_1D_00
+  
+15_B8_1E_00 (33632773): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 0C_58_1D_00
+    - 35_58_1D_00
+  
+16_59_1D_00 (26358608): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 13_59_1D_00
+    - 17_59_1D_00
+  
+16_B8_1E_00 (33632774): GenesysGenEasyGuidePage
+more info:
+  text:
+    - DE_57_1D_00
+    - 37_58_1D_00
+  
+17_B8_1E_00 (33632775): GenesysGenEasyGuidePage
+more info:
+  text:
+    - DF_57_1D_00
+    - 38_58_1D_00
+  
+18_B8_1E_00 (33632776): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E0_57_1D_00
+    - 39_58_1D_00
+  
+19_B8_1E_00 (33632777): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E1_57_1D_00
+    - 3A_58_1D_00
+  
+1A_B8_1E_00 (33632784): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E2_57_1D_00
+    - 3B_58_1D_00
+  
+1B_B8_1E_00 (33632785): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E3_57_1D_00
+    - 3C_58_1D_00
+  
+1C_B8_1E_00 (33632786): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E4_57_1D_00
+    - 3D_58_1D_00
+  
+1E_B8_1E_00 (33632788): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E6_57_1D_00
+    - 3F_58_1D_00
+  
+1F_B8_1E_00 (33632789): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E7_57_1D_00
+    - 40_58_1D_00
+  
+20_B8_1E_00 (33632790): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E8_57_1D_00
+    - 41_58_1D_00
+  
+22_B8_1E_00 (33632792): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 0D_58_1D_00
+    - 42_58_1D_00
+  
+23_B8_1E_00 (33632793): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E9_57_1D_00
+    - 43_58_1D_00
+  
+24_B8_1E_00 (33632800): GenesysGenEasyGuidePage
+more info:
+  text:
+    - EA_57_1D_00
+    - 44_58_1D_00
+  
+26_B8_1E_00 (33632802): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 0E_58_1D_00
+    - 45_58_1D_00
+  
+27_B8_1E_00 (33632803): GenesysGenEasyGuidePage
+more info:
+  text:
+    - EC_57_1D_00
+    - 46_58_1D_00
+  
+29_B8_1E_00 (33632805): GenesysGenEasyGuidePage
+more info:
+  text:
+    - EC_57_1D_00
+    - 46_58_1D_00
+  
+2A_B8_1E_00 (33632806): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 0F_58_1D_00
+    - 4F_58_1D_00
+  
+2B_B8_1E_00 (33632807): GenesysGenEasyGuidePage
+more info:
+  text:
+    - F3_57_1D_00
+    - 59_58_1D_00
+  
+2C_B8_1E_00 (33632808): GenesysGenEasyGuidePage
+more info:
+  text:
+    - F4_57_1D_00
+    - 58_58_1D_00
+  
+2D_B8_1E_00 (33632809): GenesysGenEasyGuidePage
+more info:
+  text:
+    - F6_57_1D_00
+    - 5A_58_1D_00
+  
+2E_B8_1E_00 (33632816): GenesysGenEasyGuidePage
+more info:
+  text:
+    - F7_57_1D_00
+    - 62_58_1D_00
+  
+2F_B8_1E_00 (33632817): GenesysGenEasyGuidePage
+more info:
+  text:
+    - F8_57_1D_00
+    - 55_58_1D_00
+  
+30_B8_1E_00 (33632818): GenesysGenEasyGuidePage
+more info:
+  text:
+    - FB_57_1D_00
+    - 56_58_1D_00
+  
+31_B8_1E_00 (33632819): GenesysGenEasyGuidePage
+more info:
+  text:
+    - FD_57_1D_00
+    - 57_58_1D_00
+  
+32_B8_1E_00 (33632820): GenesysGenEasyGuidePage
+more info:
+  text:
+    - FE_57_1D_00
+    - 61_58_1D_00
+  
+34_B8_1E_00 (33632822): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 01_58_1D_00
+    - 53_58_1D_00
+  
+35_B8_1E_00 (33632823): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 02_58_1D_00
+    - 54_58_1D_00
+  
+36_B8_1E_00 (33632824): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 03_58_1D_00
+    - 66_58_1D_00
+  
+56_B8_1E_00 (33632880): GenesysGenEasyGuidePage
+more info:
+  text:
+    - FC_57_1D_00
+    - 50_58_1D_00
+  
+57_B8_1E_00 (33632881): GenesysGenEasyGuidePage
+more info:
+  text:
+    - F5_57_1D_00
+    - 51_58_1D_00
+  
+58_B8_1E_00 (33632882): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 59_B8_1E_00
+    - 52_58_1D_00
+  
+5C_B8_1E_00 (33632886): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 5D_B8_1E_00
+    - 5C_58_1D_00
+  
+60_B8_1E_00 (33632896): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 61_B8_1E_00
+    - 5B_58_1D_00
+  
+64_B8_1E_00 (33632900): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 65_B8_1E_00
+    - 5D_58_1D_00
+  
+68_B8_1E_00 (33632904): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 69_B8_1E_00
+    - 5E_58_1D_00
+  
+6C_B8_1E_00 (33632914): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 6D_B8_1E_00
+    - 5F_58_1D_00
+  
+70_B8_1E_00 (33632918): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 71_B8_1E_00
+    - 60_58_1D_00
+  
+74_B8_1E_00 (33633024): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 75_B8_1E_00
+    - 63_58_1D_00
+  
+78_5B_1E_00 (26776726): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 77_5B_1E_00
+    - 76_5B_1E_00
+  
+78_B8_1E_00 (33633028): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 79_B8_1E_00
+    - 64_58_1D_00
+  
+7C_B8_1E_00 (33633032): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E8_58_1D_00
+    - B0_B8_1E_00
+  
+A9_B8_1E_00 (33633107): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 9B_B8_1E_00
+    - A2_B8_1E_00
+  
+AA_B8_1E_00 (33633108): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 9C_B8_1E_00
+    - A3_B8_1E_00
+  
+AB_B8_1E_00 (33633109): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 9D_B8_1E_00
+    - A4_B8_1E_00
+  
+AC_B8_1E_00 (33633110): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 9E_B8_1E_00
+    - A5_B8_1E_00
+  
+AD_B8_1E_00 (33633111): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 9F_B8_1E_00
+    - A6_B8_1E_00
+  
+AE_B8_1E_00 (33633112): GenesysGenEasyGuidePage
+more info:
+  text:
+    - A0_B8_1E_00
+    - A7_B8_1E_00
+  
+AF_B8_1E_00 (33633113): GenesysGenEasyGuidePage
+more info:
+  text:
+    - A1_B8_1E_00
+    - A8_B8_1E_00
+  
+B1_B8_1E_00 (33633121): GenesysGenEasyGuidePage
+more info:
+  text:
+    - E5_57_1D_00
+    - 84_B8_1E_00
+    - 7E_B8_1E_00
+  
+B5_3D_22_00 (35930145): GenesysGenEasyGuidePage
+more info:
+  text:
+    - B2_3D_22_00
+    - AF_3D_22_00
+  
+BE_3D_22_00 (35930160): GenesysGenEasyGuidePage
+more info:
+  text:
+    - BD_3D_22_00
+    - BC_3D_22_00
+  
+C1_3D_22_00 (35930163): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C0_3D_22_00
+    - BF_3D_22_00
+  
+C4_B7_1E_00 (33632548): GenesysGenEasyGuidePage
+more info:
+  text:
+    - BB_57_1D_00
+    - 11_58_1D_00
+  
+DD_3D_22_00 (35930209): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D8_3D_22_00
+    - D9_3D_22_00
+  
+DE_3D_22_00 (35930210): GenesysGenEasyGuidePage
+more info:
+  text:
+    - DA_3D_22_00
+    - DB_3D_22_00
+  
+E1_B7_1E_00 (33632595): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 05_58_1D_00
+    - 10_58_1D_00
+  
+E2_B7_1E_00 (33632596): GenesysGenEasyGuidePage
+more info:
+  text:
+    - BC_57_1D_00
+    - 12_58_1D_00
+  
+E3_B7_1E_00 (33632597): GenesysGenEasyGuidePage
+more info:
+  text:
+    - BD_57_1D_00
+    - 13_58_1D_00
+  
+E4_B7_1E_00 (33632598): GenesysGenEasyGuidePage
+more info:
+  text:
+    - BE_57_1D_00
+    - 14_58_1D_00
+  
+E5_B7_1E_00 (33632599): GenesysGenEasyGuidePage
+more info:
+  text:
+    - BF_57_1D_00
+    - 15_58_1D_00
+  
+E6_B7_1E_00 (33632600): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C0_57_1D_00
+    - 16_58_1D_00
+  
+E7_B7_1E_00 (33632601): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C1_57_1D_00
+    - 17_58_1D_00
+  
+E8_B7_1E_00 (33632608): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C2_57_1D_00
+    - 18_58_1D_00
+  
+E9_B7_1E_00 (33632609): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C3_57_1D_00
+    - 19_58_1D_00
+  
+EB_B7_1E_00 (33632611): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C4_57_1D_00
+    - 1A_58_1D_00
+  
+EC_B7_1E_00 (33632612): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C5_57_1D_00
+    - 1B_58_1D_00
+  
+ED_B7_1E_00 (33632613): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C6_57_1D_00
+    - 1C_58_1D_00
+  
+EE_B7_1E_00 (33632614): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C7_57_1D_00
+    - 1D_58_1D_00
+  
+EF_B7_1E_00 (33632615): GenesysGenEasyGuidePage
+more info:
+  text:
+    - C8_57_1D_00
+    - 1E_58_1D_00
+  
+F2_B7_1E_00 (33632624): GenesysGenEasyGuidePage
+more info:
+  text:
+    - CB_57_1D_00
+    - 21_58_1D_00
+  
+F4_B7_1E_00 (33632626): GenesysGenEasyGuidePage
+more info:
+  text:
+    - CC_57_1D_00
+    - 22_58_1D_00
+  
+F5_B7_1E_00 (33632627): GenesysGenEasyGuidePage
+more info:
+  text:
+    - CD_57_1D_00
+    - 23_58_1D_00
+  
+F6_B7_1E_00 (33632628): GenesysGenEasyGuidePage
+more info:
+  text:
+    - CE_57_1D_00
+    - 24_58_1D_00
+  
+F8_B7_1E_00 (33632630): GenesysGenEasyGuidePage
+more info:
+  text:
+    - CF_57_1D_00
+    - 25_58_1D_00
+  
+FC_B7_1E_00 (33632640): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D0_57_1D_00
+    - 26_58_1D_00
+  
+FD_B7_1E_00 (33632641): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D2_57_1D_00
+    - 28_58_1D_00
+  
+FE_B7_1E_00 (33632642): GenesysGenEasyGuidePage
+more info:
+  text:
+    - D1_57_1D_00
+    - 27_58_1D_00
+  
+FF_B7_1E_00 (33632643): GenesysGenEasyGuidePage
+more info:
+  text:
+    - 4C_58_1D_00
+    - 4D_58_1D_00
+  

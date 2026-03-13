@@ -1,0 +1,1029 @@
+03_A1_19_00 (23565849): GenesysGenScoreViewModel
+
+04_A4_11_00 (18178304): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  
+05_A4_11_00 (18178305): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+09_4E_18_00 (22620225): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+09_D5_15_00 (21170067): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+0A_22_1D_00 (26251864): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+0B_22_1D_00 (26251865): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 150
+  
+0C_2F_20_00 (34640278): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  
+0C_A0_20_00 (34832676): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+0D_2F_20_00 (34640279): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  
+0D_E7_18_00 (23273491): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 8
+  
+0D_E8_18_00 (23274089): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+0E_88_22_00 (36057172): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+13_6A_21_00 (35166275): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+14_6A_21_00 (35166276): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  
+14_76_08_00 (5588246): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+17_7D_12_00 (18945649): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+18_7D_12_00 (18945650): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+19_D3_22_00 (36184677): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+1A_E4_1F_00 (34144272): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  
+1B_7D_12_00 (18945653): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 20
+  
+1B_E4_1F_00 (34144273): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  
+1D_7D_12_00 (18945655): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+1D_A0_20_00 (34832705): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+1D_E7_18_00 (23273513): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 7
+  
+1E_7D_12_00 (18945656): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 7
+  
+1F_AB_0F_00 (16934983): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+20_7D_12_00 (18945664): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+20_AB_0F_00 (16934984): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+21_71_21_00 (35198537): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+22_71_21_00 (35198544): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+22_A0_20_00 (34832710): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 21
+  
+23_E9_1B_00 (25334101): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 26
+  
+25_7D_12_00 (18945669): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+25_B4_0F_00 (16945495): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  
+25_E9_18_00 (23274825): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 3
+  
+26_A4_11_00 (18178356): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 9
+  
+26_B4_0F_00 (16945496): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+27_A4_11_00 (18178357): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+28_56_16_00 (21379144): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+29_4C_18_00 (22618977): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+29_54_16_00 (21377847): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+29_AB_0F_00 (16934999): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  
+29_E4_1F_00 (34144293): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+2A_AB_0F_00 (16935000): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+2A_E4_1F_00 (34144294): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  
+2A_E7_18_00 (23273538): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+2C_04_16_00 (21244000): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+2C_15_11_00 (17929522): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+2D_04_16_00 (21244001): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+2D_15_11_00 (17929523): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+2D_70_21_00 (35197957): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+2D_79_16_00 (21440531): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+2E_56_16_00 (21379156): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+2E_70_21_00 (35197958): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+2E_79_16_00 (21440532): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  
+33_A0_20_00 (34832739): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 17
+  
+36_56_16_00 (21379170): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+36_70_21_00 (35197972): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+37_70_21_00 (35197973): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+37_A0_20_00 (34832743): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 17
+  
+38_B4_0F_00 (16945526): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  
+38_D5_16_00 (21586806): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+38_E4_1F_00 (34144320): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  
+39_B4_0F_00 (16945527): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+39_D5_16_00 (21586807): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 230
+  
+39_E4_1F_00 (34144321): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 210
+  
+3A_E7_18_00 (23273560): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+3B_4A_13_00 (19284359): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+3C_4A_13_00 (19284360): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+3F_4C_18_00 (22619011): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 20
+  
+3F_56_16_00 (21379185): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+43_2E_17_00 (22122865): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  
+43_56_16_00 (21379189): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 19
+  
+44_2E_17_00 (22122866): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+47_30_17_00 (22124167): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  
+47_E4_1F_00 (34144341): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+48_30_17_00 (22124168): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+48_E4_1F_00 (34144342): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  
+49_56_16_00 (21379201): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+4A_A5_11_00 (18179110): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+4B_67_22_00 (35997287): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  
+4B_A5_11_00 (18179111): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+4B_E7_18_00 (23273589): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 21
+  
+4C_67_22_00 (35997288): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+4C_D6_06_00 (4489334): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+4F_2E_10_00 (17171505): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 1
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+4F_4D_18_00 (22619733): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+57_EA_1B_00 (25334883): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+58_02_0F_00 (9975360): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 3
+  
+59_02_0F_00 (9975361): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+59_E7_10_00 (17856513): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  
+5A_2F_17_00 (22123600): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  
+5A_E7_10_00 (17856514): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+5B_2F_17_00 (22123601): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+5B_5D_04_00 (2646083): GenesysObjCollection
+more info:
+  count: 420
+  types:
+    - GenesysGenOnlineEvent
+    - GenesysGenOfflineEvent
+    - GenesysGenChallengeOnlineChallenge
+    - GenesysGenOnlineVoteEvent
+  
+5D_03_16_00 (21243475): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+5D_A4_11_00 (18178441): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 9
+  
+5E_03_16_00 (21243476): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  
+5E_A4_11_00 (18178448): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+5F_A8_0F_00 (16933187): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+60_4D_18_00 (22619762): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+60_70_21_00 (35198038): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+60_A8_0F_00 (16933188): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+61_70_21_00 (35198039): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+62_54_16_00 (21377940): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+62_56_16_00 (21379334): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+62_70_21_00 (35198040): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+66_74_22_00 (36012066): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+66_E7_18_00 (23273730): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 17
+  
+67_A4_11_00 (18178457): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 3
+  
+68_A4_11_00 (18178560): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+69_2E_17_00 (22123017): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  
+6A_2E_17_00 (22123024): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+6B_54_16_00 (21378051): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+6E_15_11_00 (17929624): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 3
+  
+6E_70_21_00 (35198064): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+6F_15_11_00 (17929625): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+6F_4C_18_00 (22619185): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+6F_7B_21_00 (35209863): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+70_56_16_00 (21379360): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+71_4D_18_00 (22619785): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+71_E4_1F_00 (34144407): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  
+72_E4_1F_00 (34144408): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 195
+  
+76_BF_17_00 (22373186): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  
+77_BF_17_00 (22373187): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+7A_86_11_00 (18122040): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+7B_5D_04_00 (2646133): GenesysGenScoreViewModel
+
+7E_E1_15_00 (21182850): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+7F_67_22_00 (35997465): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+7F_E1_15_00 (21182851): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+80_5C_15_00 (20551990): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+80_67_22_00 (35997472): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+80_E4_1F_00 (34144530): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  
+81_4C_18_00 (22619209): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 22
+  
+81_5C_15_00 (20551991): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  
+81_E4_1F_00 (34144531): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 215
+  
+82_4D_18_00 (22619910): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+82_7B_21_00 (35209990): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 20
+  
+87_E1_15_00 (21182865): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+88_E1_15_00 (21182866): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 175
+  
+8B_E7_18_00 (23273785): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+8D_B3_0F_00 (16945157): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+90_74_22_00 (36012132): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+90_E4_1F_00 (34144552): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 11
+  
+91_E4_1F_00 (34144553): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 250
+  
+94_70_21_00 (35198216): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+94_B3_0F_00 (16945170): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+95_70_21_00 (35198217): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+95_79_16_00 (21440791): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+96_79_16_00 (21440792): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 170
+  
+98_86_11_00 (18122088): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+9A_E7_18_00 (23273812): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+9E_E4_1F_00 (34144578): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+9F_E4_1F_00 (34144579): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 230
+  
+A0_4C_18_00 (22619264): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+A1_6A_21_00 (35166597): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+A4_6A_21_00 (35166600): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 11
+  
+A6_4D_18_00 (22619970): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 27
+  
+A6_9F_20_00 (34832418): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+A6_C0_17_00 (22373958): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  
+A7_03_16_00 (21243687): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  
+A7_C0_17_00 (22373959): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+A8_03_16_00 (21243688): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+AB_56_16_00 (21379449): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+B1_56_16_00 (21379461): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+B3_E7_18_00 (23273849): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+B5_76_21_00 (35205239): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+B6_76_21_00 (35205240): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+B6_C0_17_00 (22373986): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+B7_56_16_00 (21379473): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+B7_C0_17_00 (22373987): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  
+B8_70_21_00 (35198276): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+B9_54_16_00 (21378177): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+BB_F6_15_00 (21206041): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  
+BC_F6_15_00 (21206048): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+BF_9F_20_00 (34832455): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+C0_E7_18_00 (23273874): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+C2_4A_18_00 (22618114): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+C2_70_21_00 (35198292): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+C2_BF_17_00 (22373400): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+C3_BF_17_00 (22373401): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+C6_4D_18_00 (22620020): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 21
+  
+C6_7C_21_00 (35210800): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+C8_03_0F_00 (9977864): GenesysGenScoreViewModel
+
+CA_16_11_00 (17930566): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  
+CB_16_11_00 (17930567): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+CC_16_11_00 (17930568): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+CD_16_11_00 (17930569): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+D1_41_22_00 (35934323): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+D1_9F_20_00 (34832485): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+D4_38_11_00 (17991264): GenesysGenScoreViewModel
+
+D4_D4_16_00 (21586550): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+D5_9F_20_00 (34832489): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+D5_D4_16_00 (21586551): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  
+D6_A5_11_00 (18179430): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  
+D6_E7_18_00 (23274004): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+D7_44_19_00 (23420963): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 8
+  
+D7_A5_11_00 (18179431): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+D8_44_19_00 (23420964): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+DA_9F_20_00 (34832500): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 7
+  
+E0_76_21_00 (35205408): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 11
+  
+E0_E8_18_00 (23274624): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+E1_70_21_00 (35198341): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+E1_76_21_00 (35205409): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+E1_AA_17_00 (22351987): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+E2_AA_17_00 (22351988): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 215
+  
+E4_A3_11_00 (18178152): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+E4_E7_18_00 (23274024): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+E5_A3_11_00 (18178153): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+EA_2D_10_00 (17171248): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 1
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+EA_E0_15_00 (21182516): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 8
+  
+EB_70_21_00 (35198357): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+EB_E0_15_00 (21182517): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+EC_5E_04_00 (2647108): GenesysObjCollection
+more info:
+  count: 12
+  types:
+    - GenesysGenGameMode
+  
+ED_DF_15_00 (21181825): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+EE_DF_15_00 (21181826): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 9
+  
+F3_5D_04_00 (2646421): GenesysObjCollection
+more info:
+  count: 10
+  types:
+    - GenesysGenEventArena
+  
+F4_68_21_00 (35165526): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+F4_9F_20_00 (34832640): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+F5_68_21_00 (35165527): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  
+F6_F3_05_00 (3735860): GenesysGenScoreViewModel
+
+F8_9F_20_00 (34832644): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+F9_E0_15_00 (21182537): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+FA_E0_15_00 (21182544): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  
+FC_71_21_00 (35199080): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  
+FD_68_21_00 (35165541): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  
+FD_71_21_00 (35199081): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  
+FE_68_21_00 (35165542): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  

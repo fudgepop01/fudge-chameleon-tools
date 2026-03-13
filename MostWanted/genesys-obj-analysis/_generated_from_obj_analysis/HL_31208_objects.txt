@@ -1,0 +1,129 @@
+04_35_07_00 (4662052): GenesysGenMixerChannel
+
+05_35_07_00 (4662053): GenesysGenDspPlugInChain
+
+06_35_07_00 (4662054): GenesysGenSubmixDspPlugIn
+
+07_35_07_00 (4662055): GenesysGenSendDspPlugIn
+
+08_35_07_00 (4662056): GenesysGenPan2ddspPlugIn
+
+0A_43_0B_00 (7569496): GenesysGenSoundDistanceFalloff
+
+1C_38_0B_00 (7557728): GenesysGenMixerChannel
+
+1D_38_0B_00 (7557729): GenesysGenDspPlugInChain
+
+1E_38_0B_00 (7557730): GenesysGenSubmixDspPlugIn
+
+1F_38_0B_00 (7557731): GenesysGenPan2ddspPlugIn
+
+20_38_0B_00 (7557732): GenesysGenSendDspPlugIn
+
+21_38_0B_00 (7557733): GenesysGenSendDspPlugIn
+
+22_38_0B_00 (7557734): GenesysGenSendDspPlugIn
+
+2A_3A_0B_00 (7559046): GenesysGenSequence
+
+33_75_00_00 (196611): GenesysGenMixerChannel
+
+47_39_0B_00 (7558489): GenesysGenMixingGroup
+
+49_20_16_00 (21299287): GenesysGenPostFxstate
+
+4A_20_16_00 (21299288): GenesysGenPostFxKeyframe
+
+5C_04_1C_00 (25387300): GenesysGenPeakingDspPlugIn
+
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+74_72_00_00 (168704): GenesysGenSoundDistanceFalloff
+
+81_34_07_00 (4661651): GenesysGenDspPlugInChain
+
+84_34_07_00 (4661654): GenesysGenMixerChannel
+
+86_34_07_00 (4661656): GenesysGenSubmixDspPlugIn
+
+88_34_07_00 (4661760): GenesysGenSendDspPlugIn
+
+8C_34_07_00 (4661764): GenesysGenDistortionDspPlugIn
+
+8E_34_07_00 (4661766): GenesysGenMixerChannel
+
+90_34_07_00 (4661768): GenesysGenDspPlugInChain
+
+92_34_07_00 (4661776): GenesysGenSubmixDspPlugIn
+
+93_34_07_00 (4661777): GenesysGenSendDspPlugIn
+
+98_34_07_00 (4661782): GenesysGenPeakingDspPlugIn
+
+9A_34_07_00 (4661784): GenesysGenPeakingDspPlugIn
+
+9B_34_07_00 (4661785): GenesysGenPeakingDspPlugIn
+
+9C_34_07_00 (4661792): GenesysGenPeakingDspPlugIn
+
+9F_34_07_00 (4661795): GenesysGenDspPlugInChain
+
+A0_34_07_00 (4661796): GenesysGenSubmixDspPlugIn
+
+A1_34_07_00 (4661797): GenesysGenSendDspPlugIn
+
+A3_34_07_00 (4661799): GenesysGenHighPassButterworthDspPlugIn
+
+A4_34_07_00 (4661800): GenesysGenHighPassButterworthDspPlugIn
+
+A5_34_07_00 (4661801): GenesysGenMixerChannel
+
+A6_34_07_00 (4661808): GenesysGenSendDspPlugIn
+
+A7_34_07_00 (4661809): GenesysGenSendDspPlugIn
+
+A9_34_07_00 (4661811): GenesysGenSubHarmoniserDspPlugIn
+
+B0_71_0B_00 (7667712): GenesysGenMixerChannel
+
+B1_35_07_00 (4662423): GenesysGenSendDspPlugIn
+
+B1_71_0B_00 (7667713): GenesysGenDspPlugInChain
+
+B2_71_0B_00 (7667714): GenesysGenSubmixDspPlugIn
+
+B3_71_0B_00 (7667715): GenesysGenPeakingDspPlugIn
+
+B4_71_0B_00 (7667716): GenesysGenPeakingDspPlugIn
+
+B5_71_0B_00 (7667717): GenesysGenSendDspPlugIn
+
+B6_71_0B_00 (7667718): GenesysGenSendDspPlugIn
+
+E6_37_0B_00 (7557638): GenesysGenMixingGroup
+
+E8_79_00_00 (201224): GenesysGenHeatLevelSoundSet
+
+EA_39_0B_00 (7558946): GenesysGenDspPlugInChain
+
+EB_39_0B_00 (7558947): GenesysGenSndPlayerDspPlugIn
+
+EC_39_0B_00 (7558948): GenesysGenSendDspPlugIn
+
+ED_39_0B_00 (7558949): GenesysGenSendDspPlugIn
+
+F0_34_07_00 (4662020): GenesysGenDspPlugInChain
+
+F1_34_07_00 (4662021): GenesysGenMixerChannel
+
+F1_66_0D_00 (8880929): GenesysGenMixerChannel
+
+F2_34_07_00 (4662022): GenesysGenSendDspPlugIn
+
+F3_34_07_00 (4662023): GenesysGenSubmixDspPlugIn
+
+F4_34_07_00 (4662024): GenesysGenDelayDspPlugIn
+
+FB_E0_14_00 (20349717): GenesysGenSendDspPlugIn
+
+FC_1F_18_00 (22548562): GenesysGenSequence

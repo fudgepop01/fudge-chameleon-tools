@@ -1,0 +1,77 @@
+00_F1_07_00 (5375048): GenesysGenDamageBarProfiles
+
+18_57_07_00 (4722760): GenesysGenCameraGameplayShakeEffect
+
+1D_57_07_00 (4722771): GenesysGenCollisionEffects
+
+28_29_10_00 (17142034): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 0
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+2B_29_10_00 (17142037): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 0
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+31_F1_07_00 (5375127): GenesysGenRaceCarHandlingDisruptionEffect
+
+32_F1_07_00 (5375128): GenesysGenRaceCarHandlingDisruptionEffect
+
+82_A5_06_00 (4412806): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 1
+  
+8A_A5_06_00 (4412820): GenesysGenRaceCarHandlingDisruptionEffect
+
+8B_A5_06_00 (4412821): GenesysGenRaceCarHandlingDisruptionEffect
+
+8C_A5_06_00 (4412822): GenesysGenRaceCarHandlingDisruptionEffect
+
+8D_A5_06_00 (4412823): GenesysGenRaceCarHandlingDisruptionEffect
+
+BE_A5_06_00 (4412998): GenesysGenPhysicsCrashingRules
+more info:
+  GenesysGenPhysicsCrashingRulesImpactRulesCount: 0
+  LandingRulesCount: 0
+  PlayerRulesCount: 1
+  PropsRulesCount: 0
+  RoadblockRulesCount: 1
+  TrafficRulesCount: 1
+  WorldRulesCount: 0
+  
+BF_28_10_00 (17141767): GenesysGenPhysicsDamageBarProfile
+
+C6_F0_07_00 (5374864): GenesysGenCollisionResponsesGlobal
+
+C7_28_10_00 (17141781): GenesysGenPhysicsDamageBarProfile
+
+C8_28_10_00 (17141782): GenesysGenPhysicsDamageBarProfile
+
+C9_F0_07_00 (5374867): GenesysGenCollisionResponsesRaceCar
+
+CB_28_10_00 (17141785): GenesysGenPhysicsDamageBarProfile
+
+CB_D7_05_00 (3680547): GenesysGenCameraGameplayShakeEffect
+
+CE_D7_05_00 (3680550): GenesysGenCollisionInfo
+
+E0_F0_07_00 (5374998): GenesysGenImpactDamageGraphs
+
+FE_F0_07_00 (5375046): GenesysGenCollisionResponsesWorld
