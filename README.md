@@ -23,6 +23,7 @@ Current Toolkit:
 - type extractor 
     - also a kaitai struct parser generator
 - "universal" kaitai struct file that can parse most files within `GenesysObject` folders
+    - a `GenesysObject` instance analysis that gives a list of files within various game BNDL `GenesysObject` folders and shows what type they are 
 - event file rebuilder
 
 --- 
