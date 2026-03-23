@@ -1,0 +1,3567 @@
+146165144147145160157160060061o
+
+
+00_00_2E_A1
+>> 14: (00_00_2E_A1)
+>> id: (78_B8_84_C8)
+  0x0   : 
+           muId: {FE_8E_E1_AD}
+  0x1   : 
+           muId: {FD_8E_E1_AD}
+  0x2   : 
+           muId: {FC_8E_E1_AD}
+  0x3   : 
+           muId: {FB_8E_E1_AD}
+  0x4   : 
+           muId: {FA_8E_E1_AD}
+  0x5   : 
+           muId: {F9_8E_E1_AD}
+
+00_00_2F_F0
+>> 14: (00_00_2F_F0)
+>> id: (6B_30_DF_8D)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {D7_79_73_2F}
+  0x2   : 
+           muId: {9B_EC_27_2A}
+  0x3   : 
+           muId: {E6_7F_FC_5B}
+
+00_00_30_1D
+>> 14: (00_00_30_1D)
+>> id: (72_89_45_9B)
+  0x0   : 
+           muId: {72_61_65_4E} ("Near")
+  0x1   : 
+           muId: {A9_79_61_AF} ("Mid")
+  0x2   : 
+           muId: {C7_B0_54_56} ("Far")
+  0x3   : 
+           muId: {83_C6_1A_AE}
+
+00_00_30_22
+>> 14: (00_00_30_22)
+>> id: (67_D7_0B_E4)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {F5_F5_17_79} ("Low")
+  0x2   : 
+           muId: {7C_11_17_37} ("Normal")
+  0x3   : 
+           muId: {D1_39_23_42} ("Extreme")
+
+00_00_30_27
+>> 14: (00_00_30_27)
+>> id: (5B_0C_BB_E9)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {43_1F_71_DE} ("Engine")
+  0x2   : 
+           muId: {64_69_6B_53} ("Skid")
+  0x3   : 
+           muId: {5C_54_8F_56} ("Player")
+  0x4   : 
+           muId: {4E_36_FD_D9} ("Competitor")
+  0x5   : 
+           muId: {66_34_1C_3B} ("Traffic")
+  0x6   : 
+           muId: {D6_A4_6E_A4} ("UI")
+
+00_00_30_35
+>> 14: (00_00_30_35)
+>> id: (F5_D8_E5_75)
+  0x0   : 
+           muId: {30_B3_5E_B7}
+  0x1   : 
+           muId: {0F_2F_C9_CD} ("HighCost")
+
+00_00_30_38
+>> 14: (00_00_30_38)
+>> id: (B9_1B_F6_75)
+  0xFFFFFFFF: 
+           muId: {2F_F4_88_A4} ("Invalid")
+  0x0   : 
+           muId: {87_D5_C8_D5} ("Match")
+  0x1   : 
+           muId: {DF_C2_6B_91} ("Linear")
+  0x2   : 
+           muId: {F2_1E_23_46} ("Exponential")
+
+00_00_30_3D
+>> 14: (00_00_30_3D)
+>> id: (7A_AF_67_31)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {3E_8E_17_A6} ("Power")
+  0x2   : 
+           muId: {71_A4_DD_D2} ("Multiply")
+
+00_00_31_B6
+>> 14: (00_00_31_B6)
+>> id: (14_50_77_C0)
+  0x0   : 
+           muId: {67_9C_D8_B4}
+  0x1   : 
+           muId: {7D_E6_E8_F3}
+  0x2   : 
+           muId: {DD_5F_E1_C3}
+
+00_00_31_BA
+>> 14: (00_00_31_BA)
+>> id: (E7_77_7F_16)
+  0x0   : 
+           muId: {4D_F0_F0_59}
+  0x1   : 
+           muId: {87_25_FE_6A}
+  0x2   : 
+           muId: {4D_31_C7_67}
+  0x3   : 
+           muId: {73_C1_16_1B}
+  0x4   : 
+           muId: {84_77_F1_19}
+  0x5   : 
+           muId: {54_44_F2_BC}
+  0x6   : 
+           muId: {C3_EF_CD_74}
+  0x7   : 
+           muId: {C5_5B_59_AD}
+  0x8   : 
+           muId: {7E_8F_36_F3}
+
+00_00_31_C4
+>> 14: (00_00_31_C4)
+>> id: (C2_80_41_BB)
+  0x0   : 
+           muId: {23_29_08_87}
+  0x1   : 
+           muId: {21_B7_25_48}
+  0x2   : 
+           muId: {EA_C1_C5_69}
+  0x3   : 
+           muId: {D8_47_A4_C9}
+  0x4   : 
+           muId: {4E_A2_DA_94}
+  0x5   : 
+           muId: {AF_41_35_37}
+
+00_00_31_CA
+>> 14: (00_00_31_CA)
+>> id: (75_EC_07_44)
+  0x0   : 
+           muId: {2F_D0_38_35}
+  0x1   : 
+           muId: {CB_80_4F_63} ("Translation")
+  0x2   : 
+           muId: {B8_71_8B_0C} ("Rotation")
+  0x3   : 
+           muId: {F0_A1_42_A7} ("Scale")
+
+00_00_31_D2
+>> 14: (00_00_31_D2)
+>> id: (3D_F2_54_1A)
+  0xA   : 
+           muId: {CE_F1_A2_11}
+  0xB   : 
+           muId: {CD_F1_A2_11}
+  0xC   : 
+           muId: {CC_F1_A2_11}
+
+00_03_F3_C4
+>> 14: (00_03_F3_C4)
+>> id: (E9_83_6B_41)
+  0x0   : 
+           muId: {7B_8B_EC_84} ("Loaded")
+  0x1   : 
+           muId: {BE_71_16_22} ("Streamed")
+  0x2   : 
+           muId: {D7_3D_47_3D}
+  0x3   : 
+           muId: {88_8F_99_0A} ("DecayExceptionally")
+  0x4   : 
+           muId: {FD_74_B8_98}
+
+00_03_F6_5B
+>> 14: (00_03_F6_5B)
+>> id: (1F_10_F4_F8)
+  0x0   : 
+           muId: {71_A4_DD_D2} ("Multiply")
+  0x1   : 
+           muId: {B7_24_D9_D3} ("Offset")
+  0x2   : 
+           muId: {AD_51_CA_80} ("Absolute")
+
+00_03_F6_83
+>> 14: (00_03_F6_83)
+>> id: (27_D3_D1_B5)
+  0x0   : 
+           muId: {65_6D_69_54} ("Time")
+  0x1   : 
+           muId: {2F_2A_F7_F0} ("Binding")
+
+00_03_F6_D5
+>> 14: (00_03_F6_D5)
+>> id: (2D_AC_77_5B)
+  0x0   : 
+           muId: {6E_69_61_47} ("Gain")
+  0x1   : 
+           muId: {62_6D_FD_DD}
+  0x2   : 
+           muId: {B6_4C_02_1B}
+  0x3   : 
+           muId: {24_B4_00_B7}
+  0x4   : 
+           muId: {A3_3C_27_9F} ("Peak_Frequency")
+  0x5   : 
+           muId: {BF_6D_8C_74} ("Peak_Gain")
+  0x6   : 
+           muId: {70_9E_54_74} ("Peak_Q")
+  0x7   : 
+           muId: {6E_12_8F_04}
+  0x8   : 
+           muId: {CC_1A_C0_B6} ("Low_Shelf_Gain")
+  0x9   : 
+           muId: {54_D1_1B_6B}
+  0xA   : 
+           muId: {19_6A_BE_7B}
+  0xB   : 
+           muId: {B0_F4_CB_32}
+  0xC   : 
+           muId: {4D_1A_DF_CC}
+  0xD   : 
+           muId: {97_AF_50_A8}
+  0xE   : 
+           muId: {7D_F9_C2_3E}
+  0xF   : 
+           muId: {C8_59_21_A6}
+  0x10  : 
+           muId: {77_06_BA_73}
+  0x11  : 
+           muId: {E1_5F_CD_CF}
+  0x12  : 
+           muId: {FB_1E_2E_1A} ("Compressor_Ratio")
+  0x13  : 
+           muId: {0C_1A_84_2B} ("Compressor_Threshold")
+  0x14  : 
+           muId: {5D_CE_14_C5} ("VocallyImpose")
+  0x15  : 
+           muId: {22_AF_C6_5C} ("Compressor_Release")
+  0x16  : 
+           muId: {AF_5A_73_AB}
+
+00_03_F7_15
+>> 14: (00_03_F7_15)
+>> id: (62_59_41_A5)
+  0x0   : 
+           muId: {6B_8F_0F_FA} ("NicknameViolation")
+  0x1   : 
+           muId: {E0_B7_38_E3}
+  0x2   : 
+           muId: {67_61_72_44} ("Drag")
+  0x3   : 
+           muId: {3E_CA_B9_FA} ("Engine_Load")
+  0x4   : 
+           muId: {56_4E_2A_10} ("Throttle")
+
+00_03_F8_50
+>> 14: (00_03_F8_50)
+>> id: (94_43_88_5B)
+  0x0   : 
+           muId: {09_18_80_69}
+  0x1   : 
+           muId: {48_5E_48_D7}
+  0x2   : 
+           muId: {CA_0B_2C_A4}
+  0x3   : 
+           muId: {4A_D9_63_82}
+
+00_04_5E_F1
+>> 14: (00_04_5E_F1)
+>> id: (5E_33_0B_DA)
+  0x0   : 
+           muId: {7C_43_47_1C}
+  0x1   : 
+           muId: {8D_82_E4_9F}
+  0x2   : 
+           muId: {8D_8A_8C_B6}
+  0x3   : 
+           muId: {00_7F_2B_72}
+
+00_04_5F_AD
+>> 14: (00_04_5F_AD)
+>> id: (6C_DA_3C_82)
+  0x0   : 
+           muId: {8A_B5_45_87}
+  0x1   : 
+           muId: {41_5E_CB_20}
+
+00_04_63_4A
+>> 14: (00_04_63_4A)
+>> id: (5C_8E_0A_D7)
+  0x0   : 
+           muId: {37_37_BE_BB} ("Deducted_Shield")
+  0x1   : 
+           muId: {B0_68_5D_A5}
+
+00_05_AB_65
+>> 14: (00_05_AB_65)
+>> id: (F9_19_F3_8A)
+  0x0   : 
+           muId: {6A_E7_4E_DE}
+  0x1   : 
+           muId: {6D_4C_5C_18} ("Default")
+  0x2   : 
+           muId: {FB_0C_F8_06}
+  0x3   : 
+           muId: {42_F8_98_D0}
+  0x4   : 
+           muId: {79_61_72_58} ("Xray")
+  0x5   : 
+           muId: {0B_7C_E1_2A}
+
+00_06_CC_2F
+>> 14: (00_06_CC_2F)
+>> id: (C1_D7_AD_B8)
+  0x0   : 
+           muId: {1D_77_B6_15}
+  0x1   : 
+           muId: {77_A2_FA_B6}
+
+00_07_33_EE
+>> 14: (00_07_33_EE)
+>> id: (6C_BB_B2_36)
+  0x0   : 
+           muId: {41_2B_2C_3D} ("Source")
+  0x1   : 
+           muId: {02_3A_94_0F}
+  0x2   : 
+           muId: {01_3A_94_0F} ("PerceivesSeveral")
+  0x3   : 
+           muId: {00_3A_94_0F}
+  0x4   : 
+           muId: {07_3A_94_0F}
+  0x5   : 
+           muId: {06_3A_94_0F}
+  0x6   : 
+           muId: {05_3A_94_0F}
+
+00_07_57_09
+>> 14: (00_07_57_09)
+>> id: (BE_D9_B3_DC)
+  0x0   : 
+           muId: {EB_EF_7E_4D}
+  0x1   : 
+           muId: {AE_0F_34_C4}
+
+00_07_BC_8A
+>> 14: (00_07_BC_8A)
+>> id: (00_E0_CF_C5)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {FB_0C_F8_06}
+
+00_09_37_A3
+>> 14: (00_09_37_A3)
+>> id: (89_71_BF_E5)
+  0x0   : 
+           muId: {6D_4C_5C_18} ("Default")
+  0x1   : 
+           muId: {D5_BD_40_AB} ("Helicopter")
+
+05_89_A9_77
+>> 14: (05_89_A9_77)
+>> id: (45_63_C9_EF)
+  0x0   : 
+           muId: {65_64_61_46} ("Fade")
+  0x1   : 
+           muId: {65_76_6F_4D} ("Move")
+  0x2   : 
+           muId: {AC_7B_F4_41}
+  0x3   : 
+           muId: {AA_D2_1A_9F}
+  0x4   : 
+           muId: {F0_A1_42_A7} ("Scale")
+  0x5   : 
+           muId: {AE_D5_D2_92}
+  0x6   : 
+           muId: {69_7B_3B_A8}
+  0x7   : 
+           muId: {FE_1F_25_23}
+  0x8   : 
+           muId: {9D_FD_26_EE}
+  0x9   : 
+           muId: {B9_4A_87_0C}
+  0xA   : 
+           muId: {FF_26_CB_1F}
+  0xB   : 
+           muId: {70_F6_B0_FC}
+  0xC   : 
+           muId: {5F_BD_22_70}
+  0xD   : 
+           muId: {74_6E_69_54} ("Tint")
+  0xE   : 
+           muId: {08_12_BE_79}
+  0xF   : 
+           muId: {F0_A6_42_AC}
+  0x10  : 
+           muId: {B2_2D_87_0C}
+  0x11  : 
+           muId: {06_18_5C_F6}
+  0x12  : 
+           muId: {27_C7_D9_97}
+
+06_A9_64_CD
+>> 14: (06_A9_64_CD)
+>> id: (5D_DE_DF_37)
+  0x0   : 
+           muId: {3F_B9_A2_E0}
+  0x1   : 
+           muId: {34_01_02_DE} ("Vertical")
+
+34_26_5A_75
+>> 14: (34_26_5A_75)
+>> id: (13_DA_36_B7)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {9F_46_AD_C8} ("Random")
+  0x2   : 
+           muId: {49_41_3A_9F}
+  0x3   : 
+           muId: {7D_0D_B6_C2}
+
+35_A6_06_1E
+>> 14: (35_A6_06_1E)
+>> id: (BD_68_AC_27)
+  0x0   : 
+           muId: {54_46_45_4C} ("LEFT")
+  0x1   : 
+           muId: {44_E1_F2_A1}
+  0x2   : 
+           muId: {76_98_A5_89}
+  0x3   : 
+           muId: {4C_4C_55_46} ("FULL")
+
+35_D6_2D_64
+>> 14: (35_D6_2D_64)
+>> id: (99_7B_C8_C2)
+  0x0   : 
+           muId: {65_64_61_46} ("Fade")
+  0x1   : 
+           muId: {65_76_6F_4D} ("Move")
+  0x2   : 
+           muId: {AC_7B_F4_41}
+  0x3   : 
+           muId: {AA_D2_1A_9F}
+  0x4   : 
+           muId: {F0_A1_42_A7} ("Scale")
+  0x5   : 
+           muId: {AE_D5_D2_92}
+  0x6   : 
+           muId: {69_7B_3B_A8}
+  0x7   : 
+           muId: {FE_1F_25_23}
+  0x8   : 
+           muId: {9D_FD_26_EE}
+  0x9   : 
+           muId: {B9_4A_87_0C}
+  0xA   : 
+           muId: {FF_26_CB_1F}
+  0xB   : 
+           muId: {70_F6_B0_FC}
+  0xC   : 
+           muId: {5F_BD_22_70}
+  0xD   : 
+           muId: {74_6E_69_54} ("Tint")
+  0xE   : 
+           muId: {08_12_BE_79}
+  0xF   : 
+           muId: {F0_A6_42_AC}
+  0x10  : 
+           muId: {B2_2D_87_0C}
+  0x11  : 
+           muId: {06_18_5C_F6}
+  0x12  : 
+           muId: {27_C7_D9_97}
+
+40_99_F3_AC
+>> 14: (40_99_F3_AC)
+>> id: (F4_2F_C5_FA)
+  0x0   : 
+           muId: {3F_B9_A2_E0}
+  0x1   : 
+           muId: {34_01_02_DE} ("Vertical")
+
+5B_33_21_F5
+>> 14: (5B_33_21_F5)
+>> id: (1F_57_D7_27)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {49_41_3A_9F}
+  0x2   : 
+           muId: {7D_0D_B6_C2}
+  0x3   : 
+           muId: {47_B5_F7_C9}
+
+70_F4_BB_E0
+>> 14: (70_F4_BB_E0)
+>> id: (AF_8E_19_A6)
+  0x0   : 
+           muId: {54_46_45_4C} ("LEFT")
+  0x1   : 
+           muId: {44_E1_F2_A1}
+  0x2   : 
+           muId: {76_98_A5_89}
+  0x3   : 
+           muId: {4C_4C_55_46} ("FULL")
+
+8E_7D_5F_21
+>> 14: (8E_7D_5F_21)
+>> id: (FB_03_4A_40)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {9F_46_AD_C8} ("Random")
+  0x2   : 
+           muId: {49_41_3A_9F}
+  0x3   : 
+           muId: {7D_0D_B6_C2}
+
+96_C1_53_69
+>> 14: (96_C1_53_69)
+>> id: (37_40_EB_94)
+  0x0   : 
+           muId: {2C_88_F6_EC}
+  0x1   : 
+           muId: {15_B7_6E_AE}
+  0x2   : 
+           muId: {67_D3_F5_E0}
+
+C9_7E_AA_DA
+>> 14: (C9_7E_AA_DA)
+>> id: (71_C9_CB_4D)
+  0x0   : 
+           muId: {67_9C_D8_B4}
+  0x1   : 
+           muId: {7D_E6_E8_F3}
+  0x2   : 
+           muId: {DD_5F_E1_C3}
+
+char
+>> 14: (8C_FE_57_9F)
+>> id: (05_52_C1_F7)
+
+uint32_t
+>> 14: (0E_2A_F3_81)
+>> id: (D4_2E_65_69)
+
+CgsCore.StringBase
+>> 14: (40_40_43_01)
+>> id: (95_FB_EA_BE)
+  0x0   : char (offset) [size @ 0x4]
+           muId: {3F_7A_EB_8F} ("Buffer")
+  0x4   : uint32_t
+           muId: {38_73_C0_7F} ("Capacity")
+
+CgsCore.UniqueId
+>> 14: (B9_22_85_F2)
+>> id: (83_06_B9_EF)
+
+CgsResource.Handle
+>> 14: (0B_3F_E4_8A)
+>> id: (A3_E1_89_8A)
+
+D0_00_70_01
+>> 14: (D0_00_70_01)
+>> id: (20_DE_F9_DC)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {49_41_3A_9F}
+  0x2   : 
+           muId: {7D_0D_B6_C2}
+  0x3   : 
+           muId: {47_B5_F7_C9}
+
+D7_B2_21_DA
+>> 14: (D7_B2_21_DA)
+>> id: (9D_2C_86_6C)
+  0x0   : 
+           muId: {B7_6F_D1_6F}
+  0x1   : 
+           muId: {CB_30_B6_CD}
+  0x2   : 
+           muId: {20_64_E9_88}
+
+DA_DC_9B_17
+>> 14: (DA_DC_9B_17)
+>> id: (65_AA_51_DB)
+  0x0   : 
+           muId: {4D_F0_F0_59}
+  0x1   : 
+           muId: {87_25_FE_6A}
+  0x2   : 
+           muId: {4D_31_C7_67}
+  0x3   : 
+           muId: {73_C1_16_1B}
+  0x4   : 
+           muId: {84_77_F1_19}
+  0x5   : 
+           muId: {54_44_F2_BC}
+  0x6   : 
+           muId: {C3_EF_CD_74}
+  0x7   : 
+           muId: {C5_5B_59_AD}
+  0x8   : 
+           muId: {7E_8F_36_F3}
+
+F7_FF_D1_F8
+>> 14: (F7_FF_D1_F8)
+>> id: (28_F2_CF_9E)
+  0x0   : 
+           muId: {54_46_45_4C} ("LEFT")
+  0x1   : 
+           muId: {44_E1_F2_A1}
+  0x2   : 
+           muId: {76_98_A5_89}
+  0x3   : 
+           muId: {4C_4C_55_46} ("FULL")
+
+float32_t
+>> 14: (53_0A_6D_87)
+>> id: (E4_97_56_9F)
+
+Genesys.Object
+>> 14: (2E_DB_25_E7)
+>> id: (43_95_24_D7)
+
+Genesys.Gen.SequenceItem extends Genesys.Object
+>> 14: (00_03_F7_A0)
+>> id: (69_49_4F_68)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+
+Genesys.Gen.AddBehaviourSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_05_A1_A1)
+>> id: (FF_33_3D_E7)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : CgsResource.Handle
+           muId: {B8_E3_07_D4} ("Behaviour")
+
+Genesys.Gen.AnimationSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_03_F3_DF)
+>> id: (88_89_DE_F6)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : CgsResource.Handle
+           muId: {5E_3E_69_17}
+
+Genesys.Gen.ApplyVehicleKickSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_05_D7_B0)
+>> id: (B8_93_80_28)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : float32_t
+           muId: {B2_60_1C_2D} ("Strength")
+
+Genesys.Gen.WeaponUpgrade extends Genesys.Object
+>> 14: (00_04_64_5A)
+>> id: (34_EB_FC_7E)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x18  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+
+Genesys.Gen.ArcLightConeUpgrade extends Genesys.Gen.WeaponUpgrade
+>> 14: (00_04_64_9C)
+>> id: (F3_E9_59_FE)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x18  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x1C  : float32_t
+           muId: {06_D4_A2_88}
+  0x20  : float32_t
+           muId: {92_EF_D9_CC}
+  0x24  : float32_t
+           muId: {21_51_AD_BB}
+
+bool8_t
+>> 14: (52_46_D7_8C)
+>> id: (0F_EE_3F_41)
+
+Genesys.Gen.Behaviour extends Genesys.Object
+>> 14: (00_00_27_18)
+>> id: (09_97_15_D1)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+
+uint16_t
+>> 14: (A3_2A_93_D6)
+>> id: (82_F3_7A_EC)
+
+Genesys.Gen.BusMixerChannelSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_03_F6_D3)
+>> id: (D1_65_21_59)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : CgsCore.UniqueId
+           muId: {DA_EE_69_94} ("Bus")
+  0x24  : 00_03_F6_D4_1 * [size @ 0x28]
+           muId: {8D_85_34_FA} ("Automated_Values")
+  0x28  : uint16_t
+           muId: {17_BF_58_A2} ("Automated_ValuesCount")
+
+Genesys.Gen.BusMixerChannelSequenceItem.BusMixerChannelDoubleValue extends Genesys.Object
+>> 14: (00_03_F6_D4)
+>> id: (02_74_D0_24)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : 00_03_F6_5A_1 *
+           muId: {91_F0_4C_F8} ("ModulatingValue")
+  0x14  : 00_03_F6_D5_1
+           muId: {61_5B_90_EE} ("BusMixerChannelProperty")
+
+Genesys.Gen.CameraGameplayShakeEffect extends Genesys.Object
+>> 14: (00_06_8F_D8)
+>> id: (D5_69_9B_70)
+  0xC   : 00_06_8F_DA_1
+           muId: {CB_80_4F_63} ("Translation")
+  0xA4  : 00_06_8F_D9_1
+           muId: {B8_71_8B_0C} ("Rotation")
+  0x130 : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.CameraGameplayShakeEffect.Rotation extends Genesys.Object
+>> 14: (00_06_8F_D9)
+>> id: (48_B8_4C_B2)
+  0xC   : 00_06_8F_DB_1
+           muId: {24_88_14_A0} ("Pitch")
+  0x34  : 00_06_8F_DB_1
+           muId: {6C_6C_6F_52} ("Roll")
+  0x5C  : 00_06_8F_DB_1
+           muId: {29_87_BD_41} ("Yaw")
+  0x84  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x88  : float32_t
+           muId: {90_AB_84_91} ("Amplitude")
+
+Genesys.Gen.CameraGameplayShakeEffect.Rotation.AxisParams extends Genesys.Object
+>> 14: (00_06_8F_DB)
+>> id: (D9_B1_E6_09)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {90_AB_84_91} ("Amplitude")
+  0x14  : float32_t
+           muId: {B6_A4_2F_67} ("Damping")
+  0x18  : float32_t
+           muId: {8A_44_7E_12} ("Maximum_Angle")
+  0x1C  : float32_t
+           muId: {A9_03_B2_87} ("Minimum_Angle")
+  0x20  : float32_t
+           muId: {82_CB_00_16} ("Spring_Coefficient")
+  0x24  : bool8_t
+           muId: {DC_FE_2F_B5} ("Invert_Force_Direction")
+
+Genesys.Gen.CameraGameplayShakeEffect.Translation extends Genesys.Object
+>> 14: (00_06_8F_DA)
+>> id: (33_A1_3E_49)
+  0xC   : 00_06_8F_DC_1
+           muId: {E7_1E_9F_5E} ("X")
+  0x38  : 00_06_8F_DC_1
+           muId: {51_02_5E_5A} ("Y")
+  0x64  : 00_06_8F_DC_1
+           muId: {8B_27_1D_57} ("Z")
+  0x90  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x94  : float32_t
+           muId: {90_AB_84_91} ("Amplitude")
+
+Genesys.Gen.CameraGameplayShakeEffect.Translation.AxisParams extends Genesys.Object
+>> 14: (00_06_8F_DC)
+>> id: (D2_62_D8_63)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {90_AB_84_91} ("Amplitude")
+  0x14  : float32_t
+           muId: {79_0A_FD_00} ("Inwards_Damping")
+  0x18  : float32_t
+           muId: {51_54_94_BE} ("Lower_Translation_Limit")
+  0x1C  : float32_t
+           muId: {75_E0_E5_F6} ("Outwards_Damping")
+  0x20  : float32_t
+           muId: {82_CB_00_16} ("Spring_Coefficient")
+  0x24  : float32_t
+           muId: {CD_C7_E9_81} ("Upper_Translation_Limit")
+  0x28  : bool8_t
+           muId: {DC_FE_2F_B5} ("Invert_Force_Direction")
+
+Genesys.Gen.CameraShakeSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_07_56_E8)
+>> id: (5C_D0_42_36)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : 00_06_8F_D8_1 *
+           muId: {EE_84_CE_5A}
+
+Genesys.Gen.Corona extends Genesys.Object
+>> 14: (00_00_27_B3)
+>> id: (F8_19_E6_79)
+  0xC   : float32_t [6] [size @ 0x80]
+           muId: {00_B5_D3_E4}
+  0x24  : float32_t [6] [size @ 0x82]
+           muId: {CC_12_B2_56}
+  0x3C  : float32_t [6] [size @ 0x88]
+           muId: {30_0C_64_B6}
+  0x54  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x58  : float32_t
+           muId: {33_85_B6_88} ("MaxVisibleDistance")
+  0x5C  : float32_t
+           muId: {A7_E3_E3_C4} ("VisibilityTestDepthBias")
+  0x60  : 00_00_32_93_1 * [size @ 0x78]
+           muId: {21_66_92_E9} ("Beams")
+  0x64  : 00_00_32_94_1 * [size @ 0x7C]
+           muId: {E8_70_03_A3} ("Flares")
+  0x68  : 00_00_32_91_1 * [size @ 0x7A]
+           muId: {5F_D1_C1_60} ("EnvMapGlows")
+  0x6C  : 00_00_32_91_1 * [size @ 0x7E]
+           muId: {4A_17_59_F7} ("Glows")
+  0x70  : 00_00_32_91_1 * [size @ 0x84]
+           muId: {F2_D7_92_23} ("PlanarReflectionGlows")
+  0x74  : 00_00_32_91_1 * [size @ 0x86]
+           muId: {AB_81_E3_9E} ("RearViewMirrorGlows")
+  0x78  : uint16_t
+           muId: {D0_8D_3F_B8} ("BeamsCount")
+  0x7A  : uint16_t
+           muId: {77_85_D7_2A} ("EnvMapGlowsCount")
+  0x7C  : uint16_t
+           muId: {A3_D9_5B_62} ("FlaresCount")
+  0x7E  : uint16_t
+           muId: {53_DC_A8_EE} ("GlowsCount")
+  0x80  : uint16_t
+           muId: {79_CC_75_EA}
+  0x82  : uint16_t
+           muId: {B5_04_35_CC}
+  0x84  : uint16_t
+           muId: {AD_87_F3_0A} ("PlanarReflectionGlowsCount")
+  0x86  : uint16_t
+           muId: {79_7B_77_D9} ("RearViewMirrorGlowsCount")
+  0x88  : uint16_t
+           muId: {8F_D8_C8_AF}
+
+rw.math.vpu.Vector4
+>> 14: (28_20_9F_12)
+>> id: (C2_29_A8_2F)
+  0x0   : float32_t [4] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+Genesys.Gen.Corona.Beam extends Genesys.Object
+>> 14: (00_00_32_93)
+>> id: (B5_9A_5E_DC)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : float32_t [6] [size @ 0x74]
+           muId: {F6_83_27_E2}
+  0x38  : float32_t [6] [size @ 0x76]
+           muId: {7A_1C_D7_A4}
+  0x50  : CgsResource.Handle
+           muId: {8E_CD_E5_01} ("Material")
+  0x58  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x5C  : float32_t
+           muId: {F4_AA_07_17} ("Brightness")
+  0x60  : float32_t
+           muId: {74_17_53_A9} ("DepthBias")
+  0x64  : float32_t
+           muId: {40_76_D0_FC}
+  0x68  : float32_t
+           muId: {7E_4D_97_A2} ("EndRadius")
+  0x6C  : float32_t
+           muId: {DA_AD_57_CB}
+  0x70  : float32_t
+           muId: {FE_5F_B6_E9} ("StartRadius")
+  0x74  : uint16_t
+           muId: {3A_1F_C4_7A}
+  0x76  : uint16_t
+           muId: {D9_84_1A_13}
+
+Genesys.Gen.Corona.EnvMapGlow extends Genesys.Object
+>> 14: (00_00_32_92)
+>> id: (A2_B1_30_07)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : float32_t [6] [size @ 0x6C]
+           muId: {F6_83_27_E2}
+  0x38  : float32_t [6] [size @ 0x6E]
+           muId: {7A_1C_D7_A4}
+  0x50  : CgsResource.Handle
+           muId: {8E_CD_E5_01} ("Material")
+  0x58  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x5C  : float32_t
+           muId: {74_17_53_A9} ("DepthBias")
+  0x60  : float32_t
+           muId: {E4_6A_A3_45}
+  0x64  : float32_t
+           muId: {E5_6A_A3_45}
+  0x68  : float32_t
+           muId: {2D_15_11_1F} ("RotationOffset")
+  0x6C  : uint16_t
+           muId: {3A_1F_C4_7A}
+  0x6E  : uint16_t
+           muId: {D9_84_1A_13}
+
+Genesys.Gen.Corona.Flare extends Genesys.Object
+>> 14: (00_00_32_94)
+>> id: (AD_A5_0D_DC)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : float32_t [6] [size @ 0x70]
+           muId: {F6_83_27_E2}
+  0x38  : float32_t [6] [size @ 0x72]
+           muId: {7A_1C_D7_A4}
+  0x50  : CgsResource.Handle
+           muId: {8E_CD_E5_01} ("Material")
+  0x58  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x5C  : float32_t
+           muId: {F4_AA_07_17} ("Brightness")
+  0x60  : float32_t
+           muId: {A3_CA_56_A1} ("Position")
+  0x64  : float32_t
+           muId: {E4_6A_A3_45}
+  0x68  : float32_t
+           muId: {E5_6A_A3_45}
+  0x6C  : float32_t
+           muId: {2D_15_11_1F} ("RotationOffset")
+  0x70  : uint16_t
+           muId: {3A_1F_C4_7A}
+  0x72  : uint16_t
+           muId: {D9_84_1A_13}
+  0x74  : bool8_t
+           muId: {16_84_81_B6}
+
+Genesys.Gen.Corona.Glow extends Genesys.Object
+>> 14: (00_00_32_91)
+>> id: (B9_30_1E_9C)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : float32_t [6] [size @ 0x70]
+           muId: {F6_83_27_E2}
+  0x38  : float32_t [6] [size @ 0x72]
+           muId: {7A_1C_D7_A4}
+  0x50  : CgsResource.Handle
+           muId: {8E_CD_E5_01} ("Material")
+  0x58  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x5C  : float32_t
+           muId: {F4_AA_07_17} ("Brightness")
+  0x60  : float32_t
+           muId: {74_17_53_A9} ("DepthBias")
+  0x64  : float32_t
+           muId: {E4_6A_A3_45}
+  0x68  : float32_t
+           muId: {E5_6A_A3_45}
+  0x6C  : float32_t
+           muId: {2D_15_11_1F} ("RotationOffset")
+  0x70  : uint16_t
+           muId: {3A_1F_C4_7A}
+  0x72  : uint16_t
+           muId: {D9_84_1A_13}
+
+Genesys.Gen.DustStormMinimapUpgrade extends Genesys.Gen.WeaponUpgrade
+>> 14: (00_04_64_BF)
+>> id: (8A_C1_4C_BB)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x18  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x1C  : float32_t
+           muId: {27_E1_55_E4}
+
+Genesys.Gen.EnvironmentKeyframe extends Genesys.Object
+>> 14: (00_00_27_DD)
+>> id: (8C_47_45_F7)
+  0xC   : CgsResource.Handle
+           muId: {A4_01_94_6F}
+  0x14  : CgsResource.Handle
+           muId: {92_9C_02_33} ("ColourCube")
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : 00_00_27_DD_1_5 *
+           muId: {5C_01_E4_09}
+  0x24  : 00_00_27_DD_1_4 *
+           muId: {9D_91_39_3A}
+  0x28  : 00_00_27_DD_1_2 *
+           muId: {D8_1E_DA_6A}
+  0x2C  : 00_00_27_DD_1_8 *
+           muId: {85_D1_61_14}
+  0x30  : 00_00_27_DD_1_1 *
+           muId: {19_79_01_86}
+  0x34  : 00_00_27_DD_1_7 *
+           muId: {B6_5A_EA_2D}
+  0x38  : 00_00_27_DD_1_3 *
+           muId: {CC_B0_FA_7D}
+  0x3C  : 00_00_27_DD_1_6 *
+           muId: {53_1B_EF_1D}
+  0x40  : 00_00_27_DD_1_9 *
+           muId: {97_28_E5_0C}
+
+Genesys.Gen.EnvironmentKeyframe.Camera extends Genesys.Object
+>> 14: (00_00_27_DD_0_5)
+>> id: (70_F6_15_8C)
+  0x10  : rw.math.vpu.Vector4
+           muId: {5B_B3_A4_96}
+  0x20  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x24  : float32_t
+           muId: {AC_03_0E_E1}
+  0x28  : float32_t
+           muId: {E8_70_8F_A9}
+  0x2C  : float32_t
+           muId: {68_6E_43_99}
+  0x30  : float32_t
+           muId: {EC_F4_9F_E5}
+  0x34  : float32_t
+           muId: {34_46_7C_2B}
+  0x38  : float32_t
+           muId: {28_99_D2_9D}
+  0x3C  : float32_t
+           muId: {11_3A_FD_D1}
+  0x40  : float32_t
+           muId: {2C_C5_9D_E4}
+  0x44  : float32_t
+           muId: {99_86_32_DA} ("DarkBloomWeight")
+  0x48  : float32_t
+           muId: {13_6C_82_76} ("DarkBloomWhitePoint")
+  0x4C  : float32_t
+           muId: {27_50_EC_3B}
+  0x50  : float32_t
+           muId: {31_58_EC_3B}
+  0x54  : float32_t
+           muId: {17_6F_5B_98}
+  0x58  : float32_t [5] [size @ 0x80]
+           muId: {67_3E_0C_3D}
+  0x6C  : float32_t [4] [size @ 0x82]
+           muId: {6B_11_AB_5C}
+  0x7C  : float32_t
+           muId: {C3_B9_84_6A}
+  0x80  : uint16_t
+           muId: {B7_B7_44_B9}
+  0x82  : uint16_t
+           muId: {FA_86_DC_5A}
+
+Genesys.Gen.EnvironmentKeyframe.Clouds extends Genesys.Object
+>> 14: (00_00_27_DD_0_4)
+>> id: (10_6B_36_D6)
+  0x10  : rw.math.vpu.Vector4
+           muId: {2B_CE_4C_CF}
+  0x20  : rw.math.vpu.Vector4
+           muId: {56_64_DB_7A}
+  0x30  : CgsCore.UniqueId
+           muId: {44_46_A6_F1}
+  0x34  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x38  : float32_t
+           muId: {D8_B9_48_2C} ("Density")
+  0x3C  : float32_t
+           muId: {2C_C4_43_B1}
+  0x40  : float32_t
+           muId: {B2_EE_C7_8F}
+  0x44  : float32_t
+           muId: {F0_A1_42_A7} ("Scale")
+  0x48  : float32_t
+           muId: {D9_BB_8C_0C}
+  0x4C  : float32_t
+           muId: {D8_44_DF_77}
+  0x50  : float32_t
+           muId: {CE_4C_DF_77}
+  0x54  : float32_t
+           muId: {F1_A8_46_B4} ("Speed")
+
+Genesys.Gen.EnvironmentKeyframe.Fog extends Genesys.Object
+>> 14: (00_00_27_DD_0_2)
+>> id: (2F_1E_CB_20)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x24  : float32_t
+           muId: {79_99_79_02}
+  0x28  : float32_t
+           muId: {88_90_8C_07}
+  0x2C  : float32_t
+           muId: {53_06_D2_14}
+  0x30  : float32_t [5] [size @ 0x68]
+           muId: {CB_5C_79_A6}
+  0x44  : float32_t
+           muId: {4E_C5_8D_84} ("FarDistance")
+  0x48  : float32_t
+           muId: {50_D8_6A_92}
+  0x4C  : float32_t
+           muId: {B7_D1_89_3A}
+  0x50  : float32_t
+           muId: {6F_46_91_E3}
+  0x54  : float32_t
+           muId: {6C_46_91_E3}
+  0x58  : float32_t
+           muId: {FE_38_CE_5C}
+  0x5C  : float32_t
+           muId: {3A_53_39_C2} ("NearDistance")
+  0x60  : float32_t
+           muId: {3E_8E_17_A6} ("Power")
+  0x64  : float32_t
+           muId: {84_95_89_3C}
+  0x68  : uint16_t
+           muId: {48_59_46_E2}
+
+Genesys.Gen.EnvironmentKeyframe.HeatHaze extends Genesys.Object
+>> 14: (00_00_27_DD_0_8)
+>> id: (FD_E0_27_12)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {90_AB_84_91} ("Amplitude")
+  0x14  : float32_t
+           muId: {0F_E9_25_EF}
+  0x18  : float32_t
+           muId: {85_32_72_10}
+  0x1C  : float32_t
+           muId: {91_62_09_06} ("Frequency")
+  0x20  : float32_t
+           muId: {B7_D1_89_3A}
+  0x24  : float32_t
+           muId: {FE_38_CE_5C}
+  0x28  : float32_t
+           muId: {07_8B_16_5F}
+  0x2C  : float32_t
+           muId: {DC_6F_2E_4B}
+
+Genesys.Gen.EnvironmentKeyframe.LightRig extends Genesys.Object
+>> 14: (00_00_27_DD_0_1)
+>> id: (64_56_94_63)
+  0x10  : rw.math.vpu.Vector4
+           muId: {9A_32_A1_25}
+  0x20  : rw.math.vpu.Vector4
+           muId: {40_B2_13_68}
+  0x30  : rw.math.vpu.Vector4
+           muId: {47_09_76_E1}
+  0x40  : rw.math.vpu.Vector4
+           muId: {39_2A_3E_A1}
+  0x50  : rw.math.vpu.Vector4
+           muId: {4F_F3_3B_12}
+  0x60  : rw.math.vpu.Vector4
+           muId: {5F_70_37_C8}
+  0x70  : rw.math.vpu.Vector4
+           muId: {C0_0F_90_B8}
+  0x80  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x84  : float32_t
+           muId: {A3_71_4F_4C}
+
+Genesys.Gen.EnvironmentKeyframe.Mini_DOF extends Genesys.Object
+>> 14: (00_00_27_DD_0_7)
+>> id: (DF_92_D1_A0)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {36_65_96_E0}
+  0x14  : float32_t
+           muId: {26_FF_CE_E8}
+  0x18  : float32_t
+           muId: {36_DD_CC_1C}
+
+Genesys.Gen.EnvironmentKeyframe.Sky extends Genesys.Object
+>> 14: (00_00_27_DD_0_3)
+>> id: (CD_A9_F5_19)
+  0x10  : rw.math.vpu.Vector4
+           muId: {DE_CF_96_06}
+  0x20  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x24  : float32_t
+           muId: {A4_51_20_9F}
+  0x28  : float32_t
+           muId: {7E_55_70_E5}
+  0x2C  : float32_t
+           muId: {E0_77_62_EC}
+  0x30  : float32_t
+           muId: {B1_BC_F5_D2}
+  0x34  : float32_t
+           muId: {84_02_C5_68}
+  0x38  : float32_t
+           muId: {54_8A_CB_6A}
+  0x3C  : float32_t
+           muId: {11_B2_7B_F6}
+  0x40  : float32_t
+           muId: {F3_AE_36_AC}
+  0x44  : float32_t
+           muId: {F0_AE_36_AC}
+  0x48  : float32_t * [size @ 0x68]
+           muId: {74_09_C7_24}
+  0x4C  : float32_t
+           muId: {A1_7B_4A_71}
+  0x50  : float32_t
+           muId: {08_74_57_0E}
+  0x54  : float32_t
+           muId: {E5_6A_51_25}
+  0x58  : float32_t
+           muId: {3F_AB_5F_14}
+  0x5C  : float32_t
+           muId: {97_5F_3D_5F}
+  0x60  : float32_t
+           muId: {83_DF_C8_2E}
+  0x64  : float32_t
+           muId: {82_DF_C8_2E}
+  0x68  : uint16_t
+           muId: {D9_85_34_9D}
+
+Genesys.Gen.EnvironmentKeyframe.Vfx extends Genesys.Object
+>> 14: (00_00_27_DD_0_6)
+>> id: (44_8F_40_D6)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {7A_58_70_A8}
+  0x14  : float32_t
+           muId: {6E_5F_2F_EB}
+
+Genesys.Gen.EnvironmentKeyframe.Weather extends Genesys.Object
+>> 14: (00_00_27_DD_0_9)
+>> id: (D9_97_08_86)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {30_68_CD_90}
+  0x14  : float32_t
+           muId: {86_A5_4D_2B}
+  0x18  : float32_t
+           muId: {42_D8_41_01}
+  0x1C  : float32_t
+           muId: {48_5D_EB_E8}
+  0x20  : float32_t
+           muId: {0A_16_21_CB}
+  0x24  : float32_t
+           muId: {BA_BE_CC_1A}
+  0x28  : float32_t
+           muId: {11_56_B1_25}
+
+Genesys.Gen.EnvironmentTimeline extends Genesys.Object
+>> 14: (00_00_27_DF)
+>> id: (91_D5_29_CA)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : 00_00_27_DF_1_1 * [size @ 0x14]
+           muId: {45_C9_DB_CC}
+  0x14  : uint16_t
+           muId: {97_71_7B_DE}
+
+Genesys.Gen.EnvironmentTimeline.TimelineKeyframe extends Genesys.Object
+>> 14: (00_00_27_DF_0_1)
+>> id: (00_42_3F_25)
+  0xC   : CgsResource.Handle
+           muId: {B9_92_56_D6}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {84_C3_6A_DA} ("TimeOfDay")
+
+Genesys.Gen.EnvironmentTimelineSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_07_BC_83)
+>> id: (88_B4_C0_6B)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : CgsResource.Handle
+           muId: {32_BD_AA_5B}
+
+Genesys.Gen.EventTriggerSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_07_56_F0)
+>> id: (96_2D_E0_BF)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+
+uint8_t
+>> 14: (8E_AB_C0_11)
+>> id: (35_34_7F_1D)
+
+Genesys.Gen.ExtraAmmoWeaponUpgrade extends Genesys.Gen.WeaponUpgrade
+>> 14: (00_04_64_93)
+>> id: (62_E1_8B_C6)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x18  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x1C  : uint8_t
+           muId: {B7_2C_33_5A}
+
+Genesys.Gen.FastLaunchWeaponUpgrade extends Genesys.Gen.WeaponUpgrade
+>> 14: (00_0A_68_4E)
+>> id: (EC_6F_CE_1D)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x18  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+
+rw.math.vpu.Vector3
+>> 14: (B6_44_0A_B1)
+>> id: (A5_F5_99_F3)
+  0x0   : float32_t [3] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+Genesys.Gen.Weapon extends Genesys.Object
+>> 14: (00_06_CB_DB)
+>> id: (DB_D6_17_C8)
+  0x10  : rw.math.vpu.Vector3
+           muId: {28_7C_F5_16}
+  0x20  : rw.math.vpu.Vector3
+           muId: {DC_31_09_24}
+  0x30  : CgsResource.Handle
+           muId: {89_30_58_21}
+  0x38  : CgsResource.Handle
+           muId: {78_74_22_AD}
+  0x40  : CgsResource.Handle
+           muId: {4B_39_A7_D4}
+  0x48  : CgsResource.Handle
+           muId: {74_67_CA_B7}
+  0x50  : CgsResource.Handle
+           muId: {B8_79_85_3B}
+  0x58  : CgsResource.Handle
+           muId: {A8_EB_A2_8F}
+  0x60  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x64  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x68  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x6C  : CgsCore.UniqueId
+           muId: {64_62_61_F1}
+  0x70  : CgsCore.UniqueId
+           muId: {F8_29_E6_B0}
+  0x74  : CgsCore.UniqueId
+           muId: {8E_AA_C1_51}
+  0x78  : CgsCore.UniqueId
+           muId: {4C_DA_54_27}
+  0x7C  : CgsCore.UniqueId
+           muId: {BF_34_05_D9}
+  0x80  : CgsCore.UniqueId
+           muId: {AD_64_97_0E} ("ShortName")
+  0x84  : CgsResource.Handle * [size @ 0xA6]
+           muId: {7A_57_A8_30}
+  0x88  : float32_t
+           muId: {97_8C_26_6A}
+  0x8C  : float32_t
+           muId: {4F_20_AF_C4} ("RechargeTime")
+  0x90  : float32_t
+           muId: {1C_89_DE_46}
+  0x94  : 00_07_2A_BE_1 *
+           muId: {ED_C8_04_5A}
+  0x98  : 00_07_2A_BE_1 *
+           muId: {3B_DC_5F_08}
+  0x9C  : 00_07_2A_BE_1 *
+           muId: {F6_D8_2E_E6}
+  0xA0  : 00_04_5F_AD_1
+           muId: {EC_E5_E7_D7}
+  0xA2  : 00_04_5E_F1_1
+           muId: {74_6F_6C_53} ("Slot")
+  0xA4  : bool8_t
+           muId: {C8_C3_DE_FC}
+  0xA5  : uint8_t
+           muId: {D1_05_21_79}
+  0xA6  : uint8_t
+           muId: {FD_22_A9_EE}
+
+Genesys.Gen.FlashHeadlightsWeapon extends Genesys.Gen.Weapon
+>> 14: (00_06_CB_EF)
+>> id: (C9_40_C8_D7)
+  0x10  : rw.math.vpu.Vector3
+           muId: {28_7C_F5_16}
+  0x20  : rw.math.vpu.Vector3
+           muId: {DC_31_09_24}
+  0x30  : CgsResource.Handle
+           muId: {89_30_58_21}
+  0x38  : CgsResource.Handle
+           muId: {78_74_22_AD}
+  0x40  : CgsResource.Handle
+           muId: {4B_39_A7_D4}
+  0x48  : CgsResource.Handle
+           muId: {74_67_CA_B7}
+  0x50  : CgsResource.Handle
+           muId: {B8_79_85_3B}
+  0x58  : CgsResource.Handle
+           muId: {A8_EB_A2_8F}
+  0x60  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x64  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x68  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x6C  : CgsCore.UniqueId
+           muId: {64_62_61_F1}
+  0x70  : CgsCore.UniqueId
+           muId: {F8_29_E6_B0}
+  0x74  : CgsCore.UniqueId
+           muId: {8E_AA_C1_51}
+  0x78  : CgsCore.UniqueId
+           muId: {4C_DA_54_27}
+  0x7C  : CgsCore.UniqueId
+           muId: {BF_34_05_D9}
+  0x80  : CgsCore.UniqueId
+           muId: {AD_64_97_0E} ("ShortName")
+  0x84  : CgsResource.Handle * [size @ 0xA6]
+           muId: {7A_57_A8_30}
+  0x88  : float32_t
+           muId: {97_8C_26_6A}
+  0x8C  : float32_t
+           muId: {4F_20_AF_C4} ("RechargeTime")
+  0x90  : float32_t
+           muId: {1C_89_DE_46}
+  0x94  : 00_07_2A_BE_1 *
+           muId: {ED_C8_04_5A}
+  0x98  : 00_07_2A_BE_1 *
+           muId: {3B_DC_5F_08}
+  0x9C  : 00_07_2A_BE_1 *
+           muId: {F6_D8_2E_E6}
+  0xA0  : 00_04_5F_AD_1
+           muId: {EC_E5_E7_D7}
+  0xA2  : 00_04_5E_F1_1
+           muId: {74_6F_6C_53} ("Slot")
+  0xA4  : bool8_t
+           muId: {C8_C3_DE_FC}
+  0xA5  : uint8_t
+           muId: {D1_05_21_79}
+  0xA6  : uint8_t
+           muId: {FD_22_A9_EE}
+  0xB0  : float32_t
+           muId: {84_CA_8F_71}
+  0xB4  : float32_t
+           muId: {8D_91_A1_52}
+  0xB8  : float32_t
+           muId: {20_06_FD_6F}
+  0xBC  : float32_t
+           muId: {88_46_7C_AF}
+  0xC0  : float32_t
+           muId: {A4_3B_B7_62}
+  0xC4  : float32_t
+           muId: {8B_44_5E_49}
+  0xC8  : float32_t
+           muId: {A8_5F_8C_D7}
+  0xCC  : float32_t
+           muId: {77_2B_94_49}
+  0xD0  : float32_t
+           muId: {70_39_07_9D}
+  0xD4  : float32_t
+           muId: {B1_B7_EF_6A}
+  0xD8  : float32_t
+           muId: {5D_D3_98_5C}
+  0xDC  : float32_t
+           muId: {0A_2B_6E_42}
+  0xE0  : float32_t
+           muId: {FB_41_FB_19}
+  0xE4  : float32_t
+           muId: {B8_42_7B_1A}
+  0xE8  : float32_t
+           muId: {4A_B8_D2_9C}
+  0xEC  : float32_t
+           muId: {D0_1A_C8_65}
+
+Genesys.Gen.HudStyleSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_05_AB_64)
+>> id: (08_37_F3_16)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : 00_05_AB_65_1
+           muId: {6D_15_0A_09}
+
+Genesys.Gen.HypoxParticlesWeaponUpgrade extends Genesys.Gen.WeaponUpgrade
+>> 14: (00_04_64_E8)
+>> id: (E8_37_D4_2C)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x18  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+
+Genesys.Gen.SequenceTimelineController extends Genesys.Object
+>> 14: (00_03_F7_A1)
+>> id: (F2_75_9C_88)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : 00_04_63_4A_1
+           muId: {30_9F_DA_24} ("TriggerType")
+  0x1A  : bool8_t
+           muId: {48_43_0E_2D} ("TestContinuously")
+
+Genesys.Gen.JumpTimelineController extends Genesys.Gen.SequenceTimelineController
+>> 14: (00_03_F7_A4)
+>> id: (06_E6_A5_18)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : 00_04_63_4A_1
+           muId: {30_9F_DA_24} ("TriggerType")
+  0x1A  : bool8_t
+           muId: {48_43_0E_2D} ("TestContinuously")
+  0x1C  : float32_t
+           muId: {60_12_A5_B6} ("DestinationTime")
+  0x20  : float32_t
+           muId: {30_82_CA_24} ("TriggerTime")
+
+Genesys.Gen.LayoutSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_03_F7_A9)
+>> id: (AB_95_3F_0C)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : CgsResource.Handle
+           muId: {AA_97_E5_52}
+  0x28  : CgsResource.Handle
+           muId: {61_3B_69_A0}
+  0x30  : 00_03_F8_50_1
+           muId: {9F_4B_5F_51}
+
+Genesys.Gen.Light_Base extends Genesys.Object
+>> 14: (00_00_28_58)
+>> id: (F1_2B_E6_48)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : 00_00_32_F1_1
+           muId: {B8_EC_0A_80}
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13}
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+
+Genesys.Gen.Light_Base.FlashPattern extends Genesys.Object
+>> 14: (00_00_32_F1)
+>> id: (12_48_17_F4)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+  0x14  : float32_t
+           muId: {91_62_09_06} ("Frequency")
+  0x18  : float32_t
+           muId: {CE_F0_C4_3A}
+  0x1C  : float32_t
+           muId: {B7_24_D9_D3} ("Offset")
+  0x20  : 00_00_2F_F0_1
+           muId: {65_70_79_54} ("Type")
+
+Genesys.Gen.Light_Cone extends Genesys.Gen.Light_Base
+>> 14: (00_00_28_59)
+>> id: (ED_C9_D7_11)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : 00_00_32_F1_1
+           muId: {B8_EC_0A_80}
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13}
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+  0x60  : float32_t
+           muId: {DF_DA_70_54}
+
+Genesys.Gen.MakePhysicalBehaviour extends Genesys.Gen.Behaviour
+>> 14: (00_05_D7_9D)
+>> id: (1C_72_63_08)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+  0x1C  : 00_09_37_A3_1
+           muId: {9F_FE_59_0A}
+  0x1E  : bool8_t
+           muId: {31_08_D6_9A} ("Collidable")
+
+Genesys.Gen.MixerChannel extends Genesys.Object
+>> 14: (00_00_29_8E)
+>> id: (DD_AA_B8_6B)
+  0xC   : CgsResource.Handle
+           muId: {4A_A1_7F_0E} ("DistanceFalloff")
+  0x14  : CgsResource.Handle
+           muId: {7D_0D_6B_05} ("MixingGroup")
+  0x1C  : CgsResource.Handle
+           muId: {88_92_00_1A} ("PlugIn_Chain")
+  0x24  : CgsResource.Handle
+           muId: {56_E4_48_B9} ("VoiceGroup")
+  0x2C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x30  : float32_t
+           muId: {79_5A_36_D6} ("EmitterResponse")
+  0x34  : float32_t
+           muId: {FD_08_94_F0} ("Focus")
+  0x38  : float32_t
+           muId: {6E_69_61_47} ("Gain")
+  0x3C  : float32_t
+           muId: {4F_53_21_5B} ("LfeSend")
+  0x40  : float32_t
+           muId: {9F_77_01_21} ("Panning_Cosine")
+  0x44  : float32_t
+           muId: {E1_A4_56_BD} ("Panning_Divergence")
+  0x48  : float32_t
+           muId: {F1_05_29_47} ("Panning_Sine")
+  0x4C  : float32_t
+           muId: {9B_07_B9_70} ("ReverbSendA")
+  0x50  : float32_t
+           muId: {98_07_B9_70} ("ReverbSendB")
+  0x54  : 00_07_6B_0E_1 * [size @ 0x5A]
+           muId: {9B_68_CE_92} ("Priority")
+  0x58  : 00_00_30_22_1
+           muId: {94_C6_5E_43} ("DopplerModel")
+  0x5A  : uint16_t
+           muId: {9F_60_76_95} ("PriorityCount")
+  0x5C  : bool8_t
+           muId: {27_D0_1D_3D} ("CullPlayingVoices")
+  0x5D  : bool8_t
+           muId: {CE_F5_F5_67} ("Panning_Override")
+  0x5E  : uint8_t
+           muId: {4C_B8_53_16} ("InstanceLimit")
+
+Genesys.Gen.MixerChannel.Priority extends Genesys.Object
+>> 14: (00_07_6B_0E)
+>> id: (85_39_5F_B3)
+  0xC   : uint8_t
+           muId: {9B_68_CE_92} ("Priority")
+
+Genesys.Gen.MixingGroup extends Genesys.Object
+>> 14: (00_00_29_8F)
+>> id: (F1_5E_68_36)
+  0xC   : CgsCore.UniqueId
+           muId: {DA_EE_69_94} ("Bus")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+rw.math.vpu.Matrix44Affine
+>> 14: (D2_77_53_F9)
+>> id: (B6_8B_60_0E)
+  0x0   : rw.math.vpu.Vector4 [4] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+Genesys.Gen.PhysicalDefinition.RigidBody.BoxVolume extends Genesys.Object
+>> 14: (00_00_27_9D_1_2)
+>> id: (9C_CD_D1_68)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : rw.math.vpu.Vector3
+           muId: {AD_FE_27_37} ("Halfsize")
+  0x60  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.PhysicalDefinition.RigidBody.CapsuleVolume extends Genesys.Object
+>> 14: (00_00_27_9D_1_5)
+>> id: (01_12_FC_16)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x54  : float32_t
+           muId: {39_D1_C7_2C} ("HalfLength")
+  0x58  : float32_t
+           muId: {81_5C_A0_C2} ("Radius")
+
+Genesys.Gen.PhysicalDefinition.RigidBody.ConvexHullVolume extends Genesys.Object
+>> 14: (00_00_27_9D_1_6)
+>> id: (63_33_D3_31)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : CgsResource.Handle
+           muId: {48_F7_54_A9} ("ConvexHull")
+  0x58  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.PhysicalDefinition.RigidBody.CylinderVolume extends Genesys.Object
+>> 14: (00_00_27_9D_1_4)
+>> id: (01_12_FC_16)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x54  : float32_t
+           muId: {39_D1_C7_2C} ("HalfLength")
+  0x58  : float32_t
+           muId: {81_5C_A0_C2} ("Radius")
+
+Genesys.Gen.PhysicalDefinition.RigidBody.SphereVolume extends Genesys.Object
+>> 14: (00_00_27_9D_1_3)
+>> id: (F9_19_5E_AF)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {7C_AC_84_D0} ("VolumeToBodyTransform")
+  0x50  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x54  : float32_t
+           muId: {81_5C_A0_C2} ("Radius")
+
+Genesys.Gen.PhysicalDefinition.RigidBody extends Genesys.Object
+>> 14: (00_00_27_9D_1_1)
+>> id: (8C_CA_12_B3)
+  0x10  : rw.math.vpu.Matrix44Affine
+           muId: {B4_29_0C_0D} ("BodyToObjectTransform")
+  0x50  : rw.math.vpu.Vector3
+           muId: {D9_2B_70_D2} ("ComOffset")
+  0x60  : rw.math.vpu.Vector3
+           muId: {92_53_E1_9C} ("Inertia_Scale")
+  0x70  : rw.math.vpu.Vector3
+           muId: {83_D6_DB_62} ("LocalAABBCenter")
+  0x80  : rw.math.vpu.Vector3
+           muId: {ED_02_E9_98} ("LocalAABBHalfDiagonal")
+  0x90  : bool8_t * [size @ 0xCA]
+           muId: {E1_DD_AD_8E} ("SymmetricalInAxis")
+  0x94  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x98  : float32_t
+           muId: {F6_C6_48_56} ("AngularDrag")
+  0x9C  : float32_t
+           muId: {C1_37_AC_44} ("Bounciness")
+  0xA0  : float32_t
+           muId: {97_A1_39_96} ("Friction")
+  0xA4  : float32_t
+           muId: {F4_35_68_FA} ("LinearDrag")
+  0xA8  : float32_t
+           muId: {73_73_61_4D} ("Mass")
+  0xAC  : Genesys.Gen.PhysicalDefinition.RigidBody.BoxVolume * [size @ 0xC0]
+           muId: {41_5A_25_F6} ("BoxVolumes")
+  0xB0  : Genesys.Gen.PhysicalDefinition.RigidBody.CapsuleVolume * [size @ 0xC2]
+           muId: {06_57_96_0A} ("CapsuleVolumes")
+  0xB4  : Genesys.Gen.PhysicalDefinition.RigidBody.ConvexHullVolume * [size @ 0xC4]
+           muId: {0B_A1_22_AA} ("ConvexHullVolumes")
+  0xB8  : Genesys.Gen.PhysicalDefinition.RigidBody.CylinderVolume * [size @ 0xC6]
+           muId: {A4_FD_AF_8B} ("CylinderVolumes")
+  0xBC  : Genesys.Gen.PhysicalDefinition.RigidBody.SphereVolume * [size @ 0xC8]
+           muId: {39_1A_FA_62} ("SphereVolumes")
+  0xC0  : uint16_t
+           muId: {34_D3_A3_68} ("BoxVolumesCount")
+  0xC2  : uint16_t
+           muId: {44_D1_CD_27} ("CapsuleVolumesCount")
+  0xC4  : uint16_t
+           muId: {F8_BE_96_4B} ("ConvexHullVolumesCount")
+  0xC6  : uint16_t
+           muId: {7D_47_C4_83} ("CylinderVolumesCount")
+  0xC8  : uint16_t
+           muId: {66_1D_4F_2E} ("SphereVolumesCount")
+  0xCA  : uint16_t
+           muId: {73_97_49_BB} ("SymmetricalInAxisCount")
+  0xCC  : bool8_t
+           muId: {44_6B_47_3C} ("IsWheel")
+
+int32_t
+>> 14: (12_D4_6C_62)
+>> id: (83_BE_99_18)
+
+Genesys.Gen.PhysicalDefinition extends Genesys.Object
+>> 14: (00_00_27_9D_1)
+>> id: (92_BF_42_33)
+  0x10  : rw.math.vpu.Vector3
+           muId: {83_D6_DB_62} ("LocalAABBCenter")
+  0x20  : rw.math.vpu.Vector3
+           muId: {ED_02_E9_98} ("LocalAABBHalfDiagonal")
+  0x30  : CgsResource.Handle
+           muId: {E1_20_AA_B8} ("AdditionalInfo")
+  0x38  : CgsCore.StringBase * [size @ 0x4E]
+           muId: {48_B9_10_6D} ("RigidBodiesNames")
+  0x3C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x40  : Genesys.Gen.PhysicalDefinition.RigidBody * [size @ 0x4C]
+           muId: {B7_06_5A_53} ("RigidBodies")
+  0x44  : int32_t
+           muId: {7F_3F_5D_65} ("GameChangerId")
+  0x48  : int32_t
+           muId: {EF_2A_BE_64} ("MainRigidBodyIndex")
+  0x4C  : uint16_t
+           muId: {9C_34_C5_52} ("RigidBodiesCount")
+  0x4E  : uint16_t
+           muId: {52_4C_2E_3A} ("RigidBodiesNamesCount")
+
+Genesys.Gen.PhysicsSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_03_F7_13)
+>> id: (5B_EB_4F_2F)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : 00_03_F7_14_1 * [size @ 0x24]
+           muId: {8D_85_34_FA} ("Automated_Values")
+  0x24  : uint16_t
+           muId: {17_BF_58_A2} ("Automated_ValuesCount")
+
+Genesys.Gen.PhysicsSequenceItem.PhysicsDoubleValue extends Genesys.Object
+>> 14: (00_03_F7_14)
+>> id: (EB_CF_86_B0)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : 00_03_F6_5A_1 *
+           muId: {91_F0_4C_F8} ("ModulatingValue")
+  0x14  : 00_03_F7_15_1
+           muId: {96_5D_52_DE} ("Automated_Property")
+
+Genesys.Gen.PostFXSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_03_F8_61)
+>> id: (99_CB_68_36)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : CgsResource.Handle
+           muId: {53_7F_3D_69} ("PostFXState")
+
+Genesys.Gen.PostFXState extends Genesys.Object
+>> 14: (00_00_29_C9)
+>> id: (24_B3_7B_28)
+  0xC   : 00_00_33_16_1 [2] [size @ 0xF2]
+           muId: {71_99_1A_6A} ("ColourCubes")
+  0x44  : 00_00_33_17_1
+           muId: {34_7A_9C_DD} ("Bloom_Value_Modification")
+  0x5C  : 00_00_33_17_1
+           muId: {81_DC_3E_21} ("Colour_Cube_Value_Modification")
+  0x74  : 00_00_33_17_1
+           muId: {88_33_75_D3} ("DOF_Value_Modification")
+  0x8C  : 00_00_33_17_1
+           muId: {2C_59_D7_F4} ("General_Value_Modification")
+  0xA4  : 00_00_33_17_1
+           muId: {16_DA_CE_77} ("Vignette_Value_Modification")
+  0xBC  : CgsCore.StringBase
+           muId: {55_5D_2A_58} ("ActivityBinding")
+  0xC4  : CgsCore.StringBase
+           muId: {7A_D1_BC_B2} ("KeyframeBlendBinding")
+  0xCC  : CgsCore.StringBase
+           muId: {8D_77_90_8A} ("ValueBinding")
+  0xD4  : CgsResource.Handle
+           muId: {07_C9_DB_CC} ("KeyFrame1")
+  0xDC  : CgsResource.Handle
+           muId: {04_C9_DB_CC} ("KeyFrame2")
+  0xE4  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xE8  : float32_t
+           muId: {FC_CD_F3_8A} ("RateOfChange")
+  0xEC  : float32_t
+           muId: {9B_D3_8A_B2} ("Value")
+  0xF0  : 00_00_30_38_1
+           muId: {CD_4A_42_13} ("ChangeBehaviour")
+  0xF2  : uint16_t
+           muId: {CE_68_8B_D7} ("ColourCubesCount")
+  0xF4  : bool8_t
+           muId: {EE_A5_E8_0E} ("Use_Bloom")
+  0xF5  : bool8_t
+           muId: {C4_09_FB_C2} ("Use_DOF")
+  0xF6  : bool8_t
+           muId: {63_0B_88_B5} ("Use_General_FX")
+  0xF7  : bool8_t
+           muId: {AD_A4_E0_28} ("Use_Vignette")
+
+Genesys.Gen.PostFXState.ColourCubeSettings extends Genesys.Object
+>> 14: (00_00_33_16)
+>> id: (77_93_F8_32)
+  0xC   : CgsResource.Handle
+           muId: {92_9C_02_33} ("ColourCube")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {4F_76_08_C2} ("Zero_If_Not_Set")
+
+Genesys.Gen.PostFXState.ValueModifier extends Genesys.Object
+>> 14: (00_00_33_17)
+>> id: (F5_9A_D1_EA)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {C4_EB_EA_78} ("Modification_Value")
+  0x14  : 00_00_30_3D_1
+           muId: {AD_AC_75_2C} ("Modification_Type")
+
+Genesys.Gen.PostFxKeyframe extends Genesys.Object
+>> 14: (00_00_29_C8)
+>> id: (5A_94_09_DC)
+  0x10  : 00_00_33_12_1
+           muId: {D9_B4_45_3F} ("Vignette")
+  0x80  : 00_00_33_11_1
+           muId: {3F_64_9C_E0} ("Bloom")
+  0xD0  : 00_00_33_13_1
+           muId: {44_59_3A_38} ("General")
+  0xF4  : 00_00_33_14_1
+           muId: {C9_A0_33_E6}
+  0x110 : 00_00_33_15_1
+           muId: {D1_38_06_18} ("Stereo_3D")
+  0x128 : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.PostFxKeyframe.Bloom extends Genesys.Object
+>> 14: (00_00_33_11)
+>> id: (D6_1A_73_ED)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x24  : float32_t
+           muId: {99_86_32_DA} ("DarkBloomWeight")
+  0x28  : float32_t
+           muId: {13_6C_82_76} ("DarkBloomWhitePoint")
+  0x2C  : float32_t
+           muId: {68_96_7D_CF} ("LargeWeight")
+  0x30  : float32_t
+           muId: {92_F8_FE_3E}
+  0x34  : float32_t
+           muId: {C1_36_D3_A3} ("MediumWeight")
+  0x38  : float32_t
+           muId: {0D_D3_C5_29} ("Saturation")
+  0x3C  : float32_t
+           muId: {E2_05_F6_C9} ("SmallWeight")
+  0x40  : float32_t
+           muId: {07_49_56_FF} ("Threshold")
+  0x44  : float32_t
+           muId: {69_A0_E5_41} ("ThresholdLarge")
+  0x48  : float32_t
+           muId: {E6_E3_03_B3} ("ThresholdMedium")
+
+Genesys.Gen.PostFxKeyframe.Depth_of_Field extends Genesys.Object
+>> 14: (00_00_33_14)
+>> id: (5F_65_E8_33)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {3F_FA_87_19}
+  0x14  : float32_t
+           muId: {08_00_CB_96}
+  0x18  : float32_t
+           muId: {32_4C_33_0C}
+
+Genesys.Gen.PostFxKeyframe.General extends Genesys.Object
+>> 14: (00_00_33_13)
+>> id: (F3_88_BB_FD)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {B6_CE_48_A5} ("CarMotionBlur")
+  0x14  : float32_t
+           muId: {6C_CC_66_54} ("WorldColourCubeWeight")
+  0x18  : float32_t
+           muId: {6B_DF_E9_26} ("WorldMotionBlur")
+  0x1C  : float32_t
+           muId: {D2_9B_5C_F7} ("WorldSaturation")
+  0x20  : 00_00_30_35_1
+           muId: {2F_7F_F0_FB}
+
+Genesys.Gen.PostFxKeyframe.Stereo_3D extends Genesys.Object
+>> 14: (00_00_33_15)
+>> id: (4E_EF_3C_C8)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {E4_84_D5_15}
+  0x14  : float32_t
+           muId: {B1_C1_AF_77} ("Focus_Distance")
+
+rw.math.vpu.Vector2
+>> 14: (C1_43_3A_27)
+>> id: (2E_E7_6E_33)
+  0x0   : float32_t [2] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+Genesys.Gen.PostFxKeyframe.Vignette extends Genesys.Object
+>> 14: (00_00_33_12)
+>> id: (BD_8F_1F_F0)
+  0x10  : rw.math.vpu.Vector2
+           muId: {84_77_F1_19}
+  0x20  : rw.math.vpu.Vector2
+           muId: {F0_A1_42_A7} ("Scale")
+  0x30  : rw.math.vpu.Vector4
+           muId: {A6_4F_9C_5E}
+  0x40  : rw.math.vpu.Vector4
+           muId: {14_02_00_5F}
+  0x50  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x54  : float32_t
+           muId: {E7_74_8A_B7}
+  0x58  : float32_t
+           muId: {6E_A8_97_D7} ("FisheyePower")
+  0x5C  : float32_t
+           muId: {A0_87_C2_D6} ("FisheyeScale")
+  0x60  : float32_t
+           muId: {56_87_F4_26} ("FisheyeWarp")
+  0x64  : float32_t
+           muId: {4D_83_81_37} ("Sharpness")
+
+Genesys.Gen.Sequence extends Genesys.Object
+>> 14: (00_03_F7_A2)
+>> id: (FC_F0_5F_E9)
+  0xC   : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsResource.Handle * [size @ 0x2A]
+           muId: {0A_60_45_F7} ("SequenceItems")
+  0x1C  : CgsResource.Handle * [size @ 0x2C]
+           muId: {83_6F_F9_AE} ("TimelineControllers")
+  0x20  : float32_t
+           muId: {85_18_22_1E} ("Binding_Max")
+  0x24  : float32_t
+           muId: {93_10_22_1E} ("Binding_Min")
+  0x28  : 00_03_F6_83_1
+           muId: {27_2B_E1_59} ("Default_Progression_Controller")
+  0x2A  : uint16_t
+           muId: {76_77_5A_88} ("SequenceItemsCount")
+  0x2C  : uint16_t
+           muId: {54_E1_B1_EA} ("TimelineControllersCount")
+
+Genesys.Gen.SequenceItem.ModulatingDoubleValue extends Genesys.Object
+>> 14: (00_03_F6_5A)
+>> id: (B6_DA_E6_71)
+  0xC   : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x14  : CgsResource.Handle
+           muId: {5E_3E_69_17}
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : float32_t
+           muId: {73_61_69_42} ("Bias")
+  0x24  : float32_t
+           muId: {B4_35_8D_03} ("Binding_Exponent")
+  0x28  : float32_t
+           muId: {85_02_9F_17} ("Binding_Range_Max")
+  0x2C  : float32_t
+           muId: {93_0A_9F_17} ("Binding_Range_Min")
+  0x30  : float32_t
+           muId: {EA_C9_1E_4C} ("Output_Value_Max")
+  0x34  : float32_t
+           muId: {FC_C1_1E_4C} ("Output_Value_Min")
+  0x38  : float32_t
+           muId: {9B_D3_8A_B2} ("Value")
+  0x3C  : 00_03_F6_5B_1
+           muId: {7D_CB_18_8A} ("Animation_Modulation_Type")
+  0x3E  : 00_03_F6_5B_1
+           muId: {4F_90_40_BB} ("Binding_Modulation_Type")
+  0x40  : bool8_t
+           muId: {24_B5_41_43} ("Binding_Invert")
+
+Genesys.Gen.SetVisionModeTypeSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_07_BC_89)
+>> id: (5E_5F_4F_4F)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : CgsResource.Handle
+           muId: {AC_8E_94_E2}
+  0x28  : 00_07_BC_8A_1
+           muId: {69_5F_35_CD}
+
+Genesys.Gen.SilentLaunchWeaponUpgrade extends Genesys.Gen.WeaponUpgrade
+>> 14: (00_04_64_5B)
+>> id: (4C_93_B8_27)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x18  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+
+Genesys.Gen.SmokeScreenWeapon extends Genesys.Gen.Weapon
+>> 14: (00_06_CB_EE)
+>> id: (C4_D9_AD_A2)
+  0x10  : rw.math.vpu.Vector3
+           muId: {28_7C_F5_16}
+  0x20  : rw.math.vpu.Vector3
+           muId: {DC_31_09_24}
+  0x30  : CgsResource.Handle
+           muId: {89_30_58_21}
+  0x38  : CgsResource.Handle
+           muId: {78_74_22_AD}
+  0x40  : CgsResource.Handle
+           muId: {4B_39_A7_D4}
+  0x48  : CgsResource.Handle
+           muId: {74_67_CA_B7}
+  0x50  : CgsResource.Handle
+           muId: {B8_79_85_3B}
+  0x58  : CgsResource.Handle
+           muId: {A8_EB_A2_8F}
+  0x60  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x64  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x68  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x6C  : CgsCore.UniqueId
+           muId: {64_62_61_F1}
+  0x70  : CgsCore.UniqueId
+           muId: {F8_29_E6_B0}
+  0x74  : CgsCore.UniqueId
+           muId: {8E_AA_C1_51}
+  0x78  : CgsCore.UniqueId
+           muId: {4C_DA_54_27}
+  0x7C  : CgsCore.UniqueId
+           muId: {BF_34_05_D9}
+  0x80  : CgsCore.UniqueId
+           muId: {AD_64_97_0E} ("ShortName")
+  0x84  : CgsResource.Handle * [size @ 0xA6]
+           muId: {7A_57_A8_30}
+  0x88  : float32_t
+           muId: {97_8C_26_6A}
+  0x8C  : float32_t
+           muId: {4F_20_AF_C4} ("RechargeTime")
+  0x90  : float32_t
+           muId: {1C_89_DE_46}
+  0x94  : 00_07_2A_BE_1 *
+           muId: {ED_C8_04_5A}
+  0x98  : 00_07_2A_BE_1 *
+           muId: {3B_DC_5F_08}
+  0x9C  : 00_07_2A_BE_1 *
+           muId: {F6_D8_2E_E6}
+  0xA0  : 00_04_5F_AD_1
+           muId: {EC_E5_E7_D7}
+  0xA2  : 00_04_5E_F1_1
+           muId: {74_6F_6C_53} ("Slot")
+  0xA4  : bool8_t
+           muId: {C8_C3_DE_FC}
+  0xA5  : uint8_t
+           muId: {D1_05_21_79}
+  0xA6  : uint8_t
+           muId: {FD_22_A9_EE}
+  0xB0  : float32_t
+           muId: {CC_06_BF_90}
+  0xB4  : float32_t
+           muId: {88_46_7C_AF}
+  0xB8  : float32_t
+           muId: {14_3A_EE_65}
+  0xBC  : float32_t
+           muId: {14_4B_EB_C6}
+  0xC0  : float32_t
+           muId: {27_E1_55_E4}
+  0xC4  : float32_t
+           muId: {4E_E2_3C_D7}
+  0xC8  : float32_t
+           muId: {94_C8_7E_53}
+  0xCC  : float32_t
+           muId: {B1_24_C7_8F}
+  0xD0  : float32_t
+           muId: {1D_03_8A_63}
+  0xD4  : float32_t
+           muId: {4E_61_F9_FC}
+  0xD8  : float32_t
+           muId: {23_BA_24_BD}
+
+Genesys.Gen.SoundDistanceFalloff extends Genesys.Object
+>> 14: (00_00_2A_38)
+>> id: (0A_5F_40_DC)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {07_41_3A_21} ("CurveType")
+  0x14  : float32_t
+           muId: {2A_FB_3E_D1} ("CurveTypeReverb")
+  0x18  : float32_t
+           muId: {8D_66_2A_27} ("DivergenceAtMaxDistance")
+  0x1C  : float32_t
+           muId: {D8_4F_56_CF} ("DivergenceAtMinDistance")
+  0x20  : float32_t
+           muId: {F0_A8_3A_E5}
+  0x24  : float32_t
+           muId: {EE_D2_6B_9F}
+  0x28  : float32_t
+           muId: {9C_9E_EC_C1}
+  0x2C  : float32_t
+           muId: {63_72_99_A0}
+  0x30  : float32_t
+           muId: {87_CE_BE_F5} ("MaxDistance")
+  0x34  : float32_t
+           muId: {75_62_45_EE} ("MaxDistanceDivergence")
+  0x38  : float32_t
+           muId: {5F_B0_29_FC} ("MaxDistanceReverb")
+  0x3C  : float32_t
+           muId: {D2_E7_C2_1D} ("MinDistance")
+  0x40  : float32_t
+           muId: {A3_6B_A8_B1} ("MinDistanceDivergence")
+  0x44  : float32_t
+           muId: {38_40_70_7D} ("MinDistanceReverb")
+  0x48  : bool8_t
+           muId: {A5_A2_7C_5E}
+
+Genesys.Gen.SpikeStripBlowoutUpgrade extends Genesys.Gen.WeaponUpgrade
+>> 14: (00_04_64_A4)
+>> id: (02_75_06_F3)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x18  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+
+Genesys.Gen.SpikeStripBodyBlowUpgrade extends Genesys.Gen.WeaponUpgrade
+>> 14: (00_04_64_A3)
+>> id: (55_F0_51_E3)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x18  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x1C  : float32_t
+           muId: {68_D6_BF_76}
+
+Genesys.Gen.SpikeStripWeapon extends Genesys.Gen.Weapon
+>> 14: (00_06_CB_ED)
+>> id: (5E_BD_8A_23)
+  0x10  : rw.math.vpu.Vector3
+           muId: {28_7C_F5_16}
+  0x20  : rw.math.vpu.Vector3
+           muId: {DC_31_09_24}
+  0x30  : CgsResource.Handle
+           muId: {89_30_58_21}
+  0x38  : CgsResource.Handle
+           muId: {78_74_22_AD}
+  0x40  : CgsResource.Handle
+           muId: {4B_39_A7_D4}
+  0x48  : CgsResource.Handle
+           muId: {74_67_CA_B7}
+  0x50  : CgsResource.Handle
+           muId: {B8_79_85_3B}
+  0x58  : CgsResource.Handle
+           muId: {A8_EB_A2_8F}
+  0x60  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x64  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x68  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x6C  : CgsCore.UniqueId
+           muId: {64_62_61_F1}
+  0x70  : CgsCore.UniqueId
+           muId: {F8_29_E6_B0}
+  0x74  : CgsCore.UniqueId
+           muId: {8E_AA_C1_51}
+  0x78  : CgsCore.UniqueId
+           muId: {4C_DA_54_27}
+  0x7C  : CgsCore.UniqueId
+           muId: {BF_34_05_D9}
+  0x80  : CgsCore.UniqueId
+           muId: {AD_64_97_0E} ("ShortName")
+  0x84  : CgsResource.Handle * [size @ 0xA6]
+           muId: {7A_57_A8_30}
+  0x88  : float32_t
+           muId: {97_8C_26_6A}
+  0x8C  : float32_t
+           muId: {4F_20_AF_C4} ("RechargeTime")
+  0x90  : float32_t
+           muId: {1C_89_DE_46}
+  0x94  : 00_07_2A_BE_1 *
+           muId: {ED_C8_04_5A}
+  0x98  : 00_07_2A_BE_1 *
+           muId: {3B_DC_5F_08}
+  0x9C  : 00_07_2A_BE_1 *
+           muId: {F6_D8_2E_E6}
+  0xA0  : 00_04_5F_AD_1
+           muId: {EC_E5_E7_D7}
+  0xA2  : 00_04_5E_F1_1
+           muId: {74_6F_6C_53} ("Slot")
+  0xA4  : bool8_t
+           muId: {C8_C3_DE_FC}
+  0xA5  : uint8_t
+           muId: {D1_05_21_79}
+  0xA6  : uint8_t
+           muId: {FD_22_A9_EE}
+  0xB0  : rw.math.vpu.Vector3
+           muId: {11_C0_2C_3C}
+  0xC0  : rw.math.vpu.Vector3
+           muId: {D8_6F_07_BE}
+  0xD0  : CgsCore.UniqueId
+           muId: {26_FA_8D_48} ("Surface")
+  0xD4  : float32_t
+           muId: {61_30_9D_73}
+  0xD8  : float32_t
+           muId: {2F_6E_26_46}
+  0xDC  : float32_t
+           muId: {41_99_E8_29}
+  0xE0  : float32_t
+           muId: {88_46_7C_AF}
+  0xE4  : float32_t
+           muId: {AE_1A_AD_0C}
+  0xE8  : float32_t
+           muId: {AD_08_AC_73}
+  0xEC  : bool8_t
+           muId: {99_0D_47_2F}
+
+Genesys.Gen.VisionMode extends Genesys.Gen.Weapon
+>> 14: (00_07_BC_7E)
+>> id: (9E_30_79_C4)
+  0x10  : rw.math.vpu.Vector3
+           muId: {28_7C_F5_16}
+  0x20  : rw.math.vpu.Vector3
+           muId: {DC_31_09_24}
+  0x30  : CgsResource.Handle
+           muId: {89_30_58_21}
+  0x38  : CgsResource.Handle
+           muId: {78_74_22_AD}
+  0x40  : CgsResource.Handle
+           muId: {4B_39_A7_D4}
+  0x48  : CgsResource.Handle
+           muId: {74_67_CA_B7}
+  0x50  : CgsResource.Handle
+           muId: {B8_79_85_3B}
+  0x58  : CgsResource.Handle
+           muId: {A8_EB_A2_8F}
+  0x60  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x64  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x68  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x6C  : CgsCore.UniqueId
+           muId: {64_62_61_F1}
+  0x70  : CgsCore.UniqueId
+           muId: {F8_29_E6_B0}
+  0x74  : CgsCore.UniqueId
+           muId: {8E_AA_C1_51}
+  0x78  : CgsCore.UniqueId
+           muId: {4C_DA_54_27}
+  0x7C  : CgsCore.UniqueId
+           muId: {BF_34_05_D9}
+  0x80  : CgsCore.UniqueId
+           muId: {AD_64_97_0E} ("ShortName")
+  0x84  : CgsResource.Handle * [size @ 0xA6]
+           muId: {7A_57_A8_30}
+  0x88  : float32_t
+           muId: {97_8C_26_6A}
+  0x8C  : float32_t
+           muId: {4F_20_AF_C4} ("RechargeTime")
+  0x90  : float32_t
+           muId: {1C_89_DE_46}
+  0x94  : 00_07_2A_BE_1 *
+           muId: {ED_C8_04_5A}
+  0x98  : 00_07_2A_BE_1 *
+           muId: {3B_DC_5F_08}
+  0x9C  : 00_07_2A_BE_1 *
+           muId: {F6_D8_2E_E6}
+  0xA0  : 00_04_5F_AD_1
+           muId: {EC_E5_E7_D7}
+  0xA2  : 00_04_5E_F1_1
+           muId: {74_6F_6C_53} ("Slot")
+  0xA4  : bool8_t
+           muId: {C8_C3_DE_FC}
+  0xA5  : uint8_t
+           muId: {D1_05_21_79}
+  0xA6  : uint8_t
+           muId: {FD_22_A9_EE}
+
+Genesys.Gen.ThermalVisionMode extends Genesys.Gen.VisionMode
+>> 14: (00_07_BC_7F)
+>> id: (4D_BC_1E_69)
+  0x10  : rw.math.vpu.Vector3
+           muId: {28_7C_F5_16}
+  0x20  : rw.math.vpu.Vector3
+           muId: {DC_31_09_24}
+  0x30  : CgsResource.Handle
+           muId: {89_30_58_21}
+  0x38  : CgsResource.Handle
+           muId: {78_74_22_AD}
+  0x40  : CgsResource.Handle
+           muId: {4B_39_A7_D4}
+  0x48  : CgsResource.Handle
+           muId: {74_67_CA_B7}
+  0x50  : CgsResource.Handle
+           muId: {B8_79_85_3B}
+  0x58  : CgsResource.Handle
+           muId: {A8_EB_A2_8F}
+  0x60  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x64  : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x68  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x6C  : CgsCore.UniqueId
+           muId: {64_62_61_F1}
+  0x70  : CgsCore.UniqueId
+           muId: {F8_29_E6_B0}
+  0x74  : CgsCore.UniqueId
+           muId: {8E_AA_C1_51}
+  0x78  : CgsCore.UniqueId
+           muId: {4C_DA_54_27}
+  0x7C  : CgsCore.UniqueId
+           muId: {BF_34_05_D9}
+  0x80  : CgsCore.UniqueId
+           muId: {AD_64_97_0E} ("ShortName")
+  0x84  : CgsResource.Handle * [size @ 0xA6]
+           muId: {7A_57_A8_30}
+  0x88  : float32_t
+           muId: {97_8C_26_6A}
+  0x8C  : float32_t
+           muId: {4F_20_AF_C4} ("RechargeTime")
+  0x90  : float32_t
+           muId: {1C_89_DE_46}
+  0x94  : 00_07_2A_BE_1 *
+           muId: {ED_C8_04_5A}
+  0x98  : 00_07_2A_BE_1 *
+           muId: {3B_DC_5F_08}
+  0x9C  : 00_07_2A_BE_1 *
+           muId: {F6_D8_2E_E6}
+  0xA0  : 00_04_5F_AD_1
+           muId: {EC_E5_E7_D7}
+  0xA2  : 00_04_5E_F1_1
+           muId: {74_6F_6C_53} ("Slot")
+  0xA4  : bool8_t
+           muId: {C8_C3_DE_FC}
+  0xA5  : uint8_t
+           muId: {D1_05_21_79}
+  0xA6  : uint8_t
+           muId: {FD_22_A9_EE}
+
+Genesys.Gen.ThermalVisionModeProperties extends Genesys.Object
+>> 14: (00_07_BC_96)
+>> id: (A2_34_48_A0)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {7F_11_6F_A8}
+  0x14  : float32_t
+           muId: {E4_BE_5C_6D}
+  0x18  : float32_t
+           muId: {1E_CE_2F_3C}
+  0x1C  : float32_t
+           muId: {1B_6A_67_49}
+  0x20  : float32_t
+           muId: {4B_54_6E_80}
+  0x24  : float32_t
+           muId: {B1_24_1D_D1}
+  0x28  : float32_t
+           muId: {D7_3D_A9_51}
+  0x2C  : float32_t
+           muId: {2D_4D_DA_00}
+  0x30  : float32_t
+           muId: {6F_A2_9C_61}
+  0x34  : float32_t
+           muId: {95_D2_EF_30}
+  0x38  : float32_t
+           muId: {3A_F0_5C_CF}
+  0x3C  : float32_t
+           muId: {41_FC_37_F3}
+
+rw.RGBA
+>> 14: (6F_9D_5F_39)
+>> id: (0B_10_18_A7)
+  0x0   : uint8_t [4] [size @ 0x-1]
+           muId: {FF_44_D6_87}
+
+Genesys.Gen.UIColour extends Genesys.Object
+>> 14: (00_07_2A_BE)
+>> id: (3F_0E_3E_55)
+  0xC   : CgsCore.StringBase
+           muId: {BC_15_3D_26}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : rw.RGBA
+           muId: {45_A6_60_34} ("Colour")
+
+Genesys.Gen.UIElementBase.Behaviour extends Genesys.Object
+>> 14: (00_00_2A_7B_1_3)
+>> id: (13_80_30_74)
+  0xC   : CgsCore.StringBase
+           muId: {CF_17_64_60}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {F1_A3_56_AB}
+  0x1C  : float32_t
+           muId: {99_27_19_F3}
+  0x20  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+  0x24  : 35_D6_2D_64
+           muId: {65_70_79_54} ("Type")
+  0x26  : 5B_33_21_F5
+           muId: {65_73_61_45} ("Ease")
+  0x28  : 34_26_5A_75
+           muId: {53_E3_96_D6}
+
+Genesys.Gen.UIElementBase.EffectConstant extends Genesys.Object
+>> 14: (00_00_2A_7B_1_1)
+>> id: (6E_FC_A2_93)
+  0x10  : rw.math.vpu.Vector4
+           muId: {28_6D_98_8F} ("Values")
+  0x20  : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x28  : CgsCore.StringBase
+           muId: {B9_90_A1_AD}
+  0x30  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x34  : int32_t
+           muId: {E6_98_4C_21}
+  0x38  : int32_t
+           muId: {B7_24_D9_D3} ("Offset")
+  0x3C  : int32_t
+           muId: {8C_D4_A5_4C}
+  0x40  : int32_t
+           muId: {C1_37_90_FD}
+
+Genesys.Gen.UIElementBase.RenderingData extends Genesys.Object
+>> 14: (00_00_2A_7B_1_2)
+>> id: (F7_D7_CE_CA)
+  0xC   : CgsResource.Handle
+           muId: {24_C1_74_6B}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {D3_3F_02_DF}
+  0x1C  : CgsResource.Handle * [size @ 0x20]
+           muId: {66_9C_73_6B}
+  0x20  : uint16_t
+           muId: {A8_20_DF_A1}
+
+Genesys.Gen.UIElementBase.Timeline.Behaviour extends Genesys.Object
+>> 14: (00_00_2A_7B_1_5)
+>> id: (26_3B_CD_CB)
+  0xC   : CgsCore.StringBase
+           muId: {CF_17_64_60}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {F1_A3_56_AB}
+  0x1C  : float32_t
+           muId: {99_27_19_F3}
+  0x20  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+  0x24  : 05_89_A9_77
+           muId: {65_70_79_54} ("Type")
+  0x26  : D0_00_70_01
+           muId: {65_73_61_45} ("Ease")
+  0x28  : 8E_7D_5F_21
+           muId: {53_E3_96_D6}
+
+Genesys.Gen.UIElementBase.Timeline extends Genesys.Object
+>> 14: (00_00_2A_7B_1_4)
+>> id: (AE_66_27_C7)
+  0xC   : CgsCore.StringBase
+           muId: {BE_B2_29_83}
+  0x14  : CgsCore.StringBase
+           muId: {D6_79_61_D8}
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : Genesys.Gen.UIElementBase.Timeline.Behaviour * [size @ 0x32]
+           muId: {47_06_06_56}
+  0x24  : Genesys.Gen.UIElementBase.Timeline.Behaviour * [size @ 0x34]
+           muId: {14_57_FD_41}
+  0x28  : Genesys.Gen.UIElementBase.Timeline.Behaviour * [size @ 0x36]
+           muId: {0D_9E_90_9A}
+  0x2C  : int32_t
+           muId: {38_FF_58_06}
+  0x30  : C9_7E_AA_DA
+           muId: {73_6E_0D_E6}
+  0x32  : uint16_t
+           muId: {8A_A0_1C_6B}
+  0x34  : uint16_t
+           muId: {57_84_3D_A9}
+  0x36  : uint16_t
+           muId: {56_0B_A7_04}
+
+Genesys.Gen.UIElementBase extends Genesys.Object
+>> 14: (00_00_2A_7B_1)
+>> id: (E1_90_0E_B0)
+  0xC   : CgsCore.StringBase
+           muId: {B9_90_A1_AD}
+  0x14  : CgsCore.StringBase
+           muId: {3C_9E_06_0D}
+  0x1C  : CgsCore.StringBase
+           muId: {08_66_7B_B0}
+  0x24  : CgsCore.StringBase
+           muId: {85_01_76_F9}
+  0x2C  : CgsCore.StringBase
+           muId: {CD_FA_46_05}
+  0x34  : CgsCore.StringBase
+           muId: {B9_99_9B_80}
+  0x3C  : CgsCore.StringBase
+           muId: {D7_03_8D_3F}
+  0x44  : CgsCore.StringBase
+           muId: {20_09_47_E8}
+  0x4C  : CgsResource.Handle
+           muId: {8E_CD_E5_01} ("Material")
+  0x54  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x58  : CgsCore.UniqueId * [size @ 0xA8]
+           muId: {57_2C_30_3D}
+  0x5C  : CgsCore.UniqueId
+           muId: {A5_62_5D_21}
+  0x60  : CgsCore.UniqueId
+           muId: {CD_C7_F7_4D}
+  0x64  : CgsResource.Handle * [size @ 0xA4]
+           muId: {7C_55_DE_64}
+  0x68  : Genesys.Gen.UIElementBase.Behaviour * [size @ 0xA6]
+           muId: {47_06_06_56}
+  0x6C  : Genesys.Gen.UIElementBase.Behaviour * [size @ 0xAC]
+           muId: {14_57_FD_41}
+  0x70  : Genesys.Gen.UIElementBase.Behaviour * [size @ 0xAE]
+           muId: {0D_9E_90_9A}
+  0x74  : Genesys.Gen.UIElementBase.EffectConstant * [size @ 0xA2]
+           muId: {17_5E_9E_D4}
+  0x78  : Genesys.Gen.UIElementBase.RenderingData *
+           muId: {F0_13_8F_9C}
+  0x7C  : Genesys.Gen.UIElementBase.Timeline * [size @ 0xAA]
+           muId: {B7_57_20_40}
+  0x80  : int32_t
+           muId: {14_71_41_E6}
+  0x84  : int32_t
+           muId: {AA_A8_D3_12} ("PositionX")
+  0x88  : int32_t
+           muId: {AB_A8_D3_12} ("PositionY")
+  0x8C  : int32_t
+           muId: {B8_71_8B_0C} ("Rotation")
+  0x90  : int32_t
+           muId: {38_FF_58_06}
+  0x94  : int32_t
+           muId: {4D_36_BF_12}
+  0x98  : int32_t
+           muId: {8C_D4_A5_4C}
+  0x9C  : int32_t
+           muId: {21_CF_43_BE}
+  0xA0  : DA_DC_9B_17
+           muId: {FD_3F_54_9F}
+  0xA2  : uint16_t
+           muId: {4F_9B_F9_68}
+  0xA4  : uint16_t
+           muId: {5F_D5_23_A1}
+  0xA6  : uint16_t
+           muId: {8A_A0_1C_6B}
+  0xA8  : uint16_t
+           muId: {A1_34_6F_0F}
+  0xAA  : uint16_t
+           muId: {E4_9C_67_E9}
+  0xAC  : uint16_t
+           muId: {57_84_3D_A9}
+  0xAE  : uint16_t
+           muId: {56_0B_A7_04}
+
+Genesys.Gen.UIElement_ElementStack extends Genesys.Object
+>> 14: (00_00_2A_7C)
+>> id: (F2_EB_70_5D)
+  0xC   : CgsCore.StringBase
+           muId: {C5_1A_9B_0B}
+  0x14  : CgsCore.StringBase
+           muId: {14_72_13_B6}
+  0x1C  : CgsCore.StringBase
+           muId: {CA_FF_9E_4C}
+  0x24  : CgsCore.StringBase
+           muId: {F7_B1_55_35}
+  0x2C  : CgsResource.Handle
+           muId: {F3_A5_3B_56}
+  0x34  : CgsResource.Handle
+           muId: {3D_E0_81_DE}
+  0x3C  : CgsResource.Handle
+           muId: {E5_C5_59_46}
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : 00_00_2A_7C_1_1 * [size @ 0x66]
+           muId: {C0_40_98_D9}
+  0x4C  : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+  0x50  : int32_t
+           muId: {F1_02_04_28}
+  0x54  : int32_t
+           muId: {D5_2E_0E_4B}
+  0x58  : int32_t
+           muId: {87_D0_95_C7}
+  0x5C  : int32_t
+           muId: {41_C9_13_6D}
+  0x60  : int32_t
+           muId: {E1_AB_4A_AC}
+  0x64  : 06_A9_64_CD
+           muId: {9A_3A_58_AE}
+  0x66  : uint16_t
+           muId: {7C_0A_CE_73}
+
+Genesys.Gen.UIElement_ElementStack.Template extends Genesys.Object
+>> 14: (00_00_2A_7C_0_1)
+>> id: (BD_4D_CE_FB)
+  0xC   : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x14  : CgsResource.Handle
+           muId: {61_3B_69_A0}
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.UIElement_MainMap extends Genesys.Object
+>> 14: (00_00_2A_7E)
+>> id: (83_16_4A_5D)
+  0x10  : rw.math.vpu.Vector3
+           muId: {31_33_E2_E4}
+  0x20  : rw.math.vpu.Vector4
+           muId: {10_4A_16_21}
+  0x30  : rw.math.vpu.Vector4
+           muId: {C9_08_0B_7A}
+  0x40  : rw.math.vpu.Vector4
+           muId: {85_AA_2B_6D}
+  0x50  : rw.math.vpu.Vector4
+           muId: {CE_13_05_2F}
+  0x60  : rw.math.vpu.Vector4
+           muId: {86_F2_97_03}
+  0x70  : rw.math.vpu.Vector4
+           muId: {4D_55_E0_97}
+  0x80  : rw.math.vpu.Vector4
+           muId: {9A_AB_6D_7C}
+  0x90  : rw.math.vpu.Vector4
+           muId: {AF_D1_83_78}
+  0xA0  : CgsCore.StringBase
+           muId: {69_55_FE_2B}
+  0xA8  : CgsCore.StringBase
+           muId: {5A_2E_0C_E0}
+  0xB0  : CgsCore.StringBase
+           muId: {4E_26_6A_27}
+  0xB8  : CgsCore.StringBase
+           muId: {A0_2A_1B_3F}
+  0xC0  : CgsCore.StringBase
+           muId: {E5_87_0C_5B}
+  0xC8  : CgsCore.StringBase
+           muId: {B8_3F_1D_63}
+  0xD0  : CgsCore.StringBase
+           muId: {F0_BD_42_AC}
+  0xD8  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xDC  : float32_t
+           muId: {96_AA_5F_D0}
+  0xE0  : float32_t
+           muId: {03_A2_99_1A}
+  0xE4  : float32_t
+           muId: {93_F4_1E_59}
+  0xE8  : float32_t
+           muId: {EA_74_D1_EC}
+  0xEC  : float32_t
+           muId: {14_71_41_E6}
+  0xF0  : float32_t
+           muId: {9E_5B_A1_49}
+  0xF4  : float32_t
+           muId: {03_EC_48_F1}
+  0xF8  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0xFC  : float32_t
+           muId: {56_C5_34_19}
+  0x100 : float32_t
+           muId: {3D_2E_A0_C2}
+  0x104 : float32_t
+           muId: {71_CA_F1_09}
+  0x108 : float32_t
+           muId: {21_CF_43_BE}
+  0x10C : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+  0x110 : Genesys.Object *
+           muId: {88_0D_BD_FC}
+  0x114 : Genesys.Object *
+           muId: {08_1D_21_ED}
+  0x118 : Genesys.Object * [size @ 0x124] *
+           muId: {40_AE_D7_C4}
+  0x11C : Genesys.Object *
+           muId: {6B_73_61_4D} ("Mask")
+  0x120 : Genesys.Object *
+           muId: {29_A7_8F_91}
+  0x124 : uint16_t
+           muId: {5E_B4_85_C5}
+  0x126 : bool8_t
+           muId: {61_E1_67_92}
+
+Genesys.Gen.UIElement_Mask extends Genesys.Object
+>> 14: (00_00_2A_7F)
+>> id: (24_E9_85_66)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_47_28_22}
+  0x14  : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+  0x18  : bool8_t
+           muId: {81_62_8D_52}
+
+Genesys.Gen.UIElement_MiniMap extends Genesys.Object
+>> 14: (00_00_2A_7D)
+>> id: (65_A4_3A_9B)
+  0x10  : rw.math.vpu.Vector3
+           muId: {31_33_E2_E4}
+  0x20  : rw.math.vpu.Vector4
+           muId: {10_4A_16_21}
+  0x30  : rw.math.vpu.Vector4
+           muId: {C9_08_0B_7A}
+  0x40  : rw.math.vpu.Vector4
+           muId: {85_AA_2B_6D}
+  0x50  : rw.math.vpu.Vector4
+           muId: {CE_13_05_2F}
+  0x60  : rw.math.vpu.Vector4
+           muId: {86_F2_97_03}
+  0x70  : rw.math.vpu.Vector4
+           muId: {4D_55_E0_97}
+  0x80  : rw.math.vpu.Vector4
+           muId: {9A_AB_6D_7C}
+  0x90  : rw.math.vpu.Vector4
+           muId: {AF_D1_83_78}
+  0xA0  : CgsCore.StringBase
+           muId: {69_55_FE_2B}
+  0xA8  : CgsCore.StringBase
+           muId: {5A_2E_0C_E0}
+  0xB0  : CgsCore.StringBase
+           muId: {4E_26_6A_27}
+  0xB8  : CgsCore.StringBase
+           muId: {A0_2A_1B_3F}
+  0xC0  : CgsCore.StringBase
+           muId: {E5_87_0C_5B}
+  0xC8  : CgsCore.StringBase
+           muId: {B8_3F_1D_63}
+  0xD0  : CgsCore.StringBase
+           muId: {F0_BD_42_AC}
+  0xD8  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xDC  : float32_t
+           muId: {96_AA_5F_D0}
+  0xE0  : float32_t
+           muId: {03_A2_99_1A}
+  0xE4  : float32_t
+           muId: {93_F4_1E_59}
+  0xE8  : float32_t
+           muId: {EA_74_D1_EC}
+  0xEC  : float32_t
+           muId: {14_71_41_E6}
+  0xF0  : float32_t
+           muId: {9E_5B_A1_49}
+  0xF4  : float32_t
+           muId: {03_EC_48_F1}
+  0xF8  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0xFC  : float32_t
+           muId: {56_C5_34_19}
+  0x100 : float32_t
+           muId: {3D_2E_A0_C2}
+  0x104 : float32_t
+           muId: {71_CA_F1_09}
+  0x108 : float32_t
+           muId: {21_CF_43_BE}
+  0x10C : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+  0x110 : Genesys.Object *
+           muId: {88_0D_BD_FC}
+  0x114 : Genesys.Object *
+           muId: {08_1D_21_ED}
+  0x118 : Genesys.Object * [size @ 0x124] *
+           muId: {40_AE_D7_C4}
+  0x11C : Genesys.Object *
+           muId: {6B_73_61_4D} ("Mask")
+  0x120 : Genesys.Object *
+           muId: {29_A7_8F_91}
+  0x124 : uint16_t
+           muId: {5E_B4_85_C5}
+  0x126 : bool8_t
+           muId: {61_E1_67_92}
+
+Genesys.Gen.UIElement_MoviePlayer extends Genesys.Object
+>> 14: (00_00_2A_81)
+>> id: (E6_5B_60_FD)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : 00_00_2A_81_1_1 *
+           muId: {65_7A_69_53} ("Size")
+  0x14  : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+
+Genesys.Gen.UIElement_MoviePlayer.Dimensions extends Genesys.Object
+>> 14: (00_00_2A_81_0_1)
+>> id: (52_AB_E0_8B)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : int32_t
+           muId: {14_71_41_E6}
+  0x14  : int32_t
+           muId: {21_CF_43_BE}
+
+Genesys.Gen.UIElement_PrototypeImage extends Genesys.Object
+>> 14: (00_00_2A_83)
+>> id: (BA_7F_FB_D9)
+  0xC   : CgsCore.StringBase
+           muId: {E2_52_C5_80}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_47_28_22}
+  0x1C  : 00_00_2A_83_1_2 *
+           muId: {B2_EE_C7_8F}
+  0x20  : 00_00_2A_83_1_1 *
+           muId: {74_6E_69_54} ("Tint")
+  0x24  : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+  0x28  : bool8_t
+           muId: {F9_3C_E4_37}
+  0x29  : bool8_t
+           muId: {A2_29_3C_F9}
+
+Genesys.Gen.UIElement_PrototypeImage.Opacity extends Genesys.Object
+>> 14: (00_00_2A_83_0_2)
+>> id: (5D_20_64_2F)
+  0xC   : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : int32_t
+           muId: {9B_D3_8A_B2} ("Value")
+
+Genesys.Gen.UIElement_PrototypeImage.TintProperties extends Genesys.Object
+>> 14: (00_00_2A_83_0_1)
+>> id: (40_5B_B1_D7)
+  0x10  : rw.math.vpu.Vector4
+           muId: {9B_D3_8A_B2} ("Value")
+  0x20  : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x28  : CgsCore.StringBase
+           muId: {79_35_9D_3D}
+  0x30  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.UIElement_PrototypeLabel extends Genesys.Object
+>> 14: (00_00_2A_84)
+>> id: (DA_04_88_B3)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : 00_00_2A_84_1_1 *
+           muId: {33_B8_B9_59}
+  0x14  : 00_00_2A_84_1_2 *
+           muId: {49_35_84_1C}
+  0x18  : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+  0x1C  : int32_t
+           muId: {7D_8D_05_42}
+  0x20  : bool8_t
+           muId: {76_91_D0_26}
+
+Genesys.Gen.UIElement_PrototypeLabel.String extends Genesys.Object
+>> 14: (00_00_2A_84_0_1)
+>> id: (E2_6F_77_C4)
+  0xC   : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {E5_AD_33_CB}
+
+Genesys.Gen.UIElement_PrototypeLabel.TextProperties extends Genesys.Object
+>> 14: (00_00_2A_84_0_2)
+>> id: (C3_D4_63_2A)
+  0x10  : rw.math.vpu.Vector4
+           muId: {67_58_7E_9E}
+  0x20  : CgsCore.StringBase
+           muId: {7F_B1_0E_A4}
+  0x28  : CgsResource.Handle
+           muId: {A7_D6_2D_ED}
+  0x30  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x34  : 70_F4_BB_E0
+           muId: {4F_6F_6E_75} ("unoO")
+  0x36  : bool8_t
+           muId: {00_18_A8_07}
+  0x37  : bool8_t
+           muId: {D9_7D_1B_7D}
+
+Genesys.Gen.UIElement_PrototypeScrollingText extends Genesys.Object
+>> 14: (00_00_2A_85)
+>> id: (CC_86_EC_F8)
+  0xC   : CgsCore.StringBase
+           muId: {C5_1A_9B_0B}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : 00_00_2A_85_1_1 * [size @ 0x2C]
+           muId: {C7_0B_95_4B}
+  0x1C  : 00_00_2A_85_1_2 *
+           muId: {49_35_84_1C}
+  0x20  : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+  0x24  : int32_t
+           muId: {5A_3C_7F_0A}
+  0x28  : int32_t
+           muId: {B2_77_C4_03}
+  0x2C  : uint16_t
+           muId: {65_4D_A8_7B}
+
+Genesys.Gen.UIElement_PrototypeScrollingText.String extends Genesys.Object
+>> 14: (00_00_2A_85_0_1)
+>> id: (DB_B3_6F_3D)
+  0xC   : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {E5_AD_33_CB}
+
+Genesys.Gen.UIElement_PrototypeScrollingText.TextProperties extends Genesys.Object
+>> 14: (00_00_2A_85_0_2)
+>> id: (F8_79_F1_B0)
+  0x10  : rw.math.vpu.Vector4
+           muId: {67_58_7E_9E}
+  0x20  : CgsCore.StringBase
+           muId: {7F_B1_0E_A4}
+  0x28  : CgsResource.Handle
+           muId: {A7_D6_2D_ED}
+  0x30  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x34  : F7_FF_D1_F8
+           muId: {4F_6F_6E_75} ("unoO")
+  0x36  : bool8_t
+           muId: {00_18_A8_07}
+  0x37  : bool8_t
+           muId: {D9_7D_1B_7D}
+
+Genesys.Gen.UIElement_PrototypeShape extends Genesys.Object
+>> 14: (00_00_2A_86)
+>> id: (17_83_63_05)
+  0x10  : rw.math.vpu.Vector4
+           muId: {67_58_7E_9E}
+  0x20  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x24  : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+  0x28  : int32_t
+           muId: {50_EA_9C_92}
+  0x2C  : D7_B2_21_DA
+           muId: {F0_BD_42_AC}
+
+Genesys.Gen.UIElement_ScrollableLabel extends Genesys.Object
+>> 14: (00_00_2A_87)
+>> id: (6E_AB_BC_51)
+  0xC   : CgsCore.StringBase
+           muId: {14_72_13_B6}
+  0x14  : CgsCore.StringBase
+           muId: {CA_FF_9E_4C}
+  0x1C  : CgsCore.StringBase
+           muId: {39_75_31_55} ("U1u9")
+  0x24  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x28  : CgsCore.UniqueId
+           muId: {09_C5_17_C1}
+  0x2C  : float32_t
+           muId: {B2_77_C4_03}
+  0x30  : 00_00_2A_87_1_1 *
+           muId: {33_B8_B9_59}
+  0x34  : 00_00_2A_87_1_2 *
+           muId: {49_35_84_1C}
+  0x38  : Genesys.Gen.UIElementBase *
+           muId: {5F_E8_27_19}
+  0x3C  : Genesys.Object *
+           muId: {3F_08_75_94}
+  0x40  : int32_t
+           muId: {7D_8D_05_42}
+  0x44  : 96_C1_53_69
+           muId: {0D_80_B8_12}
+  0x46  : 40_99_F3_AC
+           muId: {73_66_41_36} ("6Afs")
+  0x48  : bool8_t
+           muId: {76_91_D0_26}
+  0x49  : bool8_t
+           muId: {99_64_68_2C}
+
+Genesys.Gen.UIElement_ScrollableLabel.String extends Genesys.Object
+>> 14: (00_00_2A_87_0_1)
+>> id: (1E_16_9F_CB)
+  0xC   : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {E5_AD_33_CB}
+
+Genesys.Gen.UIElement_ScrollableLabel.TextProperties extends Genesys.Object
+>> 14: (00_00_2A_87_0_2)
+>> id: (41_39_54_24)
+  0x10  : rw.math.vpu.Vector4
+           muId: {67_58_7E_9E}
+  0x20  : CgsCore.StringBase
+           muId: {7F_B1_0E_A4}
+  0x28  : CgsResource.Handle
+           muId: {A7_D6_2D_ED}
+  0x30  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x34  : 35_A6_06_1E
+           muId: {4F_6F_6E_75} ("unoO")
+  0x36  : bool8_t
+           muId: {00_18_A8_07}
+  0x37  : bool8_t
+           muId: {D9_7D_1B_7D}
+
+Genesys.Gen.UILayout extends Genesys.Object
+>> 14: (00_00_2A_8B)
+>> id: (A6_74_11_68)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Object * [size @ 0x14] *
+           muId: {4F_8D_37_03} ("Elements")
+  0x14  : uint16_t
+           muId: {50_29_DF_2C}
+
+Genesys.Gen.UILayoutInstanceParams extends Genesys.Object
+>> 14: (00_00_2A_8D)
+>> id: (D3_A2_8A_A9)
+  0xC   : 00_00_33_78_1
+           muId: {56_95_3E_AC}
+  0x4C  : 00_00_33_77_1
+           muId: {B8_71_8B_0C} ("Rotation")
+  0x74  : 00_00_33_77_1
+           muId: {F0_A1_42_A7} ("Scale")
+  0x9C  : 00_00_33_77_1
+           muId: {CB_80_4F_63} ("Translation")
+  0xC4  : CgsCore.StringBase
+           muId: {19_9B_23_F0}
+  0xCC  : CgsCore.StringBase
+           muId: {AF_80_C8_D5}
+  0xD4  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xD8  : 00_00_33_78_1 * [size @ 0xEA]
+           muId: {B7_57_20_40}
+  0xDC  : 00_00_33_77_1 * [size @ 0xE8]
+           muId: {E9_15_CF_83}
+  0xE0  : int32_t
+           muId: {0F_C9_2D_B2}
+  0xE4  : 00_00_31_BA_1
+           muId: {55_94_DB_81}
+  0xE6  : 00_00_31_C4_1
+           muId: {19_07_56_98}
+  0xE8  : uint16_t
+           muId: {2C_CF_49_0A}
+  0xEA  : uint16_t
+           muId: {E4_9C_67_E9}
+
+Genesys.Gen.UILayoutInstanceParams.TimelineParameters extends Genesys.Object
+>> 14: (00_00_33_78)
+>> id: (2F_72_E7_56)
+  0xC   : CgsCore.StringBase
+           muId: {8D_E1_E0_D5}
+  0x14  : CgsCore.StringBase
+           muId: {BE_B2_29_83}
+  0x1C  : CgsCore.StringBase
+           muId: {15_BE_DF_AE}
+  0x24  : CgsCore.StringBase
+           muId: {F7_3D_60_0B}
+  0x2C  : CgsCore.StringBase
+           muId: {D6_79_61_D8}
+  0x34  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x38  : int32_t
+           muId: {38_FF_58_06}
+  0x3C  : 00_00_31_B6_1
+           muId: {30_9F_DA_24} ("TriggerType")
+
+Genesys.Gen.UILayoutInstanceParams.TransformComponents extends Genesys.Object
+>> 14: (00_00_33_77)
+>> id: (6D_19_4C_19)
+  0xC   : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {E7_1E_9F_5E} ("X")
+  0x1C  : float32_t
+           muId: {51_02_5E_5A} ("Y")
+  0x20  : float32_t
+           muId: {8B_27_1D_57} ("Z")
+  0x24  : 00_00_31_CA_1
+           muId: {65_70_79_54} ("Type")
+
+Genesys.Gen.UIMaterial extends Genesys.Object
+>> 14: (00_00_2A_90)
+>> id: (78_D6_FE_C0)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {8E_CD_E5_01} ("Material")
+  0x14  : CgsResource.Handle * [size @ 0x1E]
+           muId: {B0_0D_A3_4A}
+  0x18  : int32_t
+           muId: {94_D5_C1_A0}
+  0x1C  : 00_06_CC_2F_1
+           muId: {B5_86_48_90}
+  0x1E  : uint16_t
+           muId: {77_71_1F_AD}
+
+Genesys.Gen.UITechnique extends Genesys.Object
+>> 14: (00_00_2A_95)
+>> id: (D8_E0_F9_66)
+  0xC   : CgsCore.StringBase
+           muId: {34_E7_59_B7}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsResource.Handle * [size @ 0x1E]
+           muId: {87_E0_09_6D}
+  0x1C  : 00_00_31_D2_1
+           muId: {AF_4C_6B_CB}
+  0x1E  : uint16_t
+           muId: {BF_CB_4C_F2}
+
+Genesys.Gen.VfxSpotEffectSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_04_90_01)
+>> id: (DB_46_7B_91)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : rw.math.vpu.Vector3
+           muId: {C2_E4_AE_D1}
+  0x30  : CgsCore.StringBase
+           muId: {E6_35_B7_97}
+  0x38  : CgsResource.Handle
+           muId: {9C_9E_3D_87}
+
+Genesys.Gen.WCSequenceBehaviour extends Genesys.Gen.Behaviour
+>> 14: (00_03_F4_12)
+>> id: (CC_58_CA_7A)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+  0x1C  : CgsResource.Handle
+           muId: {EB_97_BD_04} ("Sequence")
+  0x24  : bool8_t
+           muId: {F1_67_D4_0A}
+
+Genesys.Gen.WCVfxBehaviour extends Genesys.Gen.Behaviour
+>> 14: (00_00_2A_E0)
+>> id: (01_F2_27_AD)
+  0xC   : CgsCore.StringBase
+           muId: {34_CE_1F_D1} ("Label")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {F8_A2_28_02} ("ActivateOnHit")
+  0x19  : bool8_t
+           muId: {AD_89_35_71} ("DeactivateOnHit")
+  0x1A  : bool8_t
+           muId: {D0_27_35_54} ("InitiallyOn")
+  0x1C  : CgsResource.Handle
+           muId: {1C_BA_2A_B6} ("ImpactEffect")
+  0x24  : CgsResource.Handle
+           muId: {BE_A2_24_45}
+  0x2C  : float32_t
+           muId: {1F_74_D7_C8} ("FlashFrequency")
+  0x30  : float32_t
+           muId: {61_6F_43_29}
+  0x34  : float32_t
+           muId: {49_0D_F5_5A}
+  0x38  : float32_t
+           muId: {89_B1_B6_17} ("NonprocedurallySlocum")
+  0x3C  : float32_t
+           muId: {79_DB_E8_7F}
+  0x40  : 00_00_33_92_1 * [size @ 0x54]
+           muId: {0E_76_E3_66} ("Coronas")
+  0x44  : 00_00_33_94_1 * [size @ 0x56]
+           muId: {DE_D7_66_98} ("Lights")
+  0x48  : 00_00_33_93_1 * [size @ 0x58]
+           muId: {70_EC_B1_8A}
+  0x4C  : int32_t
+           muId: {1A_19_E7_19}
+  0x50  : int32_t
+           muId: {D5_10_2E_39}
+  0x54  : uint16_t
+           muId: {B0_05_8C_9F} ("CoronasCount")
+  0x56  : uint16_t
+           muId: {E1_FF_1C_E4} ("LightsCount")
+  0x58  : uint16_t
+           muId: {1C_9B_35_8E}
+  0x5A  : bool8_t
+           muId: {AE_AE_EC_9A}
+  0x5B  : bool8_t
+           muId: {CC_25_F9_74}
+  0x5C  : bool8_t
+           muId: {F6_C8_F1_62}
+  0x5D  : bool8_t
+           muId: {1E_F7_62_AD}
+  0x5E  : bool8_t
+           muId: {BB_F7_32_6E}
+  0x5F  : bool8_t
+           muId: {C1_21_EA_74}
+  0x60  : bool8_t
+           muId: {A4_7F_73_98}
+  0x61  : bool8_t
+           muId: {96_32_80_45}
+  0x62  : bool8_t
+           muId: {F7_49_3D_55}
+  0x63  : bool8_t
+           muId: {39_DD_86_04}
+  0x64  : bool8_t
+           muId: {C8_C3_CD_2D}
+  0x65  : bool8_t
+           muId: {9B_36_93_45}
+  0x66  : bool8_t
+           muId: {46_08_82_B1}
+  0x67  : bool8_t
+           muId: {10_E2_F0_90}
+  0x68  : bool8_t
+           muId: {64_FE_44_06}
+  0x69  : bool8_t
+           muId: {85_C9_BC_E9}
+
+Genesys.Gen.WCVfxBehaviour.Coronas extends Genesys.Object
+>> 14: (00_00_33_92)
+>> id: (DF_E3_19_75)
+  0xC   : CgsResource.Handle
+           muId: {92_72_F0_31} ("Corona_definition")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {6D_41_3E_C5} ("Locator_group")
+
+Genesys.Gen.WCVfxBehaviour.Lights extends Genesys.Object
+>> 14: (00_00_33_94)
+>> id: (CB_B3_7B_5B)
+  0xC   : CgsResource.Handle
+           muId: {FF_86_A7_54} ("LightDefinition")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {C1_E1_3F_F7} ("LocatorGroup")
+
+Genesys.Gen.WCVfxBehaviour.SpotEffects extends Genesys.Object
+>> 14: (00_00_33_93)
+>> id: (EC_16_AF_6A)
+  0xC   : CgsResource.Handle
+           muId: {41_D1_31_9A}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {6D_41_3E_C5} ("Locator_group")
+
+Genesys.Gen.WaveSequenceItem extends Genesys.Gen.SequenceItem
+>> 14: (00_03_F3_C0)
+>> id: (35_84_25_6F)
+  0xC   : CgsCore.StringBase
+           muId: {3B_98_31_45} ("EnabledBinding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {14_C6_B9_DD} ("EndTime")
+  0x1C  : float32_t
+           muId: {2B_12_82_6C} ("StartTime")
+  0x20  : 00_03_F6_87_1
+           muId: {BE_2A_61_53} ("Fade_In")
+  0x38  : 00_03_F6_87_1
+           muId: {E1_68_0F_A5} ("Fade_Out")
+  0x50  : CgsCore.StringBase
+           muId: {7D_4D_9B_1E} ("Snapshot_Property")
+  0x58  : CgsCore.StringBase
+           muId: {04_24_A5_15} ("Transform_Override_Binding")
+  0x60  : CgsResource.Handle
+           muId: {C4_60_C7_4B} ("Mixer_Channel")
+  0x68  : CgsResource.Handle * [size @ 0x76]
+           muId: {3A_DE_51_B6} ("Waves")
+  0x6C  : 00_03_F6_5A_1 *
+           muId: {6E_69_61_47} ("Gain")
+  0x70  : 00_03_F6_5A_1 *
+           muId: {24_88_14_A0} ("Pitch")
+  0x74  : 00_03_F3_C4_1
+           muId: {65_70_79_54} ("Type")
+  0x76  : uint16_t
+           muId: {0C_4B_51_BC} ("WavesCount")
+  0x78  : bool8_t
+           muId: {23_92_34_EA} ("Auto_Pitch")
+
+Genesys.Gen.WaveSequenceItem.Fade extends Genesys.Object
+>> 14: (00_03_F6_87)
+>> id: (8A_62_3F_1D)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {80_60_40_FD} ("Curve")
+  0x14  : float32_t
+           muId: {65_6D_69_54} ("Time")
+
+Genesys.Gen.WeaponList extends Genesys.Object
+>> 14: (00_06_CB_DD)
+>> id: (65_70_9E_B3)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsResource.Handle * [size @ 0x14]
+           muId: {96_23_E2_08}
+  0x14  : uint16_t
+           muId: {9B_21_C7_C0}
+
+Genesys.Gen.WeaponRechargeData extends Genesys.Object
+>> 14: (00_07_57_0D)
+>> id: (DB_DB_1A_8E)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {ED_F9_1A_1F}
+  0x14  : float32_t
+           muId: {EA_8A_90_37}
+  0x18  : float32_t
+           muId: {07_36_49_10}
+  0x1C  : float32_t
+           muId: {A6_48_2C_1C}
+  0x20  : 00_07_57_09_1
+           muId: {65_70_79_54} ("Type")
+
+int16_t
+>> 14: (BF_D4_0C_35)
+>> id: (56_24_52_29)
+
+
+> enum (or error) files: 
+00_00_27_DD_1_5
+00_00_27_DD_1_4
+00_00_27_DD_1_2
+00_00_27_DD_1_8
+00_00_27_DD_1_1
+00_00_27_DD_1_7
+00_00_27_DD_1_3
+00_00_27_DD_1_6
+00_00_27_DD_1_9
+00_00_27_DF_1_1
+00_00_2A_7C_1_1
+00_00_2A_81_1_1
+00_00_2A_83_1_2
+00_00_2A_83_1_1
+00_00_2A_84_1_1
+00_00_2A_84_1_2
+00_00_2A_85_1_1
+00_00_2A_85_1_2
+00_00_2A_87_1_1
+00_00_2A_87_1_2

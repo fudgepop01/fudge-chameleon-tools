@@ -1,0 +1,19 @@
+00_05_A8_96 (159573948200): GenesysGenCorona
+
+00_05_F0_07_1 (5152113714): GenesysGenPhysicalDefinition
+
+00_06_FC_FA (283744798216): GenesysGenMakePhysicalBehaviour
+
+00_09_37_7C_1 (139646735720): GenesysGenPhysicalDefinition
+
+00_09_37_87 (147779160388): GenesysGenWcvfxBehaviour
+
+00_09_37_88 (148263436640): GenesysGenWcvfxBehaviour
+
+00_09_5A_CB (223630283666): GenesysGenWcplaySoundBehaviour
+
+00_0A_65_57 (87612953736): GenesysGenWcvfxBehaviour
+
+00_0A_65_58 (88097253124): GenesysGenWcremoveWorldEntityBehaviour
+
+00_0A_65_59 (88474204448): GenesysGenMakePhysicalBehaviour

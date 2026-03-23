@@ -1,0 +1,1844 @@
+{
+  "287120": {
+    "idx": 0,
+    "id": 287120,
+    "name": 1347242,
+    "vehicle": "ford GT",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 1490172,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "287137": {
+    "idx": 1,
+    "id": 287137,
+    "name": 1347244,
+    "vehicle": "jaguar XKR",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "390429": {
+    "idx": 2,
+    "id": 390429,
+    "name": 0,
+    "vehicle": "ford crown vic police",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "characters": [
+      1084751,
+      1084753,
+      1084755,
+      1084763
+    ],
+    "uniqIdInst": [
+      1084891,
+      1084893,
+      1084895,
+      1084897
+    ],
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "390490": {
+    "idx": 3,
+    "id": 390490,
+    "name": 0,
+    "vehicle": "ford crown vic police",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "characters": [
+      1084751,
+      1084753,
+      1084755,
+      1084763
+    ],
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 406622
+    }
+  },
+  "457804": {
+    "idx": 4,
+    "id": 457804,
+    "name": 0,
+    "vehicle": "ford explorer police",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "characters": [
+      1084885,
+      1084887,
+      1084889
+    ],
+    "uniqIdInst": [
+      1084899,
+      1084901,
+      1084903
+    ],
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "523000": {
+    "idx": 5,
+    "id": 523000,
+    "name": 126439,
+    "vehicle": "aston martin vantage",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "730032": {
+    "idx": 6,
+    "id": 730032,
+    "name": 0,
+    "vehicle": "bmw M3 E92",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "906499": {
+    "idx": 7,
+    "id": 906499,
+    "name": 0,
+    "vehicle": "mitsubishi lancer evo",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "955109": {
+    "idx": 8,
+    "id": 955109,
+    "name": 0,
+    "vehicle": "chevrolet corvette Z06 police",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "characters": [
+      1084771,
+      1084773
+    ],
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 406622
+    }
+  },
+  "983972": {
+    "idx": 9,
+    "id": 983972,
+    "name": 0,
+    "vehicle": "bentley supersports",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983973": {
+    "idx": 10,
+    "id": 983973,
+    "name": 0,
+    "vehicle": "bugatty veyron",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983974": {
+    "idx": 11,
+    "id": 983974,
+    "name": 0,
+    "vehicle": "caterham R500",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983975": {
+    "idx": 12,
+    "id": 983975,
+    "name": 0,
+    "vehicle": "ford GT",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983976": {
+    "idx": 13,
+    "id": 983976,
+    "name": 0,
+    "vehicle": "porsche panamera turbo",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983977": {
+    "idx": 14,
+    "id": 983977,
+    "name": 287144,
+    "vehicle": "chevrolet camaro ZL1",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983978": {
+    "idx": 15,
+    "id": 983978,
+    "name": 287144,
+    "vehicle": "dodge challenger SRT8",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983979": {
+    "idx": 16,
+    "id": 983979,
+    "name": 287142,
+    "vehicle": "ford raptor F150",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983980": {
+    "idx": 17,
+    "id": 983980,
+    "name": 287121,
+    "vehicle": "ford mustang boss 302",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983981": {
+    "idx": 18,
+    "id": 983981,
+    "name": 0,
+    "vehicle": "nissan R35",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "983982": {
+    "idx": 19,
+    "id": 983982,
+    "name": 287140,
+    "vehicle": "subaru impreza STI",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "995116": {
+    "idx": 20,
+    "id": 995116,
+    "name": 0,
+    "vehicle": "alfa romeo 4C",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1106233": {
+    "idx": 21,
+    "id": 1106233,
+    "name": 1347245,
+    "vehicle": "land rover evoque",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1106286": {
+    "idx": 22,
+    "id": 1106286,
+    "name": 1347246,
+    "vehicle": "ariel atom V8",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 1490172,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1119734": {
+    "idx": 23,
+    "id": 1119734,
+    "name": 0,
+    "vehicle": "porsche 911",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1132238": {
+    "idx": 24,
+    "id": 1132238,
+    "name": 1132243,
+    "vehicle": "maserati MC12 pre-order",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 1490168,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1132239": {
+    "idx": 25,
+    "id": 1132239,
+    "name": 1132242,
+    "vehicle": "porsche 911 pre-order",
+    "colour": 0,
+    "bodyUpgrade": 1490166,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1156001": {
+    "idx": 26,
+    "id": 1156001,
+    "name": 0,
+    "vehicle": "chevrolet corvette Z06 police",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "characters": [
+      1084751,
+      1084753,
+      1084755,
+      1084763
+    ],
+    "uniqIdInst": [
+      1084891,
+      1084893,
+      1084895,
+      1084897
+    ],
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1156060": {
+    "idx": 27,
+    "id": 1156060,
+    "name": 0,
+    "vehicle": "lamborghini aventador",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1156061": {
+    "idx": 28,
+    "id": 1156061,
+    "name": 0,
+    "vehicle": "maserati GT MC12",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1156062": {
+    "idx": 29,
+    "id": 1156062,
+    "name": 0,
+    "vehicle": "dodge viper SRT8",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1156138": {
+    "idx": 30,
+    "id": 1156138,
+    "name": 0,
+    "vehicle": "chevrolet corvette ZR1",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1156295": {
+    "idx": 31,
+    "id": 1156295,
+    "name": 0,
+    "vehicle": "(cut) Chevrolet Corvette Stingray",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1156297": {
+    "idx": 32,
+    "id": 1156297,
+    "name": 0,
+    "vehicle": "lamborghini countach",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1156542": {
+    "idx": 33,
+    "id": 1156542,
+    "name": 0,
+    "vehicle": "porsche 911 turbo 3",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1212001": {
+    "idx": 34,
+    "id": 1212001,
+    "name": 0,
+    "vehicle": "dodge charger SRT8 police",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "characters": [
+      1084751,
+      1084753,
+      1084755,
+      1084763
+    ],
+    "uniqIdInst": [
+      1084891,
+      1084893,
+      1084895,
+      1084897
+    ],
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1212005": {
+    "idx": 35,
+    "id": 1212005,
+    "name": 0,
+    "vehicle": "dodge charger SRT8 police",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "characters": [
+      1084751,
+      1084753,
+      1084755,
+      1084763
+    ],
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 406622
+    }
+  },
+  "1212060": {
+    "idx": 36,
+    "id": 1212060,
+    "name": 0,
+    "vehicle": "SWAT van",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "characters": [
+      1084885,
+      1084887,
+      1084889
+    ],
+    "uniqIdInst": [
+      1084899,
+      1084901,
+      1084903
+    ],
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1264583": {
+    "idx": 37,
+    "id": 1264583,
+    "name": 0,
+    "vehicle": "mercedes benz SL 65",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1264586": {
+    "idx": 38,
+    "id": 1264586,
+    "name": 0,
+    "vehicle": "tesla roadster sport",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1264587": {
+    "idx": 39,
+    "id": 1264587,
+    "name": 0,
+    "vehicle": "land rover evoque",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1264590": {
+    "idx": 40,
+    "id": 1264590,
+    "name": 0,
+    "vehicle": "mclaren MP4-12C",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1264591": {
+    "idx": 41,
+    "id": 1264591,
+    "name": 0,
+    "vehicle": "aston martin vantage",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1264593": {
+    "idx": 42,
+    "id": 1264593,
+    "name": 0,
+    "vehicle": "pagani huayra",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1347183": {
+    "idx": 43,
+    "id": 1347183,
+    "name": 1347243,
+    "vehicle": "chevrolet camaro ZL1",
+    "colour": 0,
+    "bodyUpgrade": 1490168,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439517": {
+    "idx": 44,
+    "id": 1439517,
+    "name": 0,
+    "vehicle": "audi A1",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439519": {
+    "idx": 45,
+    "id": 1439519,
+    "name": 0,
+    "vehicle": "koenigsegg agera",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439521": {
+    "idx": 46,
+    "id": 1439521,
+    "name": 0,
+    "vehicle": "audi R8",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439523": {
+    "idx": 47,
+    "id": 1439523,
+    "name": 0,
+    "vehicle": "bac mono",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439525": {
+    "idx": 48,
+    "id": 1439525,
+    "name": 0,
+    "vehicle": "(cut) Jeep Grand Cherokee SRT8",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439526": {
+    "idx": 49,
+    "id": 1439526,
+    "name": 0,
+    "vehicle": "porsche 918 concept",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439528": {
+    "idx": 50,
+    "id": 1439528,
+    "name": 0,
+    "vehicle": "lexus LFA",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439530": {
+    "idx": 51,
+    "id": 1439530,
+    "name": 0,
+    "vehicle": "lancia delta HF",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439532": {
+    "idx": 52,
+    "id": 1439532,
+    "name": 0,
+    "vehicle": "mercedes benz SLS",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439534": {
+    "idx": 53,
+    "id": 1439534,
+    "name": 0,
+    "vehicle": "dodge charger SRT8",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439536": {
+    "idx": 54,
+    "id": 1439536,
+    "name": 0,
+    "vehicle": "alfa romeo 4C",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439539": {
+    "idx": 55,
+    "id": 1439539,
+    "name": 0,
+    "vehicle": "lamborghini gallardo",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1439976": {
+    "idx": 56,
+    "id": 1439976,
+    "name": 0,
+    "vehicle": "ford focus RS500",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442226": {
+    "idx": 57,
+    "id": 1442226,
+    "name": 0,
+    "vehicle": "alfa romeo 4C",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442227": {
+    "idx": 58,
+    "id": 1442227,
+    "name": 0,
+    "vehicle": "shelby cobra 427",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442228": {
+    "idx": 59,
+    "id": 1442228,
+    "name": 0,
+    "vehicle": "shelby cobra 427",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442229": {
+    "idx": 60,
+    "id": 1442229,
+    "name": 0,
+    "vehicle": "mercedes benz SL 65",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442230": {
+    "idx": 61,
+    "id": 1442230,
+    "name": 0,
+    "vehicle": "mercedes benz SL 65",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442231": {
+    "idx": 62,
+    "id": 1442231,
+    "name": 0,
+    "vehicle": "mclaren MP4-12C",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442232": {
+    "idx": 63,
+    "id": 1442232,
+    "name": 0,
+    "vehicle": "mclaren MP4-12C",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442233": {
+    "idx": 64,
+    "id": 1442233,
+    "name": 0,
+    "vehicle": "lexus LFA",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442234": {
+    "idx": 65,
+    "id": 1442234,
+    "name": 0,
+    "vehicle": "lexus LFA",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442235": {
+    "idx": 66,
+    "id": 1442235,
+    "name": 0,
+    "vehicle": "porsche 918 concept",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442236": {
+    "idx": 67,
+    "id": 1442236,
+    "name": 0,
+    "vehicle": "porsche 918 concept",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442237": {
+    "idx": 68,
+    "id": 1442237,
+    "name": 0,
+    "vehicle": "lamborghini aventador",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442238": {
+    "idx": 69,
+    "id": 1442238,
+    "name": 0,
+    "vehicle": "lamborghini aventador",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442239": {
+    "idx": 70,
+    "id": 1442239,
+    "name": 0,
+    "vehicle": "bugatty veyron",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442240": {
+    "idx": 71,
+    "id": 1442240,
+    "name": 0,
+    "vehicle": "bugatty veyron",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442241": {
+    "idx": 72,
+    "id": 1442241,
+    "name": 0,
+    "vehicle": "pagani huayra",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442242": {
+    "idx": 73,
+    "id": 1442242,
+    "name": 0,
+    "vehicle": "pagani huayra",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442243": {
+    "idx": 74,
+    "id": 1442243,
+    "name": 0,
+    "vehicle": "koenigsegg agera",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1442244": {
+    "idx": 75,
+    "id": 1442244,
+    "name": 0,
+    "vehicle": "koenigsegg agera",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1496001": {
+    "idx": 76,
+    "id": 1496001,
+    "name": 0,
+    "vehicle": "(cut) Hummer H1 Alpha",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1496006": {
+    "idx": 77,
+    "id": 1496006,
+    "name": 0,
+    "vehicle": "ford focus ST",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1496010": {
+    "idx": 78,
+    "id": 1496010,
+    "name": 287144,
+    "vehicle": "ariel atom V8",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1496012": {
+    "idx": 79,
+    "id": 1496012,
+    "name": 0,
+    "vehicle": "bmw M3 E46",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1496014": {
+    "idx": 80,
+    "id": 1496014,
+    "name": 0,
+    "vehicle": "shelby cobra 427",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1496016": {
+    "idx": 81,
+    "id": 1496016,
+    "name": 0,
+    "vehicle": "jaguar XKR",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1496051": {
+    "idx": 82,
+    "id": 1496051,
+    "name": 0,
+    "vehicle": "(cut) Pagani Huayra NFS Edition",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1521181": {
+    "idx": 83,
+    "id": 1521181,
+    "name": 1347240,
+    "vehicle": "ford focus RS500",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1521182": {
+    "idx": 84,
+    "id": 1521182,
+    "name": 1347241,
+    "vehicle": "porsche panamera turbo",
+    "colour": 0,
+    "bodyUpgrade": 1490166,
+    "chassisUpgrade": 1490170,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1551746": {
+    "idx": 85,
+    "id": 1551746,
+    "name": 1551747,
+    "vehicle": "caterham R500 pre-order",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 1490170,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1551748": {
+    "idx": 86,
+    "id": 1551748,
+    "name": 1551751,
+    "vehicle": "mercedes benz SL 65 pre-order",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1551754": {
+    "idx": 87,
+    "id": 1551754,
+    "name": 1551756,
+    "vehicle": "ford raptor pre-order",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 1490172,
+    "nitrousUpgrade": 1490197,
+    "isOnlineRollout": 1,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1560290": {
+    "idx": 88,
+    "id": 1560290,
+    "name": 126464,
+    "vehicle": "porsche 911",
+    "colour": 1197608,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 1490194,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "1700082": {
+    "idx": 89,
+    "id": 1700082,
+    "name": 0,
+    "vehicle": "marussia B2",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2075111": {
+    "idx": 90,
+    "id": 2075111,
+    "name": 126464,
+    "vehicle": "porsche 911",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 1,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2090174": {
+    "idx": 91,
+    "id": 2090174,
+    "name": 0,
+    "vehicle": "lamborghini aventador J",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2090175": {
+    "idx": 92,
+    "id": 2090175,
+    "name": 0,
+    "vehicle": "bugatty veyron Vitesse",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2090177": {
+    "idx": 93,
+    "id": 2090177,
+    "name": 0,
+    "vehicle": "pagani zonda R",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2090180": {
+    "idx": 94,
+    "id": 2090180,
+    "name": 0,
+    "vehicle": "hennessey venom",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2090181": {
+    "idx": 95,
+    "id": 2090181,
+    "name": 0,
+    "vehicle": "mclaren F1",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2090323": {
+    "idx": 96,
+    "id": 2090323,
+    "name": 0,
+    "vehicle": "hennessey venom",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2090324": {
+    "idx": 97,
+    "id": 2090324,
+    "name": 0,
+    "vehicle": "hennessey venom",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2189562": {
+    "idx": 98,
+    "id": 2189562,
+    "name": 0,
+    "vehicle": "shelby GT500",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2189563": {
+    "idx": 99,
+    "id": 2189563,
+    "name": 0,
+    "vehicle": "shelby GT500",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2189571": {
+    "idx": 100,
+    "id": 2189571,
+    "name": 0,
+    "vehicle": "bmw M3 E46",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2189572": {
+    "idx": 101,
+    "id": 2189572,
+    "name": 0,
+    "vehicle": "bmw M3 E46",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2189846": {
+    "idx": 102,
+    "id": 2189846,
+    "name": 0,
+    "vehicle": "porsche 918 spyder",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2191063": {
+    "idx": 103,
+    "id": 2191063,
+    "name": 0,
+    "vehicle": "alfa romeo 4C",
+    "colour": 1197611,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2191398": {
+    "idx": 104,
+    "id": 2191398,
+    "name": 0,
+    "vehicle": "aston martin DB5",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2191450": {
+    "idx": 105,
+    "id": 2191450,
+    "name": 0,
+    "vehicle": "pontiac firebird",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2191692": {
+    "idx": 106,
+    "id": 2191692,
+    "name": 0,
+    "vehicle": "dodge charger R/T",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2191698": {
+    "idx": 107,
+    "id": 2191698,
+    "name": 0,
+    "vehicle": "aston martin dbs",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2191702": {
+    "idx": 108,
+    "id": 2191702,
+    "name": 0,
+    "vehicle": "shelby GT500",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2193083": {
+    "idx": 109,
+    "id": 2193083,
+    "name": 0,
+    "vehicle": "alfa romeo mito",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2193084": {
+    "idx": 110,
+    "id": 2193084,
+    "name": 0,
+    "vehicle": "bmw m1",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2193085": {
+    "idx": 111,
+    "id": 2193085,
+    "name": 0,
+    "vehicle": "audi RS3",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2193086": {
+    "idx": 112,
+    "id": 2193086,
+    "name": 0,
+    "vehicle": "porsche 918 spyder",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2193087": {
+    "idx": 113,
+    "id": 2193087,
+    "name": 0,
+    "vehicle": "lamborghini diablo",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2193088": {
+    "idx": 114,
+    "id": 2193088,
+    "name": 0,
+    "vehicle": "ford fiesta ST",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2193090": {
+    "idx": 115,
+    "id": 2193090,
+    "name": 0,
+    "vehicle": "porsche 911 GT2",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2193091": {
+    "idx": 116,
+    "id": 2193091,
+    "name": 0,
+    "vehicle": "nissan 350Z",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  },
+  "2193092": {
+    "idx": 117,
+    "id": 2193092,
+    "name": 0,
+    "vehicle": "nissan R34",
+    "colour": 0,
+    "bodyUpgrade": 0,
+    "chassisUpgrade": 0,
+    "nitrousUpgrade": 0,
+    "isOnlineRollout": 0,
+    "isPlayerRollout": 0,
+    "weaponData": {
+      "weaponID": 0
+    }
+  }
+}

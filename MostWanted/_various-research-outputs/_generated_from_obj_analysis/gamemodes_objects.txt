@@ -1,0 +1,5525 @@
+03_A1_19_00 (23565849): GenesysGenScoreViewModel
+
+04_A4_11_00 (18178304): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  extraScheduleTime: -6
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7699999809265137
+      endSpeedValueAhead: 0.7200000286102295
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.7699999809265137
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7350000143051147
+      endSpeedValueAhead: 0.6899999976158142
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.7300000190734863
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6600000262260437
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6700000166893005
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6349999904632568
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6000000238418579
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.550000011920929
+  
+05_A4_11_00 (18178305): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1156101
+  
+09_4E_18_00 (22620225): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+09_D5_15_00 (21170067): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+0A_22_1D_00 (26251864): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: 0
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 150
+      behindDistance: 50
+      startSpeedValueAhead: 0.30000001192092896
+      endSpeedValueAhead: 0.30000001192092896
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.699999988079071
+  
+0B_22_1D_00 (26251865): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 150
+  id: 1909259
+  
+0C_2F_20_00 (34640278): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  extraScheduleTime: -6
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 275
+      behindDistance: -125
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.7900000214576721
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -175
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.7799999713897705
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 225
+      behindDistance: -175
+      startSpeedValueAhead: 0.6299999952316284
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.8600000143051147
+      endSpeedValueBehind: 0.7599999904632568
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 225
+      behindDistance: -200
+      startSpeedValueAhead: 0.6200000047683716
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.8399999737739563
+      endSpeedValueBehind: 0.7400000095367432
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 1
+      aheadDistance: 200
+      behindDistance: -200
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.8199999928474426
+      endSpeedValueBehind: 0.7200000286102295
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.699999988079071
+      endCutoffRatio: 1
+      aheadDistance: 200
+      behindDistance: -200
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.699999988079071
+  
+0C_A0_20_00 (34832676): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+0D_2F_20_00 (34640279): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  id: 2109197
+  
+0D_E7_18_00 (23273491): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 8
+  
+0D_E8_18_00 (23274089): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+0E_88_22_00 (36057172): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+13_6A_21_00 (35166275): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -8
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.75
+  
+14_6A_21_00 (35166276): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  id: 2189844
+  
+14_76_08_00 (5588246): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+17_7D_12_00 (18945649): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+18_7D_12_00 (18945650): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+19_D3_22_00 (36184677): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2282265
+  
+1A_E4_1F_00 (34144272): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  extraScheduleTime: -7
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 350
+      behindDistance: -200
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.75
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 325
+      behindDistance: -200
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.42500001192092896
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -200
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.4000000059604645
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 275
+      behindDistance: -200
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.3499999940395355
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6000000238418579
+  
+1B_7D_12_00 (18945653): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 20
+  
+1B_E4_1F_00 (34144273): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  id: 2090011
+  
+1D_7D_12_00 (18945655): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+1D_A0_20_00 (34832705): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+1D_E7_18_00 (23273513): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 7
+  
+1E_7D_12_00 (18945656): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 7
+  
+1F_AB_0F_00 (16934983): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.8999999761581421
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.8500000238418579
+      endSpeedValueAhead: 0.675000011920929
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.8100000023841858
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.7699999809265137
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.625
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.7300000190734863
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6899999976158142
+  
+20_7D_12_00 (18945664): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+20_AB_0F_00 (16934984): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1026848
+  
+21_71_21_00 (35198537): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2191649
+  
+22_71_21_00 (35198544): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: 6.249730110168457
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 320
+      behindDistance: -100
+      startSpeedValueAhead: 0.7400000095367432
+      endSpeedValueAhead: 0.5699999928474426
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.6000000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.75
+      aheadDistance: 310
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 300
+      behindDistance: -125
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.6299999952316284
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 290
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5199999809265137
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6200000047683716
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.6000000238418579
+      aheadDistance: 280
+      behindDistance: -150
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+  
+22_A0_20_00 (34832710): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 21
+  
+23_E9_1B_00 (25334101): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 26
+  
+25_7D_12_00 (18945669): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+25_B4_0F_00 (16945495): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  extraScheduleTime: -4
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.675000011920929
+      endSpeedValueAhead: 0.7250000238418579
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.824999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.625
+      endSpeedValueAhead: 0.675000011920929
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.7749999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.75
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.574999988079071
+      endSpeedValueAhead: 0.625
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.7250000238418579
+  
+25_E9_18_00 (23274825): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 3
+  
+26_A4_11_00 (18178356): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 9
+  extraScheduleTime: -14
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 330
+      behindDistance: -180
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.7099999785423279
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 320
+      behindDistance: -170
+      startSpeedValueAhead: 0.6299999952316284
+      endSpeedValueAhead: 0.5400000214576721
+      startSpeedValueBehind: 0.9800000190734863
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 310
+      behindDistance: -160
+      startSpeedValueAhead: 0.6100000143051147
+      endSpeedValueAhead: 0.5299999713897705
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.6800000071525574
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.5899999737739563
+      endSpeedValueAhead: 0.5199999809265137
+      startSpeedValueBehind: 0.9100000262260437
+      endSpeedValueBehind: 0.6700000166893005
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 290
+      behindDistance: -140
+      startSpeedValueAhead: 0.5699999928474426
+      endSpeedValueAhead: 0.5099999904632568
+      startSpeedValueBehind: 0.8700000047683716
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 280
+      behindDistance: -130
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.8299999833106995
+      endSpeedValueBehind: 0.6299999952316284
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 270
+      behindDistance: -120
+      startSpeedValueAhead: 0.5299999713897705
+      endSpeedValueAhead: 0.49000000953674316
+      startSpeedValueBehind: 0.7900000214576721
+      endSpeedValueBehind: 0.6100000143051147
+    - idx: 7
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 260
+      behindDistance: -110
+      startSpeedValueAhead: 0.5099999904632568
+      endSpeedValueAhead: 0.47999998927116394
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.5899999737739563
+    - idx: 8
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.49000000953674316
+      endSpeedValueAhead: 0.4699999988079071
+      startSpeedValueBehind: 0.7099999785423279
+      endSpeedValueBehind: 0.5699999928474426
+  
+26_B4_0F_00 (16945496): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1029158
+  
+27_A4_11_00 (18178357): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1156135
+  
+28_56_16_00 (21379144): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+29_4C_18_00 (22618977): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+29_54_16_00 (21377847): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+29_AB_0F_00 (16934999): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  extraScheduleTime: -7
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 350
+      behindDistance: 50
+      startSpeedValueAhead: 0.7300000190734863
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 350
+      behindDistance: 50
+      startSpeedValueAhead: 0.7099999785423279
+      endSpeedValueAhead: 0.6899999976158142
+      startSpeedValueBehind: 0.9700000286102295
+      endSpeedValueBehind: 0.7599999904632568
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 350
+      behindDistance: 50
+      startSpeedValueAhead: 0.6899999976158142
+      endSpeedValueAhead: 0.6600000262260437
+      startSpeedValueBehind: 0.9399999976158142
+      endSpeedValueBehind: 0.7200000286102295
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 350
+      behindDistance: 50
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6800000071525574
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 350
+      behindDistance: 50
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6399999856948853
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 350
+      behindDistance: 50
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6000000238418579
+  
+29_E4_1F_00 (34144293): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -8
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7599999904632568
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7300000190734863
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+  
+2A_AB_0F_00 (16935000): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1026858
+  
+2A_E4_1F_00 (34144294): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  id: 2090026
+  
+2A_E7_18_00 (23273538): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+2C_04_16_00 (21244000): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1442860
+  
+2C_15_11_00 (17929522): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1119532
+  
+2D_04_16_00 (21244001): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 250
+      behindDistance: 100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8199999928474426
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 250
+      behindDistance: 50
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.6399999856948853
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 250
+      behindDistance: 0
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6200000047683716
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.7749999761581421
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.75
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.75
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 200
+      behindDistance: -100
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+  
+2D_15_11_00 (17929523): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -2.5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 325
+      behindDistance: -150
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.7599999904632568
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 275
+      behindDistance: -125
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.625
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.7300000190734863
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.625
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6499999761581421
+  
+2D_70_21_00 (35197957): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -8
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 325
+      behindDistance: -125
+      startSpeedValueAhead: 0.7799999713897705
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.9800000190734863
+      endSpeedValueBehind: 0.7799999713897705
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7599999904632568
+      aheadDistance: 300
+      behindDistance: -125
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7300000190734863
+      aheadDistance: 275
+      behindDistance: -125
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 250
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 200
+      behindDistance: -150
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+  
+2D_79_16_00 (21440531): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -8
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.75
+  
+2E_56_16_00 (21379156): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+2E_70_21_00 (35197958): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2191406
+  
+2E_79_16_00 (21440532): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  id: 1472814
+  
+33_A0_20_00 (34832739): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 17
+  
+36_56_16_00 (21379170): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+36_70_21_00 (35197972): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7599999904632568
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7300000190734863
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+  
+37_70_21_00 (35197973): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2191415
+  
+37_A0_20_00 (34832743): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 17
+  
+38_B4_0F_00 (16945526): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  extraScheduleTime: -5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 150
+      behindDistance: -150
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 150
+      behindDistance: -150
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.7200000286102295
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 150
+      behindDistance: -150
+      startSpeedValueAhead: 0.6899999976158142
+      endSpeedValueAhead: 0.6899999976158142
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 150
+      behindDistance: -150
+      startSpeedValueAhead: 0.6600000262260437
+      endSpeedValueAhead: 0.6600000262260437
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 150
+      behindDistance: -150
+      startSpeedValueAhead: 0.6299999952316284
+      endSpeedValueAhead: 0.6299999952316284
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 150
+      behindDistance: -150
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.6000000238418579
+  
+38_D5_16_00 (21586806): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: 0
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+  
+38_E4_1F_00 (34144320): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  extraScheduleTime: -3
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 400
+      behindDistance: -200
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.7250000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 400
+      behindDistance: -250
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.824999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 400
+      behindDistance: -300
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 350
+      behindDistance: -300
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6499999761581421
+  
+39_B4_0F_00 (16945527): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1029177
+  
+39_D5_16_00 (21586807): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 230
+  id: 1496377
+  
+39_E4_1F_00 (34144321): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 210
+  id: 2090041
+  
+3A_E7_18_00 (23273560): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+3B_4A_13_00 (19284359): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -7
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 1
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.8199999928474426
+      endSpeedValueAhead: 0.6800000071525574
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 1
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.7900000214576721
+      endSpeedValueAhead: 0.6600000262260437
+      startSpeedValueBehind: 0.9599999785423279
+      endSpeedValueBehind: 0.8100000023841858
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 1
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.6399999856948853
+      startSpeedValueBehind: 0.9200000166893005
+      endSpeedValueBehind: 0.7699999809265137
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.7300000190734863
+      endSpeedValueAhead: 0.6200000047683716
+      startSpeedValueBehind: 0.8799999952316284
+      endSpeedValueBehind: 0.7300000190734863
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6100000143051147
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6899999976158142
+  
+3C_4A_13_00 (19284360): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1264188
+  
+3F_4C_18_00 (22619011): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 20
+  
+3F_56_16_00 (21379185): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+43_2E_17_00 (22122865): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  extraScheduleTime: 0
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.574999988079071
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -50
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -50
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.6499999761581421
+  
+43_56_16_00 (21379189): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 19
+  
+44_2E_17_00 (22122866): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1519172
+  
+47_30_17_00 (22124167): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  extraScheduleTime: 0
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8999999761581421
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.6499999761581421
+  
+47_E4_1F_00 (34144341): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.6000000238418579
+      aheadDistance: 400
+      behindDistance: -300
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.6000000238418579
+      aheadDistance: 400
+      behindDistance: -300
+      startSpeedValueAhead: 0.574999988079071
+      endSpeedValueAhead: 0.5299999713897705
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.7799999713897705
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 400
+      behindDistance: -300
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 350
+      behindDistance: -300
+      startSpeedValueAhead: 0.5199999809265137
+      endSpeedValueAhead: 0.4699999988079071
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 300
+      behindDistance: -300
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.4399999976158142
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+  
+48_30_17_00 (22124168): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1519688
+  
+48_E4_1F_00 (34144342): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  id: 2090056
+  
+49_56_16_00 (21379201): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+4A_A5_11_00 (18179110): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -7
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.875
+      endSpeedValueAhead: 0.7250000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.75
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.875
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.824999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.75
+      aheadDistance: 150
+      behindDistance: -50
+      startSpeedValueAhead: 0.8500000238418579
+      endSpeedValueAhead: 0.6600000262260437
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 150
+      behindDistance: -50
+      startSpeedValueAhead: 0.824999988079071
+      endSpeedValueAhead: 0.6299999952316284
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.7749999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 100
+      behindDistance: -50
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.75
+  
+4B_67_22_00 (35997287): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  extraScheduleTime: 3
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.949999988079071
+      aheadDistance: 400
+      behindDistance: 0
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.49000000953674316
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 350
+      behindDistance: -50
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.47999998927116394
+      startSpeedValueBehind: 0.9800000190734863
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.8500000238418579
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6600000262260437
+      endSpeedValueAhead: 0.4699999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.46000000834465027
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.699999988079071
+  
+4B_A5_11_00 (18179111): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1156427
+  
+4B_E7_18_00 (23273589): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 21
+  
+4C_67_22_00 (35997288): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2254668
+  
+4C_D6_06_00 (4489334): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+4F_2E_10_00 (17171505): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 1
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+4F_4D_18_00 (22619733): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+57_EA_1B_00 (25334883): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 0
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+58_02_0F_00 (9975360): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 3
+  extraScheduleTime: -10
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 100
+      behindDistance: -100
+      startSpeedValueAhead: 0.8999999761581421
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.75
+      aheadDistance: 100
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.5
+      aheadDistance: 100
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.699999988079071
+  
+59_02_0F_00 (9975361): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 983641
+  
+59_E7_10_00 (17856513): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 4
+  extraScheduleTime: -3
+  extraCrashScheduleTime: 5
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.20000000298023224
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 1
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.20000000298023224
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.675000011920929
+      startSpeedValueBehind: 0.824999988079071
+      endSpeedValueBehind: 0.875
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.20000000298023224
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.20000000298023224
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.699999988079071
+  
+5A_2F_17_00 (22123600): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  extraScheduleTime: -4
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 400
+      behindDistance: -100
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6800000071525574
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 380
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.6600000262260437
+      startSpeedValueBehind: 0.9599999785423279
+      endSpeedValueBehind: 0.8199999928474426
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 360
+      behindDistance: -100
+      startSpeedValueAhead: 0.6899999976158142
+      endSpeedValueAhead: 0.6299999952316284
+      startSpeedValueBehind: 0.9200000166893005
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 340
+      behindDistance: -100
+      startSpeedValueAhead: 0.6600000262260437
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8799999952316284
+      endSpeedValueBehind: 0.7799999713897705
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 320
+      behindDistance: -100
+      startSpeedValueAhead: 0.6299999952316284
+      endSpeedValueAhead: 0.5699999928474426
+      startSpeedValueBehind: 0.8399999737739563
+      endSpeedValueBehind: 0.7400000095367432
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5400000214576721
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 280
+      behindDistance: -100
+      startSpeedValueAhead: 0.5799999833106995
+      endSpeedValueAhead: 0.5199999809265137
+      startSpeedValueBehind: 0.7799999713897705
+      endSpeedValueBehind: 0.6800000071525574
+  
+5A_E7_10_00 (17856514): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1107802
+  
+5B_2F_17_00 (22123601): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1519451
+  
+5B_5D_04_00 (2646083): GenesysObjCollection
+more info:
+  count: 420
+  types:
+    - GenesysGenOnlineEvent
+    - GenesysGenOfflineEvent
+    - GenesysGenChallengeOnlineChallenge
+    - GenesysGenOnlineVoteEvent
+  eventDatas:
+    - idx: 6
+      gameMode: 90_23_0B_00
+      gameChangerId: Stock Market Crash
+      triggers:
+        - B3_22_1D_00
+        - 00_23_1D_00
+        - 08_23_1D_00
+        - 10_23_1D_00
+        - 16_23_1D_00
+      timeline:
+        - 15_C0_17_00
+      balancingData: 38_B4_0F_00
+      balancingProfile: 39_B4_0F_00
+    - idx: 9
+      gameMode: 90_23_0B_00
+      gameChangerId: Emmerson Beltway
+      triggers:
+        - D1_8E_1C_00
+        - D4_8E_1C_00
+      balancingData: 29_AB_0F_00
+      balancingProfile: 2A_AB_0F_00
+    - idx: 10
+      gameMode: 90_23_0B_00
+      gameChangerId: Harbor Run
+      triggers:
+        - F7_FF_0E_00
+        - 4D_E5_10_00
+      timeline:
+        - EE_07_0F_00
+      balancingData: 8D_B3_0F_00
+      balancingProfile: 94_B3_0F_00
+    - idx: 11
+      gameMode: 90_23_0B_00
+      gameChangerId: Off the Grid
+      triggers:
+        - 50_E0_15_00
+      timeline:
+        - FB_07_0F_00
+      balancingData: 5F_A8_0F_00
+      balancingProfile: 60_A8_0F_00
+    - idx: 13
+      gameMode: 90_23_0B_00
+      gameChangerId: Turbulence
+      triggers:
+        - CC_22_1D_00
+        - CF_22_1D_00
+        - D3_22_1D_00
+        - DD_22_1D_00
+        - E1_22_1D_00
+        - E7_22_1D_00
+      timeline:
+        - 15_C0_17_00
+      balancingData: CC_16_11_00
+      balancingProfile: CD_16_11_00
+    - idx: 14
+      gameMode: 90_23_0B_00
+      gameChangerId: Park and Country
+      triggers:
+        - 8A_C0_17_00
+        - 8F_C0_17_00
+        - 90_C0_17_00
+        - B8_21_1D_00
+        - CB_21_1D_00
+        - BC_21_1D_00
+        - C6_21_1D_00
+      balancingData: CA_16_11_00
+      balancingProfile: CB_16_11_00
+    - idx: 16
+      gameMode: 90_23_0B_00
+      gameChangerId: Cannonball Run
+      triggers:
+        - FD_15_11_00
+        - FE_15_11_00
+        - FF_15_11_00
+        - DC_21_1D_00
+        - D2_21_1D_00
+        - D9_21_1D_00
+        - DF_21_1D_00
+      timeline:
+        - 15_C0_17_00
+      balancingData: 6E_15_11_00
+      balancingProfile: 6F_15_11_00
+    - idx: 17
+      gameMode: 90_23_0B_00
+      gameChangerId: Pumping Iron
+      triggers:
+        - 25_8E_1C_00
+        - 01_8F_1C_00
+        - 08_8F_1C_00
+        - F5_8E_1C_00
+      balancingData: 5E_03_16_00
+      balancingProfile: 5D_03_16_00
+    - idx: 20
+      gameMode: 90_23_0B_00
+      gameChangerId: Arch Enemies
+      triggers:
+        - C6_22_1D_00
+        - BC_22_1D_00
+        - C1_22_1D_00
+        - B8_22_1D_00
+      timeline:
+        - 15_C0_17_00
+      balancingData: 4A_A5_11_00
+      balancingProfile: 4B_A5_11_00
+    - idx: 21
+      gameMode: 90_23_0B_00
+      gameChangerId: Red Shift
+      triggers:
+        - E8_F1_19_00
+        - F6_F1_19_00
+        - FF_F1_19_00
+      timeline:
+        - E9_F1_19_00
+      balancingData: D6_A5_11_00
+      balancingProfile: D7_A5_11_00
+    - idx: 23
+      gameMode: 90_23_0B_00
+      gameChangerId: Import Duty
+      triggers:
+        - FA_22_1D_00
+        - F1_22_1D_00
+        - F6_22_1D_00
+        - EC_22_1D_00
+      timeline:
+        - 15_C0_17_00
+      balancingData: 43_2E_17_00
+      balancingProfile: 44_2E_17_00
+    - idx: 24
+      gameMode: 90_23_0B_00
+      gameChangerId: Cruise Control
+      triggers:
+        - 19_2F_17_00
+        - 1B_2F_17_00
+      timeline:
+        - DB_07_0F_00
+      balancingData: 26_A4_11_00
+      balancingProfile: 27_A4_11_00
+    - idx: 28
+      gameMode: 90_23_0B_00
+      gameChangerId: Chain Reaction
+      triggers:
+        - 8D_45_19_00
+        - 8E_45_19_00
+      balancingData: D7_44_19_00
+      balancingProfile: D8_44_19_00
+    - idx: 29
+      gameMode: 90_23_0B_00
+      gameChangerId: Trail Blazer
+      triggers:
+        - 52_22_1D_00
+        - 33_22_1D_00
+        - 3B_22_1D_00
+        - 56_22_1D_00
+        - 54_22_1D_00
+      timeline:
+        - 58_C1_17_00
+      balancingData: 59_E7_10_00
+      balancingProfile: 5A_E7_10_00
+    - idx: 32
+      gameMode: 90_23_0B_00
+      gameChangerId: Stopping Power
+      triggers:
+        - 97_21_1D_00
+        - AB_21_1D_00
+        - 9E_21_1D_00
+        - AF_21_1D_00
+      balancingData: 47_30_17_00
+      balancingProfile: 48_30_17_00
+    - idx: 33
+      gameMode: 90_23_0B_00
+      gameChangerId: Burning Rubber
+      triggers:
+        - 37_46_19_00
+        - EA_21_1D_00
+      balancingData: 5D_A4_11_00
+      balancingProfile: 5E_A4_11_00
+    - idx: 34
+      gameMode: 90_23_0B_00
+      gameChangerId: Crush Hour
+      triggers:
+        - 3E_E0_15_00
+        - 69_E0_15_00
+        - 9A_22_1D_00
+        - 9F_22_1D_00
+        - A4_22_1D_00
+        - AB_22_1D_00
+      timeline:
+        - DB_07_0F_00
+        - 15_C0_17_00
+      balancingData: 2D_15_11_00
+      balancingProfile: 2C_15_11_00
+    - idx: 49
+      gameMode: B1_94_0E_00
+      gameChangerId: Turbine
+      triggers:
+        - 43_E0_15_00
+        - 4C_E0_15_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 52
+      gameMode: B1_94_0E_00
+      gameChangerId: Downtown Run
+      triggers:
+        - 90_22_1D_00
+        - 8F_22_1D_00
+        - 8E_22_1D_00
+        - 8D_22_1D_00
+      timeline:
+        - 15_C0_17_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 53
+      gameMode: B1_94_0E_00
+      gameChangerId: Downgraded
+      triggers:
+        - 8D_BF_17_00
+        - BA_C0_17_00
+        - BD_C0_17_00
+        - C0_C0_17_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 54
+      gameMode: B1_94_0E_00
+      gameChangerId: Needle Point
+      triggers:
+        - A9_42_1B_00
+        - A4_42_1B_00
+        - B3_42_1B_00
+        - AB_42_1B_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 55
+      gameMode: B1_94_0E_00
+      gameChangerId: To the Bridge
+      triggers:
+        - 4C_8E_1C_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 56
+      gameMode: 90_23_0B_00
+      gameChangerId: Jumping Jacks
+      triggers:
+        - 3F_E0_15_00
+        - 44_E0_15_00
+        - 49_E0_15_00
+      timeline:
+        - DB_07_0F_00
+      balancingData: EE_DF_15_00
+      balancingProfile: ED_DF_15_00
+    - idx: 61
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 6
+      triggers:
+        - F1_C1_17_00
+        - F5_C1_17_00
+        - 01_C2_17_00
+        - BC_5C_15_00
+        - 92_40_1B_00
+        - 98_40_1B_00
+        - 9E_40_1B_00
+        - A3_40_1B_00
+        - D1_F2_19_00
+      timeline:
+        - 29_C0_17_00
+      balancingData: 80_5C_15_00
+      balancingProfile: 81_5C_15_00
+    - idx: 78
+      gameMode: B1_94_0E_00
+      gameChangerId: The Getaway
+      triggers:
+        - 8F_04_16_00
+        - 96_04_16_00
+      timeline:
+        - ED_8E_1C_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 80
+      gameMode: 90_23_0B_00
+      gameChangerId: Collateral Damage
+      triggers:
+        - DB_8E_1C_00
+        - 64_22_1D_00
+        - 58_22_1D_00
+        - 5F_22_1D_00
+        - 6D_22_1D_00
+      timeline:
+        - 15_C0_17_00
+      balancingData: 7E_E1_15_00
+      balancingProfile: 7F_E1_15_00
+    - idx: 81
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 8
+      triggers:
+        - 5A_C0_17_00
+        - 58_C0_17_00
+        - 80_BE_17_00
+        - 98_BE_17_00
+        - A0_BE_17_00
+        - BB_BE_17_00
+        - AF_BE_17_00
+        - BC_40_1B_00
+      timeline:
+        - 52_C1_17_00
+      balancingData: F9_E0_15_00
+      balancingProfile: FA_E0_15_00
+    - idx: 82
+      gameMode: 29_F4_05_00
+      gameChangerId: Liberty Park
+      triggers:
+        - 93_8E_1C_00
+        - 94_8E_1C_00
+        - 95_8E_1C_00
+        - 96_8E_1C_00
+      timeline:
+        - 0F_E1_15_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 83
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 5
+      triggers:
+        - 2C_C0_17_00
+        - 8A_41_1B_00
+        - 85_BF_17_00
+        - 24_C0_17_00
+        - E7_C1_17_00
+        - 89_BF_17_00
+        - E0_C1_17_00
+        - E2_C1_17_00
+      timeline:
+        - 29_C0_17_00
+      balancingData: 87_E1_15_00
+      balancingProfile: 88_E1_15_00
+    - idx: 85
+      gameMode: B1_94_0E_00
+      gameChangerId: Fast Track
+      triggers:
+        - A4_04_16_00
+        - B0_04_16_00
+        - AC_04_16_00
+        - AD_04_16_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 86
+      gameMode: 90_23_0B_00
+      gameChangerId: Sprint Eastward
+      triggers:
+        - DE_8E_1C_00
+      balancingData: 2D_04_16_00
+      balancingProfile: 2C_04_16_00
+    - idx: 152
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 10
+      triggers:
+        - 3A_01_16_00
+        - 52_79_16_00
+        - 56_79_16_00
+        - 87_79_16_00
+        - 54_79_16_00
+        - D0_C1_17_00
+        - 7D_C1_17_00
+        - BD_C1_17_00
+        - C5_C1_17_00
+        - CF_C1_17_00
+      timeline:
+        - 52_C1_17_00
+      balancingData: 2D_79_16_00
+      balancingProfile: 2E_79_16_00
+    - idx: 153
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 9
+      triggers:
+        - E5_40_1B_00
+        - E3_40_1B_00
+        - D2_40_1B_00
+        - D6_40_1B_00
+        - DA_40_1B_00
+        - DE_40_1B_00
+        - 79_41_1B_00
+        - 7B_41_1B_00
+        - 7D_41_1B_00
+        - 81_41_1B_00
+      timeline:
+        - 52_C1_17_00
+      balancingData: 95_79_16_00
+      balancingProfile: 96_79_16_00
+    - idx: 154
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 7
+      triggers:
+        - CB_40_1B_00
+        - C8_40_1B_00
+        - F2_40_1B_00
+        - F4_40_1B_00
+        - FC_40_1B_00
+        - 50_8F_1C_00
+        - 4D_8F_1C_00
+        - 53_8F_1C_00
+      timeline:
+        - 29_C0_17_00
+      balancingData: D4_D4_16_00
+      balancingProfile: D5_D4_16_00
+    - idx: 156
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 1
+      triggers:
+        - 47_41_1B_00
+        - 4E_41_1B_00
+        - 51_41_1B_00
+        - 4B_41_1B_00
+        - 55_41_1B_00
+        - 59_41_1B_00
+        - 5D_41_1B_00
+        - 61_41_1B_00
+        - 65_41_1B_00
+        - 69_41_1B_00
+      timeline:
+        - 58_C1_17_00
+      balancingData: 38_D5_16_00
+      balancingProfile: 39_D5_16_00
+    - idx: 159
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 2
+      triggers:
+        - 83_2E_17_00
+        - 2F_41_1B_00
+        - 36_41_1B_00
+        - 39_41_1B_00
+        - 33_41_1B_00
+        - 40_41_1B_00
+        - 22_41_1B_00
+        - 24_41_1B_00
+      timeline:
+        - 58_C1_17_00
+      balancingData: 6A_2E_17_00
+      balancingProfile: 69_2E_17_00
+    - idx: 161
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 3
+      triggers:
+        - 00_41_1B_00
+        - 07_41_1B_00
+        - 0A_41_1B_00
+        - 04_41_1B_00
+        - 0F_41_1B_00
+        - 14_41_1B_00
+        - 16_41_1B_00
+      timeline:
+        - 1C_C0_17_00
+      balancingData: E1_AA_17_00
+      balancingProfile: E2_AA_17_00
+    - idx: 162
+      gameMode: 29_F4_05_00
+      gameChangerId: The Hunted
+      triggers:
+        - 94_AB_17_00
+        - 97_AB_17_00
+      timeline:
+        - 82_AB_17_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 204
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted 4
+      triggers:
+        - 68_42_1B_00
+        - 69_42_1B_00
+        - D2_40_1B_00
+        - 9D_42_1B_00
+        - D6_40_1B_00
+        - 87_42_1B_00
+        - 8C_42_1B_00
+        - 9A_42_1B_00
+        - 84_42_1B_00
+        - 96_42_1B_00
+      timeline:
+        - 1C_C0_17_00
+      balancingData: 77_BF_17_00
+      balancingProfile: 76_BF_17_00
+    - idx: 205
+      gameMode: 1E_CF_17_00
+      gameChangerId: Welcome To Fairhaven
+      triggers:
+        - B2_CF_17_00
+        - B8_CF_17_00
+        - 23_23_1D_00
+      timeline:
+        - 1B_22_1D_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 327
+      gameMode: 90_23_0B_00
+      gameChangerId: Burning Bridges
+      triggers:
+        - 29_09_21_00
+        - 2A_09_21_00
+        - 97_E5_1F_00
+      balancingData: 80_E4_1F_00
+      balancingProfile: 81_E4_1F_00
+    - idx: 329
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted Venom
+      triggers:
+        - A1_E5_1F_00
+        - A6_E5_1F_00
+        - AD_E5_1F_00
+      timeline:
+        - 58_C1_17_00
+      balancingData: 9E_E4_1F_00
+      balancingProfile: 9F_E4_1F_00
+    - idx: 332
+      gameMode: B1_94_0E_00
+      gameChangerId: Live for Speed
+      triggers:
+        - 7C_E5_1F_00
+        - 8F_C0_17_00
+        - 7D_E5_1F_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 333
+      gameMode: B1_94_0E_00
+      gameChangerId: Full Overdrive
+      triggers:
+        - 3F_E0_15_00
+        - E0_E5_1F_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 334
+      gameMode: B1_94_0E_00
+      gameChangerId: Full Throttle
+      triggers:
+        - 86_E5_1F_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 364
+      gameMode: 90_23_0B_00
+      gameChangerId: Get to Callahan
+      triggers:
+        - AF_41_22_00
+      balancingData: A4_6A_21_00
+      balancingProfile: A1_6A_21_00
+    - idx: 365
+      gameMode: 90_23_0B_00
+      gameChangerId: License to Thrill
+      triggers:
+        - 00_6F_21_00
+        - E3_6E_21_00
+        - EE_6E_21_00
+        - 1A_6F_21_00
+        - 1D_6F_21_00
+        - 22_6F_21_00
+        - 25_6F_21_00
+        - 2E_6F_21_00
+        - 30_6F_21_00
+        - 3E_6F_21_00
+      timeline:
+        - D2_6E_21_00
+      balancingData: 2D_70_21_00
+      balancingProfile: 2E_70_21_00
+    - idx: 366
+      gameMode: 90_23_0B_00
+      gameChangerId: Bootlegging
+      triggers:
+        - CD_E5_22_00
+      timeline:
+        - D2_6E_21_00
+      balancingData: 60_70_21_00
+      balancingProfile: 61_70_21_00
+    - idx: 367
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted GTR
+      triggers:
+        - DE_69_21_00
+        - 5C_6A_21_00
+        - 60_6A_21_00
+        - 64_6A_21_00
+        - 68_6A_21_00
+        - D9_69_21_00
+        - 56_D3_22_00
+        - 5E_D3_22_00
+      timeline:
+        - 52_C1_17_00
+      balancingData: FD_68_21_00
+      balancingProfile: FE_68_21_00
+    - idx: 368
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted GT500
+      triggers:
+        - B6_69_21_00
+        - CF_69_21_00
+        - 40_D3_22_00
+        - C1_69_21_00
+        - C4_69_21_00
+        - C8_69_21_00
+        - CC_69_21_00
+        - C6_5E_23_00
+        - CD_5E_23_00
+        - 1D_5F_23_00
+        - 22_5F_23_00
+        - 27_5F_23_00
+        - 2C_5F_23_00
+      timeline:
+        - 29_C0_17_00
+      balancingData: F4_68_21_00
+      balancingProfile: F5_68_21_00
+    - idx: 369
+      gameMode: 90_23_0B_00
+      gameChangerId: Sudden Impact
+      triggers:
+        - 74_E6_22_00
+        - 7A_E6_22_00
+      timeline:
+        - D2_6E_21_00
+      balancingData: 36_70_21_00
+      balancingProfile: 37_70_21_00
+    - idx: 370
+      gameMode: 90_23_0B_00
+      gameChangerId: Bullet Train
+      triggers:
+        - 2D_E6_22_00
+        - 31_E6_22_00
+        - 34_E6_22_00
+        - 37_E6_22_00
+        - 3B_E6_22_00
+      timeline:
+        - D2_6E_21_00
+      balancingData: 62_70_21_00
+      balancingProfile: 6E_70_21_00
+    - idx: 371
+      gameMode: 90_23_0B_00
+      gameChangerId: Mayhem
+      triggers:
+        - D4_E5_22_00
+        - DA_E5_22_00
+        - E1_E5_22_00
+        - DE_E5_22_00
+        - EA_E5_22_00
+        - F1_E5_22_00
+      timeline:
+        - D2_6E_21_00
+        - D6_E5_22_00
+      balancingData: 94_70_21_00
+      balancingProfile: 95_70_21_00
+    - idx: 372
+      gameMode: 90_23_0B_00
+      gameChangerId: Deadline
+      triggers:
+        - 49_E6_22_00
+        - 61_57_23_00
+        - 4A_E6_22_00
+        - 51_E6_22_00
+        - 54_E6_22_00
+        - 56_E6_22_00
+      timeline:
+        - D2_6E_21_00
+      balancingData: B8_70_21_00
+      balancingProfile: C2_70_21_00
+    - idx: 373
+      gameMode: 90_23_0B_00
+      gameChangerId: Live and let Drive
+      triggers:
+        - 6B_E6_22_00
+        - 6F_E6_22_00
+      timeline:
+        - D2_6E_21_00
+      balancingData: E1_70_21_00
+      balancingProfile: EB_70_21_00
+    - idx: 374
+      gameMode: 90_23_0B_00
+      gameChangerId: Pulp Friction
+      triggers:
+        - 02_E6_22_00
+        - 0C_E6_22_00
+      timeline:
+        - D2_6E_21_00
+      balancingData: 22_71_21_00
+      balancingProfile: 21_71_21_00
+    - idx: 401
+      gameMode: 90_23_0B_00
+      gameChangerId: Most Wanted Spyder
+      triggers:
+        - F0_69_21_00
+        - 75_6A_21_00
+        - EB_69_21_00
+        - 72_6A_21_00
+        - 7B_6A_21_00
+        - 30_D3_22_00
+        - 31_D3_22_00
+        - F9_5E_23_00
+        - 03_5F_23_00
+        - 0F_5F_23_00
+      timeline:
+        - 29_C0_17_00
+      balancingData: 13_6A_21_00
+      balancingProfile: 14_6A_21_00
+    - idx: 408
+      gameMode: 90_23_0B_00
+      gameChangerId: High Stakes
+      triggers:
+        - B3_42_1B_00
+        - AB_42_1B_00
+      timeline:
+        - 29_C0_17_00
+      balancingData: 4B_67_22_00
+      balancingProfile: 4C_67_22_00
+    - idx: 412
+      gameMode: 29_F4_05_00
+      gameChangerId: Jailbird
+      triggers:
+        - FC_56_23_00
+        - 05_57_23_00
+        - 08_57_23_00
+        - 0C_57_23_00
+        - 0F_57_23_00
+      timeline:
+        - 46_68_22_00
+      balancingData: 00_00_00_00
+      balancingProfile: 00_00_00_00
+    - idx: 419
+      gameMode: 90_23_0B_00
+      gameChangerId: Inner City Pressure
+      triggers:
+        - D7_41_22_00
+        - D8_41_22_00
+        - DD_41_22_00
+      balancingData: D1_41_22_00
+      balancingProfile: 19_D3_22_00
+  
+5D_03_16_00 (21243475): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1442653
+  
+5D_A4_11_00 (18178441): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 9
+  extraScheduleTime: -8.5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 400
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7799999713897705
+      endSpeedValueAhead: 0.6800000071525574
+      startSpeedValueBehind: 0.9800000190734863
+      endSpeedValueBehind: 0.7749999761581421
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.6600000262260437
+      startSpeedValueBehind: 0.9599999785423279
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7400000095367432
+      endSpeedValueAhead: 0.6399999856948853
+      startSpeedValueBehind: 0.9399999976158142
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.6200000047683716
+      startSpeedValueBehind: 0.9200000166893005
+      endSpeedValueBehind: 0.6600000262260437
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 250
+      behindDistance: -150
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6299999952316284
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5799999833106995
+      startSpeedValueBehind: 0.8799999952316284
+      endSpeedValueBehind: 0.6000000238418579
+    - idx: 7
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 250
+      behindDistance: -150
+      startSpeedValueAhead: 0.6600000262260437
+      endSpeedValueAhead: 0.5600000023841858
+      startSpeedValueBehind: 0.8600000143051147
+      endSpeedValueBehind: 0.5799999833106995
+    - idx: 8
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 200
+      behindDistance: -200
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5400000214576721
+      startSpeedValueBehind: 0.8399999737739563
+      endSpeedValueBehind: 0.5600000023841858
+  
+5E_03_16_00 (21243476): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  extraScheduleTime: -7
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.7200000286102295
+      startSpeedValueBehind: 0.9700000286102295
+      endSpeedValueBehind: 0.8199999928474426
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6899999976158142
+      startSpeedValueBehind: 0.9399999976158142
+      endSpeedValueBehind: 0.7799999713897705
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6600000262260437
+      startSpeedValueBehind: 0.9100000262260437
+      endSpeedValueBehind: 0.75
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6299999952316284
+      startSpeedValueBehind: 0.8799999952316284
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8600000143051147
+      endSpeedValueBehind: 0.6499999761581421
+  
+5E_A4_11_00 (18178448): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1156190
+  
+5F_A8_0F_00 (16933187): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -7
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.75
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.625
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.7250000238418579
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.675000011920929
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6499999761581421
+  
+60_4D_18_00 (22619762): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+60_70_21_00 (35198038): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: 0
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.6000000238418579
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.6000000238418579
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.6000000238418579
+      endCutoffRatio: 1
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.699999988079071
+  
+60_A8_0F_00 (16933188): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1026144
+  
+61_70_21_00 (35198039): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2191457
+  
+62_54_16_00 (21377940): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+62_56_16_00 (21379334): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+62_70_21_00 (35198040): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -8
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7599999904632568
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7300000190734863
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+  
+66_74_22_00 (36012066): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+66_E7_18_00 (23273730): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 17
+  
+67_A4_11_00 (18178457): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 3
+  extraScheduleTime: 0
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 200
+      behindDistance: -100
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.75
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 200
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.6000000238418579
+      aheadDistance: 200
+      behindDistance: -100
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+  
+68_A4_11_00 (18178560): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1156200
+  
+69_2E_17_00 (22123017): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  id: 1519209
+  
+6A_2E_17_00 (22123024): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: 2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.3499999940395355
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.4000000059604645
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.6000000238418579
+      endSpeedValueBehind: 1
+  
+6B_54_16_00 (21378051): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+6E_15_11_00 (17929624): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 3
+  extraScheduleTime: -11
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 200
+      behindDistance: -5
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8999999761581421
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 180
+      behindDistance: -25
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 0.9800000190734863
+      endSpeedValueBehind: 0.8700000047683716
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 160
+      behindDistance: -50
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.4000000059604645
+      startSpeedValueBehind: 0.9599999785423279
+      endSpeedValueBehind: 0.800000011920929
+  
+6E_70_21_00 (35198064): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2191470
+  
+6F_15_11_00 (17929625): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1119599
+  
+6F_4C_18_00 (22619185): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+6F_7B_21_00 (35209863): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+70_56_16_00 (21379360): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+71_4D_18_00 (22619785): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+71_E4_1F_00 (34144407): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  extraScheduleTime: -5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 350
+      behindDistance: -200
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.75
+      aheadDistance: 350
+      behindDistance: -250
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6200000047683716
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.7749999761581421
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.75
+      aheadDistance: 350
+      behindDistance: -200
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.75
+      aheadDistance: 400
+      behindDistance: -150
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.675000011920929
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 400
+      behindDistance: -150
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.7749999761581421
+      endSpeedValueBehind: 0.6000000238418579
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 400
+      behindDistance: -150
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.5
+  
+72_E4_1F_00 (34144408): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 195
+  id: 2090098
+  
+76_BF_17_00 (22373186): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  id: 1556342
+  
+77_BF_17_00 (22373187): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -0.5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+  
+7A_86_11_00 (18122040): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+7B_5D_04_00 (2646133): GenesysGenScoreViewModel
+
+7E_E1_15_00 (21182850): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -4
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.7300000190734863
+      endSpeedValueAhead: 0.7200000286102295
+      startSpeedValueBehind: 0.9900000095367432
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6800000071525574
+      startSpeedValueBehind: 0.9700000286102295
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.9100000262260437
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6499999761581421
+  
+7F_67_22_00 (35997465): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -1
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: 50
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.75
+      aheadDistance: 250
+      behindDistance: 0
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5799999833106995
+      startSpeedValueBehind: 0.9599999785423279
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.6600000262260437
+      endSpeedValueAhead: 0.5600000023841858
+      startSpeedValueBehind: 0.9300000071525574
+      endSpeedValueBehind: 0.7250000238418579
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 200
+      behindDistance: -75
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5400000214576721
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 200
+      behindDistance: -100
+      startSpeedValueAhead: 0.6200000047683716
+      endSpeedValueAhead: 0.5199999809265137
+      startSpeedValueBehind: 0.8700000047683716
+      endSpeedValueBehind: 0.675000011920929
+  
+7F_E1_15_00 (21182851): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1433983
+  
+80_5C_15_00 (20551990): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 400
+      behindDistance: -150
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.699999988079071
+  
+80_67_22_00 (35997472): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2254720
+  
+80_E4_1F_00 (34144530): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  extraScheduleTime: 0
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 400
+      behindDistance: -150
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.05000000074505806
+      endCutoffRatio: 0.7753000259399414
+      aheadDistance: 375
+      behindDistance: -150
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.7250000238418579
+      aheadDistance: 350
+      behindDistance: -150
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 325
+      behindDistance: -175
+      startSpeedValueAhead: 0.7250000238418579
+      endSpeedValueAhead: 0.4749999940395355
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.675000011920929
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 300
+      behindDistance: -175
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.6000000238418579
+      aheadDistance: 275
+      behindDistance: -200
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.42500001192092896
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.625
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.5
+      aheadDistance: 250
+      behindDistance: -200
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.4000000059604645
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+  
+81_4C_18_00 (22619209): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 22
+  
+81_5C_15_00 (20551991): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  id: 1399937
+  
+81_E4_1F_00 (34144531): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 215
+  id: 2090113
+  
+82_4D_18_00 (22619910): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+82_7B_21_00 (35209990): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 20
+  
+87_E1_15_00 (21182865): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -2.2219998836517334
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.699999988079071
+  
+88_E1_15_00 (21182866): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 175
+  id: 1433992
+  
+8B_E7_18_00 (23273785): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 12
+  
+8D_B3_0F_00 (16945157): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.875
+      endSpeedValueAhead: 0.7200000286102295
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.824999988079071
+      endSpeedValueAhead: 0.6800000071525574
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.8100000023841858
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.6399999856948853
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.7699999809265137
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7250000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.7300000190734863
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.675000011920929
+      endSpeedValueAhead: 0.5600000023841858
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6899999976158142
+  
+90_74_22_00 (36012132): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+90_E4_1F_00 (34144552): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 11
+  extraScheduleTime: -9
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.75
+      aheadDistance: 400
+      behindDistance: -300
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.9300000071525574
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.7400000095367432
+      aheadDistance: 350
+      behindDistance: -300
+      startSpeedValueAhead: 0.7400000095367432
+      endSpeedValueAhead: 0.6299999952316284
+      startSpeedValueBehind: 0.9599999785423279
+      endSpeedValueBehind: 0.7799999713897705
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.7300000190734863
+      aheadDistance: 300
+      behindDistance: -400
+      startSpeedValueAhead: 0.7799999713897705
+      endSpeedValueAhead: 0.6100000143051147
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.7599999904632568
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.7200000286102295
+      aheadDistance: 375
+      behindDistance: -350
+      startSpeedValueAhead: 0.7099999785423279
+      endSpeedValueAhead: 0.5899999737739563
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.7400000095367432
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.7099999785423279
+      aheadDistance: 400
+      behindDistance: -300
+      startSpeedValueAhead: 0.6899999976158142
+      endSpeedValueAhead: 0.5699999928474426
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.7200000286102295
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 250
+      behindDistance: -400
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.7099999785423279
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.6800000071525574
+      aheadDistance: 350
+      behindDistance: -300
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.5199999809265137
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6800000071525574
+    - idx: 7
+      id: 0
+      startCutoffRatio: 0.05000000074505806
+      endCutoffRatio: 0.6600000262260437
+      aheadDistance: 350
+      behindDistance: -350
+      startSpeedValueAhead: 0.6299999952316284
+      endSpeedValueAhead: 0.49000000953674316
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.6600000262260437
+    - idx: 8
+      id: 0
+      startCutoffRatio: 0.05000000074505806
+      endCutoffRatio: 0.6399999856948853
+      aheadDistance: 300
+      behindDistance: -350
+      startSpeedValueAhead: 0.6200000047683716
+      endSpeedValueAhead: 0.46000000834465027
+      startSpeedValueBehind: 0.6899999976158142
+      endSpeedValueBehind: 0.6399999856948853
+    - idx: 9
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.6200000047683716
+      aheadDistance: 200
+      behindDistance: -300
+      startSpeedValueAhead: 0.6100000143051147
+      endSpeedValueAhead: 0.4300000071525574
+      startSpeedValueBehind: 0.6700000166893005
+      endSpeedValueBehind: 0.6200000047683716
+    - idx: 10
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.6000000238418579
+      aheadDistance: 200
+      behindDistance: -300
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.4000000059604645
+      startSpeedValueBehind: 0.6499999761581421
+      endSpeedValueBehind: 0.6000000238418579
+  
+91_E4_1F_00 (34144553): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 250
+  id: 2090129
+  
+94_70_21_00 (35198216): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: 1.5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7799999713897705
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8999999761581421
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.949999988079071
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.7799999713897705
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.75
+  
+94_B3_0F_00 (16945170): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1029012
+  
+95_70_21_00 (35198217): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2191509
+  
+95_79_16_00 (21440791): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: 4
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.25
+      aheadDistance: 300
+      behindDistance: -200
+      startSpeedValueAhead: 0.44999998807907104
+      endSpeedValueAhead: 0.4000000059604645
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 1
+  
+96_79_16_00 (21440792): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 170
+  id: 1472918
+  
+98_86_11_00 (18122088): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+9A_E7_18_00 (23273812): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+9E_E4_1F_00 (34144578): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: 0
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: 0
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8999999761581421
+  
+9F_E4_1F_00 (34144579): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 230
+  id: 2090143
+  
+A0_4C_18_00 (22619264): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+A1_6A_21_00 (35166597): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2189985
+  
+A4_6A_21_00 (35166600): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 11
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.5799999833106995
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.7250000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -55
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.5699999928474426
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.875
+      aheadDistance: 250
+      behindDistance: -75
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.5600000023841858
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.675000011920929
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.8500000238418579
+      aheadDistance: 250
+      behindDistance: -80
+      startSpeedValueAhead: 0.7400000095367432
+      endSpeedValueAhead: 0.5600000023841858
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 225
+      behindDistance: -90
+      startSpeedValueAhead: 0.7250000238418579
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.625
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.75
+      aheadDistance: 225
+      behindDistance: -95
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6000000238418579
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 225
+      behindDistance: -100
+      startSpeedValueAhead: 0.675000011920929
+      endSpeedValueAhead: 0.5299999713897705
+      startSpeedValueBehind: 0.824999988079071
+      endSpeedValueBehind: 0.6000000238418579
+    - idx: 7
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 225
+      behindDistance: -105
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.5099999904632568
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6000000238418579
+    - idx: 8
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.6000000238418579
+      aheadDistance: 200
+      behindDistance: -110
+      startSpeedValueAhead: 0.625
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.7749999761581421
+      endSpeedValueBehind: 0.574999988079071
+    - idx: 9
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.550000011920929
+      aheadDistance: 200
+      behindDistance: -115
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.550000011920929
+    - idx: 10
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.5
+      aheadDistance: 100
+      behindDistance: -120
+      startSpeedValueAhead: 0.574999988079071
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.5
+  
+A6_4D_18_00 (22619970): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 27
+  
+A6_9F_20_00 (34832418): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+A6_C0_17_00 (22373958): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 400
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.7300000190734863
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 375
+      behindDistance: -100
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.47999998927116394
+      startSpeedValueBehind: 0.9800000190734863
+      endSpeedValueBehind: 0.7099999785423279
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.6600000262260437
+      endSpeedValueAhead: 0.46000000834465027
+      startSpeedValueBehind: 0.9599999785423279
+      endSpeedValueBehind: 0.6899999976158142
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.4399999976158142
+      startSpeedValueBehind: 0.9399999976158142
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.41999998688697815
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6100000143051147
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 275
+      behindDistance: -100
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.4000000059604645
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.5699999928474426
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.75
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.3799999952316284
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.5299999713897705
+  
+A7_03_16_00 (21243687): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  extraScheduleTime: -8
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 1
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6700000166893005
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.949999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6399999856948853
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.8999999761581421
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6100000143051147
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.5799999833106995
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.75
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.44999998807907104
+      endSpeedValueAhead: 0.5199999809265137
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.699999988079071
+  
+A7_C0_17_00 (22373959): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1556647
+  
+A8_03_16_00 (21243688): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1442728
+  
+AB_56_16_00 (21379449): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+B1_56_16_00 (21379461): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+B3_E7_18_00 (23273849): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+B5_76_21_00 (35205239): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.824999988079071
+      endSpeedValueAhead: 0.7200000286102295
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8500000238418579
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6800000071525574
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.8100000023841858
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.6399999856948853
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.7699999809265137
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.75
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.7250000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.7300000190734863
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.675000011920929
+      endSpeedValueAhead: 0.5600000023841858
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6899999976158142
+  
+B6_76_21_00 (35205240): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2193078
+  
+B6_C0_17_00 (22373986): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1556662
+  
+B7_56_16_00 (21379473): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+B7_C0_17_00 (22373987): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  extraScheduleTime: -5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.6000000238418579
+      aheadDistance: 400
+      behindDistance: 100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.49000000953674316
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.75
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.6000000238418579
+      aheadDistance: 350
+      behindDistance: 50
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.47999998927116394
+      startSpeedValueBehind: 0.9800000190734863
+      endSpeedValueBehind: 0.7200000286102295
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 300
+      behindDistance: 0
+      startSpeedValueAhead: 0.6600000262260437
+      endSpeedValueAhead: 0.4699999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.6899999976158142
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 300
+      behindDistance: -50
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.46000000834465027
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6600000262260437
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.6200000047683716
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6000000238418579
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6100000143051147
+      endSpeedValueAhead: 0.4399999976158142
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.550000011920929
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.75
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.4300000071525574
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.5
+  
+B8_70_21_00 (35198276): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: 1
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 1
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+  
+B9_54_16_00 (21378177): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+BB_F6_15_00 (21206041): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  extraScheduleTime: 0
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.875
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.7300000190734863
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.7099999785423279
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.8199999928474426
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6899999976158142
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.7799999713897705
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6700000166893005
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.7400000095367432
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 1
+      aheadDistance: 100
+      behindDistance: -50
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6299999952316284
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6499999761581421
+  
+BC_F6_15_00 (21206048): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1439420
+  
+BF_9F_20_00 (34832455): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 11
+  
+C0_E7_18_00 (23273874): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+C2_4A_18_00 (22618114): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+C2_70_21_00 (35198292): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2191554
+  
+C2_BF_17_00 (22373400): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1556418
+  
+C3_BF_17_00 (22373401): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -5.5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: -100
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 180
+      behindDistance: -100
+      startSpeedValueAhead: 0.6299999952316284
+      endSpeedValueAhead: 0.6200000047683716
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 160
+      behindDistance: -100
+      startSpeedValueAhead: 0.5799999833106995
+      endSpeedValueAhead: 0.5899999737739563
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 130
+      behindDistance: -100
+      startSpeedValueAhead: 0.5299999713897705
+      endSpeedValueAhead: 0.5600000023841858
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 100
+      behindDistance: -100
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.6000000238418579
+      endSpeedValueBehind: 0.5
+  
+C6_4D_18_00 (22620020): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 21
+  
+C6_7C_21_00 (35210800): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+C8_03_0F_00 (9977864): GenesysGenScoreViewModel
+
+CA_16_11_00 (17930566): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 6
+  extraScheduleTime: -5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.4000000059604645
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 1
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.4000000059604645
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.625
+      endSpeedValueAhead: 0.625
+      startSpeedValueBehind: 0.7200000286102295
+      endSpeedValueBehind: 0.925000011920929
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.4000000059604645
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.6800000071525574
+      endSpeedValueBehind: 0.824999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.4000000059604645
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.574999988079071
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.6399999856948853
+      endSpeedValueBehind: 0.7250000238418579
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.4000000059604645
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.6000000238418579
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.15000000596046448
+      endCutoffRatio: 0.4000000059604645
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.5249999761581421
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.5799999833106995
+      endSpeedValueBehind: 0.6200000047683716
+  
+CB_16_11_00 (17930567): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1119947
+  
+CC_16_11_00 (17930568): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -3
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.7200000286102295
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6899999976158142
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7250000238418579
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6499999761581421
+  
+CD_16_11_00 (17930569): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1119949
+  
+D1_41_22_00 (35934323): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -4
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: -200
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.8500000238418579
+      aheadDistance: 300
+      behindDistance: -200
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.7200000286102295
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.20000000298023224
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 300
+      behindDistance: -200
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6899999976158142
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.75
+      aheadDistance: 300
+      behindDistance: -200
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 300
+      behindDistance: -200
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6499999761581421
+  
+D1_9F_20_00 (34832485): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 18
+  
+D4_38_11_00 (17991264): GenesysGenScoreViewModel
+
+D4_D4_16_00 (21586550): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -1
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+  
+D5_9F_20_00 (34832489): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 10
+  
+D5_D4_16_00 (21586551): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  id: 1496277
+  
+D6_A5_11_00 (18179430): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 7
+  extraScheduleTime: -3
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.75
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.8500000238418579
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8399999737739563
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.824999988079071
+      endSpeedValueAhead: 0.6399999856948853
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6299999952316284
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.7599999904632568
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8500000238418579
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6200000047683716
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.7200000286102295
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8500000238418579
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.6100000143051147
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6800000071525574
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.6399999856948853
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5899999737739563
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6000000238418579
+  
+D6_E7_18_00 (23274004): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 15
+  
+D7_44_19_00 (23420963): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 8
+  extraScheduleTime: -3
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.3499999940395355
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.8199999928474426
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.8100000023841858
+      endSpeedValueAhead: 0.6700000166893005
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.7799999713897705
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6399999856948853
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.7599999904632568
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7900000214576721
+      endSpeedValueAhead: 0.6100000143051147
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.7400000095367432
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7699999809265137
+      endSpeedValueAhead: 0.5899999737739563
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.7099999785423279
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7400000095367432
+      endSpeedValueAhead: 0.5600000023841858
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.6800000071525574
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.7099999785423279
+      endSpeedValueAhead: 0.5299999713897705
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.6399999856948853
+    - idx: 7
+      id: 0
+      startCutoffRatio: 0.44999998807907104
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 250
+      behindDistance: -100
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.6000000238418579
+  
+D7_A5_11_00 (18179431): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1156567
+  
+D8_44_19_00 (23420964): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1656024
+  
+DA_9F_20_00 (34832500): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 7
+  
+E0_76_21_00 (35205408): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 11
+  extraScheduleTime: 0.6000000238418579
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.6000000238418579
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -50
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.675000011920929
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.574999988079071
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -50
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.824999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.550000011920929
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -50
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.625
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.5249999761581421
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -75
+      startSpeedValueAhead: 0.7250000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.75
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -75
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.4749999940395355
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -75
+      startSpeedValueAhead: 0.675000011920929
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.675000011920929
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.42500001192092896
+      endCutoffRatio: 1
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.824999988079071
+      endSpeedValueBehind: 0.675000011920929
+    - idx: 7
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.625
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.675000011920929
+    - idx: 8
+      id: 0
+      startCutoffRatio: 0.4000000059604645
+      endCutoffRatio: 1
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.574999988079071
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.6549999713897705
+    - idx: 9
+      id: 0
+      startCutoffRatio: 0.375
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.6549999713897705
+    - idx: 10
+      id: 0
+      startCutoffRatio: 0.35499998927116394
+      endCutoffRatio: 1
+      aheadDistance: 300
+      behindDistance: -100
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.625
+  
+E0_E8_18_00 (23274624): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 9
+  
+E1_70_21_00 (35198341): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -8
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7599999904632568
+      aheadDistance: 350
+      behindDistance: -100
+      startSpeedValueAhead: 0.7599999904632568
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.7300000190734863
+      aheadDistance: 325
+      behindDistance: -100
+      startSpeedValueAhead: 0.7200000286102295
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.699999988079071
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.6499999761581421
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.6399999856948853
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6000000238418579
+  
+E1_76_21_00 (35205409): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2193121
+  
+E1_AA_17_00 (22351987): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 1
+      aheadDistance: 250
+      behindDistance: -150
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.699999988079071
+  
+E2_AA_17_00 (22351988): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 215
+  id: 1551074
+  
+E4_A3_11_00 (18178152): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.75
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8999999761581421
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.7699999809265137
+      endSpeedValueAhead: 0.699999988079071
+      startSpeedValueBehind: 0.9700000286102295
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.7400000095367432
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 0.9399999976158142
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.7099999785423279
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.9100000262260437
+      endSpeedValueBehind: 0.75
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.6800000071525574
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.8799999952316284
+      endSpeedValueBehind: 0.699999988079071
+  
+E4_E7_18_00 (23274024): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 14
+  
+E5_A3_11_00 (18178153): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1156069
+  
+EA_2D_10_00 (17171248): GenesysGenEventArena
+more info:
+  numLockdownPoints: 0
+  numPointToPointCheckpoints: 0
+  numRepairPoints: 0
+  numSpawnLocations: 1
+  numChevrons: 0
+  numCustomChevronList: 0
+  numTeamSpawnLocations: 2
+  
+EA_E0_15_00 (21182516): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 8
+  extraScheduleTime: -3
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 300
+      behindDistance: 100
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.625
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.8500000238418579
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 275
+      behindDistance: 75
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.824999988079071
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: 50
+      startSpeedValueAhead: 0.625
+      endSpeedValueAhead: 0.574999988079071
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 225
+      behindDistance: 25
+      startSpeedValueAhead: 0.625
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: 0
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5249999761581421
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: -25
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.4749999940395355
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 7
+      id: 0
+      startCutoffRatio: 0.10000000149011612
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: -75
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.6499999761581421
+  
+EB_70_21_00 (35198357): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2191595
+  
+EB_E0_15_00 (21182517): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1433835
+  
+EC_5E_04_00 (2647108): GenesysObjCollection
+more info:
+  count: 12
+  types:
+    - GenesysGenGameMode
+  
+ED_DF_15_00 (21181825): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 1433581
+  
+EE_DF_15_00 (21181826): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 9
+  extraScheduleTime: -5
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: -50
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: -50
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.6299999952316284
+      startSpeedValueBehind: 0.9750000238418579
+      endSpeedValueBehind: 0.7749999761581421
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: -50
+      startSpeedValueAhead: 0.75
+      endSpeedValueAhead: 0.6100000143051147
+      startSpeedValueBehind: 0.949999988079071
+      endSpeedValueBehind: 0.75
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: -50
+      startSpeedValueAhead: 0.7250000238418579
+      endSpeedValueAhead: 0.5899999737739563
+      startSpeedValueBehind: 0.925000011920929
+      endSpeedValueBehind: 0.7250000238418579
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: -50
+      startSpeedValueAhead: 0.6499999761581421
+      endSpeedValueAhead: 0.5699999928474426
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 5
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: -50
+      startSpeedValueAhead: 0.625
+      endSpeedValueAhead: 0.550000011920929
+      startSpeedValueBehind: 0.875
+      endSpeedValueBehind: 0.675000011920929
+    - idx: 6
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: -50
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.5299999713897705
+      startSpeedValueBehind: 0.8500000238418579
+      endSpeedValueBehind: 0.6499999761581421
+    - idx: 7
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: -50
+      startSpeedValueAhead: 0.574999988079071
+      endSpeedValueAhead: 0.5099999904632568
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.625
+    - idx: 8
+      id: 0
+      startCutoffRatio: 0.5
+      endCutoffRatio: 1
+      aheadDistance: 400
+      behindDistance: -50
+      startSpeedValueAhead: 0.550000011920929
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.6000000238418579
+  
+F3_5D_04_00 (2646421): GenesysObjCollection
+more info:
+  count: 10
+  types:
+    - GenesysGenEventArena
+  
+F4_68_21_00 (35165526): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -8
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.75
+  
+F4_9F_20_00 (34832640): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 13
+  
+F5_68_21_00 (35165527): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  id: 2189557
+  
+F6_F3_05_00 (3735860): GenesysGenScoreViewModel
+
+F8_9F_20_00 (34832644): GenesysGenOnlineRoute
+more info:
+  checkpointCount: 16
+  
+F9_E0_15_00 (21182537): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.25
+      endCutoffRatio: 0.75
+      aheadDistance: 200
+      behindDistance: -50
+      startSpeedValueAhead: 0.6000000238418579
+      endSpeedValueAhead: 0.6499999761581421
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.75
+  
+FA_E0_15_00 (21182544): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 180
+  id: 1433850
+  
+FC_71_21_00 (35199080): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 5
+  extraScheduleTime: -2
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 250
+      behindDistance: -50
+      startSpeedValueAhead: 0.824999988079071
+      endSpeedValueAhead: 0.7200000286102295
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.800000011920929
+    - idx: 1
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 225
+      behindDistance: -100
+      startSpeedValueAhead: 0.800000011920929
+      endSpeedValueAhead: 0.6800000071525574
+      startSpeedValueBehind: 0.8999999761581421
+      endSpeedValueBehind: 0.75
+    - idx: 2
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 225
+      behindDistance: -125
+      startSpeedValueAhead: 0.7749999761581421
+      endSpeedValueAhead: 0.6399999856948853
+      startSpeedValueBehind: 0.800000011920929
+      endSpeedValueBehind: 0.699999988079071
+    - idx: 3
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 200
+      behindDistance: -135
+      startSpeedValueAhead: 0.7250000238418579
+      endSpeedValueAhead: 0.6000000238418579
+      startSpeedValueBehind: 0.75
+      endSpeedValueBehind: 0.6800000071525574
+    - idx: 4
+      id: 0
+      startCutoffRatio: 0.30000001192092896
+      endCutoffRatio: 0.8999999761581421
+      aheadDistance: 175
+      behindDistance: -150
+      startSpeedValueAhead: 0.699999988079071
+      endSpeedValueAhead: 0.5
+      startSpeedValueBehind: 0.699999988079071
+      endSpeedValueBehind: 0.6499999761581421
+  
+FD_68_21_00 (35165541): GenesysGenRaceBalancingData
+more info:
+  opponentDataCount: 1
+  extraScheduleTime: -8
+  extraCrashScheduleTime: 3
+  opponentData:
+    - idx: 0
+      id: 0
+      startCutoffRatio: 0
+      endCutoffRatio: 0.800000011920929
+      aheadDistance: 300
+      behindDistance: -150
+      startSpeedValueAhead: 0.5
+      endSpeedValueAhead: 0.44999998807907104
+      startSpeedValueBehind: 1
+      endSpeedValueBehind: 0.75
+  
+FD_71_21_00 (35199081): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 100
+  id: 2191869
+  
+FE_68_21_00 (35165542): GenesysGenRaceBalancingProfile
+more info:
+  minSpeed: 0
+  maxSpeed: 200
+  id: 2189566
+  

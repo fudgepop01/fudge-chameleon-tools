@@ -1,0 +1,279 @@
+{
+  "copTypes": [
+    {
+      "playerType": 457335,
+      "_formation": "2 Crown Victoria",
+      "bool0x14": 1,
+      "gameChangerId": 1656073,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1056142,
+      "_formation": "unknown",
+      "bool0x14": 0,
+      "gameChangerId": 1656074,
+      "canSpawnBehind": 0,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 1,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1056142,
+      "_formation": "unknown",
+      "bool0x14": 0,
+      "gameChangerId": 1656075,
+      "canSpawnBehind": 0,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1212003,
+      "_formation": "Charger",
+      "bool0x14": 0,
+      "gameChangerId": 1656078,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 955224,
+      "_formation": "4 Crown Victoria",
+      "bool0x14": 0,
+      "gameChangerId": 1656079,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 955108,
+      "_formation": "Corvette",
+      "bool0x14": 1,
+      "gameChangerId": 1656081,
+      "canSpawnBehind": 0,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 955108,
+      "_formation": "Corvette",
+      "bool0x14": 1,
+      "gameChangerId": 1656084,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 457803,
+      "_formation": "Rhino",
+      "bool0x14": 0,
+      "gameChangerId": 1656087,
+      "canSpawnBehind": 0,
+      "canSpawnHeadOn": 1,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 955108,
+      "_formation": "Corvette",
+      "bool0x14": 0,
+      "gameChangerId": 1656088,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1156826,
+      "_formation": "3 Crown Victorias",
+      "bool0x14": 0,
+      "gameChangerId": 1656090,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1156826,
+      "_formation": "3 Crown Victorias",
+      "bool0x14": 0,
+      "gameChangerId": 1656091,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1442548,
+      "_formation": "Red Alfa Romeo 4C",
+      "bool0x14": 0,
+      "gameChangerId": 1656363,
+      "canSpawnBehind": 0,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1156779,
+      "_formation": "2 Crown Victoria (2)",
+      "bool0x14": 0,
+      "gameChangerId": 1656364,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 457335,
+      "_formation": "2 Crown Victoria",
+      "bool0x14": 0,
+      "gameChangerId": 1656367,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 457335,
+      "_formation": "2 Crown Victoria",
+      "bool0x14": 0,
+      "gameChangerId": 1656381,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1212003,
+      "_formation": "Charger",
+      "bool0x14": 0,
+      "gameChangerId": 1656382,
+      "canSpawnBehind": 0,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1212003,
+      "_formation": "Charger",
+      "bool0x14": 0,
+      "gameChangerId": 1656383,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 390489,
+      "_formation": "2 Crown Victorias (3)",
+      "bool0x14": 0,
+      "gameChangerId": 1656384,
+      "canSpawnBehind": 0,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 457803,
+      "_formation": "Rhino",
+      "bool0x14": 0,
+      "gameChangerId": 1656385,
+      "canSpawnBehind": 0,
+      "canSpawnHeadOn": 1,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 955108,
+      "_formation": "Corvette",
+      "bool0x14": 0,
+      "gameChangerId": 1656386,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 457803,
+      "_formation": "Rhino",
+      "bool0x14": 0,
+      "gameChangerId": 1656387,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1156780,
+      "_formation": "3 Crown Victorias (2)",
+      "bool0x14": 0,
+      "gameChangerId": 1700225,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1212059,
+      "_formation": "3 SWAT Vans",
+      "bool0x14": 0,
+      "gameChangerId": 1871661,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 1212059,
+      "_formation": "3 SWAT Vans",
+      "bool0x14": 0,
+      "gameChangerId": 1871681,
+      "canSpawnBehind": 0,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 1,
+      "bool0x18": 0,
+      "bool0x19": 0
+    },
+    {
+      "playerType": 2191062,
+      "_formation": "3 SWAT Vans (2)",
+      "bool0x14": 0,
+      "gameChangerId": 2191061,
+      "canSpawnBehind": 1,
+      "canSpawnHeadOn": 0,
+      "canSpawnIntercepting": 0,
+      "bool0x18": 0,
+      "bool0x19": 0
+    }
+  ]
+}

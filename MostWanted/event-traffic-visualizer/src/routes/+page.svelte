@@ -8,13 +8,18 @@
     import { onMount } from "svelte";
     import * as THREE from 'three';
     import EngineEditorCamera from "$lib/EngineCamera";
-    import type { Checkpoints, IBoxCheckpointData, Races } from "$lib/checkpointData";
+    import type { Checkpoints, Races, AIPlayerTypes, CopAITypes, RolloutTypes, GameplayTriggers, TriggersById } from "$lib/checkpointData";
     import type { Event as GameEvents } from "$lib/event";
     
 
     let trafficParser: Traffic = $state();
     let checkpoints: Checkpoints = $state();
     let gameEvents: GameEvents = $state();
+    let aiPlayerTypes: AIPlayerTypes = $state();
+    let copTypes: CopAITypes = $state();
+    let gameplayTriggers: GameplayTriggers = $state();
+    let rollouts: RolloutTypes = $state();
+    let triggerLocationsById: TriggersById = $state();
     let races: Races = $state({});
     let selectedRace: string = $state("");
     let eventInfo: any = $state({});
@@ -26,6 +31,12 @@
         const eventData = await checkpointDataFetcher();
         gameEvents = await eventParserBuilder();
         checkpoints = eventData.checkpoints;
+        aiPlayerTypes = eventData.aiPlayerTypes
+        copTypes = eventData.copAiTypes
+        gameplayTriggers = eventData.gameplayTriggers
+        rollouts = eventData.rolloutTypes
+        triggerLocationsById = eventData.triggersById
+
         races = eventData.races;
     })
     let container: HTMLCanvasElement;
@@ -89,56 +100,6 @@
                 // document.body.style = `--mouseClientX=${} --mouseClientY=${mouseClientLoc[1]}`
             });
 
-            const moveCamera = () => {
-                if (cameraKeysPressed.size === 0) return;
-
-                const p = new THREE.Vector3();
-                camera.getWorldPosition(p);
-                const speed = 10;
-                const direction = new THREE.Vector3();
-                camera.getWorldDirection(direction);
-                const worldQuat = new THREE.Quaternion();
-                camera.getWorldQuaternion(worldQuat);
-
-                const moveX = (new THREE.Vector3()).copy(direction);
-                // const quat = new THREE.Quaternion(0, -1, 0, 1).normalize();
-                // const halfQuat = new THREE.Quaternion(0, 0, 0, 0);
-                // const quat = new THREE.Quaternion;
-                moveX.applyQuaternion(worldQuat);
-                moveX.multiplyScalar(speed);
-
-                // const moveF = (new THREE.Vector3()).copy(direction);
-                // const moveF = (new THREE.Vector3()).copy(direction);
-                const moveF = (new THREE.Vector3()).copy(direction);
-                moveF.multiplyScalar(speed);
-
-                if (cameraKeysPressed.has('w')) {
-                    camera.position.add(moveF);
-                }
-                else if (cameraKeysPressed.has('s')) {
-                    camera.position.sub(moveF);
-                }
-                
-                const vecRight = new THREE.Vector3(-speed, 0, 0);
-                vecRight.applyQuaternion(worldQuat);
-                if (cameraKeysPressed.has('d')) {
-                    camera.position.sub(vecRight);
-                } else if (cameraKeysPressed.has('a')) {
-                    camera.position.add(vecRight);
-                }
-
-                if (cameraKeysPressed.has('ArrowLeft')) {
-                    camera.rotateY(0.1);
-                } else if (cameraKeysPressed.has('ArrowRight')) {
-                    camera.rotateY(-0.1);
-                }
-
-                if (cameraKeysPressed.has('ArrowUp')) {
-                    camera.rotateX(0.1);
-                } else if (cameraKeysPressed.has('ArrowDown')) {
-                    camera.rotateX(-0.1);
-                }
-            }
             container.addEventListener("keydown", (evt) => {
                 cameraKeysPressed.add(evt.key);
             })
@@ -149,41 +110,50 @@
             const animate: XRFrameRequestCallback = (time: number) => {
                 // console.log(time);
                 controls.update(time);
-                // moveCamera();
                 renderer.render(scene, camera);
                 raycaster.setFromCamera(mouseLocation, camera);
 
                 const foundObjects = raycaster.intersectObjects(checkpointMeshes);
                 // console.log(raycaster.params);
                 const highlightMesh = new THREE.MeshBasicMaterial({color: 0xFFFFFF });
-                
-                for (const id of meshIDSet) {
-                    (scene.getObjectById(id) as THREE.Mesh).material = sceneMeshMap.get(id).originalMat;
-                }
 
                 checkpointDataDisplay = "";
+                let prevMeshIDSet = new Set([...meshIDSet]);
                 meshIDSet.clear();
                 // for (const obj of foundObjects) {
                 if (foundObjects.length > 0) {
+                    // console.log(foundObjects);
                     const obj = foundObjects[0];
                     if ((obj.object as any).isMesh) {
                         const mesh = obj.object as THREE.Mesh;
                         // console.log(mesh.geometry.attributes.colors.array);
                         meshIDSet.add(mesh.id);
                         mesh.material = highlightMesh;
-                        if (mesh.userData.eventName) {
-                            checkpointDataDisplay = mesh.userData.eventName;
+                        if (mesh['onHover']) {
+                            mesh['onHover']();
                         }
-                        if (mouseButton == 0 && mesh.userData.ID) {
-                            if (customRoute[customRoute.length - 1] !== mesh.userData.ID) {
-                                customRoute.push(mesh.userData.ID);
+
+                        checkpointDataDisplay = JSON.stringify(mesh.userData.hover, null, 2);
+                        if (mouseButton == 0 && mesh.userData.hover.ID) {
+                            if (customRoute[customRoute.length - 1] !== mesh.userData.hover.ID) {
+                                customRoute.push(mesh.userData.hover.ID);
                             }
-                        } else if (mouseButton == 2 && mesh.userData.ID) {
-                            if (customRoute[customRoute.length - 1] === mesh.userData.ID) {
+                        } else if (mouseButton == 2 && mesh.userData.hover.ID) {
+                            if (customRoute[customRoute.length - 1] === mesh.userData.hover.ID) {
                                 customRoute.pop();
                             }
                         }
                         // const color = mesh.geometry.setAttribute('color', new THREE.BufferAttribute([0xFFFFFF], 1));
+                    }
+                }
+
+                for (const id of prevMeshIDSet) {
+                    if (meshIDSet.has(id)) continue;
+
+                    const mesh = scene.getObjectById(id) as THREE.Mesh;
+                    mesh.material = sceneMeshMap.get(id).originalMat;
+                    if (mesh['offHover']) {
+                        mesh['offHover']();
                     }
                 }
                 // }
@@ -262,9 +232,9 @@
 
             const boxColor = new THREE.MeshBasicMaterial({color: 0xFFFFFF, wireframe: true})
             for (const [racename, checkpointIDs] of Object.entries(races)) {
-                const mat = new THREE.MeshBasicMaterial({color: genColor(80), wireframe: false});
+                const matColor = genColor(80);
                 
-                for (const id of checkpointIDs.checkpoints) {
+                for (const [idx, id] of checkpointIDs.checkpoints.entries()) {
                     const pos = checkpoints[id].position;
                     const dimension = checkpoints[id].dimension;
                     const rotation = checkpoints[id].rotation;
@@ -277,15 +247,22 @@
                     let size = 10.0;
                     const sphereData = new THREE.SphereGeometry(size, 4, 4);
 
-                    const sphere = new THREE.Mesh(sphereData, mat);
+                    const sphere = new THREE.Mesh(sphereData, boxColor.clone());
+                    sphere.material.color.set(matColor);
+                    sphere.material.wireframe = false;
+
                     sphere.position.set(pos.x, pos.y, pos.z);
-                    sphere.userData.eventName = racename;
-                    sphere.userData.ID = id;
+                    sphere.userData.hover = {
+                        eventName: racename,
+                        ID: id,
+                    }
 
                     spheres.push(sphere);
 
                     const boxData = new THREE.BoxGeometry(dimension.x, dimension.y, dimension.z);
-                    const box = new THREE.Mesh(boxData, boxColor);
+                    const box = new THREE.Mesh(boxData, boxColor.clone());
+                    box.material.transparent = true;
+                    box.material.opacity = 0.4;
                     box.position.set(pos.x, pos.y, pos.z);
                     box.setRotationFromQuaternion(new THREE.Quaternion(
                         rotation.x,
@@ -314,18 +291,118 @@
         else if (selectedRace.length !== 0) {
             const spheres: THREE.Mesh[] = [];
             const checkpointBoxes: THREE.Mesh[] = [];
+            const sphereTriggers: THREE.Mesh[] = [];
+            const locatorTriggers: {arrow: THREE.ArrowHelper, point: THREE.Mesh}[] = [];
+            const boxTriggers: {box: THREE.Mesh, transparentBox: THREE.Mesh}[] = [];
 
             const mat = new THREE.MeshBasicMaterial({color: 0xFF0000, wireframe: true});
             const startColor = new THREE.MeshBasicMaterial({color: 0x00FF00});
             const endColor = new THREE.MeshBasicMaterial({color: 0xFFFF00});
 
-            const boxColor = new THREE.MeshBasicMaterial({color: 0xFFFFFF, wireframe: true});
+            const boxColor = new THREE.MeshBasicMaterial({color: 0xFFFFFF, wireframe: true, opacity: 0.2, transparent: true});
+            const triggerInputMaterial = new THREE.MeshBasicMaterial({color: 0x00FF00, opacity: 0.75, transparent: true});
+            const triggerBasicMaterial = new THREE.MeshBasicMaterial({color: 0x888888, opacity: 0.75, transparent: true});
+            const triggerOutputMaterial = new THREE.MeshBasicMaterial({color: 0xFFFF00, opacity: 0.75, transparent: true});
+            
+            const triggerConnectionLineMaterial = new THREE.LineBasicMaterial({color: 0xFFFF00, opacity: 1, transparent: true})
             // console.log(races);
             const lastIdx = races[selectedRace].checkpoints.length - 1;
+
+            const createTriggerMesh = (type: TriggersById[0]['type'], trig: TriggersById[0], metadata: any, material?: THREE.Material) => {
+                if (type === 'box') {
+                    const pos = trig.data.position;
+                    const dimension = trig.data.dimension;
+                    const rotation = trig.data.rotation;
+
+                    const boxData = new THREE.BoxGeometry(dimension.x, dimension.y, dimension.z);
+                    const box = new THREE.Mesh(boxData, boxColor);
+                    box.userData.hover = metadata;
+                    box.position.set(pos.x, pos.y, pos.z);
+                    box.setRotationFromQuaternion(new THREE.Quaternion(
+                        rotation.x,
+                        rotation.y,
+                        rotation.z,
+                        rotation.w
+                    ));
+
+                    const transparentBox = new THREE.Mesh(boxData, material ?? triggerBasicMaterial);
+                    transparentBox.position.set(pos.x, pos.y, pos.z);
+                    transparentBox.setRotationFromQuaternion(new THREE.Quaternion(
+                        rotation.x,
+                        rotation.y,
+                        rotation.z,
+                        rotation.w
+                    ));
+
+                    return {box, transparentBox};
+                } else if (type === 'locator') {
+                    const pos = trig.data.position;
+                    const direction = trig.data.direction;
+
+                    const arrowDir = new THREE.Vector3(direction.w, direction.x, direction.y);
+                    
+                    const arrow = new THREE.ArrowHelper(
+                        arrowDir,
+                        new THREE.Vector3(pos.x, pos.y, pos.z),
+                        40,
+                        0xFF0000,
+                        40,
+                        10
+                    );
+
+                    // const arrowDirNorm = arrowDir;
+                    // arrowDirNorm.normalize();
+                    // arrowDirNorm.multiplyScalar(100);
+                    // arrow.position.sub(arrowDirNorm);
+
+                    arrow.cone.userData.hover = metadata;
+                    // arrow.position.set(pos.x, pos.y, pos.z);
+                    
+                    // arrow.position.sub(arrowDir.multiplyScalar(1));
+
+                    const pointGeo = new THREE.SphereGeometry(5, 4, 4);
+                    arrow.cone.material = material ?? triggerBasicMaterial;
+                    arrow.line.material = material ?? triggerBasicMaterial;
+                    const point = new THREE.Mesh(pointGeo, mat);
+                    point.position.set(pos.x, pos.y, pos.z);
+
+                    return {arrow, point};
+                } else if (type === 'sphere') {
+                    const pos = trig.data.position;
+                    const radius = trig.data.radius;
+                
+                    const sphereData = new THREE.SphereGeometry(radius, 4, 4);
+                    const sphere = new THREE.Mesh(sphereData, material ?? triggerBasicMaterial);
+                    sphere.position.set(pos.x, pos.y, pos.z);
+                    sphere.userData.hover = metadata;
+
+                    return sphere;
+                }
+            }
+
             for (const [idx, checkpoint] of races[selectedRace].checkpoints.entries()) {
                 const pos = checkpoints[checkpoint].position;
                 const dimension = checkpoints[checkpoint].dimension;
                 const rotation = checkpoints[checkpoint].rotation;
+
+                if (idx === 0) {
+                    camera.position.set(pos.x, pos.y, pos.z);
+                    // camera.setRotationFromQuaternion(new THREE.Quaternion(
+                    //     rotation.x,
+                    //     rotation.y,
+                    //     rotation.z,
+                    //     rotation.w
+                    // ));
+                    
+                    // camera.quaternion.setFromAxisAngle(new THREE.Vector3(0, 1, 0), Math.PI);
+                    // const startDir = new THREE.Vector3(camera.rotation.x, camera.rotation.y, camera.rotation.z);
+                    // startDir.normalize();
+                    // startDir.multiplyScalar(100);
+                    // camera.position.add(startDir);
+
+                    camera.quaternion.set(-0.4537693038710365, 0.5458332582394273, 0.5119719180322186, 0.4837811780242559);
+                    camera.position.y += 1000;
+                }
 
                 let size = 5.0;
                 if (idx === 0 || idx === lastIdx) size = 10.0
@@ -336,8 +413,11 @@
                 else if (idx === lastIdx) matChoice = endColor;
                 const sphere = new THREE.Mesh(sphereData, matChoice);
                 sphere.position.set(pos.x, pos.y, pos.z);      
-                sphere.userData.eventName = `${selectedRace}\n${checkpoint}`;
-                sphere.userData.ID = checkpoint;
+                sphere.userData.hover = {
+                    eventName: `${selectedRace}`,
+                    ID: checkpoint,
+                    checkpointNumber: idx,
+                }
                 spheres.push(sphere);
 
                 const boxData = new THREE.BoxGeometry(dimension.x, dimension.y, dimension.z);
@@ -350,9 +430,151 @@
                     rotation.w
                 ));
 
-
-
                 checkpointBoxes.push(box);
+            }
+            for (const [idx, id] of races[selectedRace].triggers.entries()) {
+                const triggerData = gameplayTriggers[id];
+                if (!triggerData) continue;
+
+                const onHoverLineFn = function() {
+                    if (!this.lines) this.lines = [];
+                    if (this.lines.length) return;
+
+                    const myWorldPosition = this.getWorldPosition(new THREE.Vector3());
+                    for (const child of this.userData.children as THREE.Mesh[]) {
+                        const childWorldPosition = child.getWorldPosition(new THREE.Vector3());
+                        const points = [myWorldPosition, childWorldPosition];
+                        const geometry = new THREE.BufferGeometry().setFromPoints(points);
+                        const line = new THREE.Line( geometry, triggerConnectionLineMaterial );
+
+                        scene.add(line);
+                        this.lines.push(line);
+                    }
+                }
+
+                const offHoverLineFn = function() {
+                    if (!this.lines) this.lines = [];
+                    if (!this.lines.length) return;
+
+                    while (this.lines.length > 0) {
+                        (this.lines.pop()).removeFromParent();
+                    }
+                }
+
+                let inputTriggerMesh: THREE.Mesh;
+                for (const triggerId of triggerData.inputTriggers) {
+                    const triggerLocation = triggerLocationsById[triggerId];
+                    const newMesh = createTriggerMesh(triggerLocation.type, triggerLocation, {id: triggerId, idx, predicate: triggerData.predicate}, triggerInputMaterial);
+
+                    switch(triggerLocation.type) {
+                        case 'box': {
+                            inputTriggerMesh = newMesh['box'];
+                            boxTriggers.push(newMesh as typeof boxTriggers[0]);
+                        } break;
+                        case 'locator': {
+                            inputTriggerMesh = newMesh['arrow'];
+                            locatorTriggers.push(newMesh as typeof locatorTriggers[0]);
+                        } break;
+                        case 'sphere': {
+                            inputTriggerMesh = newMesh as THREE.Mesh;
+                            sphereTriggers.push(newMesh as THREE.Mesh);
+                        } break;
+                    }
+
+                    inputTriggerMesh['onHover'] = onHoverLineFn;
+                    inputTriggerMesh['offHover'] = offHoverLineFn;
+
+                    inputTriggerMesh.userData.children = [];
+                }
+
+                for (const [_idx, outputData] of Object.entries(triggerData.outputs)) {
+                    const predicate = outputData.predicate ?? '(none)';
+                    for (const [__idx, player] of Object.entries(outputData.aiplayers)) {
+                        const playerType = aiPlayerTypes[player.type];
+                        const triggerPlacementData = triggerLocationsById[player.placement];
+                        // console.log(playerType, triggerPlacementData);
+                        if (!playerType || !triggerPlacementData) continue;
+
+                        const rollout = rollouts[playerType.rolloutID];
+                        const metadata = {
+                            predicate: predicate,
+                            triggerIdx: idx,
+                            outputIdx: _idx,
+                            aiplayerIdx: __idx,
+                            canRespawn: playerType.allowedToRespawn,
+                            behaviour: playerType.behaviour,
+                            pursuitBehaviour: playerType.enum0xa8,
+                            isAggressor: playerType.isAggressor,
+                            isCop: playerType.isCop,
+                            canRhino: playerType.canRhino,
+                            doUTurns: playerType.doUturns,
+                            vehicle: rollout.vehicle,
+                            characterCount: rollout.characters?.length,
+                            unkIdCount: rollout.uniqIdInst?.length,
+                        }
+
+                        const newMesh = createTriggerMesh(triggerPlacementData.type, triggerPlacementData, metadata, triggerOutputMaterial);
+                        let childMeshTarget: THREE.Mesh;
+                        switch(triggerPlacementData.type) {
+                            case 'box': {
+                                childMeshTarget = newMesh['box'];
+                                boxTriggers.push(newMesh as typeof boxTriggers[0]);
+                            } break;
+                            case 'locator': {
+                                childMeshTarget = newMesh['arrow'].cone;
+                                locatorTriggers.push(newMesh as typeof locatorTriggers[0]);
+                            } break;
+                            case 'sphere': {
+                                childMeshTarget = newMesh as THREE.Mesh;
+                                sphereTriggers.push(newMesh as THREE.Mesh);
+                            } break;
+                        }
+
+                        if (inputTriggerMesh) {
+                            inputTriggerMesh.userData.children.push(childMeshTarget);
+                            childMeshTarget.userData.children = [inputTriggerMesh];
+                            childMeshTarget['onHover'] = onHoverLineFn;
+                            childMeshTarget['offHover'] = offHoverLineFn;
+                        }
+                    }
+                    for (const [__idx, roadblock] of Object.entries(outputData.roadblocks)) {
+                        const triggerPlacementData = triggerLocationsById[roadblock.placement];
+                        if (!triggerPlacementData) continue;
+
+                        const metadata = {
+                            predicate: predicate,
+                            triggerIdx: idx,
+                            outputIdx: _idx,
+                            aiplayerIdx: __idx,
+                            roadblockId: roadblock.id,
+                            roadblockType: roadblock.type
+                        }
+
+                        const newMesh = createTriggerMesh(triggerPlacementData.type, triggerPlacementData, metadata, triggerOutputMaterial);
+                        let childMeshTarget: THREE.Mesh;
+                        switch(triggerPlacementData.type) {
+                            case 'box': {
+                                childMeshTarget = newMesh['box'];
+                                boxTriggers.push(newMesh as typeof boxTriggers[0]);
+                            } break;
+                            case 'locator': {
+                                childMeshTarget = newMesh['arrow'].cone;
+                                locatorTriggers.push(newMesh as typeof locatorTriggers[0]);
+                            } break;
+                            case 'sphere': {
+                                childMeshTarget = newMesh as THREE.Mesh;
+                                sphereTriggers.push(newMesh as THREE.Mesh);
+                            } break;
+                        }
+
+                        if (inputTriggerMesh) {
+                            inputTriggerMesh.userData.children.push(childMeshTarget);
+                            childMeshTarget.userData.children = [inputTriggerMesh];
+                            childMeshTarget['onHover'] = onHoverLineFn;
+                            childMeshTarget['offHover'] = offHoverLineFn;
+                        }
+                    }
+                }
             }
     
             for (const [idx, sphere] of Object.entries(spheres)) {
@@ -362,6 +584,28 @@
                     mesh: sphere,
                     originalMat: sphere.material as THREE.Material
                 });
+            }
+
+            for (const [idx, {box, transparentBox}] of Object.entries(boxTriggers)) {
+                checkpointMeshes.push(box);
+                scene.add(transparentBox, box);
+                sceneMeshMap.set(box.id, {
+                    mesh: box,
+                    originalMat: box.material as THREE.Material
+                })
+            }
+            for (const [idx, sphere] of Object.entries(sphereTriggers)) {
+                scene.add(sphere);
+            }
+            for (const [idx, {arrow, point}] of Object.entries(locatorTriggers)) {
+                scene.add(arrow);
+                scene.add(point);
+                checkpointMeshes.push(arrow);
+                sceneMeshMap.set(arrow.cone.id, {
+                    mesh: arrow.cone,
+                    originalMat: arrow.cone.material as THREE.Material
+                });
+                // console.log(sceneMeshMap.get(cone.id));
             }
 
             for (const [idx, box] of Object.entries(checkpointBoxes)) {
@@ -409,21 +653,21 @@
             //     eventInfo.checkpointCount = fullEvtData.checkpoints0x64.length;
             //     // eventInfo.aihintsCount = fullEvtData.aiHints0x58.length;
             // }
-            eventInfo.bool0x48 = fullEvtData.baseObject.bool0x48;
-            eventInfo.float0x38 = fullEvtData.baseObject.float0x38;
-            eventInfo.uint80x4a = fullEvtData.baseObject.uint80x4a;
-            eventInfo.uniqueId0x24 = fullEvtData.baseObject.uniqueId0x24;
+            // eventInfo.bool0x48 = fullEvtData.baseObject.bool0x48;
+            // eventInfo.float0x38 = fullEvtData.baseObject.float0x38;
+            // eventInfo.uint80x4a = fullEvtData.baseObject.uint80x4a;
+            // eventInfo.uniqueId0x24 = fullEvtData.baseObject.uniqueId0x24;
 
-            eventInfo.uniqueId0x60 = fullEvtData.uniqueId0x60;
-            eventInfo.uniqueId0x68 = fullEvtData.uniqueId0x68;
-            eventInfo.uniqueId0x80 = fullEvtData.uniqueId0x80;
-            eventInfo.uniqueId0x90 = fullEvtData.uniqueId0x90;
+            // eventInfo.uniqueId0x60 = fullEvtData.uniqueId0x60;
+            // eventInfo.uniqueId0x68 = fullEvtData.uniqueId0x68;
+            // eventInfo.uniqueId0x80 = fullEvtData.uniqueId0x80;
+            // eventInfo.uniqueId0x90 = fullEvtData.uniqueId0x90;
 
-            eventInfo.bool0xe9 = fullEvtData.bool0xe9;
-            eventInfo.bool0xea = fullEvtData.bool0xea;
-            eventInfo.bool0xeb = fullEvtData.bool0xeb;
-            eventInfo.bool0xee = fullEvtData.bool0xee;
-            eventInfo.bool0xf1 = fullEvtData.bool0xf1;
+            // eventInfo.bool0xe9 = fullEvtData.bool0xe9;
+            // eventInfo.bool0xea = fullEvtData.bool0xea;
+            // eventInfo.bool0xeb = fullEvtData.bool0xeb;
+            // eventInfo.bool0xee = fullEvtData.bool0xee;
+            // eventInfo.bool0xf1 = fullEvtData.bool0xf1;
             // console.log($state.snapshot(eventInfo));
         }
     });

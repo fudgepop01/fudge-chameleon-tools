@@ -1,0 +1,23 @@
+{
+  "name": "type_extractor_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "construct-js": "^1.0.1",
+    "ieee754": "^1.2.1",
+    "kaitai-struct": "^0.10.0",
+    "ts-node": "^10.9.2",
+    "yaml": "^2.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.1"
+  }
+}

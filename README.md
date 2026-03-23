@@ -26,6 +26,8 @@ Current Toolkit:
     - a `GenesysObject` instance analysis that gives a list of files within various game BNDL `GenesysObject` folders and shows what type they are 
 - event file rebuilder
 
+Along with this is the outputs of various things I wanted to analyze about the files in bulk (`research` folder).
+
 --- 
 
 ### Thanks
@@ -49,4 +51,19 @@ These tools would not be possible without:
     - has shared some info that helped me get a basic understanding of the event file format. Creates youtube videos showing off some really cool concepts: [[yt channel](https://www.youtube.com/@mrally2)]
 - redskywestside
     - taught me some about traffic data and how it works. Pointed me in the right direction about "triggers" for checkpoint data among other things in MW2012, and showed me a bit more about traffic data.
+- SwiftZC33S
 - others that have shown support despite the utter chaos that is the most-wanted-2012 channel lmao
+
+---
+
+### CHANGELOG
+
+---
+
+#### 3/22/2026:
+- Adjusted `genesys-obj-analysis` to have the ability to parse files from Big-Endian builds (such as PS3)
+- Adjusted `type-extractor-tool` to have the ability to parse files from Big-Endian builds (such as PS3)
+- updated `event-traffic-visualizer` to include the ability to visualize triggers when an event is selected. Hovering over them will draw a line from the input to an output.
+- added separate folders for big-endian and little-endian related content
+- updated import paths in various ts files to better reflect the folder structure
+- added the `package.json` file that is actually required to run files lol

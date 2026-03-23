@@ -161,10 +161,10 @@ export default class EngineEditorCamera
 
     onMouseWheel(event: WheelEvent)
     {
-        console.log({
-            pos: this.camera.position,
-            quat: this.camera.quaternion
-        })
+        // console.log({
+        //     pos: this.camera.position,
+        //     quat: this.camera.quaternion
+        // })
         event.preventDefault();
         this.CAM_SPEED = Math.max(0.01, this.CAM_SPEED -= event.deltaY * 0.01);
         // if (this._rcPressed) this.CAM_SPEED = Math.max(0.01, this.CAM_SPEED -= event.deltaY * 0.0001);

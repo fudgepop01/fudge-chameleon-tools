@@ -1,0 +1,310 @@
+00_00_33_A2 (168059802408): GenesysObjCollection
+more info:
+  count: 6
+  types:
+    - GenesysGenThankyouMapping
+  
+00_00_33_B7 (208093522020): GenesysObjCollection
+more info:
+  count: 4
+  types:
+    - GenesysGenEventLocation
+  
+00_00_33_BA (211050054930): GenesysObjCollection
+more info:
+  count: 5
+  types:
+    - GenesysGenGamePack
+  
+00_00_33_BC (211917572420): GenesysObjCollection
+more info:
+  count: 10
+  types:
+    - GenesysGenGameplayMilestone
+  
+00_00_33_BD (212401873248): GenesysObjCollection
+more info:
+  count: 2
+  types:
+    - GenesysGenGameRank
+  
+00_00_33_BE_1 (212886172534): GenesysGenGameUnlockList
+
+00_00_33_C8 (220527613238): GenesysObjCollection
+more info:
+  count: 0
+  types: []
+  
+00_00_33_D1 (227792127104): GenesysObjCollection
+more info:
+  count: 4
+  types:
+    - GenesysGenStoreItem
+  
+00_00_40_EC (246480466560): GenesysGenCarSelectData
+more info:
+  uimemoryLimit: 2.129973665773722e-43
+  uiresourceLimit: 23
+  instCopPlacementsCount: 1
+  instRacerPlacementsCount: 0
+  
+00_00_40_ED (246964372630): GenesysGenCarSelectData
+more info:
+  uimemoryLimit: 2.129973665773722e-43
+  uiresourceLimit: 23
+  instCopPlacementsCount: 1
+  instRacerPlacementsCount: 0
+  
+00_00_40_EE (247348008722): GenesysGenCarSelectData
+more info:
+  uimemoryLimit: 2.129973665773722e-43
+  uiresourceLimit: 23
+  instCopPlacementsCount: 1
+  instRacerPlacementsCount: 0
+  
+00_00_40_EF (275206408488): GenesysGenCarSelectData
+more info:
+  uimemoryLimit: 2.129973665773722e-43
+  uiresourceLimit: 23
+  instCopPlacementsCount: 1
+  instRacerPlacementsCount: 0
+  
+00_00_41_39 (40270958930): GenesysGenUicamera
+
+00_00_41_3A (40654570344): GenesysGenUicamera
+
+00_00_42_18 (17290462560): GenesysGenEventList
+more info:
+  count: 1
+  
+00_01_71_67 (99677999218): GenesysGenStorePackList
+more info:
+  count: 2
+  
+00_01_71_DC (234482119492): GenesysGenNucleusEntitlementTags
+
+00_01_71_DF (237438650770): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "DEMO_ONLINE_ACCESS\0"
+  
+00_01_71_F5 (279567284036): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "NFS11:PC:LIMITED_EDITION\0"
+  
+00_01_71_FA (283491997732): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "ONLINE_ACCESS\0"
+  
+00_01_71_FB (283875242048): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PDLC_SHAREDCONSOLE\0"
+  
+00_01_72_00 (122098528): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_CODE_CONSUMED\0"
+  
+00_01_72_01 (606373238): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_CODE_CONSUMED_LE\0"
+  
+00_01_72_02 (1090672530): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_CS\0"
+  
+00_01_72_03 (1468018696): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_CS_LE\0"
+  
+00_01_72_04 (1951924772): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_PURCHASE\0"
+  
+00_01_72_05 (2436199488): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_SHAREDCONSOLE\0"
+  
+00_01_72_06 (4430448214): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PROJECT10_TRIAL\0"
+  
+00_01_72_07 (4908456050): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "PURCHASE_LE\0"
+  
+00_01_72_08 (5392339080): GenesysGenNucleusEntitlementTag
+more info:
+  tag: "RACER_TIMESAVER\0"
+  
+00_01_72_0C (8732113234): GenesysGenNucleusGrantMappingsList
+more info:
+  itemCount: 2
+  
+00_01_72_0D (9216414056): GenesysGenNucleusGrantMappingsList
+more info:
+  itemCount: 2
+  
+00_01_72_0E (9700713348): GenesysGenStorePack
+more info:
+  count: 0
+  
+00_01_72_11 (11046240306): GenesysGenStorePack
+more info:
+  count: 0
+  
+00_01_72_14 (14009063040): GenesysGenEntitlement
+more info:
+  name: "OnlinePass\0"
+  description: "OnlinePass Entitlement\0"
+  entitlementTag: "deliberately not set \0"
+  
+00_01_72_15 (14386014358): GenesysGenEntitlement
+more info:
+  name: "Racer Timesaver Pack\0"
+  description: "Racer Timesaver Pack\0"
+  entitlementTag: "deliberately not set \0"
+  
+00_01_72_1A (18310728054): GenesysGenEntitlement
+more info:
+  name: "LimitedEdition\0"
+  description: "LimitedEdition Entitlement\0"
+  entitlementTag: "\0"
+  
+00_01_72_31 (35053193540): GenesysGenStoreItem
+
+00_01_72_33 (36021769078): GenesysGenStoreItem
+
+00_01_72_74 (108773147670): GenesysGenThankYouScreenItem
+more info:
+  messageID: 94849
+  
+00_01_72_77 (137499115620): GenesysGenThankYouScreenItem
+more info:
+  messageID: 94869
+  
+00_01_72_78 (137983390336): GenesysGenThankYouScreenItem
+more info:
+  messageID: 94867
+  
+00_01_72_79 (138367026326): GenesysGenThankYouScreenItem
+more info:
+  messageID: 94857
+  
+00_01_72_7A (138850932498): GenesysGenThankYouScreenItem
+more info:
+  messageID: 94847
+  
+00_04_03_5F (92677550418): GenesysGenEventList
+more info:
+  count: 29
+  
+00_04_36_4A (78467381586): GenesysGenCarSelectData
+more info:
+  uimemoryLimit: 2.129973665773722e-43
+  uiresourceLimit: 23
+  instCopPlacementsCount: 1
+  instRacerPlacementsCount: 0
+  
+00_04_36_4B (78945390952): GenesysGenCarSelectData
+more info:
+  uimemoryLimit: 2.129973665773722e-43
+  uiresourceLimit: 23
+  instCopPlacementsCount: 1
+  instRacerPlacementsCount: 0
+  
+00_04_36_51 (83253347428): GenesysGenEventList
+more info:
+  count: 4
+  
+00_04_5B_37 (39333205632): GenesysGenCarSelectData
+more info:
+  uimemoryLimit: 2.129973665773722e-43
+  uiresourceLimit: 23
+  instCopPlacementsCount: 1
+  instRacerPlacementsCount: 0
+  
+00_04_5B_38 (39817087126): GenesysGenCarSelectData
+more info:
+  uimemoryLimit: 2.129973665773722e-43
+  uiresourceLimit: 23
+  instCopPlacementsCount: 1
+  instRacerPlacementsCount: 0
+  
+00_04_5B_3C (69027329888): GenesysGenEventList
+more info:
+  count: 1
+  
+00_04_5F_A7 (171933048854): GenesysObjCollection
+more info:
+  count: 5
+  types:
+    - GenesysGenDeviceGrantUpgradePackage
+    - GenesysGenPerformanceUpgradePackage
+  
+00_04_61_94 (156920994180): GenesysObjCollection
+more info:
+  count: 13
+  types:
+    - GenesysGenRollout
+  
+00_04_64_16 (14854468470): GenesysGenNitrousEarningGameRule
+
+00_04_64_18 (17332992008): GenesysGenPerkLevel
+
+00_04_64_19 (17810608164): GenesysGenPerkLevel
+
+00_04_64_1A (18294907456): GenesysGenPerk
+
+00_04_64_21 (23087556434): GenesysObjCollection
+more info:
+  count: 2
+  types:
+    - GenesysGenPerk
+  
+00_04_64_29 (28257158272): GenesysGenNitrousBurningGameRule
+
+00_04_64_2D (31697572676): GenesysGenPerk
+
+00_04_64_2E (32081208672): GenesysGenPerkLevel
+
+00_04_64_2F (32565114742): GenesysGenPerkLevel
+
+00_04_64_45 (74693748008): GenesysGenImpactProtectionGameRule
+
+00_04_64_46 (75171731268): GenesysGenImpactDamageGameRule
+
+00_05_F3_BD (212710064978): GenesysObjCollection
+more info:
+  count: 86
+  types:
+    - GenesysGenScoringAction
+  
+00_05_F5_1C (19419731528): GenesysObjCollection
+more info:
+  count: 16
+  types:
+    - GenesysGenHeatLevel
+  
+00_06_FA_8E (152881660424): GenesysObjCollection
+more info:
+  count: 15
+  types:
+    - GenesysGenAiplayerType
+  
+00_06_FB_3D (69684564552): GenesysObjCollection
+more info:
+  count: 80
+  types:
+    - GenesysGenGameplayTrigger
+  
+00_09_37_C1 (215845213298): GenesysObjCollection
+more info:
+  count: 5
+  types:
+    - GenesysGenRoadBlockDefinition
+  
+00_09_37_C2 (216228456072): GenesysObjCollection
+more info:
+  count: 11
+  types:
+    - GenesysGenRoadBlockLayer
+  
