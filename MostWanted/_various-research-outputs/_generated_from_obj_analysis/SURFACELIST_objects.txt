@@ -1,0 +1,589 @@
+00_7E_0F_00 (16863894): GenesysGenSurfaceVfx
+
+01_19_19_00 (23349249): GenesysGenSurfaceVehicleEffects
+
+03_E2_14_00 (20350329): GenesysGenSurfaceSounds
+
+05_57_0F_00 (16798487): GenesysGenSurfaceVfx
+
+06_57_0F_00 (16798488): GenesysGenSurfaceVfx
+
+06_D2_03_00 (2425716): GenesysGenEnvelope
+
+07_D2_03_00 (2425717): GenesysGenEnvelope
+
+08_D2_03_00 (2425718): GenesysGenEnvelope
+
+09_30_04_00 (2573377): GenesysGenSurfaceType
+
+09_57_0F_00 (16798497): GenesysGenVfxWheelEffects
+
+09_D2_03_00 (2425719): GenesysGenDigitalEnvelope
+
+09_D3_03_00 (2426419): GenesysGenSurfaceSounds
+
+0A_30_04_00 (2573378): GenesysGenSurfacePhysics
+
+0A_57_0F_00 (16798498): GenesysGenVfxWheelEffects
+
+0A_5C_06_00 (4286328): GenesysGenSurfaceType
+
+0A_D2_03_00 (2425720): GenesysGenEnvelope
+
+0B_0C_08_00 (5403505): GenesysGenSurfaceType
+
+0B_D2_03_00 (2425721): GenesysGenRumbleEffect
+
+0C_0C_08_00 (5403506): GenesysGenSurfaceType
+
+0E_0B_1B_00 (24584962): GenesysGenSurfaceSounds
+
+0E_0C_08_00 (5403508): GenesysGenSurfaceType
+
+0E_85_0F_00 (16871682): GenesysGenSurfaceType
+
+0F_0C_08_00 (5403509): GenesysGenSurfaceType
+
+0F_85_0F_00 (16871683): GenesysGenSurfaceType
+
+11_E2_14_00 (20350355): GenesysGenSurfaceSounds
+
+13_D2_03_00 (2425735): GenesysGenEnvelope
+
+14_D2_03_00 (2425736): GenesysGenEnvelope
+
+15_0C_1B_00 (24585573): GenesysGenSurfaceSounds
+
+15_D2_03_00 (2425737): GenesysGenEnvelope
+
+16_D2_03_00 (2425744): GenesysGenDigitalEnvelope
+
+17_0C_08_00 (5403523): GenesysGenSurfaceType
+
+17_D2_03_00 (2425745): GenesysGenEnvelope
+
+18_0C_08_00 (5403524): GenesysGenSurfaceType
+
+18_86_0F_00 (16872296): GenesysGenSurfaceType
+
+18_D2_03_00 (2425746): GenesysGenRumbleEffect
+
+18_D3_03_00 (2426440): GenesysGenSurfaceSounds
+
+18_F4_10_00 (17895524): GenesysGenSurfaceType
+
+19_86_0F_00 (16872297): GenesysGenSurfaceType
+
+1A_0C_08_00 (5403526): GenesysGenSurfaceType
+
+1B_0C_08_00 (5403527): GenesysGenSurfaceType
+
+1B_85_0F_00 (16871701): GenesysGenSurfaceType
+
+1D_0C_08_00 (5403529): GenesysGenSurfaceVfx
+
+1E_0C_08_00 (5403536): GenesysGenSurfaceVfx
+
+1F_D2_03_00 (2425753): GenesysGenEnvelope
+
+20_D2_03_00 (2425856): GenesysGenEnvelope
+
+21_D2_03_00 (2425857): GenesysGenEnvelope
+
+21_D3_03_00 (2426455): GenesysGenSurfaceSounds
+
+22_75_00_00 (170374): GenesysGenMixerChannel
+
+22_D2_03_00 (2425858): GenesysGenDigitalEnvelope
+
+22_D3_03_00 (2426456): GenesysGenSurfaceSounds
+
+23_D2_03_00 (2425859): GenesysGenEnvelope
+
+24_D2_03_00 (2425860): GenesysGenRumbleEffect
+
+25_29_10_00 (17142025): GenesysGenSurfaceVehicleEffects
+
+2D_36_04_00 (2580499): GenesysGenSurfaceType
+
+2E_36_04_00 (2580500): GenesysGenSurfaceType
+
+2F_13_07_00 (4601443): GenesysGenSurfaceType
+
+31_C8_07_00 (5308417): GenesysGenSurfacePhysics
+
+35_56_0F_00 (16797961): GenesysGenSurfaceVfx
+
+36_56_0F_00 (16797968): GenesysGenSurfaceVfx
+
+37_56_0F_00 (16797969): GenesysGenSurfaceVfx
+
+38_36_04_00 (2580516): GenesysGenSurfaceType
+
+38_56_0F_00 (16797970): GenesysGenSurfaceVfx
+
+39_56_0F_00 (16797971): GenesysGenSurfaceVfx
+
+39_6E_18_00 (23072897): GenesysGenSurfaceType
+
+39_C8_07_00 (5308425): GenesysGenSurfaceType
+
+39_F4_10_00 (17895575): GenesysGenSurfaceType
+
+3A_56_0F_00 (16797972): GenesysGenSurfaceVfx
+
+3B_56_0F_00 (16797973): GenesysGenSurfaceVfx
+
+3C_43_04_00 (2593622): GenesysGenSurfaceVfx
+
+3C_56_0F_00 (16797974): GenesysGenSurfaceVfx
+
+3D_56_0F_00 (16797975): GenesysGenSurfaceVfx
+
+3D_C8_07_00 (5308435): GenesysGenSurfacePhysics
+
+3E_0B_1B_00 (24585040): GenesysGenMixerChannel
+
+3E_36_04_00 (2580528): GenesysGenSurfaceType
+
+3E_56_0F_00 (16797976): GenesysGenSurfaceVfx
+
+3E_C8_07_00 (5308436): GenesysGenSurfacePhysics
+
+3F_56_0F_00 (16797977): GenesysGenSurfaceVfx
+
+3F_C8_07_00 (5308437): GenesysGenSurfacePhysics
+
+40_36_04_00 (2580530): GenesysGenSurfaceType
+
+40_56_0F_00 (16797984): GenesysGenSurfaceVfx
+
+40_C8_07_00 (5308438): GenesysGenSurfacePhysics
+
+41_36_04_00 (2580531): GenesysGenSurfaceType
+
+41_56_0F_00 (16797985): GenesysGenVfxWheelEffects
+
+42_36_04_00 (2580532): GenesysGenSurfaceType
+
+42_56_0F_00 (16797986): GenesysGenVfxWheelEffects
+
+43_36_04_00 (2580533): GenesysGenSurfaceType
+
+43_56_0F_00 (16797987): GenesysGenVfxWheelEffects
+
+43_7F_08_00 (5597287): GenesysGenSurfaceSounds
+
+44_01_12_00 (18323826): GenesysGenSurfaceType
+
+44_56_0F_00 (16797988): GenesysGenVfxWheelEffects
+
+49_77_07_00 (4756105): GenesysGenSurfaceType
+
+53_56_0F_00 (16798009): GenesysGenVfxWheelEffects
+
+54_56_0F_00 (16798016): GenesysGenVfxWheelEffects
+
+54_D3_03_00 (2426632): GenesysGenSurfaceSounds
+
+55_D3_03_00 (2426633): GenesysGenSurfaceSounds
+
+56_D3_03_00 (2426640): GenesysGenSurfaceSounds
+
+58_4A_0D_00 (8851456): GenesysGenSurfaceSounds
+
+58_57_09_00 (6365572): GenesysGenSurfaceType
+
+59_57_09_00 (6365573): GenesysGenSurfaceVfx
+
+62_C8_07_00 (5308496): GenesysGenSurfacePhysics
+
+63_38_0B_00 (7557937): GenesysGenSurfaceSounds
+
+63_C8_07_00 (5308497): GenesysGenSurfacePhysics
+
+63_D3_03_00 (2426659): GenesysGenSurfaceSounds
+
+64_38_0B_00 (7557938): GenesysGenSurfaceReflection
+
+64_C8_07_00 (5308498): GenesysGenSurfacePhysics
+
+65_C8_07_00 (5308499): GenesysGenSurfacePhysics
+
+67_56_07_00 (4720753): GenesysGenSurfaceType
+
+67_56_0F_00 (16798041): GenesysGenVfxWheelEffects
+
+68_56_0F_00 (16798048): GenesysGenVfxWheelEffects
+
+68_E7_05_00 (3696928): GenesysGenSurfaceType
+
+69_4A_0D_00 (8851479): GenesysGenMixerChannel
+
+69_56_0F_00 (16798049): GenesysGenVfxWheelEffects
+
+69_E7_05_00 (3696929): GenesysGenSurfacePhysics
+
+6A_4A_0D_00 (8851480): GenesysGenMixerChannel
+
+6A_56_0F_00 (16798050): GenesysGenVfxWheelEffects
+
+6B_56_0F_00 (16798051): GenesysGenVfxWheelEffects
+
+71_57_09_00 (6365705): GenesysGenSurfaceVfx
+
+71_77_07_00 (4756265): GenesysGenSurfaceType
+
+71_7F_08_00 (5597459): GenesysGenSurfaceSounds
+
+72_57_09_00 (6365712): GenesysGenSurfaceVfx
+
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+74_72_00_00 (168704): GenesysGenSoundDistanceFalloff
+
+76_56_0F_00 (16798068): GenesysGenVfxWheelEffects
+
+77_56_0F_00 (16798069): GenesysGenVfxWheelEffects
+
+79_51_04_00 (2633729): GenesysGenSurfacePhysics
+
+7B_37_0B_00 (7557273): GenesysGenSurfaceReflection
+
+7B_51_04_00 (2633731): GenesysGenSurfacePhysics
+
+7C_51_04_00 (2633732): GenesysGenSurfacePhysics
+
+7D_29_10_00 (17142167): GenesysGenSurfaceType
+
+7D_51_04_00 (2633733): GenesysGenSurfacePhysics
+
+7F_56_0F_00 (16798083): GenesysGenVfxWheelEffects
+
+7F_AF_08_00 (5673493): GenesysGenSurfaceType
+
+80_56_0F_00 (16798084): GenesysGenVfxWheelEffects
+
+80_B5_11_00 (18220406): GenesysGenSurfacePhysics
+
+81_37_0B_00 (7557381): GenesysGenSurfaceReflection
+
+81_57_09_00 (6365733): GenesysGenSurfaceType
+
+81_B5_11_00 (18220407): GenesysGenSurfacePhysics
+
+82_57_09_00 (6365734): GenesysGenSurfaceType
+
+82_B5_11_00 (18220408): GenesysGenSurfacePhysics
+
+83_7D_08_00 (5596185): GenesysGenSurfaceSounds
+
+84_56_0F_00 (16798088): GenesysGenVfxWheelEffects
+
+84_7D_08_00 (5596192): GenesysGenMixerChannel
+
+85_56_0F_00 (16798089): GenesysGenVfxWheelEffects
+
+85_8F_10_00 (17322775): GenesysGenSurfacePhysics
+
+87_0C_1B_00 (24585849): GenesysGenMixerChannel
+
+87_56_0F_00 (16798097): GenesysGenVfxWheelEffects
+
+87_7D_0F_00 (16863605): GenesysGenSurfacePhysics
+
+88_7D_0F_00 (16863606): GenesysGenSurfacePhysics
+
+89_56_0F_00 (16798099): GenesysGenVfxWheelEffects
+
+89_7D_0F_00 (16863607): GenesysGenSurfacePhysics
+
+8A_56_0F_00 (16798100): GenesysGenVfxWheelEffects
+
+8C_56_0F_00 (16798102): GenesysGenVfxWheelEffects
+
+8D_0C_1B_00 (24585861): GenesysGenMixerChannel
+
+8D_56_0F_00 (16798103): GenesysGenVfxWheelEffects
+
+96_D3_03_00 (2426740): GenesysGenSurfaceSounds
+
+99_D3_03_00 (2426743): GenesysGenSurfaceSounds
+
+9F_65_0F_00 (16814165): GenesysGenSurfaceSounds
+
+A1_1D_05_00 (3363429): GenesysGenSurfaceType
+
+A2_1D_05_00 (3363430): GenesysGenSurfacePhysics
+
+A2_D1_03_00 (2425460): GenesysGenSurfaceType
+
+A2_E0_14_00 (20349478): GenesysGenSurfaceReflection
+
+A5_66_0A_00 (6821431): GenesysGenSurfacePhysics
+
+A6_66_0A_00 (6821432): GenesysGenSurfacePhysics
+
+A7_0C_1B_00 (24586001): GenesysGenTyreSoundParams
+
+A7_66_0A_00 (6821433): GenesysGenSurfaceType
+
+A8_66_0A_00 (6821440): GenesysGenSurfaceType
+
+A8_D1_03_00 (2425472): GenesysGenSurfaceType
+
+A9_66_0A_00 (6821441): GenesysGenSurfacePhysics
+
+AA_BD_07_00 (5272326): GenesysGenVfxWheelEffects
+
+AB_BD_07_00 (5272327): GenesysGenVfxWheelEffects
+
+AB_D7_05_00 (3680401): GenesysGenSurfaceType
+
+AC_BD_07_00 (5272328): GenesysGenVfxWheelEffects
+
+AD_BD_07_00 (5272329): GenesysGenVfxWheelEffects
+
+AE_BD_07_00 (5272336): GenesysGenVfxWheelEffects
+
+AF_BD_07_00 (5272337): GenesysGenVfxWheelEffects
+
+AF_D7_05_00 (3680405): GenesysGenSurfaceType
+
+B2_45_1C_00 (25503824): GenesysGenSurfaceType
+
+B2_BD_07_00 (5272340): GenesysGenVfxWheelEffects
+
+B3_BD_07_00 (5272341): GenesysGenVfxWheelEffects
+
+B5_BD_07_00 (5272343): GenesysGenVfxWheelEffects
+
+B6_BD_07_00 (5272344): GenesysGenVfxWheelEffects
+
+B7_BD_07_00 (5272345): GenesysGenVfxWheelEffects
+
+B9_56_0F_00 (16798273): GenesysGenSurfaceVfx
+
+B9_BD_07_00 (5272353): GenesysGenVfxWheelEffects
+
+BA_68_0F_00 (16816208): GenesysGenSurfaceSounds
+
+BD_5F_04_00 (2647635): GenesysGenSurfaceType
+
+C0_5F_04_00 (2647638): GenesysGenSurfaceSounds
+
+C0_8F_06_00 (4390934): GenesysGenSurfaceType
+
+C0_BD_07_00 (5272360): GenesysGenVfxWheelEffects
+
+C1_BD_07_00 (5272361): GenesysGenVfxWheelEffects
+
+C2_BD_07_00 (5272368): GenesysGenVfxWheelEffects
+
+C4_D1_03_00 (2425608): GenesysGenSurfaces
+
+C5_05_1C_00 (25388165): GenesysGenSurfaceSounds
+
+C5_BD_07_00 (5272371): GenesysGenVfxWheelEffects
+
+C6_D3_03_00 (2426914): GenesysGenSurfaceSounds
+
+C7_BD_07_00 (5272373): GenesysGenVfxWheelEffects
+
+C7_F6_03_00 (2463619): GenesysGenSurfaceSounds
+
+C8_57_0F_00 (16798994): GenesysGenVfxWheelEffects
+
+C8_BD_07_00 (5272374): GenesysGenVfxWheelEffects
+
+C9_BD_07_00 (5272375): GenesysGenVfxWheelEffects
+
+CA_3D_0F_00 (10061912): GenesysGenSurfaceType
+
+CA_BD_07_00 (5272376): GenesysGenVfxWheelEffects
+
+CB_BD_07_00 (5272377): GenesysGenVfxWheelEffects
+
+CB_D1_03_00 (2425621): GenesysGenSurfacePhysics
+
+CB_F3_11_00 (18310435): GenesysGenMixerChannel
+
+CC_BD_07_00 (5272384): GenesysGenVfxWheelEffects
+
+CD_BD_07_00 (5272385): GenesysGenVfxWheelEffects
+
+CF_4B_0D_00 (8852341): GenesysGenSurfaceSounds
+
+D0_4B_0D_00 (8852342): GenesysGenSurfaceSounds
+
+D1_00_07_00 (4557153): GenesysGenSurfaceType
+
+D1_4B_0D_00 (8852343): GenesysGenSurfaceSounds
+
+D2_00_07_00 (4557154): GenesysGenSurfaceType
+
+D4_1F_18_00 (22548498): GenesysGenMixerChannel
+
+D5_DF_14_00 (20348961): GenesysGenSurfaceSounds
+
+D6_88_06_00 (4358726): GenesysGenSurfaceVfx
+
+D6_D1_03_00 (2425638): GenesysGenEnvelope
+
+D6_DF_14_00 (20348962): GenesysGenSurfaceReflection
+
+D7_D1_03_00 (2425639): GenesysGenEnvelope
+
+D8_20_18_00 (22549106): GenesysGenSurfaceSounds
+
+D8_D1_03_00 (2425640): GenesysGenEnvelope
+
+D9_20_18_00 (22549107): GenesysGenSurfaceSounds
+
+D9_D1_03_00 (2425641): GenesysGenDigitalEnvelope
+
+DA_57_0F_00 (16799024): GenesysGenVfxWheelEffects
+
+DA_66_0A_00 (6821520): GenesysGenSurfacePhysics
+
+DA_D1_03_00 (2425648): GenesysGenEnvelope
+
+DB_66_0A_00 (6821521): GenesysGenSurfacePhysics
+
+DB_D1_03_00 (2425649): GenesysGenRumbleEffect
+
+DC_12_07_00 (4601216): GenesysGenSurfaceType
+
+DC_D1_03_00 (2425650): GenesysGenEnvelope
+
+DD_D1_03_00 (2425651): GenesysGenEnvelope
+
+DE_66_0A_00 (6821524): GenesysGenSurfacePhysics
+
+DE_D1_03_00 (2425652): GenesysGenEnvelope
+
+DE_D3_03_00 (2426950): GenesysGenSurfaceVfx
+
+DF_66_0A_00 (6821525): GenesysGenSurfacePhysics
+
+DF_D1_03_00 (2425653): GenesysGenDigitalEnvelope
+
+DF_D3_03_00 (2426951): GenesysGenSurfaceVfx
+
+E0_66_0A_00 (6821526): GenesysGenSurfacePhysics
+
+E0_D1_03_00 (2425654): GenesysGenEnvelope
+
+E0_D3_03_00 (2426952): GenesysGenSurfaceVfx
+
+E1_66_0A_00 (6821527): GenesysGenSurfacePhysics
+
+E1_D1_03_00 (2425655): GenesysGenRumbleEffect
+
+E2_D1_03_00 (2425656): GenesysGenEnvelope
+
+E2_D3_03_00 (2426960): GenesysGenSurfaceVfx
+
+E3_D1_03_00 (2425657): GenesysGenEnvelope
+
+E3_D3_03_00 (2426961): GenesysGenSurfaceVfx
+
+E4_56_0F_00 (16798340): GenesysGenSurfaceVfx
+
+E4_61_0F_00 (16810240): GenesysGenSurfaceType
+
+E4_D1_03_00 (2425664): GenesysGenEnvelope
+
+E4_D3_03_00 (2426962): GenesysGenSurfaceVfx
+
+E5_56_0F_00 (16798341): GenesysGenSurfaceVfx
+
+E5_D1_03_00 (2425665): GenesysGenDigitalEnvelope
+
+E5_D3_03_00 (2426963): GenesysGenSurfaceVfx
+
+E6_13_07_00 (4601926): GenesysGenSurfaceType
+
+E6_D1_03_00 (2425666): GenesysGenEnvelope
+
+E6_D3_03_00 (2426964): GenesysGenSurfaceVfx
+
+E7_D1_03_00 (2425667): GenesysGenRumbleEffect
+
+E8_D1_03_00 (2425668): GenesysGenEnvelope
+
+E9_D1_03_00 (2425669): GenesysGenEnvelope
+
+EA_D1_03_00 (2425670): GenesysGenEnvelope
+
+EB_61_0F_00 (16810247): GenesysGenSurfaceType
+
+EB_D1_03_00 (2425671): GenesysGenDigitalEnvelope
+
+EC_61_0F_00 (16810248): GenesysGenSurfaceType
+
+EC_D1_03_00 (2425672): GenesysGenEnvelope
+
+ED_61_0F_00 (16810249): GenesysGenSurfaceType
+
+ED_D1_03_00 (2425673): GenesysGenRumbleEffect
+
+EE_61_0F_00 (16810256): GenesysGenSurfaceType
+
+EE_D1_03_00 (2425680): GenesysGenEnvelope
+
+EF_28_10_00 (17141845): GenesysGenSurfaceVehicleEffects
+
+EF_D1_03_00 (2425681): GenesysGenEnvelope
+
+F0_00_07_00 (4557202): GenesysGenSurfaceType
+
+F0_28_10_00 (17141846): GenesysGenSurfaceVehicleEffects
+
+F0_31_06_00 (4218880): GenesysGenSurfacePhysics
+
+F0_D1_03_00 (2425682): GenesysGenEnvelope
+
+F1_D1_03_00 (2425683): GenesysGenDigitalEnvelope
+
+F2_D1_03_00 (2425684): GenesysGenEnvelope
+
+F3_D1_03_00 (2425685): GenesysGenRumbleEffect
+
+F4_D1_03_00 (2425686): GenesysGenEnvelope
+
+F4_F0_06_00 (4540672): GenesysGenSurfaceType
+
+F5_D1_03_00 (2425687): GenesysGenEnvelope
+
+F5_F0_06_00 (4540673): GenesysGenSurfaceType
+
+F5_F3_11_00 (18310501): GenesysGenSurfaceSounds
+
+F6_3D_0F_00 (10062082): GenesysGenSurfaceType
+
+F6_D1_03_00 (2425688): GenesysGenEnvelope
+
+F7_D1_03_00 (2425689): GenesysGenDigitalEnvelope
+
+F8_63_0F_00 (16811570): GenesysGenSurfaceType
+
+F8_D1_03_00 (2425696): GenesysGenEnvelope
+
+F9_63_0F_00 (16811571): GenesysGenSurfaceType
+
+F9_D1_03_00 (2425697): GenesysGenRumbleEffect
+
+FB_61_0F_00 (16810275): GenesysGenSurfaceType
+
+FB_7D_0F_00 (16863889): GenesysGenSurfaceVfx
+
+FC_7D_0F_00 (16863890): GenesysGenSurfaceVfx
+
+FD_67_0F_00 (16815713): GenesysGenSurfaceSounds
+
+FD_7D_0F_00 (16863891): GenesysGenSurfaceVfx
+
+FE_7D_0F_00 (16863892): GenesysGenSurfaceVfx
+
+FF_7D_0F_00 (16863893): GenesysGenSurfaceVfx

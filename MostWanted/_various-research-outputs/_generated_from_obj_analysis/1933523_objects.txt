@@ -1,0 +1,192 @@
+05_0F_17_00 (22090099): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+0C_11_17_00 (22091410): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+10_11_17_00 (22091414): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+15_11_17_00 (22091521): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+18_E0_15_00 (21181988): GenesysGenSequence
+more info:
+  count: 58
+  gameplaySequenceItems:
+    - idx: 11
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(4C_C0_17_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[29]"
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenLayoutSequenceItem
+    - GenesysGenHideHudSequenceItem
+    - GenesysGenOverrideAvailableTrafficSequenceItem
+    - GenesysGenTeleportPlayerSequenceItem
+    - GenesysGenDriveLocalPlayerWithAisequenceItem
+    - GenesysGenClearTrafficSequenceItem
+    - GenesysGenGameplaySequenceItem
+    - GenesysGenAnimatedCameraSequenceItem
+    - GenesysGenAddRaceCarSequenceItem
+    - GenesysGenAddBehaviourToRaceCarSequenceItem
+    - GenesysGenSpawnAnimatedTrafficSequenceItem
+    - GenesysGenEventTriggerSequenceItem
+  /instSequenceItems0x20[4]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[4]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[4]cgsCoreUniqueId0x54: "00_00_00_00"
+  /instSequenceItems0x20[5]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[5]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[5]cgsCoreUniqueId0x54: "00_00_00_00"
+  /instSequenceItems0x20[22]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[22]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[22]cgsCoreUniqueId0x54: "00_00_00_00"
+  /instSequenceItems0x20[27]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[28]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[29]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[30]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[31]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[32]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[34]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[35]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[36]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[37]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[38]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[39]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[40]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[41]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[56]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[56]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[56]cgsCoreUniqueId0x54: "00_00_00_00"
+  
+19_11_17_00 (22091525): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+1D_11_17_00 (22091529): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "(3A_DF_01_00): GenesysGenRaceCarPhysicalDefinition (VEH_122682_LO/3A_DF_01_00_2)"
+  
+21_63_18_00 (22643265): GenesysGenTextStyle
+more info:
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0x18: "E7_7B_01_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0x18: "57_7B_01_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0x18: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0x18: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0x18: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0x18: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0x18: "53_DA_11_00"
+  cgsCoreUniqueId0x2c: "DF_67_12_00"
+  cgsCoreUniqueId0x30: "DF_67_12_00"
+  cgsCoreUniqueId0x34: "00_00_00_00"
+  cgsCoreUniqueId0x3c: "DF_67_12_00"
+  cgsCoreUniqueId0x40: "00_00_00_00"
+  cgsCoreUniqueId0x48: "00_00_00_00"
+  
+3D_7B_16_00 (21443393): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[3]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+4C_11_17_00 (22091606): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "(3A_DF_01_00): GenesysGenRaceCarPhysicalDefinition (VEH_122682_LO/3A_DF_01_00_2)"
+  
+4D_98_1E_00 (33575017): GenesysGenUilayoutInstanceParams
+
+50_11_17_00 (22091616): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+53_B9_1C_00 (25699409): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "(3A_DF_01_00): GenesysGenRaceCarPhysicalDefinition (VEH_122682_LO/3A_DF_01_00_2)"
+  
+57_B9_1C_00 (25699413): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "(3A_DF_01_00): GenesysGenRaceCarPhysicalDefinition (VEH_122682_LO/3A_DF_01_00_2)"
+  
+5A_67_00_00 (156760): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  
+5B_B9_1C_00 (25699417): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "(3A_DF_01_00): GenesysGenRaceCarPhysicalDefinition (VEH_122682_LO/3A_DF_01_00_2)"
+  
+66_9C_01_00 (1070452): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+88_DE_05_00 (3688008): GenesysGenUimaterial
+
+8E_86_01_00 (629122): GenesysGenUilayoutInstanceParams
+
+92_7A_01_00 (616724): GenesysGenUimaterial
+
+94_7A_01_00 (616726): GenesysGenUitechnique
+
+95_7A_01_00 (616727): GenesysGenUimaterial
+
+99_7A_01_00 (616737): GenesysGenUitechnique
+
+9B_7A_01_00 (616739): GenesysGenUitechnique
+
+CB_0E_17_00 (22090005): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+D3_80_1D_00 (26424611): GenesysGenFeedbackMessageGroup
+
+E4_10_17_00 (22091346): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "(3A_DF_01_00): GenesysGenRaceCarPhysicalDefinition (VEH_122682_LO/3A_DF_01_00_2)"
+  
+EB_53_1F_00 (33894553): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+EF_53_1F_00 (33894659): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+F8_55_19_00 (23462920): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/displayText0xd8cgsCoreUniqueId0x14: "FB_55_19_00"
+  
+F9_53_1F_00 (33894675): GenesysGenUilayoutInstanceParams

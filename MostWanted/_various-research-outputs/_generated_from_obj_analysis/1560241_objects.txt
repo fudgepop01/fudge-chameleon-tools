@@ -1,0 +1,16 @@
+26_09_04_00 (2507910): GenesysGenUilayoutInstanceParams
+
+2D_80_07_00 (4789605): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  
+94_7A_01_00 (616726): GenesysGenUitechnique
+
+95_7A_01_00 (616727): GenesysGenUimaterial
+
+99_7A_01_00 (616737): GenesysGenUitechnique
+
+9B_7A_01_00 (616739): GenesysGenUitechnique
+
+B1_CE_17_00 (22413889): GenesysGenScreen2

@@ -1,0 +1,81 @@
+00_0C_0D_00 (8736832): GenesysGenSoundDistanceFalloff
+
+0E_57_07_00 (4722744): GenesysGenWeaponRechargeData
+
+0F_03_22_00 (35819527): GenesysGenWcvfxBehaviour
+
+10_03_22_00 (35819528): GenesysGenLightPoint
+
+11_03_22_00 (35819529): GenesysGenCorona
+
+12_03_22_00 (35819536): GenesysGenCorona
+
+29_57_07_00 (4722789): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenCameraShakeSequenceItem
+  
+3D_0C_0D_00 (8737025): GenesysGenSndPlayerDspPlugIn
+
+3E_0C_0D_00 (8737026): GenesysGenSendDspPlugIn
+
+5D_F7_0A_00 (7440005): GenesysGenMixerChannel
+
+5E_F7_0A_00 (7440006): GenesysGenDspPlugInChain
+
+64_F7_03_00 (2464064): GenesysGenMixerChannel
+
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+84_F7_0A_00 (7440164): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+A5_3C_00_00 (87333): GenesysGenWcvfxBehaviour
+
+C1_5A_09_00 (6369367): GenesysGenWcplaySoundBehaviour
+
+C9_84_21_00 (35219073): GenesysGenMakePhysicalBehaviour
+
+D4_C1_17_00 (22374728): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenEventTriggerSequenceItem
+    - GenesysGenWaveSelectSequenceItem
+    - GenesysGenBehaviourEnabledSequenceItemGameplay
+  
+D5_BC_21_00_1 (35721257): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+D9_BC_21_00_1 (35721267): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+DC_BC_21_00 (35721270): GenesysGenWcplaySoundBehaviour
+
+DD_BC_21_00 (35721271): GenesysGenWcvfxBehaviour
+
+DE_BC_21_00 (35721272): GenesysGenMakePhysicalBehaviour
+
+DF_A1_21_00 (35668263): GenesysGenWeaponList
+
+E0_A1_21_00 (35668264): GenesysGenSpikeStripWeapon
+more info:
+  /baseObjectcgsCoreUniqueId0x5c: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x60: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x64: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x68: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x6c: "00_00_00_00"
+  
+E1_A1_21_00 (35668265): GenesysGenSpikeStripWeapon
+more info:
+  /baseObjectcgsCoreUniqueId0x5c: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x60: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x64: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x68: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x6c: "00_00_00_00"
+  
+E7_0B_0D_00 (8736789): GenesysGenMixerChannel
+
+E9_AE_22_00 (36122625): GenesysGenCompoundAdditionalInfo

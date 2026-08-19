@@ -1,0 +1,50 @@
+2D_8E_1C_00 (25629701): GenesysGenSequence
+more info:
+  count: 2
+  aiCopSpawns:
+    - idx: 0
+      bool8T0x7a: 0
+      directionBinding0x50: "\0"
+      positionBinding0x58: "\0"
+      spawnWithName0x60: "\0"
+      aiPlayerType: "00_00_00_00"
+      spawnTrigger0x6c: "4F_E0_15_00"
+      float32T0x70: 0
+      position0x40:
+        - 0
+        - 0
+        - 0
+      directionx30:
+        - 0
+        - 0
+        - 1
+      instAiplayerInstance0x74:
+        type: "(AC_A6_11_00): (GenesysObjCollection) GenesysGenAiplayerType 8E_FA_06_00/objCollection[68]"
+        primaryColour0x14: "00_00_00_00"
+        backUpColour0xc: "00_00_00_00"
+        gameChangerId0x10: "(8F_2E_17_00): (GenesysObjCollection) GenesysGenAiplayerInstance 3D_FB_06_00/objCollection[337]/instOutput0x20[0]/instAiplayers0x18[0]/instAiplayerInstance0x10"
+    - idx: 1
+      bool8T0x7a: 0
+      directionBinding0x50: "\0"
+      positionBinding0x58: "\0"
+      spawnWithName0x60: "\0"
+      aiPlayerType: "00_00_00_00"
+      spawnTrigger0x6c: "4E_E0_15_00"
+      float32T0x70: 0
+      position0x40:
+        - 0
+        - 0
+        - 0
+      directionx30:
+        - 0
+        - 0
+        - 1
+      instAiplayerInstance0x74:
+        type: "(AC_A6_11_00): (GenesysObjCollection) GenesysGenAiplayerType 8E_FA_06_00/objCollection[68]"
+        primaryColour0x14: "00_00_00_00"
+        backUpColour0xc: "00_00_00_00"
+        gameChangerId0x10: "(8F_2E_17_00): (GenesysObjCollection) GenesysGenAiplayerInstance 3D_FB_06_00/objCollection[337]/instOutput0x20[0]/instAiplayers0x18[0]/instAiplayerInstance0x10"
+  sequenceTypes:
+    - GenesysGenSpawnAicopCar
+  
+C2_88_0F_00 (16875600): GenesysGenFeedbackMessageGroup

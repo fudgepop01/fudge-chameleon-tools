@@ -1,0 +1,22 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.Reverb extends Genesys.Object
+  >> 14: (E6_29_00_00)
+  >> id: (40_FE_3A_28)
+  0xC   : CgsResource.Handle
+           muId: {55_41_3A_9F}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")

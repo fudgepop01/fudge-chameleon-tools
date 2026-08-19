@@ -1,0 +1,142 @@
+12_AA_12_00 (19018118): GenesysGenSequence
+more info:
+  count: 54
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenLayoutSequenceItem
+    - GenesysGenEventTriggerSequenceItem
+    - GenesysGenOverrideAvailableTrafficSequenceItem
+    - GenesysGenPostFxsequenceItem
+    - GenesysGenHideHudSequenceItem
+    - GenesysGenAnimatedCameraSequenceItem
+    - GenesysGenDriveLocalPlayerWithAisequenceItem
+    - GenesysGenTeleportPlayerSequenceItem
+    - GenesysGenSequenceItemsDynamicCameraSequenceItem
+    - GenesysGenSpawnDynamicEntitySequenceItem
+  /instSequenceItems0x20[4]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[4]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[4]cgsCoreUniqueId0x54: "00_00_00_00"
+  /instSequenceItems0x20[27]cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instSequenceItems0x20[53]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[53]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[53]cgsCoreUniqueId0x54: "00_00_00_00"
+  
+1D_D9_18_00 (23233605): GenesysGenAnimatedDynamicEntityBehaviour
+
+20_D9_18_00 (23233608): GenesysGenAnimatedDynamicEntityBehaviour
+
+21_63_18_00 (22643265): GenesysGenTextStyle
+more info:
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0x18: "E7_7B_01_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0x18: "57_7B_01_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0x18: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0x18: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0x18: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0x18: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0x18: "53_DA_11_00"
+  cgsCoreUniqueId0x2c: "DF_67_12_00"
+  cgsCoreUniqueId0x30: "DF_67_12_00"
+  cgsCoreUniqueId0x34: "00_00_00_00"
+  cgsCoreUniqueId0x3c: "DF_67_12_00"
+  cgsCoreUniqueId0x40: "00_00_00_00"
+  cgsCoreUniqueId0x48: "00_00_00_00"
+  
+23_D9_18_00 (23233617): GenesysGenAnimatedDynamicEntityBehaviour
+
+23_FC_06_00 (4552547): GenesysGenDynamicAdditionalInfo
+
+26_D9_18_00 (23233620): GenesysGenAnimatedDynamicEntityBehaviour
+
+2A_D9_18_00_1 (23233624): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+2E_D9_18_00 (23233634): GenesysGenAnimatedDynamicEntityBehaviour
+
+32_D9_18_00 (23233638): GenesysGenAnimatedDynamicEntityBehaviour
+
+36_D9_18_00 (23233648): GenesysGenAnimatedDynamicEntityBehaviour
+
+3A_D9_18_00 (23233652): GenesysGenAnimatedDynamicEntityBehaviour
+
+3C_CD_06_00 (4478806): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+3E_21_0A_00 (6699120): GenesysGenCameraDynamicCamera
+
+3E_D9_18_00 (23233656): GenesysGenAnimatedDynamicEntityBehaviour
+
+3F_66_17_00 (22230275): GenesysGenPostFxstate
+
+40_66_17_00 (22230276): GenesysGenPostFxKeyframe
+
+45_D9_18_00 (23233669): GenesysGenAnimatedDynamicEntityBehaviour
+
+4D_98_1E_00 (33575017): GenesysGenUilayoutInstanceParams
+
+51_D9_18_00 (23233687): GenesysGenAnimatedDynamicEntityBehaviour
+
+66_7E_12_00 (18948102): GenesysGenDynamicAdditionalInfo
+
+71_66_17_00_1 (22230355): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+75_66_17_00_1 (22230359): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+79_66_17_00_1 (22230369): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+86_78_00_00 (198740): GenesysGenPostFxstate
+
+87_78_00_00 (198741): GenesysGenPostFxKeyframe
+
+89_78_00_00 (198743): GenesysGenPostFxstate
+
+8E_86_01_00 (629122): GenesysGenUilayoutInstanceParams
+
+91_66_17_00 (22230405): GenesysGenAnimatedDynamicEntityBehaviour
+
+94_66_17_00 (22230408): GenesysGenAnimatedDynamicEntityBehaviour
+
+94_7A_01_00 (616726): GenesysGenUitechnique
+
+95_7A_01_00 (616727): GenesysGenUimaterial
+
+97_66_17_00 (22230417): GenesysGenAnimatedDynamicEntityBehaviour
+
+99_7A_01_00 (616737): GenesysGenUitechnique
+
+9A_66_17_00 (22230420): GenesysGenAnimatedDynamicEntityBehaviour
+
+9B_7A_01_00 (616739): GenesysGenUitechnique
+
+9D_66_17_00 (22230423): GenesysGenAnimatedDynamicEntityBehaviour
+
+A0_66_17_00 (22230528): GenesysGenAnimatedDynamicEntityBehaviour
+
+B7_E5_10_00 (17855363): GenesysGenPostFxstate
+
+B9_E5_10_00 (17855365): GenesysGenPostFxKeyframe
+
+BB_80_1D_00 (26424473): GenesysGenFeedbackMessageGroup
+
+F8_55_19_00 (23462920): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/displayText0xd8cgsCoreUniqueId0x14: "FB_55_19_00"
+  

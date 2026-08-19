@@ -1,0 +1,31 @@
+AE_78_00_00 (198804): GenesysGenPostFxstate
+
+C7_78_00_00 (198937): GenesysGenPostFxconfig
+
+D9_78_00_00 (198967): GenesysGenPostFxKeyframe
+
+DC_78_00_00 (198976): GenesysGenPostFxKeyframe
+
+E0_78_00_00 (198980): GenesysGenPostFxKeyframe
+
+E1_78_00_00 (198981): GenesysGenPostFxKeyframe
+
+E4_78_00_00 (198984): GenesysGenPostFxKeyframe
+
+E5_78_00_00 (198985): GenesysGenPostFxKeyframe
+
+E9_78_00_00 (198995): GenesysGenPostFxKeyframe
+
+EA_78_00_00 (198996): GenesysGenPostFxKeyframe
+
+F5_78_00_00 (199013): GenesysGenPostFxstate
+
+F6_78_00_00 (199014): GenesysGenPostFxstate
+
+F8_78_00_00 (199016): GenesysGenPostFxstate
+
+F9_78_00_00 (199017): GenesysGenPostFxstate
+
+FA_78_00_00 (199024): GenesysGenPostFxstate
+
+FB_78_00_00 (199025): GenesysGenPostFxstate

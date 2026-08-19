@@ -1,0 +1,558 @@
+01_37_00_00 (82049): GenesysGenFeedbackMessage
+
+02_37_00_00 (82050): GenesysGenFeedbackMessage
+
+03_37_00_00 (82051): GenesysGenFeedbackMessage
+
+04_37_00_00 (82052): GenesysGenFeedbackMessage
+
+05_37_00_00 (82053): GenesysGenFeedbackMessage
+
+07_37_00_00 (82055): GenesysGenFeedbackMessage
+
+09_37_00_00 (82057): GenesysGenFeedbackMessage
+
+0C_7B_01_00 (618550): GenesysGenFeedbackMessageGroup
+
+0D_37_00_00 (82067): GenesysGenFeedbackMessage
+
+0F_9D_01_00 (1070915): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  
+1C_D5_01_00 (1179794): GenesysGenTextStyle
+more info:
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0x18: "E7_7B_01_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0x18: "57_7B_01_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0x18: "03_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0x18: "03_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0x18: "03_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0x18: "03_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0x18: "53_DA_11_00"
+  cgsCoreUniqueId0x2c: "DD_67_12_00"
+  cgsCoreUniqueId0x30: "DD_67_12_00"
+  cgsCoreUniqueId0x34: "00_00_00_00"
+  cgsCoreUniqueId0x3c: "DE_67_12_00"
+  cgsCoreUniqueId0x40: "00_00_00_00"
+  cgsCoreUniqueId0x48: "00_00_00_00"
+  
+25_38_00_00 (82803): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/displayText0xd8cgsCoreUniqueId0x14: "44_CE_01_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/displayText0xd8cgsCoreUniqueId0x14: "43_CE_01_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/displayText0xd8cgsCoreUniqueId0x14: "42_CE_01_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[11]/displayText0xd8cgsCoreUniqueId0x14: "41_CE_01_00"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[15]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[15]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+36_38_00_00 (82832): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[3]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/displayText0xd8cgsCoreUniqueId0x14: "C8_CB_01_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/displayText0xd8cgsCoreUniqueId0x14: "4D_72_01_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/displayText0xd8cgsCoreUniqueId0x14: "48_CE_01_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/displayText0xd8cgsCoreUniqueId0x14: "47_CE_01_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/displayText0xd8cgsCoreUniqueId0x14: "46_CE_01_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[11]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[15]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[15]/displayText0xd8cgsCoreUniqueId0x14: "45_CE_01_00"
+  /instElements0x10[16]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[17]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[17]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[18]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[18]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[19]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[19]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+36_86_01_00 (628884): GenesysGenUilayoutInstanceParams
+
+4B_38_00_00 (82961): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[3]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/displayText0xd8cgsCoreUniqueId0x14: "C8_CB_01_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/displayText0xd8cgsCoreUniqueId0x14: "4D_72_01_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/displayText0xd8cgsCoreUniqueId0x14: "48_CE_01_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/displayText0xd8cgsCoreUniqueId0x14: "47_CE_01_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/displayText0xd8cgsCoreUniqueId0x14: "46_CE_01_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[11]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[15]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[15]/displayText0xd8cgsCoreUniqueId0x14: "45_CE_01_00"
+  /instElements0x10[16]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[17]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[17]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[18]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[18]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[19]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[19]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+5E_37_00_00 (82292): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/displayText0xd8cgsCoreUniqueId0x14: "BC_CA_01_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/displayText0xd8cgsCoreUniqueId0x14: "33_CE_01_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/displayText0xd8cgsCoreUniqueId0x14: "2B_CE_01_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+60_38_00_00 (82994): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/displayText0xd8cgsCoreUniqueId0x14: "BC_CA_01_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/displayText0xd8cgsCoreUniqueId0x14: "33_CE_01_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/displayText0xd8cgsCoreUniqueId0x14: "39_CE_01_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+60_6F_16_00 (21431044): GenesysGenTextStyle
+more info:
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[0]cgsCoreUniqueId0x18: "E7_7B_01_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[1]cgsCoreUniqueId0x18: "57_7B_01_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[2]cgsCoreUniqueId0x18: "03_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[3]cgsCoreUniqueId0x18: "03_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[4]cgsCoreUniqueId0x18: "03_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0xc: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0x10: "04_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[5]cgsCoreUniqueId0x18: "03_31_1C_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0x10: "00_00_00_00"
+  /instGenesysGenTextStyleLocalisation0x6c/instGenesysGenTextStyleLocalisationLocale0x10[6]cgsCoreUniqueId0x18: "53_DA_11_00"
+  cgsCoreUniqueId0x2c: "DD_67_12_00"
+  cgsCoreUniqueId0x30: "DD_67_12_00"
+  cgsCoreUniqueId0x34: "00_00_00_00"
+  cgsCoreUniqueId0x3c: "DE_67_12_00"
+  cgsCoreUniqueId0x40: "00_00_00_00"
+  cgsCoreUniqueId0x48: "00_00_00_00"
+  
+6E_37_00_00 (82320): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/displayText0xd8cgsCoreUniqueId0x14: "3E_CE_01_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/displayText0xd8cgsCoreUniqueId0x14: "2D_CE_01_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/displayText0xd8cgsCoreUniqueId0x14: "2C_CE_01_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[11]/displayText0xd8cgsCoreUniqueId0x14: "2B_CE_01_00"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[15]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[15]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+70_38_00_00 (83016): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  
+82_38_00_00 (83046): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[3]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/displayText0xd8cgsCoreUniqueId0x14: "C8_CB_01_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/displayText0xd8cgsCoreUniqueId0x14: "4D_72_01_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/displayText0xd8cgsCoreUniqueId0x14: "48_CE_01_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/displayText0xd8cgsCoreUniqueId0x14: "47_CE_01_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/displayText0xd8cgsCoreUniqueId0x14: "46_CE_01_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[11]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[15]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[15]/displayText0xd8cgsCoreUniqueId0x14: "45_CE_01_00"
+  /instElements0x10[16]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[17]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[17]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[18]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[18]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[19]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[19]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+92_7A_01_00 (616724): GenesysGenUimaterial
+
+94_7A_01_00 (616726): GenesysGenUitechnique
+
+95_7A_01_00 (616727): GenesysGenUimaterial
+
+99_7A_01_00 (616737): GenesysGenUitechnique
+
+9B_7A_01_00 (616739): GenesysGenUitechnique
+
+A7_38_00_00 (83203): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/displayText0xd8cgsCoreUniqueId0x14: "BC_CA_01_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/displayText0xd8cgsCoreUniqueId0x14: "33_CE_01_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/displayText0xd8cgsCoreUniqueId0x14: "41_CE_01_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+B6_36_00_00 (81926): GenesysGenFeedbackMessage
+
+B7_36_00_00 (81927): GenesysGenFeedbackMessage
+
+B8_36_00_00 (81928): GenesysGenFeedbackMessage
+
+C4_38_00_00 (83250): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/displayText0xd8cgsCoreUniqueId0x14: "BC_CA_01_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/displayText0xd8cgsCoreUniqueId0x14: "33_CE_01_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/displayText0xd8cgsCoreUniqueId0x14: "45_CE_01_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[12]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+CC_8B_01_00 (1053476): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[3]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  
+CF_36_00_00 (81969): GenesysGenFeedbackMessage
+
+D0_36_00_00 (81970): GenesysGenFeedbackMessage
+
+D1_36_00_00 (81971): GenesysGenFeedbackMessage
+
+D2_36_00_00 (81972): GenesysGenFeedbackMessage
+
+D3_36_00_00 (81973): GenesysGenFeedbackMessage
+
+D4_36_00_00 (81974): GenesysGenFeedbackMessage
+
+D5_36_00_00 (81975): GenesysGenFeedbackMessage
+
+D5_8B_01_00 (1053491): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[3]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  
+D6_36_00_00 (81976): GenesysGenFeedbackMessage
+
+D8_36_00_00 (81984): GenesysGenFeedbackMessage
+
+DE_8B_01_00 (1053506): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[3]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  
+E4_36_00_00 (82002): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[3]/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  
+F1_40_00_00 (91685): GenesysGenFeedbackMessage
+
+F2_37_00_00 (82722): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[2]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[2]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[3]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[4]/displayText0xd8cgsCoreUniqueId0x14: "3C_CE_01_00"
+  /instElements0x10[5]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[5]/displayText0xd8cgsCoreUniqueId0x14: "3B_CE_01_00"
+  /instElements0x10[6]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[6]/displayText0xd8cgsCoreUniqueId0x14: "3A_CE_01_00"
+  /instElements0x10[7]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[7]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[8]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[8]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[9]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[9]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[10]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[10]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[11]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[11]/displayText0xd8cgsCoreUniqueId0x14: "39_CE_01_00"
+  /instElements0x10[12]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[13]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[14]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[14]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[15]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[15]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+F3_36_00_00 (82023): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/instBodyBacking0x10c/instAsset0xc/baseObject/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/instBodyBacking0x10c/instAsset0xc/baseObject/tint0xb8cgsCoreUniqueId0x2c: "(D9_E4_11_00): (GenesysGenUicolourPalette) GenesysGenUicolour AA_72_01_00/instGenesysGenUicolour0x10[133]"
+  /instElements0x10[0]/baseObject/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/baseObject/displayText0xd8cgsCoreUniqueId0x14: "00_00_00_00"
+  
+F3_40_00_00 (91687): GenesysGenFeedbackMessage
+
+F9_36_00_00 (82035): GenesysGenFeedbackMessage
+
+FA_36_00_00 (82036): GenesysGenFeedbackMessage
+
+FC_36_00_00 (82038): GenesysGenFeedbackMessage
+
+FE_36_00_00 (82040): GenesysGenFeedbackMessage

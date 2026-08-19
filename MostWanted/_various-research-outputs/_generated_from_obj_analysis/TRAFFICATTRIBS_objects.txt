@@ -171,21 +171,39 @@ more info:
 39_D7_05_00 (3680119): GenesysGenSuspensionWheel
 
 3A_0B_06_00 (3760272): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 3A_D7_05_00 (3680120): GenesysGenSuspensionWheel
 
 3C_0B_06_00 (3760274): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 3D_0B_06_00 (3760275): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 3F_0B_06_00 (3760277): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 40_0B_06_00 (3760278): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 41_22_18_00 (22550067): GenesysGenMixerChannel
 
 42_0B_06_00 (3760280): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 42_22_18_00 (22550068): GenesysGenMixerChannel
 
 42_27_02_00 (1315106): GenesysGenCompressor
@@ -195,11 +213,17 @@ more info:
 43_D7_05_00 (3680135): GenesysGenWheelSuspensionConstraint
 
 44_0B_06_00 (3760384): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 44_D7_05_00 (3680136): GenesysGenWheelSuspensionSpringConstraint
 
 45_0B_06_00 (3760385): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 45_23_18_00 (22550675): GenesysGenSequence
 more info:
   count: 7
@@ -212,17 +236,26 @@ more info:
 45_EF_07_00 (5373957): GenesysGenWheelSizes
 
 46_0B_06_00 (3760386): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 46_D7_05_00 (3680144): GenesysGenSuspensionWheel
 
 46_EF_07_00 (5373958): GenesysGenWheelSizes
 
 47_0B_06_00 (3760387): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 47_D7_05_00 (3680145): GenesysGenWheelSuspensionConstraint
 
 48_0B_06_00 (3760388): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "00_00_00_00"
+  
 48_D7_05_00 (3680146): GenesysGenWheelSuspensionSpringConstraint
 
 49_D7_05_00 (3680147): GenesysGenSuspensionWheel
@@ -429,7 +462,9 @@ more info:
 7A_D7_05_00 (3680322): GenesysGenSuspensionWheel
 
 82_FC_05_00 (3744546): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 82_FC_05_00_2 (3744546): GenesysGenRaceCarPhysicalDefinition
 
 85_0A_1B_00 (24584549): GenesysGenMixerChannel
@@ -459,27 +494,93 @@ more info:
 96_99_10_00 (17332372): GenesysGenVehicleColourPalette
 
 9A_0C_06_00 (3761218): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "E0_1F_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "E0_1F_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 9C_0C_06_00 (3761220): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "6E_20_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "6E_20_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 9D_0C_06_00 (3761221): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "C0_20_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "C0_20_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 9F_0C_06_00 (3761223): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "0D_21_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "0D_21_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 A0_0C_06_00 (3761224): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "96_21_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "96_21_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 A2_0C_06_00 (3761232): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "2C_22_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "2C_22_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 A4_0C_06_00 (3761234): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "ED_22_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "ED_22_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 A5_0C_06_00 (3761235): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "35_23_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "35_23_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 A6_0C_06_00 (3761236): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "78_23_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "78_23_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 A7_0C_06_00 (3761237): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "DE_23_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "DE_23_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 A8_0C_06_00 (3761238): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "2D_24_02_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "2D_24_02_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 AD_5D_0F_00 (16805921): GenesysGenVehiclesPerformanceUpgrades
 
 B1_5D_0F_00 (16805925): GenesysGenVehiclesVehicleCategoryInfo
@@ -489,25 +590,35 @@ B9_5B_15_00 (20551479): GenesysGenTyreVfxBehaviour
 BE_20_02_00 (1283156): GenesysGenVehicleInfo
 
 C0_DF_01_00 (1189910): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 C0_DF_01_00_2 (1189910): GenesysGenRaceCarPhysicalDefinition
 
 C2_DF_01_00 (1189912): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 C2_DF_01_00_2 (1189912): GenesysGenRaceCarPhysicalDefinition
 
 C3_DF_01_00 (1189913): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 C3_DF_01_00_2 (1189913): GenesysGenRaceCarPhysicalDefinition
 
 C4_16_10_00 (17122308): GenesysGenEngineSound2
 
 C5_DF_01_00 (1189921): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 C5_DF_01_00_2 (1189921): GenesysGenRaceCarPhysicalDefinition
 
 C6_DF_01_00 (1189922): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 C6_DF_01_00_2 (1189922): GenesysGenRaceCarPhysicalDefinition
 
 C8_16_10_00 (17122312): GenesysGenSequence
@@ -519,23 +630,33 @@ more info:
     - GenesysGenMixerChannelSequenceItem
   
 C8_DF_01_00 (1189924): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 C8_DF_01_00_2 (1189924): GenesysGenRaceCarPhysicalDefinition
 
 CB_DF_01_00 (1189927): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 CB_DF_01_00_2 (1189927): GenesysGenRaceCarPhysicalDefinition
 
 CC_DF_01_00 (1189928): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 CC_DF_01_00_2 (1189928): GenesysGenRaceCarPhysicalDefinition
 
 CD_DF_01_00 (1189929): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 CD_DF_01_00_2 (1189929): GenesysGenRaceCarPhysicalDefinition
 
 CE_DF_01_00 (1189936): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "00_00_00_00"
+  
 CE_DF_01_00_2 (1189936): GenesysGenRaceCarPhysicalDefinition
 
 D8_74_00_00 (170258): GenesysGenMixerChannel
@@ -568,13 +689,19 @@ more info:
 E4_8F_06_00 (4390994): GenesysGenTyreVfxBehaviour
 
 EA_0B_06_00 (3760742): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 EA_B4_21_00 (35688450): GenesysGenNitrousParameters
 
 EC_0B_06_00 (3760744): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 ED_0B_06_00 (3760745): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 ED_22_18_00 (22550533): GenesysGenSequence
 more info:
   count: 6
@@ -582,13 +709,17 @@ more info:
     - GenesysGenWaveSequenceItem
   
 EF_0B_06_00 (3760753): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 EF_16_10_00 (17122375): GenesysGenMixerChannel
 
 EF_5B_15_00 (20551569): GenesysGenVehicleCameraContainer
 
 F0_0B_06_00 (3760754): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 F0_22_18_00 (22550536): GenesysGenSequence
 more info:
   count: 8
@@ -596,9 +727,13 @@ more info:
     - GenesysGenWaveSequenceItem
   
 F2_0B_06_00 (3760756): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 F4_0B_06_00 (3760758): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 F4_22_18_00 (22550546): GenesysGenSequence
 more info:
   count: 8
@@ -608,13 +743,21 @@ more info:
 F4_5B_15_00 (20551574): GenesysGenVehicleCameraContainer
 
 F5_0B_06_00 (3760759): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 F6_0B_06_00 (3760760): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 F7_0B_06_00 (3760761): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 F8_0B_06_00 (3760768): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 F8_22_18_00 (22550550): GenesysGenSequence
 more info:
   count: 4

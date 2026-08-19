@@ -1,0 +1,124 @@
+18_C8_08_00 (5723410): GenesysGenAiplayerType
+more info:
+  id: 18_C8_08_00
+  rolloutID: "(4C_FC_06_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[4]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 4
+  weavingType: 0
+  behaviour: 5
+  allowedToRespawn: 1
+  canRhino: 1
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 115
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(32_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[70]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 115
+  
+76_AB_17_00 (22352418): GenesysGenFeedbackMessageGroup
+
+82_AB_17_00 (22352436): GenesysGenSequence
+more info:
+  count: 3
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (14) EV14
+      data: "(19_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[3]"
+  aiCopSpawns:
+    - idx: 2
+      bool8T0x7a: 0
+      directionBinding0x50: "\0"
+      positionBinding0x58: "\0"
+      spawnWithName0x60: "\0"
+      aiPlayerType: "00_00_00_00"
+      spawnTrigger0x6c: "73_AB_17_00"
+      float32T0x70: 15
+      position0x40:
+        - 0
+        - 0
+        - 0
+      directionx30:
+        - 0
+        - 0
+        - 1
+      instAiplayerInstance0x74:
+        type: "(46_FB_06_00): (GenesysObjCollection) GenesysGenAiplayerType 8E_FA_06_00/objCollection[7]"
+        primaryColour0x14: "00_00_00_00"
+        backUpColour0xc: "00_00_00_00"
+        gameChangerId0x10: "(94_2E_17_00): (GenesysGenSequence) GenesysGenAiplayerInstance 82_AB_17_00/instSequenceItems0x20[2]/instAiplayerInstance0x74"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+    - GenesysGenSpeechEventSequenceItem
+    - GenesysGenSpawnAicopCar
+  
+AB_A6_11_00 (18179961): GenesysGenAiplayerType
+more info:
+  id: AB_A6_11_00
+  rolloutID: "(1D_F5_05_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[2]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 4
+  weavingType: 0
+  behaviour: 0
+  allowedToRespawn: 1
+  canRhino: 0
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 110
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(2D_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[68]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 160
+  
+CB_BF_17_00 (22373415): GenesysGenSequence
+
+D3_BF_17_00 (22373429): GenesysGenSequence
+
+FA_FB_06_00 (4552482): GenesysGenAiplayerType
+more info:
+  id: FA_FB_06_00
+  rolloutID: "(1D_F5_05_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[2]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 4
+  weavingType: 0
+  behaviour: 5
+  allowedToRespawn: 1
+  canRhino: 0
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 110
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(2D_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[68]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 110
+  

@@ -1,0 +1,69 @@
+10_87_0F_00 (16872982): GenesysGenCompoundAdditionalInfo
+
+35_C5_09_00 (6554377): GenesysGenCorona
+
+74_0B_1B_00 (24585220): GenesysGenWcplaySoundBehaviour
+
+98_EC_13_00_1 (19945298): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+9B_EC_13_00 (19945301): GenesysGenMakePhysicalBehaviour
+
+9C_EC_13_00 (19945302): GenesysGenDynamicAdditionalInfo
+
+9D_EC_13_00_1 (19945303): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+A0_EC_13_00 (19945312): GenesysGenMakePhysicalBehaviour
+
+A1_EC_13_00 (19945313): GenesysGenDynamicAdditionalInfo
+
+A2_EC_13_00_1 (19945314): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+A5_5B_15_00 (20551447): GenesysGenWcvfxBehaviour
+
+A5_EC_13_00 (19945317): GenesysGenMakePhysicalBehaviour
+
+A6_5B_15_00 (20551448): GenesysGenWcvfxBehaviour
+
+A6_EC_13_00 (19945318): GenesysGenDynamicAdditionalInfo
+
+A7_5B_15_00 (20551449): GenesysGenWcvfxBehaviour
+
+A7_EC_13_00_1 (19945319): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+A8_5B_15_00 (20551456): GenesysGenWcvfxBehaviour
+
+AA_EC_13_00 (19945328): GenesysGenMakePhysicalBehaviour
+
+AB_EC_13_00 (19945329): GenesysGenDynamicAdditionalInfo
+
+B1_5B_15_00_1 (20551465): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+B4_5B_15_00 (20551474): GenesysGenMakePhysicalBehaviour
+
+B5_5B_15_00 (20551475): GenesysGenDynamicAdditionalInfo
+
+B6_5B_15_00 (20551476): GenesysGenSmashProxyBehaviour
+
+C1_1C_17_00_1 (22103689): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+C2_5A_09_00 (6369368): GenesysGenWcplaySoundBehaviour
+
+C4_1C_17_00 (22103698): GenesysGenWcvfxBehaviour
+
+C5_1C_17_00 (22103699): GenesysGenWcvfxBehaviour
+
+C7_1C_17_00 (22103701): GenesysGenWcvfxBehaviour
+
+C9_1C_17_00 (22103703): GenesysGenEnableCompoundBehaviour
+
+CA_1C_17_00 (22103704): GenesysGenWcvfxBehaviour
+
+CB_1C_17_00 (22103705): GenesysGenWcplaySoundBehaviour
+
+CC_1C_17_00 (22103808): GenesysGenWcvfxBehaviour
+
+D2_1C_17_00 (22103814): GenesysGenLightSpot
+
+EF_ED_18_00 (23279477): GenesysGenWcvfxBehaviour
+
+F7_1C_17_00 (22103875): GenesysGenCorona

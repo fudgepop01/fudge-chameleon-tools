@@ -1,0 +1,12 @@
+A9_F5_15_00 (21205317): GenesysGenFeedbackMessageGroup
+
+AE_F5_15_00 (21205328): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(86_F5_15_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[14]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  

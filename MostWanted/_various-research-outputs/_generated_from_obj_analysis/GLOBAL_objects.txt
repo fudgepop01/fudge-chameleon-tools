@@ -1,0 +1,1071 @@
+00_0C_0D_00 (8736832): GenesysGenSoundDistanceFalloff
+
+01_0B_1B_00 (24584841): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+01_38_0B_00 (7557683): GenesysGenSendDspPlugIn
+
+02_38_0B_00 (7557684): GenesysGenSendDspPlugIn
+
+03_0B_1B_00 (24584849): GenesysGenMixerChannel
+
+03_38_0B_00 (7557685): GenesysGenSendDspPlugIn
+
+03_F5_11_00 (18311221): GenesysGenLowPassButterworthDspPlugIn
+
+04_35_07_00 (4662052): GenesysGenMixerChannel
+
+04_38_0B_00 (7557686): GenesysGenSendDspPlugIn
+
+04_4E_0F_00 (16789522): GenesysGenMixerChannel
+
+05_35_07_00 (4662053): GenesysGenDspPlugInChain
+
+05_4E_0F_00 (16789523): GenesysGenGinsuDspPlugIn
+
+06_21_18_00 (22549272): GenesysGenMixerChannel
+
+06_35_07_00 (4662054): GenesysGenSubmixDspPlugIn
+
+07_35_07_00 (4662055): GenesysGenSendDspPlugIn
+
+07_4E_0F_00 (16789525): GenesysGenSendDspPlugIn
+
+08_35_07_00 (4662056): GenesysGenPan2ddspPlugIn
+
+08_4E_0F_00 (16789526): GenesysGenMixerChannel
+
+09_4E_0F_00 (16789527): GenesysGenDspPlugInChain
+
+09_51_0F_00 (16791429): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+  
+0A_43_0B_00 (7569496): GenesysGenSoundDistanceFalloff
+
+0A_4E_0F_00 (16789528): GenesysGenSubmixDspPlugIn
+
+0A_51_0F_00 (16791430): GenesysGenDspPlugInChain
+
+0B_4E_0F_00 (16789529): GenesysGenPan2ddspPlugIn
+
+0B_75_00_00 (170339): GenesysGenMixerChannel
+
+0C_4E_0F_00 (16789536): GenesysGenSendDspPlugIn
+
+0C_51_0F_00 (16791432): GenesysGenMixerChannel
+
+0D_75_00_00 (170341): GenesysGenMixerChannel
+
+0E_E0_14_00 (20349048): GenesysGenLowPassButterworthDspPlugIn
+
+0F_06_1C_00 (25388377): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+  
+0F_33_0F_00 (10051857): GenesysGenMixerChannel
+
+10_33_0F_00 (10051858): GenesysGenMixerChannel
+
+13_4E_0F_00 (16789543): GenesysGenDspPlugInChain
+
+14_4E_0F_00 (16789544): GenesysGenPeakingDspPlugIn
+
+15_4E_0F_00 (16789545): GenesysGenMixerChannel
+
+15_75_00_00 (170355): GenesysGenMixerChannel
+
+16_4E_0F_00 (16789552): GenesysGenSendDspPlugIn
+
+17_4E_0F_00 (16789553): GenesysGenSendDspPlugIn
+
+18_35_0F_00 (10053170): GenesysGenSequence
+more info:
+  count: 9
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+  
+18_4E_0F_00 (16789554): GenesysGenDspPlugInChain
+
+19_4E_0F_00 (16789555): GenesysGenPeakingDspPlugIn
+
+19_F4_11_00 (18310657): GenesysGenMixerChannel
+
+1A_04_1C_00 (25387096): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+1A_4E_0F_00 (16789556): GenesysGenMixerChannel
+
+1C_04_1C_00 (25387104): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+1C_22_18_00 (22549910): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+1C_35_0F_00 (10053174): GenesysGenMixerChannel
+
+1C_36_0F_00 (10053778): GenesysGenPan2ddspPlugIn
+
+1C_38_0B_00 (7557728): GenesysGenMixerChannel
+
+1C_4E_0F_00 (16789558): GenesysGenDistortionDspPlugIn
+
+1D_36_0F_00 (10053779): GenesysGenSendDspPlugIn
+
+1D_38_0B_00 (7557729): GenesysGenDspPlugInChain
+
+1D_4E_0F_00 (16789559): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+1E_36_0F_00 (10053780): GenesysGenPeakLimiterDspPlugIn
+
+1E_38_0B_00 (7557730): GenesysGenSubmixDspPlugIn
+
+1F_36_0F_00 (10053781): GenesysGenPan2ddspPlugIn
+
+1F_38_0B_00 (7557731): GenesysGenPan2ddspPlugIn
+
+20_36_0F_00 (10053782): GenesysGenSendDspPlugIn
+
+20_38_0B_00 (7557732): GenesysGenSendDspPlugIn
+
+20_4E_0F_00 (16789568): GenesysGenSendDspPlugIn
+
+21_36_0F_00 (10053783): GenesysGenPeakLimiterDspPlugIn
+
+21_38_0B_00 (7557733): GenesysGenSendDspPlugIn
+
+21_4E_0F_00 (16789569): GenesysGenMixerChannel
+
+22_36_0F_00 (10053784): GenesysGenPan2ddspPlugIn
+
+22_38_0B_00 (7557734): GenesysGenSendDspPlugIn
+
+22_4E_0F_00 (16789570): GenesysGenDspPlugInChain
+
+23_33_0F_00 (10051889): GenesysGenMixerChannel
+
+23_36_0F_00 (10053785): GenesysGenSendDspPlugIn
+
+24_4E_0F_00 (16789572): GenesysGenDelayDspPlugIn
+
+25_36_0F_00 (10053889): GenesysGenPan2ddspPlugIn
+
+25_4E_0F_00 (16789573): GenesysGenSequence
+more info:
+  count: 7
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+26_06_1C_00 (25388418): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+  
+26_36_0F_00 (10053890): GenesysGenSendDspPlugIn
+
+27_36_0F_00 (10053891): GenesysGenPeakLimiterDspPlugIn
+
+29_38_0B_00 (7557747): GenesysGenHighShelfDspPlugIn
+
+2A_06_1C_00 (25388422): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+  
+2A_67_0D_00 (8881016): GenesysGenMixerChannel
+
+2B_05_1C_00 (25387825): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+2C_4E_0F_00 (16789586): GenesysGenPeakingDspPlugIn
+
+2D_05_1C_00 (25387827): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+2D_4E_0F_00 (16789587): GenesysGenMixerChannel
+
+2E_22_18_00 (22550036): GenesysGenMixerChannel
+
+2E_4E_0F_00 (16789588): GenesysGenDspPlugInChain
+
+2F_05_1C_00 (25387829): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+2F_22_18_00 (22550037): GenesysGenMixerChannel
+
+30_22_18_00 (22550038): GenesysGenMixerChannel
+
+30_4E_0F_00 (16789590): GenesysGenDelayDspPlugIn
+
+31_4E_0F_00 (16789591): GenesysGenSendDspPlugIn
+
+32_22_18_00 (22550040): GenesysGenSoundDistanceFalloff
+
+32_38_0B_00 (7557762): GenesysGenMixerChannel
+
+32_4E_0F_00 (16789592): GenesysGenDspPlugInChain
+
+33_22_18_00 (22550041): GenesysGenSoundDistanceFalloff
+
+33_38_0B_00 (7557763): GenesysGenDspPlugInChain
+
+34_22_18_00 (22550048): GenesysGenSoundDistanceFalloff
+
+34_38_0B_00 (7557764): GenesysGenSubmixDspPlugIn
+
+35_38_0B_00 (7557765): GenesysGenSendDspPlugIn
+
+36_4E_0F_00 (16789602): GenesysGenPeakingDspPlugIn
+
+37_38_0B_00 (7557767): GenesysGenSendDspPlugIn
+
+37_4E_0F_00 (16789603): GenesysGenPeakingDspPlugIn
+
+38_33_0F_00 (10051922): GenesysGenMixerChannel
+
+38_38_0B_00 (7557768): GenesysGenMixingGroup
+
+39_38_0B_00 (7557769): GenesysGenMixingGroup
+
+39_75_00_00 (196617): GenesysGenMixerChannel
+
+3A_38_0B_00 (7557776): GenesysGenMixingGroup
+
+3A_75_00_00 (196624): GenesysGenMixerChannel
+
+3B_38_0B_00 (7557777): GenesysGenMixingGroup
+
+3C_38_0B_00 (7557778): GenesysGenSendDspPlugIn
+
+3D_22_18_00 (22550057): GenesysGenMixerChannel
+
+3D_38_0B_00 (7557779): GenesysGenSendDspPlugIn
+
+3E_33_0F_00 (10051928): GenesysGenSoundDistanceFalloff
+
+3E_38_0B_00 (7557780): GenesysGenSendDspPlugIn
+
+3E_75_00_00 (196628): GenesysGenMixerChannel
+
+42_4F_0F_00 (16790320): GenesysGenMixerChannel
+
+44_38_0B_00 (7557888): GenesysGenSoundDistanceFalloff
+
+44_4F_0F_00 (16790322): GenesysGenDspPlugInChain
+
+45_4F_0F_00 (16790323): GenesysGenSubmixDspPlugIn
+
+46_8D_10_00 (17319746): GenesysGenCompressor
+
+47_21_18_00 (22549379): GenesysGenMixerChannel
+
+47_39_0B_00 (7558489): GenesysGenMixingGroup
+
+47_4F_0F_00 (16790325): GenesysGenPan2ddspPlugIn
+
+48_1C_1D_00 (26244996): GenesysGenMixerChannel
+
+48_21_18_00 (22549380): GenesysGenMixerChannel
+
+48_37_0B_00 (7557192): GenesysGenMixerChannel
+
+48_4F_0F_00 (16790326): GenesysGenSendDspPlugIn
+
+49_37_0B_00 (7557193): GenesysGenDspPlugInChain
+
+49_4F_0F_00 (16790327): GenesysGenSendDspPlugIn
+
+49_75_00_00 (196645): GenesysGenMixerChannel
+
+4A_1C_1D_00 (26244998): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+4A_37_0B_00 (7557200): GenesysGenSubmixDspPlugIn
+
+4B_37_0B_00 (7557201): GenesysGenPan3dDspPlugIn
+
+4D_1C_1D_00 (26245001): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+4D_37_0B_00 (7557203): GenesysGenMixerChannel
+
+4E_37_0B_00 (7557204): GenesysGenDspPlugInChain
+
+4E_66_0F_00 (16814640): GenesysGenMixerChannel
+
+51_37_0B_00 (7557207): GenesysGenSendDspPlugIn
+
+51_A9_05_00 (3608613): GenesysGenVehicleSound
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
+52_37_0B_00 (7557208): GenesysGenMixerChannel
+
+52_A9_05_00 (3608614): GenesysGenWorldSound
+more info:
+  /genesysGenWorldSoundAmbience0x5ccgsCoreUniqueId0xc: "74_65_0F_00"
+  /genesysGenWorldSoundAmbience0x5ccgsCoreUniqueId0x10: "D5_79_00_00"
+  /genesysGenWorldSoundAmbience0x5ccgsCoreUniqueId0x18: "03_7A_00_00"
+  cgsCoreUniqueId0xa8: "(0E_7A_00_00): GenesysGenHelicopterSoundSet 0E_7A_00_00"
+  cgsCoreUniqueId0xb0: "(2D_7A_00_00): GenesysGenSpeedSoundSet 2D_7A_00_00"
+  
+53_1B_1D_00 (26244409): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+53_1C_1D_00 (26245013): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+53_37_0B_00 (7557209): GenesysGenSendDspPlugIn
+
+53_A9_05_00 (3608615): GenesysGenMiscSound
+more info:
+  /genesysGenMiscSoundUi0x40cgsCoreUniqueId0xc: "(77_05_1C_00): GenesysGenSequence 77_05_1C_00"
+  /genesysGenMiscSoundUi0x40cgsCoreUniqueId0x10: "(71_05_1C_00): GenesysGenSequence 71_05_1C_00"
+  /genesysGenMiscSoundUi0x40cgsCoreUniqueId0x14: "(75_05_1C_00): GenesysGenSequence 75_05_1C_00"
+  /genesysGenMiscSoundUi0x40cgsCoreUniqueId0x18: "(2F_05_1C_00): GenesysGenSequence 2F_05_1C_00"
+  /genesysGenMiscSoundUi0x40cgsCoreUniqueId0x1c: "(1A_04_1C_00): GenesysGenSequence 1A_04_1C_00"
+  /genesysGenMiscSoundUi0x40cgsCoreUniqueId0x20: "(2D_05_1C_00): GenesysGenSequence 2D_05_1C_00"
+  /genesysGenMiscSoundUi0x40cgsCoreUniqueId0x24: "(2B_05_1C_00): GenesysGenSequence 2B_05_1C_00"
+  /genesysGenMiscSoundUi0x40cgsCoreUniqueId0x28: "(1C_04_1C_00): GenesysGenSequence 1C_04_1C_00"
+  cgsCoreUniqueId0xc8: "16_71_15_00"
+  cgsCoreUniqueId0xcc: "14_71_15_00"
+  cgsCoreUniqueId0xd0: "(51_26_02_00): GenesysGenVehicleSoundSet 51_26_02_00"
+  cgsCoreUniqueId0xd4: "53_35_12_00"
+  
+54_37_0B_00 (7557216): GenesysGenDspPlugInChain
+
+54_A9_05_00 (3608616): GenesysGenBusGroups
+
+55_37_0B_00 (7557217): GenesysGenSubmixDspPlugIn
+
+56_37_0B_00 (7557218): GenesysGenPan3dDspPlugIn
+
+59_37_0B_00 (7557221): GenesysGenSequence
+more info:
+  count: 16
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+  
+59_43_0B_00 (7569719): GenesysGenSoundDistanceFalloff
+
+5A_1C_1D_00 (26245122): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+5A_37_0B_00 (7557222): GenesysGenSubmixDspPlugIn
+
+5A_43_0B_00 (7569720): GenesysGenSoundDistanceFalloff
+
+5B_33_0F_00 (10051975): GenesysGenHighPassButterworthDspPlugIn
+
+5C_04_1C_00 (25387300): GenesysGenPeakingDspPlugIn
+
+5C_37_0B_00 (7557224): GenesysGenSequence
+more info:
+  count: 19
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+5D_24_1A_00 (24195653): GenesysGenMixerChannel
+
+60_66_0F_00 (16814664): GenesysGenSequence
+more info:
+  count: 14
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+67_67_0F_00 (16815377): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+67_A2_15_00 (21067825): GenesysGenSequence
+more info:
+  count: 10
+  sequenceTypes:
+    - GenesysGenRaceCarEffectSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+69_1C_1D_00 (26245143): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+6A_4A_0D_00 (8851480): GenesysGenMixerChannel
+
+6D_1C_1D_00 (26245153): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+6F_72_00_00 (168597): GenesysGenSoundDistanceFalloff
+
+70_67_0F_00 (16815392): GenesysGenMixerChannel
+
+70_72_00_00 (168598): GenesysGenSoundDistanceFalloff
+
+71_05_1C_00 (25388033): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+71_67_0F_00 (16815393): GenesysGenSequence
+more info:
+  count: 6
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+72_72_00_00 (168600): GenesysGenSoundDistanceFalloff
+
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+73_A2_15_00 (21067843): GenesysGenSequence
+more info:
+  count: 10
+  sequenceTypes:
+    - GenesysGenRaceCarEffectSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+74_72_00_00 (168704): GenesysGenSoundDistanceFalloff
+
+75_05_1C_00 (25388037): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+75_72_00_00 (168705): GenesysGenSoundDistanceFalloff
+
+76_35_07_00 (4662328): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+  
+76_67_0F_00 (16815398): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+77_05_1C_00 (25388039): GenesysGenSequence
+more info:
+  count: 5
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+77_72_00_00 (168707): GenesysGenSoundDistanceFalloff
+
+7A_2F_02_00 (1323558): GenesysGenEngineSoundSpec
+
+7A_35_07_00 (4662338): GenesysGenMixerChannel
+
+7A_39_0B_00 (7558672): GenesysGenRoutingDspPlugIn
+
+7B_2F_02_00 (1323559): GenesysGenEngineSoundSpec
+
+7B_34_07_00 (4661639): GenesysGenDspPlugInChain
+
+7B_39_0B_00 (7558673): GenesysGenMixerChannel
+
+7B_65_15_00 (20980277): GenesysGenMixerChannel
+
+7B_7F_08_00 (5597475): GenesysGenMixerChannel
+
+7B_E0_14_00 (20349319): GenesysGenReverbIrDspPlugIn
+
+7C_2F_02_00 (1323560): GenesysGenEngineSoundSpec
+
+7C_65_15_00 (20980278): GenesysGenDspPlugInChain
+
+7D_2F_02_00 (1323561): GenesysGenEngineSoundSpec
+
+7D_34_07_00 (4661641): GenesysGenSubmixDspPlugIn
+
+7D_65_15_00 (20980279): GenesysGenSubmixDspPlugIn
+
+7E_2F_02_00 (1323568): GenesysGenEngineSoundSpec
+
+7E_34_07_00 (4661648): GenesysGenMixerChannel
+
+7E_65_15_00 (20980280): GenesysGenRoutingDspPlugIn
+
+7E_67_0F_00 (16815412): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+7F_2F_02_00 (1323569): GenesysGenEngineSoundSpec
+
+7F_65_15_00 (20980281): GenesysGenMixerChannel
+
+7F_A2_15_00 (21067861): GenesysGenSequence
+more info:
+  count: 10
+  sequenceTypes:
+    - GenesysGenRaceCarEffectSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+80_2F_02_00 (1323570): GenesysGenEngineSoundSpec
+
+80_65_15_00 (20980288): GenesysGenDspPlugInChain
+
+81_2F_02_00 (1323571): GenesysGenEngineSoundSpec
+
+81_34_07_00 (4661651): GenesysGenDspPlugInChain
+
+81_37_0B_00 (7557381): GenesysGenSurfaceReflection
+
+81_65_15_00 (20980289): GenesysGenSubmixDspPlugIn
+
+82_04_1C_00 (25387362): GenesysGenMixerChannel
+
+82_22_18_00 (22550168): GenesysGenMixerChannel
+
+82_2F_02_00 (1323572): GenesysGenEngineSoundSpec
+
+82_34_07_00 (4661652): GenesysGenDspPlugInChain
+
+83_04_1C_00 (25387363): GenesysGenDspPlugInChain
+
+83_2F_02_00 (1323573): GenesysGenEngineSoundSpec
+
+83_34_07_00 (4661653): GenesysGenMixerChannel
+
+83_37_0B_00 (7557383): GenesysGenHighShelfDspPlugIn
+
+83_65_15_00 (20980291): GenesysGenPan2ddspPlugIn
+
+84_04_1C_00 (25387364): GenesysGenSndPlayerDspPlugIn
+
+84_22_18_00 (22550272): GenesysGenMixerChannel
+
+84_2F_02_00 (1323574): GenesysGenEngineSoundSpec
+
+84_34_07_00 (4661654): GenesysGenMixerChannel
+
+84_37_0B_00 (7557384): GenesysGenHighShelfDspPlugIn
+
+84_65_15_00 (20980292): GenesysGenSendDspPlugIn
+
+85_04_1C_00 (25387365): GenesysGenSendDspPlugIn
+
+85_0A_1B_00 (24584549): GenesysGenMixerChannel
+
+85_2F_02_00 (1323575): GenesysGenEngineSoundSpec
+
+85_34_07_00 (4661655): GenesysGenSubmixDspPlugIn
+
+85_94_0F_00 (16912481): GenesysGenMixerChannel
+
+86_2F_02_00 (1323576): GenesysGenEngineSoundSpec
+
+86_34_07_00 (4661656): GenesysGenSubmixDspPlugIn
+
+86_94_0F_00 (16912482): GenesysGenDspPlugInChain
+
+87_04_1C_00 (25387367): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+87_2F_02_00 (1323577): GenesysGenEngineSoundSpec
+
+87_34_07_00 (4661657): GenesysGenSendDspPlugIn
+
+87_94_0F_00 (16912483): GenesysGenSubmixDspPlugIn
+
+88_2F_02_00 (1323584): GenesysGenEngineSoundSpec
+
+88_34_07_00 (4661760): GenesysGenSendDspPlugIn
+
+88_35_0F_00 (10053444): GenesysGenMixerChannel
+
+88_65_15_00 (20980296): GenesysGenMixerChannel
+
+89_2F_02_00 (1323585): GenesysGenEngineSoundSpec
+
+89_34_07_00 (4661761): GenesysGenSendDspPlugIn
+
+89_37_0B_00 (7557395): GenesysGenMixerChannel
+
+8A_23_18_00 (22550882): GenesysGenMixerChannel
+
+8A_2F_02_00 (1323586): GenesysGenEngineSoundSpec
+
+8B_34_07_00 (4661763): GenesysGenDistortionDspPlugIn
+
+8B_37_0B_00 (7557397): GenesysGenMixerChannel
+
+8C_34_07_00 (4661764): GenesysGenDistortionDspPlugIn
+
+8C_37_0B_00 (7557398): GenesysGenMixerChannel
+
+8C_7F_08_00 (5597504): GenesysGenMixerChannel
+
+8D_0C_1B_00 (24585861): GenesysGenMixerChannel
+
+8D_37_0B_00 (7557399): GenesysGenDspPlugInChain
+
+8D_65_15_00 (20980307): GenesysGenRoutingDspPlugIn
+
+8E_34_07_00 (4661766): GenesysGenMixerChannel
+
+8E_37_0B_00 (7557400): GenesysGenSubmixDspPlugIn
+
+8F_37_0B_00 (7557401): GenesysGenPan3dDspPlugIn
+
+90_23_18_00 (22550888): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+90_34_07_00 (4661768): GenesysGenDspPlugInChain
+
+90_37_0B_00 (7557408): GenesysGenHighShelfDspPlugIn
+
+91_37_0B_00 (7557409): GenesysGenSendDspPlugIn
+
+92_34_07_00 (4661776): GenesysGenSubmixDspPlugIn
+
+93_34_07_00 (4661777): GenesysGenSendDspPlugIn
+
+94_65_15_00 (20980320): GenesysGenRoutingDspPlugIn
+
+96_37_0B_00 (7557414): GenesysGenHighShelfDspPlugIn
+
+96_4D_0D_00 (8853552): GenesysGenMixerChannel
+
+97_34_07_00 (4661781): GenesysGenPeakingDspPlugIn
+
+97_37_0B_00 (7557415): GenesysGenPan3dDspPlugIn
+
+98_34_07_00 (4661782): GenesysGenPeakingDspPlugIn
+
+98_F7_17_00 (22480658): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+99_34_07_00 (4661783): GenesysGenPeakingDspPlugIn
+
+99_37_0B_00 (7557417): GenesysGenSubmixDspPlugIn
+
+99_66_0F_00 (16814853): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+9A_04_1C_00 (25387398): GenesysGenGainDspPlugIn
+
+9A_34_07_00 (4661784): GenesysGenPeakingDspPlugIn
+
+9A_37_0B_00 (7557424): GenesysGenHighShelfDspPlugIn
+
+9B_04_1C_00 (25387399): GenesysGenGainDspPlugIn
+
+9B_34_07_00 (4661785): GenesysGenPeakingDspPlugIn
+
+9B_37_0B_00 (7557425): GenesysGenPan3dDspPlugIn
+
+9B_65_15_00 (20980327): GenesysGenRoutingDspPlugIn
+
+9C_34_07_00 (4661792): GenesysGenPeakingDspPlugIn
+
+9D_37_0B_00 (7557427): GenesysGenSubmixDspPlugIn
+
+9E_37_0B_00 (7557428): GenesysGenDspPlugInChain
+
+9F_34_07_00 (4661795): GenesysGenDspPlugInChain
+
+9F_34_0F_00 (10052881): GenesysGenSequence
+more info:
+  count: 10
+  sequenceTypes:
+    - GenesysGenRaceCarEffectSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+A0_34_07_00 (4661796): GenesysGenSubmixDspPlugIn
+
+A0_37_0B_00 (7557430): GenesysGenDspPlugInChain
+
+A0_F7_17_00 (22480672): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+A1_34_07_00 (4661797): GenesysGenSendDspPlugIn
+
+A1_37_0B_00 (7557431): GenesysGenSendDspPlugIn
+
+A1_E0_14_00 (20349477): GenesysGenGainDspPlugIn
+
+A2_04_1C_00 (25387412): GenesysGenGainDspPlugIn
+
+A2_37_0B_00 (7557432): GenesysGenSendDspPlugIn
+
+A2_65_15_00 (20980340): GenesysGenRoutingDspPlugIn
+
+A3_34_07_00 (4661799): GenesysGenHighPassButterworthDspPlugIn
+
+A3_37_0B_00 (7557433): GenesysGenSendDspPlugIn
+
+A4_34_07_00 (4661800): GenesysGenHighPassButterworthDspPlugIn
+
+A5_34_07_00 (4661801): GenesysGenMixerChannel
+
+A5_37_0B_00 (7557441): GenesysGenSequence
+more info:
+  count: 6
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+  
+A6_21_18_00 (22549624): GenesysGenMixerChannel
+
+A6_34_07_00 (4661808): GenesysGenSendDspPlugIn
+
+A6_7E_08_00 (5596944): GenesysGenSequence
+more info:
+  count: 38
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+A7_21_18_00 (22549625): GenesysGenMixerChannel
+
+A7_34_07_00 (4661809): GenesysGenSendDspPlugIn
+
+A7_E0_14_00 (20349489): GenesysGenSendDspPlugIn
+
+A8_37_0B_00 (7557444): GenesysGenSequence
+more info:
+  count: 6
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+  
+A9_34_07_00 (4661811): GenesysGenSubHarmoniserDspPlugIn
+
+AA_35_0F_00 (10053496): GenesysGenMixerChannel
+
+AB_37_0B_00 (7557447): GenesysGenSequence
+more info:
+  count: 8
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+AE_37_0B_00 (7557456): GenesysGenSequence
+more info:
+  count: 9
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+  
+B0_4E_0F_00 (16789892): GenesysGenMixerChannel
+
+B0_71_0B_00 (7667712): GenesysGenMixerChannel
+
+B1_35_07_00 (4662423): GenesysGenSendDspPlugIn
+
+B1_71_0B_00 (7667713): GenesysGenDspPlugInChain
+
+B2_35_0F_00 (10053510): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+B2_37_0B_00 (7557460): GenesysGenSendDspPlugIn
+
+B2_71_0B_00 (7667714): GenesysGenSubmixDspPlugIn
+
+B3_71_0B_00 (7667715): GenesysGenPeakingDspPlugIn
+
+B4_37_0B_00 (7557462): GenesysGenSendDspPlugIn
+
+B4_71_0B_00 (7667716): GenesysGenPeakingDspPlugIn
+
+B5_37_0B_00 (7557463): GenesysGenSendDspPlugIn
+
+B5_71_0B_00 (7667717): GenesysGenSendDspPlugIn
+
+B6_37_0B_00 (7557464): GenesysGenSendDspPlugIn
+
+B6_71_0B_00 (7667718): GenesysGenSendDspPlugIn
+
+B8_37_0B_00 (7557472): GenesysGenSendDspPlugIn
+
+B9_1F_11_00 (17965619): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenConductorSequenceItem
+  
+B9_21_18_00 (22549655): GenesysGenMixerChannel
+
+B9_37_0B_00 (7557473): GenesysGenMixerChannel
+
+BA_34_07_00 (4661840): GenesysGenMixerChannel
+
+BA_37_0B_00 (7557474): GenesysGenMixerChannel
+
+BA_4E_0F_00 (16789908): GenesysGenMixerChannel
+
+BB_37_0B_00 (7557475): GenesysGenMixerChannel
+
+BC_37_0B_00 (7557476): GenesysGenMixerChannel
+
+BC_71_0B_00 (7667730): GenesysGenMixerChannel
+
+BD_37_0B_00 (7557477): GenesysGenMixerChannel
+
+BD_71_0B_00 (7667731): GenesysGenDspPlugInChain
+
+BE_71_0B_00 (7667732): GenesysGenSubmixDspPlugIn
+
+BF_37_0B_00 (7557479): GenesysGenDspPlugInChain
+
+BF_71_0B_00 (7667733): GenesysGenSubHarmoniserDspPlugIn
+
+C0_37_0B_00 (7557480): GenesysGenSubmixDspPlugIn
+
+C0_71_0B_00 (7667734): GenesysGenSendDspPlugIn
+
+C3_37_0B_00 (7557489): GenesysGenDspPlugInChain
+
+C3_71_0B_00 (7667737): GenesysGenBandPassDspPlugIn
+
+C4_37_0B_00 (7557490): GenesysGenSubmixDspPlugIn
+
+C4_71_0B_00 (7667744): GenesysGenLowPassButterworthDspPlugIn
+
+C5_37_0B_00 (7557491): GenesysGenDspPlugInChain
+
+C5_71_0B_00 (7667745): GenesysGenSendDspPlugIn
+
+C6_37_0B_00 (7557492): GenesysGenSubmixDspPlugIn
+
+C7_37_0B_00 (7557493): GenesysGenDspPlugInChain
+
+C8_37_0B_00 (7557494): GenesysGenSubmixDspPlugIn
+
+C9_37_0B_00 (7557495): GenesysGenDspPlugInChain
+
+CA_37_0B_00 (7557496): GenesysGenSubmixDspPlugIn
+
+CB_37_0B_00 (7557497): GenesysGenSendDspPlugIn
+
+CB_71_0B_00 (7667751): GenesysGenMixerChannel
+
+CB_7E_08_00 (5596999): GenesysGenMixerChannel
+
+CC_7E_08_00 (5597000): GenesysGenMixerChannel
+
+CD_37_0B_00 (7557505): GenesysGenSendDspPlugIn
+
+CD_7E_08_00 (5597001): GenesysGenMixerChannel
+
+CE_37_0B_00 (7557506): GenesysGenSendDspPlugIn
+
+CE_7E_08_00 (5597008): GenesysGenMixerChannel
+
+CF_1C_1D_00 (26245401): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+CF_37_0B_00 (7557507): GenesysGenSendDspPlugIn
+
+D0_37_0B_00 (7557508): GenesysGenSendDspPlugIn
+
+D2_1C_1D_00 (26245410): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+D7_1C_1D_00 (26245415): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+D7_F2_11_00 (18309753): GenesysGenPeakLimiterDspPlugIn
+
+D9_37_0B_00 (7557523): GenesysGenPan2ddspPlugIn
+
+DA_1C_1D_00 (26245424): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+DA_21_18_00 (22549808): GenesysGenMixerChannel
+
+DB_21_18_00 (22549809): GenesysGenMixerChannel
+
+DC_21_18_00 (22549810): GenesysGenMixerChannel
+
+DD_21_18_00 (22549811): GenesysGenMixerChannel
+
+DD_37_0B_00 (7557527): GenesysGenPan3dDspPlugIn
+
+DD_E0_14_00 (20349573): GenesysGenMixerChannel
+
+DE_37_0B_00 (7557528): GenesysGenPan3dDspPlugIn
+
+DE_39_0B_00 (7558928): GenesysGenSequence
+more info:
+  count: 5
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+  
+DE_6A_07_00 (4743440): GenesysGenSendDspPlugIn
+
+DF_37_0B_00 (7557529): GenesysGenPan3dDspPlugIn
+
+DF_6A_07_00 (4743441): GenesysGenPan2ddspPlugIn
+
+DF_85_09_00 (6439061): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenBusMixerChannelSequenceItem
+  
+E0_37_0B_00 (7557632): GenesysGenPan3dDspPlugIn
+
+E0_39_0B_00 (7558930): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+E0_4E_0F_00 (16790066): GenesysGenMixerChannel
+
+E1_37_0B_00 (7557633): GenesysGenPan3dDspPlugIn
+
+E2_39_0B_00 (7558932): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+E3_37_0B_00 (7557635): GenesysGenDelayDspPlugIn
+
+E4_39_0B_00 (7558934): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+E6_37_0B_00 (7557638): GenesysGenMixingGroup
+
+E7_0B_0D_00 (8736789): GenesysGenMixerChannel
+
+E7_79_00_00 (201223): GenesysGenGlobalSound
+
+EF_34_07_00 (4662019): GenesysGenSendDspPlugIn
+
+F0_34_07_00 (4662020): GenesysGenDspPlugInChain
+
+F1_34_07_00 (4662021): GenesysGenMixerChannel
+
+F1_66_0D_00 (8880929): GenesysGenMixerChannel
+
+F2_34_07_00 (4662022): GenesysGenSendDspPlugIn
+
+F3_34_07_00 (4662023): GenesysGenSubmixDspPlugIn
+
+F4_34_07_00 (4662024): GenesysGenDelayDspPlugIn
+
+F8_A2_15_00 (21068150): GenesysGenMixerChannel
+
+F9_A2_15_00 (21068151): GenesysGenMixerChannel
+
+FB_E0_14_00 (20349717): GenesysGenSendDspPlugIn

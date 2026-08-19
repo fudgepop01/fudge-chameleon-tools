@@ -1,0 +1,102 @@
+01_6F_21_00 (35197189): GenesysGenSequence
+
+18_6F_21_00 (35197224): GenesysGenSequence
+
+1E_6F_21_00 (35197236): GenesysGenSequence
+
+3C_CD_06_00 (4478806): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+8E_86_01_00 (629122): GenesysGenUilayoutInstanceParams
+
+94_7A_01_00 (616726): GenesysGenUitechnique
+
+95_7A_01_00 (616727): GenesysGenUimaterial
+
+99_7A_01_00 (616737): GenesysGenUitechnique
+
+9B_7A_01_00 (616739): GenesysGenUitechnique
+
+D1_6E_21_00 (35197015): GenesysGenFeedbackMessageGroup
+
+D2_6E_21_00 (35197016): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(D4_6E_21_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[39]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  
+DA_A6_11_00 (18180134): GenesysGenAiplayerType
+more info:
+  id: DA_A6_11_00
+  rolloutID: "(1D_F5_05_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[2]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 11
+  weavingType: 0
+  behaviour: 0
+  allowedToRespawn: 1
+  canRhino: 0
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 110
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(2D_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[68]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 160
+  
+DB_E3_21_00 (35786777): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenHideHudSequenceItem
+    - GenesysGenSlowMoSequenceItem
+    - GenesysGenAnimatedCameraSequenceItem
+    - GenesysGenLayoutSequenceItem
+  /instSequenceItems0x20[3]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[3]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[3]cgsCoreUniqueId0x54: "00_00_00_00"
+  
+E4_6E_21_00 (35197046): GenesysGenSequence
+
+E7_E3_21_00 (35786801): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenHideHudSequenceItem
+    - GenesysGenAnimatedCameraSequenceItem
+    - GenesysGenSlowMoSequenceItem
+    - GenesysGenLayoutSequenceItem
+  /instSequenceItems0x20[3]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[3]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[3]cgsCoreUniqueId0x54: "00_00_00_00"
+  
+EF_E3_21_00 (35786809): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenHideHudSequenceItem
+    - GenesysGenAnimatedCameraSequenceItem
+    - GenesysGenSlowMoSequenceItem
+    - GenesysGenLayoutSequenceItem
+  /instSequenceItems0x20[3]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[3]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[3]cgsCoreUniqueId0x54: "00_00_00_00"
+  
+F9_6E_21_00 (35197079): GenesysGenSequence

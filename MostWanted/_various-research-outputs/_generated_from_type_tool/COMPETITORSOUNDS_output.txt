@@ -1,0 +1,54 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.VehicleSoundSet.Transmission extends Genesys.Object
+  >> 14: (89_33_00_00)
+  >> id: (BB_4E_3D_72)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {80_60_40_FD} ("Curve")
+  0x14  : float32_t
+           muId: {A0_3B_9E_C5}
+  0x18  : float32_t
+           muId: {E7_1A_63_5B}
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.VehicleSoundSet extends Genesys.Object
+  >> 14: (AA_2A_00_00)
+  >> id: (77_B7_F0_19)
+  0xC   : Genesys.Gen.VehicleSoundSet.Transmission
+           muId: {62_D8_6B_7B}
+  0x28  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x2C  : CgsResource.Handle * [size @ 0x38]
+           muId: {B1_B9_24_70} ("Ignition")
+  0x30  : CgsResource.Handle * [size @ 0x3A]
+           muId: {E5_6B_BD_20} ("Sirens")
+  0x34  : CgsResource.Handle * [size @ 0x3C]
+           muId: {BB_D5_40_D0} ("Transmission")
+  0x38  : uint16_t
+           muId: {6E_1D_8D_5B}
+  0x3A  : uint16_t
+           muId: {F7_27_95_3A} ("SirensCount")
+  0x3C  : uint16_t
+           muId: {85_3A_50_7C}

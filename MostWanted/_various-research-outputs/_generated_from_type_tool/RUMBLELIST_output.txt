@@ -1,0 +1,146 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+bool8_t
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.DigitalEnvelope.Data extends Genesys.Object
+  >> 14: (9C_32_00_00)
+  >> id: (1D_CC_7F_92)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {65_6D_69_54} ("Time")
+  0x14  : bool8_t
+           muId: {9B_D3_8A_B2} ("Value")
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.DigitalEnvelope extends Genesys.Object
+  >> 14: (C4_27_00_00)
+  >> id: (BB_3F_F3_CE)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.DigitalEnvelope.Data * [size @ 0x14]
+           muId: {61_74_61_44} ("Data")
+  0x14  : uint16_t
+           muId: {8D_E0_DC_CB} ("DataCount")
+
+Genesys.Gen.Envelope.Data extends Genesys.Object
+  >> 14: (B2_32_00_00)
+  >> id: (35_F4_56_AE)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {65_6D_69_54} ("Time")
+  0x14  : float32_t
+           muId: {9B_D3_8A_B2} ("Value")
+
+Genesys.Gen.Envelope extends Genesys.Object
+  >> 14: (DC_27_00_00)
+  >> id: (C9_A3_B8_E4)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.Envelope.Data * [size @ 0x14]
+           muId: {61_74_61_44} ("Data")
+  0x14  : uint16_t
+           muId: {8D_E0_DC_CB} ("DataCount")
+
+Genesys.Gen.RaceCarRumble.KerbHitRumble extends Genesys.Object
+  >> 14: (23_29_10_00)
+  >> id: (70_44_F0_B1)
+  0xC   : CgsResource.Handle
+           muId: {3B_E8_BE_94} ("Rumble")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {85_77_E7_9E}
+  0x1C  : float32_t
+           muId: {45_2C_06_B4}
+  0x20  : float32_t
+           muId: {22_DC_5F_35}
+
+Genesys.Gen.RaceCarRumble extends Genesys.Object
+  >> 14: (D5_29_00_00)
+  >> id: (32_AB_7C_5C)
+  0xC   : Genesys.Gen.RaceCarRumble.KerbHitRumble
+           muId: {F5_FC_D8_10}
+  0x30  : CgsResource.Handle
+           muId: {E6_0A_1C_52}
+  0x38  : CgsResource.Handle
+           muId: {36_AD_C6_49}
+  0x40  : CgsResource.Handle
+           muId: {17_79_A3_B3}
+  0x48  : CgsResource.Handle
+           muId: {81_5B_E0_75}
+  0x50  : CgsResource.Handle
+           muId: {AB_28_99_21}
+  0x58  : CgsResource.Handle
+           muId: {D3_14_EE_CB}
+  0x60  : CgsResource.Handle
+           muId: {02_4A_96_81}
+  0x68  : CgsResource.Handle
+           muId: {7F_18_63_9D}
+  0x70  : CgsResource.Handle
+           muId: {7E_E6_01_94}
+  0x78  : CgsResource.Handle
+           muId: {C6_27_DB_F9}
+  0x80  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.RumbleEffect.Channel extends Genesys.Object
+  >> 14: (33_33_00_00)
+  >> id: (65_C4_03_90)
+  0xC   : CgsResource.Handle
+           muId: {2F_F9_35_4D} ("Envelope")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+
+Genesys.Gen.RumbleEffect.DigitalChannel extends Genesys.Object
+  >> 14: (34_33_00_00)
+  >> id: (56_72_A4_67)
+  0xC   : CgsResource.Handle
+           muId: {2F_F9_35_4D} ("Envelope")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+
+Genesys.Gen.RumbleEffect extends Genesys.Object
+  >> 14: (F2_29_00_00)
+  >> id: (E1_6B_97_28)
+  0xC   : Genesys.Gen.RumbleEffect.Channel
+           muId: {7B_09_83_81}
+  0x28  : Genesys.Gen.RumbleEffect.Channel
+           muId: {6D_60_5C_74}
+  0x44  : Genesys.Gen.RumbleEffect.Channel
+           muId: {EE_2A_17_21}
+  0x60  : Genesys.Gen.RumbleEffect.Channel
+           muId: {CD_2D_5E_BE}
+  0x7C  : Genesys.Gen.RumbleEffect.DigitalChannel
+           muId: {17_4A_9B_A5}
+  0x98  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x9C  : bool8_t
+           muId: {70_6F_6F_4C} ("Loop")

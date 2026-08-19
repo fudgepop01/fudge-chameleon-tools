@@ -1,0 +1,119 @@
+14_26_02_00 (1312800): GenesysGenRaceCarRumble
+
+15_26_02_00 (1312801): GenesysGenRumbleEffect
+
+16_26_02_00 (1312802): GenesysGenRumbleEffect
+
+17_26_02_00 (1312803): GenesysGenRumbleEffect
+
+18_26_02_00 (1312804): GenesysGenRumbleEffect
+
+19_26_02_00 (1312805): GenesysGenRumbleEffect
+
+1A_26_02_00 (1312806): GenesysGenRumbleEffect
+
+1B_26_02_00 (1312807): GenesysGenRumbleEffect
+
+1C_26_02_00 (1312808): GenesysGenRumbleEffect
+
+1D_26_02_00 (1312809): GenesysGenRumbleEffect
+
+1D_29_10_00 (17142017): GenesysGenRumbleEffect
+
+1E_29_10_00 (17142018): GenesysGenEnvelope
+
+1F_29_10_00 (17142019): GenesysGenEnvelope
+
+20_29_10_00 (17142020): GenesysGenEnvelope
+
+21_29_10_00 (17142021): GenesysGenEnvelope
+
+22_29_10_00 (17142022): GenesysGenDigitalEnvelope
+
+23_26_02_00 (1312821): GenesysGenEnvelope
+
+24_26_02_00 (1312822): GenesysGenEnvelope
+
+25_26_02_00 (1312823): GenesysGenEnvelope
+
+26_26_02_00 (1312824): GenesysGenDigitalEnvelope
+
+27_26_02_00 (1312825): GenesysGenEnvelope
+
+28_26_02_00 (1312832): GenesysGenEnvelope
+
+29_26_02_00 (1312833): GenesysGenEnvelope
+
+2A_26_02_00 (1312834): GenesysGenEnvelope
+
+2B_26_02_00 (1312835): GenesysGenDigitalEnvelope
+
+2C_26_02_00 (1312836): GenesysGenEnvelope
+
+2D_26_02_00 (1312837): GenesysGenEnvelope
+
+2E_26_02_00 (1312838): GenesysGenEnvelope
+
+2F_26_02_00 (1312839): GenesysGenEnvelope
+
+30_26_02_00 (1312840): GenesysGenDigitalEnvelope
+
+31_26_02_00 (1312841): GenesysGenEnvelope
+
+32_26_02_00 (1312848): GenesysGenEnvelope
+
+33_26_02_00 (1312849): GenesysGenEnvelope
+
+34_26_02_00 (1312850): GenesysGenEnvelope
+
+35_26_02_00 (1312851): GenesysGenDigitalEnvelope
+
+36_26_02_00 (1312852): GenesysGenEnvelope
+
+37_26_02_00 (1312853): GenesysGenEnvelope
+
+38_26_02_00 (1312854): GenesysGenEnvelope
+
+39_26_02_00 (1312855): GenesysGenEnvelope
+
+3A_26_02_00 (1312856): GenesysGenDigitalEnvelope
+
+3B_26_02_00 (1312857): GenesysGenEnvelope
+
+3C_26_02_00 (1312864): GenesysGenEnvelope
+
+3D_26_02_00 (1312865): GenesysGenEnvelope
+
+3E_26_02_00 (1312866): GenesysGenEnvelope
+
+3F_26_02_00 (1312867): GenesysGenDigitalEnvelope
+
+40_26_02_00 (1312868): GenesysGenEnvelope
+
+41_26_02_00 (1312869): GenesysGenEnvelope
+
+42_26_02_00 (1312870): GenesysGenEnvelope
+
+43_26_02_00 (1312871): GenesysGenEnvelope
+
+44_26_02_00 (1312872): GenesysGenDigitalEnvelope
+
+45_26_02_00 (1312873): GenesysGenEnvelope
+
+46_26_02_00 (1312880): GenesysGenEnvelope
+
+47_26_02_00 (1312881): GenesysGenEnvelope
+
+48_26_02_00 (1312882): GenesysGenEnvelope
+
+49_26_02_00 (1312883): GenesysGenDigitalEnvelope
+
+4B_26_02_00 (1312885): GenesysGenEnvelope
+
+4C_26_02_00 (1312886): GenesysGenEnvelope
+
+4D_26_02_00 (1312887): GenesysGenEnvelope
+
+4E_26_02_00 (1312888): GenesysGenDigitalEnvelope
+
+4F_26_02_00 (1312889): GenesysGenEnvelope

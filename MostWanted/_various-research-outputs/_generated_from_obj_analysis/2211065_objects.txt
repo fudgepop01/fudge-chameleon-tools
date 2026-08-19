@@ -1,0 +1,20 @@
+11_5B_23_00 (36794483): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+D1_5A_23_00 (36794377): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+F9_BC_21_00 (35721317): GenesysGenFeedbackMessageGroup
+
+FA_BC_21_00 (35721318): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  

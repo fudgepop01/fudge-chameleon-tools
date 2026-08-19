@@ -1,0 +1,25 @@
+16_36_17_00 (22155636): GenesysObjCollection
+more info:
+  count: 7
+  types:
+    - GenesysGenVehiclesVehicleCategoryInfo
+  
+4C_26_22_00 (35881000): GenesysGenNitrousParameters
+
+4D_26_22_00 (35881001): GenesysGenNitrousParameters
+
+90_A5_06_00 (4412928): GenesysGenNitrousParameters
+
+91_A5_06_00 (4412929): GenesysGenNitrousParameters
+
+92_A5_06_00 (4412930): GenesysGenNitrousParameters
+
+93_A5_06_00 (4412931): GenesysGenNitrousParameters
+
+E0_BC_16_00 (21561668): GenesysObjCollection
+more info:
+  count: 3
+  types:
+    - GenesysGenVehiclesPerformanceUpgrades
+  
+EA_B4_21_00 (35688450): GenesysGenNitrousParameters

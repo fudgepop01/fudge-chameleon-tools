@@ -1,0 +1,50 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+rw.math.vpu.Vector3
+  >> 14: (B1_0A_44_B6)
+  >> id: (A5_F5_99_F3)
+  0x0   : float32_t [3] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+uint8_t
+  >> 14: (11_C0_AB_8E)
+  >> id: (35_34_7F_1D)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.UIMapGrid extends Genesys.Object
+  >> 14: (65_A9_05_00)
+  >> id: (FC_F9_93_11)
+  0x10  : rw.math.vpu.Vector3
+           muId: {A3_CA_56_A1} ("Position")
+  0x20  : float32_t [4] [size @ 0x3C]
+           muId: {B8_71_8B_0C} ("Rotation")
+  0x30  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x34  : CgsCore.UniqueId * [size @ 0x3E]
+           muId: {AF_F0_B3_54} ("Textures")
+  0x38  : float32_t
+           muId: {65_7A_69_53} ("Size")
+  0x3C  : uint16_t
+           muId: {6D_0C_63_D9}
+  0x3E  : uint16_t
+           muId: {0F_FF_95_33}
+  0x40  : uint8_t
+           muId: {14_71_41_E6} ("Height")
+  0x41  : uint8_t
+           muId: {21_CF_43_BE} ("Width")

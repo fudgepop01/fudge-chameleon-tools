@@ -1,0 +1,13 @@
+1D_77_16_00 (21439109): GenesysGenFeedbackMessageGroup
+
+29_77_16_00 (21439127): GenesysGenSequence
+more info:
+  count: 2
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (14) EV14
+      data: "(19_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[3]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+    - GenesysGenSpeechEventSequenceItem
+  

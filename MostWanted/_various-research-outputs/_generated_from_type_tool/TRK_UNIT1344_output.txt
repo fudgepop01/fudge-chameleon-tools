@@ -1,0 +1,158 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+F0_2F_00_00
+  >> 14: (F0_2F_00_00)
+  >> id: (6B_30_DF_8D)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {D7_79_73_2F} ("Pulsing")
+  0x2   : 
+           muId: {9B_EC_27_2A} ("Flickering")
+  0x3   : 
+           muId: {E6_7F_FC_5B} ("Flashing")
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+rw.math.vpu.Vector4
+  >> 14: (12_9F_20_28)
+  >> id: (C2_29_A8_2F)
+  0x0   : float32_t [4] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.Light_Base.FlashPattern extends Genesys.Object
+  >> 14: (F1_32_00_00)
+  >> id: (12_48_17_F4)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+  0x14  : float32_t
+           muId: {91_62_09_06} ("Frequency")
+  0x18  : float32_t
+           muId: {CE_F0_C4_3A} ("MinIntensityAmount")
+  0x1C  : float32_t
+           muId: {B7_24_D9_D3} ("Offset")
+  0x20  : F0_2F_00_00
+           muId: {65_70_79_54} ("Type")
+
+bool8_t
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
+
+Genesys.Gen.Light_Base extends Genesys.Object
+  >> 14: (58_28_00_00)
+  >> id: (F1_2B_E6_48)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : Genesys.Gen.Light_Base.FlashPattern
+           muId: {B8_EC_0A_80} ("FlashPattern")
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13} ("AttenuationThreshold")
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+
+Genesys.Gen.Light_Cone extends Genesys.Gen.Light_Base
+  >> 14: (59_28_00_00)
+  >> id: (ED_C9_D7_11)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : Genesys.Gen.Light_Base.FlashPattern
+           muId: {B8_EC_0A_80} ("FlashPattern")
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13} ("AttenuationThreshold")
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+  0x60  : float32_t
+           muId: {DF_DA_70_54} ("ConeAngle")
+
+Genesys.Gen.Light_Point extends Genesys.Gen.Light_Base
+  >> 14: (5B_28_00_00)
+  >> id: (EC_FA_AF_14)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : Genesys.Gen.Light_Base.FlashPattern
+           muId: {B8_EC_0A_80} ("FlashPattern")
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13} ("AttenuationThreshold")
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+
+Genesys.Gen.Light_Spot extends Genesys.Gen.Light_Cone
+  >> 14: (D8_41_08_00)
+  >> id: (82_86_CE_B2)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : Genesys.Gen.Light_Base.FlashPattern
+           muId: {B8_EC_0A_80} ("FlashPattern")
+  0x44  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x48  : float32_t
+           muId: {DC_01_B6_13} ("AttenuationThreshold")
+  0x4C  : float32_t
+           muId: {73_6E_72_F6} ("Intensity")
+  0x50  : bool8_t
+           muId: {FB_3D_CE_9D}
+  0x51  : bool8_t
+           muId: {1F_F5_8B_0B}
+  0x52  : bool8_t
+           muId: {68_16_1A_7D}
+  0x53  : bool8_t
+           muId: {43_79_E0_7B}
+  0x54  : bool8_t
+           muId: {F6_39_DD_9D}
+  0x60  : float32_t
+           muId: {DF_DA_70_54} ("ConeAngle")
+  0x70  : float32_t
+           muId: {52_F1_16_BF}
+
+int16_t
+  >> 14: (35_0C_D4_BF)
+  >> id: (56_24_52_29)

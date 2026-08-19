@@ -1,0 +1,268 @@
+146165144147145160157160060061o
+
+
+35_30_00_00
+  >> 14: (35_30_00_00)
+  >> id: (F5_D8_E5_75)
+  0x0   : 
+           muId: {30_B3_5E_B7}
+  0x1   : 
+           muId: {0F_2F_C9_CD} ("HighCost")
+
+38_30_00_00
+  >> 14: (38_30_00_00)
+  >> id: (B9_1B_F6_75)
+  0xFFFFFFFF: 
+           muId: {2F_F4_88_A4} ("Invalid")
+  0x0   : 
+           muId: {87_D5_C8_D5} ("Match")
+  0x1   : 
+           muId: {DF_C2_6B_91} ("Linear")
+  0x2   : 
+           muId: {F2_1E_23_46} ("Exponential")
+
+3D_30_00_00
+  >> 14: (3D_30_00_00)
+  >> id: (7A_AF_67_31)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {3E_8E_17_A6} ("Power")
+  0x2   : 
+           muId: {71_A4_DD_D2} ("Multiply")
+
+char
+  >> 14: (9F_57_FE_8C)
+  >> id: (05_52_C1_F7)
+
+uint32_t
+  >> 14: (81_F3_2A_0E)
+  >> id: (D4_2E_65_69)
+
+CgsCore.StringBase
+  >> 14: (01_43_40_40)
+  >> id: (95_FB_EA_BE)
+  0x0   : char (offset) [size @ 0x4]
+           muId: {3F_7A_EB_8F} ("Buffer")
+  0x4   : uint32_t
+           muId: {38_73_C0_7F} ("Capacity")
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.PostFXConfig extends Genesys.Object
+  >> 14: (C7_29_00_00)
+  >> id: (E6_BD_22_B0)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsResource.Handle * [size @ 0x14]
+           muId: {46_3D_70_4E} ("States")
+  0x14  : uint16_t
+           muId: {A6_3E_0C_5D} ("StatesCount")
+
+bool8_t
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
+
+Genesys.Gen.PostFXState.ColourCubeSettings extends Genesys.Object
+  >> 14: (16_33_00_00)
+  >> id: (77_93_F8_32)
+  0xC   : CgsResource.Handle
+           muId: {92_9C_02_33} ("ColourCube")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : bool8_t
+           muId: {4F_76_08_C2} ("Zero_If_Not_Set")
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+Genesys.Gen.PostFXState.ValueModifier extends Genesys.Object
+  >> 14: (17_33_00_00)
+  >> id: (F5_9A_D1_EA)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {C4_EB_EA_78} ("Modification_Value")
+  0x14  : 3D_30_00_00
+           muId: {AD_AC_75_2C} ("Modification_Type")
+
+Genesys.Gen.PostFXState extends Genesys.Object
+  >> 14: (C9_29_00_00)
+  >> id: (24_B3_7B_28)
+  0xC   : Genesys.Gen.PostFXState.ColourCubeSettings [2] [size @ 0xF2]
+           muId: {71_99_1A_6A} ("ColourCubes")
+  0x44  : Genesys.Gen.PostFXState.ValueModifier
+           muId: {34_7A_9C_DD} ("Bloom_Value_Modification")
+  0x5C  : Genesys.Gen.PostFXState.ValueModifier
+           muId: {81_DC_3E_21} ("Colour_Cube_Value_Modification")
+  0x74  : Genesys.Gen.PostFXState.ValueModifier
+           muId: {88_33_75_D3} ("DOF_Value_Modification")
+  0x8C  : Genesys.Gen.PostFXState.ValueModifier
+           muId: {2C_59_D7_F4} ("General_Value_Modification")
+  0xA4  : Genesys.Gen.PostFXState.ValueModifier
+           muId: {16_DA_CE_77} ("Vignette_Value_Modification")
+  0xBC  : CgsCore.StringBase
+           muId: {55_5D_2A_58} ("ActivityBinding")
+  0xC4  : CgsCore.StringBase
+           muId: {7A_D1_BC_B2} ("KeyframeBlendBinding")
+  0xCC  : CgsCore.StringBase
+           muId: {8D_77_90_8A} ("ValueBinding")
+  0xD4  : CgsResource.Handle
+           muId: {07_C9_DB_CC} ("KeyFrame1")
+  0xDC  : CgsResource.Handle
+           muId: {04_C9_DB_CC} ("KeyFrame2")
+  0xE4  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xE8  : float32_t
+           muId: {FC_CD_F3_8A} ("RateOfChange")
+  0xEC  : float32_t
+           muId: {9B_D3_8A_B2} ("Value")
+  0xF0  : 38_30_00_00
+           muId: {CD_4A_42_13} ("ChangeBehaviour")
+  0xF2  : uint16_t
+           muId: {CE_68_8B_D7} ("ColourCubesCount")
+  0xF4  : bool8_t
+           muId: {EE_A5_E8_0E} ("Use_Bloom")
+  0xF5  : bool8_t
+           muId: {C4_09_FB_C2} ("Use_DOF")
+  0xF6  : bool8_t
+           muId: {63_0B_88_B5} ("Use_General_FX")
+  0xF7  : bool8_t
+           muId: {AD_A4_E0_28} ("Use_Vignette")
+
+rw.math.vpu.Vector2
+  >> 14: (27_3A_43_C1)
+  >> id: (2E_E7_6E_33)
+  0x0   : float32_t [2] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+rw.math.vpu.Vector4
+  >> 14: (12_9F_20_28)
+  >> id: (C2_29_A8_2F)
+  0x0   : float32_t [4] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+Genesys.Gen.PostFxKeyframe.Vignette extends Genesys.Object
+  >> 14: (12_33_00_00)
+  >> id: (BD_8F_1F_F0)
+  0x10  : rw.math.vpu.Vector2
+           muId: {84_77_F1_19} ("Centre")
+  0x20  : rw.math.vpu.Vector2
+           muId: {F0_A1_42_A7} ("Scale")
+  0x30  : rw.math.vpu.Vector4
+           muId: {A6_4F_9C_5E}
+  0x40  : rw.math.vpu.Vector4
+           muId: {14_02_00_5F}
+  0x50  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x54  : float32_t
+           muId: {E7_74_8A_B7} ("FisheyeOffset")
+  0x58  : float32_t
+           muId: {6E_A8_97_D7} ("FisheyePower")
+  0x5C  : float32_t
+           muId: {A0_87_C2_D6} ("FisheyeScale")
+  0x60  : float32_t
+           muId: {56_87_F4_26} ("FisheyeWarp")
+  0x64  : float32_t
+           muId: {4D_83_81_37} ("Sharpness")
+
+Genesys.Gen.PostFxKeyframe.Bloom extends Genesys.Object
+  >> 14: (11_33_00_00)
+  >> id: (D6_1A_73_ED)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x24  : float32_t
+           muId: {99_86_32_DA} ("DarkBloomWeight")
+  0x28  : float32_t
+           muId: {13_6C_82_76} ("DarkBloomWhitePoint")
+  0x2C  : float32_t
+           muId: {68_96_7D_CF} ("LargeWeight")
+  0x30  : float32_t
+           muId: {92_F8_FE_3E}
+  0x34  : float32_t
+           muId: {C1_36_D3_A3} ("MediumWeight")
+  0x38  : float32_t
+           muId: {0D_D3_C5_29} ("Saturation")
+  0x3C  : float32_t
+           muId: {E2_05_F6_C9} ("SmallWeight")
+  0x40  : float32_t
+           muId: {07_49_56_FF} ("Threshold")
+  0x44  : float32_t
+           muId: {69_A0_E5_41} ("ThresholdLarge")
+  0x48  : float32_t
+           muId: {E6_E3_03_B3} ("ThresholdMedium")
+
+Genesys.Gen.PostFxKeyframe.General extends Genesys.Object
+  >> 14: (13_33_00_00)
+  >> id: (F3_88_BB_FD)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {B6_CE_48_A5} ("CarMotionBlur")
+  0x14  : float32_t
+           muId: {6C_CC_66_54} ("WorldColourCubeWeight")
+  0x18  : float32_t
+           muId: {6B_DF_E9_26} ("WorldMotionBlur")
+  0x1C  : float32_t
+           muId: {D2_9B_5C_F7} ("WorldSaturation")
+  0x20  : 35_30_00_00
+           muId: {2F_7F_F0_FB}
+
+Genesys.Gen.PostFxKeyframe.Depth_of_Field extends Genesys.Object
+  >> 14: (14_33_00_00)
+  >> id: (5F_65_E8_33)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {3F_FA_87_19}
+  0x14  : float32_t
+           muId: {08_00_CB_96}
+  0x18  : float32_t
+           muId: {32_4C_33_0C}
+
+Genesys.Gen.PostFxKeyframe.Stereo_3D extends Genesys.Object
+  >> 14: (15_33_00_00)
+  >> id: (4E_EF_3C_C8)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {E4_84_D5_15}
+  0x14  : float32_t
+           muId: {B1_C1_AF_77} ("Focus_Distance")
+
+Genesys.Gen.PostFxKeyframe extends Genesys.Object
+  >> 14: (C8_29_00_00)
+  >> id: (5A_94_09_DC)
+  0x10  : Genesys.Gen.PostFxKeyframe.Vignette
+           muId: {D9_B4_45_3F} ("Vignette")
+  0x80  : Genesys.Gen.PostFxKeyframe.Bloom
+           muId: {3F_64_9C_E0} ("Bloom")
+  0xD0  : Genesys.Gen.PostFxKeyframe.General
+           muId: {44_59_3A_38} ("General")
+  0xF4  : Genesys.Gen.PostFxKeyframe.Depth_of_Field
+           muId: {C9_A0_33_E6} ("DOF")
+  0x110 : Genesys.Gen.PostFxKeyframe.Stereo_3D
+           muId: {D1_38_06_18} ("Stereo_3D")
+  0x128 : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+int16_t
+  >> 14: (35_0C_D4_BF)
+  >> id: (56_24_52_29)

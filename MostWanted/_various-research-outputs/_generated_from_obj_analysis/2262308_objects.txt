@@ -1,0 +1,9 @@
+24_85_22_00 (36053768): GenesysGenFeedbackMessageGroup
+
+D2_71_21_00 (35199014): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenTeleportPlayerSequenceItem
+    - GenesysGenDriveLocalPlayerWithAisequenceItem
+  

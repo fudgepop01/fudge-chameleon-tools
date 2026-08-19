@@ -1,0 +1,83 @@
+04_A5_11_00 (18178902): GenesysGenFeedbackMessageGroup
+
+0A_23_1D_00 (26252564): GenesysGenSequence
+
+11_23_1D_00 (26252577): GenesysGenSequence
+
+15_C0_17_00 (22373633): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(A9_2E_17_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[23]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  
+4B_FC_06_00 (4552707): GenesysGenAiplayerType
+more info:
+  id: 4B_FC_06_00
+  rolloutID: "(4C_FC_06_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[4]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 11
+  weavingType: 0
+  behaviour: 0
+  allowedToRespawn: 1
+  canRhino: 1
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 115
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(32_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[70]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 115
+  
+B4_14_11_00 (17929234): GenesysGenAiplayerType
+more info:
+  id: B4_14_11_00
+  rolloutID: "(1D_F5_05_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[2]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 4
+  weavingType: 0
+  behaviour: 2
+  allowedToRespawn: 1
+  canRhino: 0
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 110
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(2D_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[68]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 110
+  
+B4_22_1D_00 (26252328): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(B6_22_1D_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[38]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  
+FD_22_1D_00 (26252545): GenesysGenSequence

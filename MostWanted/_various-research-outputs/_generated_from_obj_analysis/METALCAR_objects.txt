@@ -1,0 +1,180 @@
+09_86_09_00 (6439223): GenesysGenMixerChannel
+
+0C_75_00_00 (170340): GenesysGenMixerChannel
+
+0C_86_09_00 (6439232): GenesysGenMixerChannel
+
+33_67_0F_00 (16815193): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+34_39_0B_00 (7558464): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenRaceCarEffectSequenceItem
+  
+3A_67_0F_00 (16815206): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+3B_75_00_00 (196625): GenesysGenMixerChannel
+
+4C_67_0F_00 (16815236): GenesysGenSequence
+more info:
+  count: 15
+  sequenceTypes:
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+54_67_0F_00 (16815250): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+59_43_0B_00 (7569719): GenesysGenSoundDistanceFalloff
+
+72_72_00_00 (168600): GenesysGenSoundDistanceFalloff
+
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+74_72_00_00 (168704): GenesysGenSoundDistanceFalloff
+
+75_7C_08_00 (5595465): GenesysGenSequence
+more info:
+  count: 14
+  sequenceTypes:
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+7A_35_07_00 (4662338): GenesysGenMixerChannel
+
+81_7C_08_00 (5595489): GenesysGenMixerChannel
+
+8A_0B_1B_00 (24585254): GenesysGenMixerChannel
+
+92_38_0B_00 (7558008): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+9A_7C_08_00 (5595526): GenesysGenSequence
+more info:
+  count: 13
+  sequenceTypes:
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+9F_38_0B_00 (7558033): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+A3_7C_08_00 (5595541): GenesysGenSequence
+more info:
+  count: 16
+  sequenceTypes:
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+A7_7D_08_00 (5596245): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenBusMixerChannelSequenceItem
+  
+A8_38_0B_00 (7558144): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+B2_38_0B_00 (7558160): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+BA_7C_08_00 (5595672): GenesysGenSoundDistanceFalloff
+
+BE_26_02_00 (1313168): GenesysGenCollisionSoundSet
+
+BE_38_0B_00 (7558178): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+C9_F3_11_00 (18310433): GenesysGenMixerChannel
+
+CA_38_0B_00 (7558196): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+D5_38_0B_00 (7558213): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+D7_7D_08_00 (5596419): GenesysGenSoundDistanceFalloff
+
+DF_38_0B_00 (7558229): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+E9_38_0B_00 (7558245): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+EA_66_0F_00 (16814982): GenesysGenSequence
+more info:
+  count: 15
+  sequenceTypes:
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+F0_F1_11_00 (18309192): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+F1_66_0F_00 (16814995): GenesysGenSequence
+more info:
+  count: 17
+  sequenceTypes:
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+F1_F1_11_00 (18309193): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+F3_F1_11_00 (18309201): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  

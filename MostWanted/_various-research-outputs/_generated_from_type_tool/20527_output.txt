@@ -1,0 +1,158 @@
+146165144147145160157160060061o
+
+
+9B_31_00_00
+  >> 14: (9B_31_00_00)
+  >> id: (BD_90_77_C3)
+  0x0   : 
+           muId: {02_0C_00_6D}
+  0x1   : 
+           muId: {B6_86_23_1F}
+  0x2   : 
+           muId: {EE_29_4B_DE}
+  0x3   : 
+           muId: {78_A0_2E_9A}
+  0x4   : 
+           muId: {32_78_E5_E7}
+  0x5   : 
+           muId: {18_BE_2F_0F}
+  0x6   : 
+           muId: {DB_86_D8_70}
+  0x7   : 
+           muId: {AA_BE_36_AA}
+  0x8   : 
+           muId: {20_46_12_48}
+  0x9   : 
+           muId: {97_E3_C2_3E}
+  0xA   : 
+           muId: {48_D7_F4_13}
+  0xB   : 
+           muId: {9F_26_F9_85}
+  0xC   : 
+           muId: {08_7A_22_86}
+  0xD   : 
+           muId: {01_7A_C6_56}
+  0xE   : 
+           muId: {1F_77_1F_32}
+  0xF   : 
+           muId: {40_44_DD_0A}
+  0x10  : 
+           muId: {6E_95_85_E7}
+  0x11  : 
+           muId: {CA_25_13_F4}
+  0x12  : 
+           muId: {5A_53_D8_D5}
+  0x13  : 
+           muId: {0A_6D_05_AB}
+  0x14  : 
+           muId: {B3_64_1B_42}
+  0x15  : 
+           muId: {86_22_24_50}
+  0x16  : 
+           muId: {F4_01_8B_EF}
+
+B3_31_00_00
+  >> 14: (B3_31_00_00)
+  >> id: (FF_14_5A_97)
+  0x0   : 
+           muId: {6D_6F_5A_55} ("UZom")
+  0x1   : 
+           muId: {05_14_E6_C0}
+
+char
+  >> 14: (9F_57_FE_8C)
+  >> id: (05_52_C1_F7)
+
+uint32_t
+  >> 14: (81_F3_2A_0E)
+  >> id: (D4_2E_65_69)
+
+CgsCore.StringBase
+  >> 14: (01_43_40_40)
+  >> id: (95_FB_EA_BE)
+  0x0   : char (offset) [size @ 0x4]
+           muId: {3F_7A_EB_8F} ("Buffer")
+  0x4   : uint32_t
+           muId: {38_73_C0_7F} ("Capacity")
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+int32_t
+  >> 14: (62_6C_D4_12)
+  >> id: (83_BE_99_18)
+
+bool8_t
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.UIErrorList.Error extends Genesys.Object
+  >> 14: (74_33_00_00)
+  >> id: (BD_64_92_28)
+  0xC   : CgsCore.StringBase
+           muId: {62_2F_66_FD}
+  0x14  : CgsCore.StringBase
+           muId: {EA_38_1E_D0}
+  0x1C  : CgsCore.UniqueId
+           muId: {37_DE_57_5C}
+  0x20  : CgsCore.UniqueId
+           muId: {34_DE_57_5C}
+  0x24  : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x28  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x2C  : CgsCore.UniqueId
+           muId: {60_3B_E6_0B} ("Prompts")
+  0x30  : CgsCore.UniqueId
+           muId: {F5_F1_10_B3} ("Title")
+  0x34  : int32_t
+           muId: {D5_0F_7D_3D}
+  0x38  : 9B_31_00_00
+           muId: {15_64_17_84}
+  0x3A  : B3_31_00_00
+           muId: {6E_6F_63_49} ("Icon")
+  0x3C  : bool8_t
+           muId: {57_5E_E1_8B}
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.UIErrorList extends Genesys.Object
+  >> 14: (89_2A_00_00)
+  >> id: (1F_0F_2F_EC)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.UIErrorList.Error * [size @ 0x14]
+           muId: {41_43_6A_B2} ("Errors")
+  0x14  : uint16_t
+           muId: {12_A5_71_68}
+
+Genesys.Gen.UIListItems.Item extends Genesys.Object
+  >> 14: (7C_33_00_00)
+  >> id: (06_09_2E_F5)
+  0xC   : CgsCore.StringBase
+           muId: {9B_D3_8A_B2} ("Value")
+  0x14  : CgsCore.UniqueId
+           muId: {F8_45_C8_A4} ("DisplayString")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.UIListItems extends Genesys.Object
+  >> 14: (8F_2A_00_00)
+  >> id: (9C_8E_21_A8)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.UIListItems.Item * [size @ 0x14]
+           muId: {40_AD_DD_D3} ("Items")
+  0x14  : uint16_t
+           muId: {1C_D4_2D_FA} ("ItemsCount")
+
+int16_t
+  >> 14: (35_0C_D4_BF)
+  >> id: (56_24_52_29)

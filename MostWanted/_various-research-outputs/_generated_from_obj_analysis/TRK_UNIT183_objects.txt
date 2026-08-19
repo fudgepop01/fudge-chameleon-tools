@@ -1,0 +1,425 @@
+00_75_0A_00 (6837010): GenesysGenLightSpot
+
+03_43_0B_00 (7569489): GenesysGenSoundDistanceFalloff
+
+05_5B_09_00 (6369573): GenesysGenSoundDistanceFalloff
+
+0D_8B_14_00 (20210455): GenesysGenCorona
+
+0E_8B_14_00 (20210456): GenesysGenCorona
+
+0F_66_0B_00 (7630883): GenesysGenWcplaySoundBehaviour
+
+10_87_0F_00 (16872982): GenesysGenCompoundAdditionalInfo
+
+10_EC_18_00 (23278230): GenesysGenWcvfxBehaviour
+
+13_C9_07_00 (5308967): GenesysGenDynamicAdditionalInfo
+
+14_C9_07_00 (5308968): GenesysGenDynamicAdditionalInfo
+
+16_C9_07_00 (5308976): GenesysGenDynamicAdditionalInfo
+
+16_F8_0E_00 (9965588): GenesysGenWcvfxBehaviour
+
+1B_4B_09_00 (6328401): GenesysGenWcvfxBehaviour
+
+1D_4B_09_00 (6328403): GenesysGenWcvfxBehaviour
+
+1F_4B_09_00 (6328405): GenesysGenWcvfxBehaviour
+
+1F_E0_14_00 (20349077): GenesysGenMixerChannel
+
+20_4B_09_00 (6328406): GenesysGenWcvfxBehaviour
+
+20_EA_1E_00 (33710102): GenesysGenSoundDistanceFalloff
+
+23_FC_06_00 (4552547): GenesysGenDynamicAdditionalInfo
+
+26_9E_0F_00_1 (16921894): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+29_87_0F_00 (16873025): GenesysGenWcvfxBehaviour
+
+2B_DF_10_00_1 (17848071): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+2C_87_0F_00 (16873028): GenesysGenCorona
+
+2D_87_0F_00 (16873029): GenesysGenLightPoint
+
+31_9C_06_00 (4403713): GenesysGenWcvfxBehaviour
+
+31_9E_0F_00_1 (16921911): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+38_0B_1B_00 (24585028): GenesysGenWcplaySoundBehaviour
+
+3B_86_0F_00_1 (16872451): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+3C_75_00_00 (196626): GenesysGenMixerChannel
+
+40_86_0F_00_1 (16872456): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+4B_F7_0E_00 (9963537): GenesysGenBillboardFaceBehaviour
+
+4C_88_12_00 (18957632): GenesysGenLightSpot
+
+56_88_12_00 (18957648): GenesysGenWcvfxBehaviour
+
+59_EC_13_00_1 (19945097): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+5A_88_12_00 (18957652): GenesysGenCorona
+
+5A_EC_13_00 (19945104): GenesysGenEnableCompoundBehaviour
+
+5B_EC_13_00_1 (19945105): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+5D_A9_07_00 (5251337): GenesysGenWcvfxBehaviour
+
+5E_3C_11_00 (17995110): GenesysGenEnableCompoundBehaviour
+
+5E_EC_13_00 (19945108): GenesysGenMakePhysicalBehaviour
+
+5F_3C_11_00_1 (17995111): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+5F_EC_13_00 (19945109): GenesysGenDynamicAdditionalInfo
+
+60_45_12_00 (18445320): GenesysGenCorona
+
+60_D0_0D_00_1 (9458450): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+60_EC_13_00_1 (19945110): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+61_65_0A_00 (6820627): GenesysGenWcvfxBehaviour
+
+62_3C_11_00 (17995120): GenesysGenMakePhysicalBehaviour
+
+63_3C_11_00 (17995121): GenesysGenDynamicAdditionalInfo
+
+63_D0_0D_00 (9458453): GenesysGenMakePhysicalBehaviour
+
+63_EC_13_00 (19945113): GenesysGenMakePhysicalBehaviour
+
+64_3C_11_00_1 (17995122): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+64_D0_0D_00 (9458454): GenesysGenDynamicAdditionalInfo
+
+64_EC_13_00 (19945216): GenesysGenDynamicAdditionalInfo
+
+65_EC_13_00_1 (19945217): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+66_7E_12_00 (18948102): GenesysGenDynamicAdditionalInfo
+
+67_3C_11_00 (17995125): GenesysGenMakePhysicalBehaviour
+
+67_7E_12_00 (18948103): GenesysGenDynamicAdditionalInfo
+
+67_8A_14_00 (20210001): GenesysGenLightPoint
+
+68_3C_11_00 (17995126): GenesysGenDynamicAdditionalInfo
+
+68_EC_13_00 (19945220): GenesysGenMakePhysicalBehaviour
+
+69_3C_11_00_1 (17995127): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+69_7E_12_00 (18948105): GenesysGenDynamicAdditionalInfo
+
+69_EC_13_00 (19945221): GenesysGenDynamicAdditionalInfo
+
+6A_7E_12_00 (18948112): GenesysGenDynamicAdditionalInfo
+
+6A_EC_13_00_1 (19945222): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+6B_C3_08_00_1 (5718805): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+6C_3C_11_00 (17995136): GenesysGenMakePhysicalBehaviour
+
+6D_3C_11_00 (17995137): GenesysGenDynamicAdditionalInfo
+
+6D_8A_14_00 (20210007): GenesysGenLightSpot
+
+6D_EC_13_00 (19945225): GenesysGenMakePhysicalBehaviour
+
+6E_3C_11_00_1 (17995138): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+6E_67_0F_00 (16815384): GenesysGenWcplaySoundBehaviour
+
+6E_EC_13_00 (19945232): GenesysGenDynamicAdditionalInfo
+
+6F_D0_0D_00_1 (9458471): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+6F_EC_13_00_1 (19945233): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+71_3C_11_00 (17995141): GenesysGenMakePhysicalBehaviour
+
+71_D0_0D_00 (9458473): GenesysGenEnableCompoundBehaviour
+
+72_3C_11_00 (17995142): GenesysGenDynamicAdditionalInfo
+
+72_EC_13_00 (19945236): GenesysGenMakePhysicalBehaviour
+
+73_3C_11_00_1 (17995143): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+73_EC_13_00 (19945237): GenesysGenDynamicAdditionalInfo
+
+74_0B_1B_00 (24585220): GenesysGenWcplaySoundBehaviour
+
+74_7D_08_00 (5596164): GenesysGenMixerChannel
+
+75_0B_1B_00 (24585221): GenesysGenWcplaySoundBehaviour
+
+7A_3C_11_00 (17995156): GenesysGenMakePhysicalBehaviour
+
+7B_3C_11_00 (17995157): GenesysGenDynamicAdditionalInfo
+
+7C_3C_11_00_1 (17995158): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+7C_8A_14_00 (20210034): GenesysGenLightPoint
+
+7E_09_09_00_1 (5841492): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+7F_09_09_00_1 (5841493): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+7F_3C_11_00 (17995161): GenesysGenMakePhysicalBehaviour
+
+80_09_09_00_1 (5841494): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+80_3C_11_00 (17995264): GenesysGenDynamicAdditionalInfo
+
+80_5B_15_00_1 (20551296): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+81_09_09_00_1 (5841495): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+81_3C_11_00_1 (17995265): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+81_5B_15_00_1 (20551297): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+82_09_09_00_1 (5841496): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+84_3C_11_00 (17995268): GenesysGenMakePhysicalBehaviour
+
+85_3C_11_00 (17995269): GenesysGenDynamicAdditionalInfo
+
+86_09_09_00_1 (5841506): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+86_3C_11_00_1 (17995270): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+87_8A_14_00 (20210051): GenesysGenLightPoint
+
+89_09_09_00_1 (5841509): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+89_3C_11_00 (17995273): GenesysGenMakePhysicalBehaviour
+
+8A_09_09_00_1 (5841510): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+8A_3C_11_00 (17995280): GenesysGenDynamicAdditionalInfo
+
+8A_68_0F_00 (16816130): GenesysGenWcplaySoundBehaviour
+
+8A_B5_11_00 (18220422): GenesysGenCompoundAdditionalInfo
+
+8B_09_09_00_1 (5841511): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+8B_3C_11_00_1 (17995281): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+8C_68_0F_00 (16816132): GenesysGenWcplaySoundBehaviour
+
+8E_3C_11_00 (17995284): GenesysGenMakePhysicalBehaviour
+
+8E_4B_09_00 (6328678): GenesysGenWcvfxBehaviour
+
+8F_09_09_00_1 (5841521): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+8F_3C_11_00 (17995285): GenesysGenDynamicAdditionalInfo
+
+90_09_09_00_1 (5841522): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+90_3C_11_00_1 (17995286): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+91_68_0F_00 (16816137): GenesysGenWcplaySoundBehaviour
+
+93_3C_11_00 (17995289): GenesysGenMakePhysicalBehaviour
+
+93_9D_06_00 (4404565): GenesysGenCorona
+
+94_3C_11_00 (17995296): GenesysGenDynamicAdditionalInfo
+
+95_3C_11_00_1 (17995297): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+96_09_09_00_1 (5841528): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+97_09_09_00_1 (5841529): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+97_68_0F_00 (16816149): GenesysGenWcplaySoundBehaviour
+
+97_EC_13_00 (19945297): GenesysGenEnableCompoundBehaviour
+
+98_09_09_00_1 (5841536): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+98_3C_11_00 (17995300): GenesysGenMakePhysicalBehaviour
+
+98_EC_13_00_1 (19945298): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+99_3C_11_00 (17995301): GenesysGenDynamicAdditionalInfo
+
+9A_68_0F_00 (16816152): GenesysGenWcplaySoundBehaviour
+
+9B_EC_13_00 (19945301): GenesysGenMakePhysicalBehaviour
+
+9C_55_1D_00_1 (26354784): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+9C_EC_13_00 (19945302): GenesysGenDynamicAdditionalInfo
+
+9D_EC_13_00_1 (19945303): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+A0_EC_13_00 (19945312): GenesysGenMakePhysicalBehaviour
+
+A1_EC_13_00 (19945313): GenesysGenDynamicAdditionalInfo
+
+A2_EC_13_00_1 (19945314): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+A5_3C_00_00 (87333): GenesysGenWcvfxBehaviour
+
+A5_5B_15_00 (20551447): GenesysGenWcvfxBehaviour
+
+A5_EC_13_00 (19945317): GenesysGenMakePhysicalBehaviour
+
+A6_5B_15_00 (20551448): GenesysGenWcvfxBehaviour
+
+A6_EC_13_00 (19945318): GenesysGenDynamicAdditionalInfo
+
+A7_5B_15_00 (20551449): GenesysGenWcvfxBehaviour
+
+A7_EC_13_00_1 (19945319): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+A8_5B_15_00 (20551456): GenesysGenWcvfxBehaviour
+
+AA_EC_13_00 (19945328): GenesysGenMakePhysicalBehaviour
+
+AB_EC_13_00 (19945329): GenesysGenDynamicAdditionalInfo
+
+AD_67_0F_00 (16815489): GenesysGenCollisionSequenceBehaviour
+
+AE_6C_13_00 (19345414): GenesysGenCorona
+
+AF_67_0F_00 (16815491): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+AF_6C_13_00 (19345415): GenesysGenLightPoint
+
+B0_22_04_00 (2560036): GenesysGenWcplaySoundBehaviour
+
+B1_5B_15_00_1 (20551465): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+B1_67_0F_00 (16815493): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+B4_5B_15_00 (20551474): GenesysGenMakePhysicalBehaviour
+
+B5_5B_15_00 (20551475): GenesysGenDynamicAdditionalInfo
+
+B6_5B_15_00 (20551476): GenesysGenSmashProxyBehaviour
+
+BB_8B_14_00 (20210833): GenesysGenCorona
+
+BC_3D_11_00 (17996054): GenesysGenDynamicAdditionalInfo
+
+BC_8B_14_00 (20210834): GenesysGenCorona
+
+BF_5A_09_00 (6369365): GenesysGenWcplaySoundBehaviour
+
+C0_5A_09_00 (6369366): GenesysGenWcplaySoundBehaviour
+
+C1_5A_09_00 (6369367): GenesysGenWcplaySoundBehaviour
+
+C1_67_0F_00 (16815617): GenesysGenWcplaySoundBehaviour
+
+C2_5A_09_00 (6369368): GenesysGenWcplaySoundBehaviour
+
+C3_2F_0F_00 (10048103): GenesysGenCollectableBehaviour
+
+C6_2F_0F_00 (10048112): GenesysGenCompoundAdditionalInfo
+
+CC_43_09_00_1 (6320512): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+CC_5A_09_00 (6369384): GenesysGenWcplaySoundBehaviour
+
+CF_5A_15_00 (20550915): GenesysGenWcvfxBehaviour
+
+D0_74_0A_00 (6836836): GenesysGenLightSpot
+
+D2_5A_15_00 (20550918): GenesysGenWcvfxBehaviour
+
+D2_74_0A_00 (6836838): GenesysGenLightSpot
+
+D4_73_13_00 (19351606): GenesysGenLightSpot
+
+D5_5A_15_00 (20550921): GenesysGenWcvfxBehaviour
+
+D5_F9_06_00 (4551027): GenesysGenWchideBehaviour
+
+D7_43_09_00_1 (6320529): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+D7_EB_18_00 (23278137): GenesysGenWcvfxBehaviour
+
+D8_5A_15_00 (20550930): GenesysGenWcvfxBehaviour
+
+DB_5A_15_00 (20550933): GenesysGenWcvfxBehaviour
+
+DC_74_0A_00 (6836854): GenesysGenLightSpot
+
+DE_5A_15_00 (20550936): GenesysGenWcvfxBehaviour
+
+E1_5A_15_00 (20550945): GenesysGenWcvfxBehaviour
+
+E4_5A_15_00 (20550948): GenesysGenWcvfxBehaviour
+
+E5_5A_09_00 (6369427): GenesysGenWcplaySoundBehaviour
+
+E6_86_0F_00_1 (16872820): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+E7_86_0F_00 (16872821): GenesysGenEnableCompoundBehaviour
+
+E8_5A_15_00 (20550952): GenesysGenWcvfxBehaviour
+
+E8_86_0F_00_1 (16872822): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+E9_8B_14_00_1 (20210999): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+EA_8B_14_00 (20211000): GenesysGenWcvfxBehaviour
+
+EB_5A_15_00 (20550961): GenesysGenWcvfxBehaviour
+
+EB_86_0F_00 (16872825): GenesysGenMakePhysicalBehaviour
+
+EB_8B_14_00 (20211001): GenesysGenLightSpot
+
+EC_86_0F_00 (16872832): GenesysGenDynamicAdditionalInfo
+
+EC_8B_14_00 (20211008): GenesysGenWcvfxBehaviour
+
+ED_86_0F_00_1 (16872833): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+F0_86_0F_00 (16872836): GenesysGenMakePhysicalBehaviour
+
+F1_86_0F_00 (16872837): GenesysGenDynamicAdditionalInfo
+
+F2_74_0A_00 (6836888): GenesysGenLightSpot
+
+F2_86_0F_00_1 (16872838): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+F5_86_0F_00 (16872841): GenesysGenMakePhysicalBehaviour
+
+F6_5A_09_00 (6369552): GenesysGenWcplaySoundBehaviour
+
+F6_86_0F_00 (16872848): GenesysGenDynamicAdditionalInfo
+
+F8_8A_14_00 (20210326): GenesysGenCorona
+
+FA_8A_14_00 (20210328): GenesysGenWcvfxBehaviour
+
+FA_EB_18_00 (23278196): GenesysGenWcvfxBehaviour

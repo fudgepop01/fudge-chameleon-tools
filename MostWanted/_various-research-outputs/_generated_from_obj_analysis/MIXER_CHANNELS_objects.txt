@@ -1,0 +1,250 @@
+03_43_0B_00 (7569489): GenesysGenSoundDistanceFalloff
+
+06_5B_09_00 (6369574): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(07_5B_09_00): GenesysGenBusRoute 07_5B_09_00"
+  
+07_5B_09_00 (6369575): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(6E_F7_03_00): GenesysGenBusRoute 6E_F7_03_00"
+  
+08_5B_09_00 (6369576): GenesysGenBusMixerChannel
+
+09_5B_09_00 (6369577): GenesysGenBusMixerChannel
+
+20_EA_1E_00 (33710102): GenesysGenSoundDistanceFalloff
+
+3F_0C_0D_00 (8737027): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(70_F7_03_00): GenesysGenBusRoute 70_F7_03_00"
+  
+41_0C_0D_00 (8737029): GenesysGenBusMixerChannel
+
+46_F4_11_00 (18310726): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(70_F7_03_00): GenesysGenBusRoute 70_F7_03_00"
+  
+47_39_0B_00 (7558489): GenesysGenMixingGroup
+
+47_F4_11_00 (18310727): GenesysGenBusMixerChannel
+
+4E_5B_09_00 (6369688): GenesysGenSoundDistanceFalloff
+
+4F_89_1C_00 (25624921): GenesysGenMixSnapshot
+
+50_89_1C_00 (25624928): GenesysGenMixSnapshotSet
+
+59_43_0B_00 (7569719): GenesysGenSoundDistanceFalloff
+
+5A_43_0B_00 (7569720): GenesysGenSoundDistanceFalloff
+
+5E_72_00_00 (168568): GenesysGenCompressor
+
+60_72_00_00 (168576): GenesysGenCompressor
+
+61_72_00_00 (168577): GenesysGenCompressor
+
+63_72_00_00 (168579): GenesysGenCompressor
+
+64_72_00_00 (168580): GenesysGenCompressor
+
+65_72_00_00 (168581): GenesysGenCompressor
+
+66_72_00_00 (168582): GenesysGenCompressor
+
+67_72_00_00 (168583): GenesysGenCompressor
+
+68_F7_03_00 (2464068): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "(69_F7_03_00): GenesysGenBusRoute 69_F7_03_00"
+  cgsCoreUniqueId0x1c: "(E3_7B_08_00): GenesysGenBusRoute E3_7B_08_00"
+  
+69_F7_03_00 (2464069): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(70_F7_03_00): GenesysGenBusRoute 70_F7_03_00"
+  
+6A_F7_03_00 (2464070): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(E3_7B_08_00): GenesysGenBusRoute E3_7B_08_00"
+  
+6B_72_00_00 (168593): GenesysGenCompressor
+
+6B_F7_03_00 (2464071): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(07_5B_09_00): GenesysGenBusRoute 07_5B_09_00"
+  
+6C_F7_03_00 (2464072): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(6E_F7_03_00): GenesysGenBusRoute 6E_F7_03_00"
+  
+6D_F7_03_00 (2464073): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(6E_F7_03_00): GenesysGenBusRoute 6E_F7_03_00"
+  
+6E_F7_03_00 (2464080): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "(6F_F7_03_00): GenesysGenBusRoute 6F_F7_03_00"
+  cgsCoreUniqueId0x1c: "(70_F7_03_00): GenesysGenBusRoute 70_F7_03_00"
+  
+6F_72_00_00 (168597): GenesysGenSoundDistanceFalloff
+
+6F_F7_03_00 (2464081): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(70_F7_03_00): GenesysGenBusRoute 70_F7_03_00"
+  
+70_43_0B_00 (7569760): GenesysGenCompressor
+
+70_72_00_00 (168598): GenesysGenSoundDistanceFalloff
+
+70_F7_03_00 (2464082): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(75_F7_03_00): GenesysGenBusRoute 75_F7_03_00"
+  
+71_F7_03_00 (2464083): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "(70_F7_03_00): GenesysGenBusRoute 70_F7_03_00"
+  cgsCoreUniqueId0x1c: "(75_F7_03_00): GenesysGenBusRoute 75_F7_03_00"
+  
+72_72_00_00 (168600): GenesysGenSoundDistanceFalloff
+
+72_F7_03_00 (2464084): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(75_F7_03_00): GenesysGenBusRoute 75_F7_03_00"
+  
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+73_F7_03_00 (2464085): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(76_F7_03_00): GenesysGenBusRoute 76_F7_03_00"
+  
+74_72_00_00 (168704): GenesysGenSoundDistanceFalloff
+
+74_F7_03_00 (2464086): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "(75_F7_03_00): GenesysGenBusRoute 75_F7_03_00"
+  cgsCoreUniqueId0x1c: "(76_F7_03_00): GenesysGenBusRoute 76_F7_03_00"
+  
+75_72_00_00 (168705): GenesysGenSoundDistanceFalloff
+
+75_F7_03_00 (2464087): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(76_F7_03_00): GenesysGenBusRoute 76_F7_03_00"
+  
+76_72_00_00 (168706): GenesysGenSoundDistanceFalloff
+
+76_F7_03_00 (2464088): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
+77_72_00_00 (168707): GenesysGenSoundDistanceFalloff
+
+8D_72_00_00 (168741): GenesysGenMixSnapshotSet
+
+96_34_0F_00 (10052866): GenesysGenSoundDistanceFalloff
+
+A0_72_00_00 (168772): GenesysGenMixSnapshot
+
+A4_E0_14_00 (20349480): GenesysGenCompressor
+
+BA_7C_08_00 (5595672): GenesysGenSoundDistanceFalloff
+
+C2_74_00_00 (170128): GenesysGenBusMixerChannel
+
+C3_74_00_00 (170129): GenesysGenBusMixerChannel
+
+CC_0B_1B_00 (24585362): GenesysGenSoundDistanceFalloff
+
+CE_32_0F_00 (10051654): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(70_F7_03_00): GenesysGenBusRoute 70_F7_03_00"
+  
+CF_32_0F_00 (10051655): GenesysGenBusMixerChannel
+
+D6_33_0F_00 (10052368): GenesysGenCompressor
+
+D7_7D_08_00 (5596419): GenesysGenSoundDistanceFalloff
+
+D8_7D_08_00 (5596420): GenesysGenSoundDistanceFalloff
+
+DB_39_0B_00 (7558919): GenesysGenSoundDistanceFalloff
+
+E1_7B_08_00 (5595137): GenesysGenBusMixerChannel
+
+E2_7B_08_00 (5595138): GenesysGenBusMixerChannel
+
+E3_7B_08_00 (5595139): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(6F_F7_03_00): GenesysGenBusRoute 6F_F7_03_00"
+  
+E4_7B_08_00 (5595140): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  cgsCoreUniqueId0x1c: "(E3_7B_08_00): GenesysGenBusRoute E3_7B_08_00"
+  
+E5_7B_08_00 (5595141): GenesysGenBusRoute
+more info:
+  cgsCoreUniqueId0x14: "(E3_7B_08_00): GenesysGenBusRoute E3_7B_08_00"
+  cgsCoreUniqueId0x1c: "(6F_F7_03_00): GenesysGenBusRoute 6F_F7_03_00"
+  
+E6_7B_08_00 (5595142): GenesysGenBusMixerChannel
+
+E7_7B_08_00 (5595143): GenesysGenCompressor
+
+EA_39_0B_00 (7558946): GenesysGenDspPlugInChain
+
+EB_39_0B_00 (7558947): GenesysGenSndPlayerDspPlugIn
+
+EC_39_0B_00 (7558948): GenesysGenSendDspPlugIn
+
+ED_39_0B_00 (7558949): GenesysGenSendDspPlugIn
+
+EE_74_00_00 (170292): GenesysGenBusMixerChannel
+
+EF_74_00_00 (170293): GenesysGenBusMixerChannel
+
+F0_74_00_00 (170294): GenesysGenBusMixerChannel
+
+F1_74_00_00 (170295): GenesysGenBusMixerChannel
+
+F2_74_00_00 (170296): GenesysGenBusMixerChannel
+
+F3_74_00_00 (170297): GenesysGenBusMixerChannel
+
+F4_74_00_00 (170304): GenesysGenBusMixerChannel
+
+F5_74_00_00 (170305): GenesysGenBusMixerChannel
+
+F6_74_00_00 (170306): GenesysGenBusMixerChannel
+
+F6_7B_08_00 (5595170): GenesysGenCompressor
+
+F7_74_00_00 (170307): GenesysGenBusMixerChannel
+
+F7_7D_08_00 (5596469): GenesysGenSoundDistanceFalloff
+
+F8_74_00_00 (170308): GenesysGenBusMixerChannel
+
+F8_7C_08_00 (5595776): GenesysGenSoundDistanceFalloff
+
+F9_74_00_00 (170309): GenesysGenBusMixerChannel
+
+FA_74_00_00 (170310): GenesysGenBusMixerChannel
+
+FE_42_0B_00 (7569478): GenesysGenCompressor

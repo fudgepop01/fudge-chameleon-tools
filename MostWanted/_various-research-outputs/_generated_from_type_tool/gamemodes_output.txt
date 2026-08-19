@@ -2,16 +2,16 @@
 
 
 0E_F7_05_00
->> 14: (0E_F7_05_00)
->> id: (BF_65_AB_29)
+  >> 14: (0E_F7_05_00)
+  >> id: (BF_65_AB_29)
   0x0   : 
            muId: {65_6D_69_54} ("Time")
   0x1   : 
            muId: {F0_BF_4C_A7} ("Score")
 
 0F_39_11_00
->> 14: (0F_39_11_00)
->> id: (B6_88_8D_7C)
+  >> 14: (0F_39_11_00)
+  >> id: (B6_88_8D_7C)
   0x0   : 
            muId: {B0_07_3B_1C} ("Longest")
   0x1   : 
@@ -23,11 +23,11 @@
   0x4   : 
            muId: {79_66_DF_75} ("Closest")
   0x5   : 
-           muId: {31_4A_80_0B}
+           muId: {31_4A_80_0B} ("Closest_And_Lower")
 
 13_37_11_00
->> 14: (13_37_11_00)
->> id: (B8_0A_99_3B)
+  >> 14: (13_37_11_00)
+  >> id: (B8_0A_99_3B)
   0x0   : 
            muId: {65_6E_6F_4E} ("None")
   0x1   : 
@@ -44,18 +44,18 @@
            muId: {BF_11_BF_46} ("Distance")
 
 13_94_0E_00
->> 14: (13_94_0E_00)
->> id: (0D_4B_15_46)
+  >> 14: (13_94_0E_00)
+  >> id: (0D_4B_15_46)
   0x0   : 
            muId: {47_A9_A5_FC} ("NoRetry")
   0x1   : 
-           muId: {96_34_32_73}
+           muId: {96_34_32_73} ("RetryAndReset")
   0x2   : 
            muId: {F1_C8_10_6A}
 
 24_37_11_00
->> 14: (24_37_11_00)
->> id: (CC_D1_16_D1)
+  >> 14: (24_37_11_00)
+  >> id: (CC_D1_16_D1)
   0x0   : 
            muId: {FC_B5_97_5A} ("Individual")
   0x1   : 
@@ -64,8 +64,8 @@
            muId: {D2_04_96_7B} ("Everyone")
 
 28_37_11_00
->> 14: (28_37_11_00)
->> id: (0C_70_DE_84)
+  >> 14: (28_37_11_00)
+  >> id: (0C_70_DE_84)
   0x0   : 
            muId: {65_6E_6F_4E} ("None")
   0x1   : 
@@ -74,8 +74,8 @@
            muId: {5A_1D_2A_22} ("On_Finish")
 
 2B_77_0F_00
->> 14: (2B_77_0F_00)
->> id: (2A_5B_C5_71)
+  >> 14: (2B_77_0F_00)
+  >> id: (2A_5B_C5_71)
   0x0   : 
            muId: {89_95_5F_BB}
   0x1   : 
@@ -85,11 +85,11 @@
   0x3   : 
            muId: {AA_45_10_50} ("LapStart")
   0x4   : 
-           muId: {16_9F_B6_68}
+           muId: {16_9F_B6_68} ("LastLapStart")
 
 2D_39_11_00
->> 14: (2D_39_11_00)
->> id: (DF_0B_3F_84)
+  >> 14: (2D_39_11_00)
+  >> id: (DF_0B_3F_84)
   0x0   : 
            muId: {99_4E_85_CD}
   0x1   : 
@@ -102,24 +102,24 @@
            muId: {AC_96_3C_CA}
 
 42_F3_0E_00
->> 14: (42_F3_0E_00)
->> id: (D9_A5_CE_4B)
+  >> 14: (42_F3_0E_00)
+  >> id: (D9_A5_CE_4B)
   0x0   : 
-           muId: {F3_C1_EF_CB}
+           muId: {F3_C1_EF_CB} ("BeatToWin")
   0x1   : 
            muId: {87_34_EB_E5} ("Timeout")
 
 53_37_11_00
->> 14: (53_37_11_00)
->> id: (9A_5D_7D_24)
+  >> 14: (53_37_11_00)
+  >> id: (9A_5D_7D_24)
   0x0   : 
            muId: {AD_60_F4_41} ("MoveOn")
   0x1   : 
            muId: {6C_69_61_46} ("Fail")
 
 55_31_0F_00
->> 14: (55_31_0F_00)
->> id: (98_31_82_B7)
+  >> 14: (55_31_0F_00)
+  >> id: (98_31_82_B7)
   0x0   : 
            muId: {82_77_B0_48}
   0x1   : 
@@ -133,7 +133,7 @@
   0x5   : 
            muId: {2F_2A_F7_F0} ("Binding")
   0x6   : 
-           muId: {41_32_C8_26}
+           muId: {41_32_C8_26} ("Slipstream")
   0x7   : 
            muId: {D5_F8_73_F7} ("PlayerWrecked")
   0x8   : 
@@ -143,21 +143,21 @@
   0xA   : 
            muId: {59_AF_D7_AC} ("StartingScore")
   0xB   : 
-           muId: {4E_FA_25_A1}
+           muId: {4E_FA_25_A1} ("Oncoming")
   0xD   : 
            muId: {B0_9C_83_BB} ("AirTime")
 
 58_39_11_00
->> 14: (58_39_11_00)
->> id: (C8_A7_6F_1E)
+  >> 14: (58_39_11_00)
+  >> id: (C8_A7_6F_1E)
   0x0   : 
            muId: {06_BC_5A_18} ("CurrentAction")
   0x1   : 
            muId: {F6_CB_DD_51} ("LastAction")
 
 68_F1_0E_00
->> 14: (68_F1_0E_00)
->> id: (39_38_F1_13)
+  >> 14: (68_F1_0E_00)
+  >> id: (39_38_F1_13)
   0x0   : 
            muId: {05_6E_50_E9} ("Win")
   0x1   : 
@@ -166,8 +166,8 @@
            muId: {2F_93_EE_88} ("Special")
 
 8B_38_09_00
->> 14: (8B_38_09_00)
->> id: (67_3D_32_4A)
+  >> 14: (8B_38_09_00)
+  >> id: (67_3D_32_4A)
   0x0   : 
            muId: {B5_76_CC_03} ("Dry")
   0x1   : 
@@ -176,8 +176,8 @@
            muId: {89_54_BB_3D} ("StandingWater")
 
 C3_38_11_00
->> 14: (C3_38_11_00)
->> id: (36_9A_8C_08)
+  >> 14: (C3_38_11_00)
+  >> id: (36_9A_8C_08)
   0x0   : 
            muId: {3A_CC_96_7C} ("SpeedTest")
   0x1   : 
@@ -186,40 +186,40 @@ C3_38_11_00
            muId: {48_29_37_2B} ("Social")
 
 char
->> 14: (9F_57_FE_8C)
->> id: (05_52_C1_F7)
+  >> 14: (9F_57_FE_8C)
+  >> id: (05_52_C1_F7)
 
 uint32_t
->> 14: (81_F3_2A_0E)
->> id: (D4_2E_65_69)
+  >> 14: (81_F3_2A_0E)
+  >> id: (D4_2E_65_69)
 
 CgsCore.StringBase
->> 14: (01_43_40_40)
->> id: (95_FB_EA_BE)
+  >> 14: (01_43_40_40)
+  >> id: (95_FB_EA_BE)
   0x0   : char (offset) [size @ 0x4]
            muId: {3F_7A_EB_8F} ("Buffer")
   0x4   : uint32_t
            muId: {38_73_C0_7F} ("Capacity")
 
 CgsCore.UniqueId
->> 14: (F2_85_22_B9)
->> id: (83_06_B9_EF)
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
 
 CgsResource.Handle
->> 14: (8A_E4_3F_0B)
->> id: (A3_E1_89_8A)
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
 
 E6_39_11_00
->> 14: (E6_39_11_00)
->> id: (3E_D3_B0_C8)
+  >> 14: (E6_39_11_00)
+  >> id: (3E_D3_B0_C8)
   0x0   : 
            muId: {D3_06_A4_69} ("AllowFail")
   0x1   : 
            muId: {29_8F_74_12}
 
 F7_F2_0E_00
->> 14: (F7_F2_0E_00)
->> id: (CD_65_97_CB)
+  >> 14: (F7_F2_0E_00)
+  >> id: (CD_65_97_CB)
   0x0   : 
            muId: {65_6E_6F_4E} ("None")
   0x1   : 
@@ -230,16 +230,16 @@ F7_F2_0E_00
            muId: {86_21_4C_20}
 
 Genesys.Object
->> 14: (E7_25_DB_2E)
->> id: (43_95_24_D7)
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
 
 uint16_t
->> 14: (D6_93_2A_A3)
->> id: (82_F3_7A_EC)
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
 
 F8_FF_FF_FF extends Genesys.Object
->> 14: (F8_FF_FF_FF)
->> id: (BC_85_5D_7F)
+  >> 14: (F8_FF_FF_FF)
+  >> id: (BC_85_5D_7F)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : Genesys.Object * [size @ 0x14] *
@@ -248,8 +248,8 @@ F8_FF_FF_FF extends Genesys.Object
            muId: {98_FE_7E_67} ("ItemCount")
 
 FF_F8_17_00
->> 14: (FF_F8_17_00)
->> id: (1A_DA_F0_47)
+  >> 14: (FF_F8_17_00)
+  >> id: (1A_DA_F0_47)
   0x0   : 
            muId: {65_6E_6F_4E} ("None")
   0x1   : 
@@ -262,30 +262,30 @@ FF_F8_17_00
            muId: {9F_46_AD_C8} ("Random")
 
 bool8_t
->> 14: (8C_D7_46_52)
->> id: (0F_EE_3F_41)
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
 
 Genesys.Gen.ChallengeAction.ActionBase.FeedbackData extends Genesys.Object
->> 14: (12_37_11_00)
->> id: (4D_23_4A_77)
+  >> 14: (12_37_11_00)
+  >> id: (4D_23_4A_77)
   0xC   : CgsCore.UniqueId
            muId: {06_9F_18_60} ("Instruction")
   0x10  : CgsCore.UniqueId
-           muId: {CF_3A_10_B8}
+           muId: {CF_3A_10_B8} ("IntroSequence")
   0x14  : CgsCore.UniqueId
            muId: {17_C4_81_E2}
   0x18  : CgsCore.UniqueId
-           muId: {ED_BB_E7_2E}
+           muId: {ED_BB_E7_2E} ("POI")
   0x1C  : CgsCore.UniqueId
-           muId: {9C_70_9B_BF}
+           muId: {9C_70_9B_BF} ("POITrigger")
   0x20  : 13_37_11_00
            muId: {A3_0B_C1_90}
   0x22  : bool8_t
            muId: {38_3A_A1_F1}
 
 Genesys.Gen.ChallengeAction.AccumulationHelperData extends Genesys.Object
->> 14: (06_39_11_00)
->> id: (F3_FE_77_3A)
+  >> 14: (06_39_11_00)
+  >> id: (F3_FE_77_3A)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : uint32_t
@@ -296,12 +296,12 @@ Genesys.Gen.ChallengeAction.AccumulationHelperData extends Genesys.Object
            muId: {E4_0A_F0_6A}
 
 Genesys.Gen.ChallengeAction.ActionBase extends Genesys.Object
->> 14: (C9_36_11_00)
->> id: (EB_54_AE_33)
+  >> 14: (C9_36_11_00)
+  >> id: (EB_54_AE_33)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -318,12 +318,12 @@ Genesys.Gen.ChallengeAction.ActionBase extends Genesys.Object
            muId: {B3_72_91_ED} ("Who")
 
 uint8_t
->> 14: (11_C0_AB_8E)
->> id: (35_34_7F_1D)
+  >> 14: (11_C0_AB_8E)
+  >> id: (35_34_7F_1D)
 
 Genesys.Gen.Challenge.ChallengePart extends Genesys.Object
->> 14: (C8_36_11_00)
->> id: (D6_0E_28_E0)
+  >> 14: (C8_36_11_00)
+  >> id: (D6_0E_28_E0)
   0xC   : CgsCore.UniqueId
            muId: {42_32_E4_92}
   0x10  : CgsCore.UniqueId
@@ -331,7 +331,7 @@ Genesys.Gen.Challenge.ChallengePart extends Genesys.Object
   0x14  : CgsCore.UniqueId
            muId: {06_9F_18_60} ("Instruction")
   0x18  : CgsCore.UniqueId
-           muId: {CF_3A_10_B8}
+           muId: {CF_3A_10_B8} ("IntroSequence")
   0x1C  : CgsCore.UniqueId
            muId: {B9_76_D6_83} ("ShortInstruction")
   0x20  : Genesys.Gen.ChallengeAction.ActionBase * [size @ 0x2B] *
@@ -339,7 +339,7 @@ Genesys.Gen.Challenge.ChallengePart extends Genesys.Object
   0x24  : 53_37_11_00
            muId: {6E_02_2E_FC}
   0x26  : 58_39_11_00
-           muId: {E4_C9_84_AB}
+           muId: {E4_C9_84_AB} ("PlayerListMode")
   0x28  : uint16_t
            muId: {9E_30_EC_7C}
   0x2A  : bool8_t
@@ -348,8 +348,8 @@ Genesys.Gen.Challenge.ChallengePart extends Genesys.Object
            muId: {A2_A0_D7_5D} ("ActionsCount")
 
 Genesys.Gen.Challenge.Location extends Genesys.Object
->> 14: (CC_36_11_00)
->> id: (38_4F_76_67)
+  >> 14: (CC_36_11_00)
+  >> id: (38_4F_76_67)
   0xC   : CgsCore.UniqueId
            muId: {75_9A_B3_96}
   0x10  : CgsCore.UniqueId * [size @ 0x1C]
@@ -359,17 +359,17 @@ Genesys.Gen.Challenge.Location extends Genesys.Object
   0x18  : CgsCore.UniqueId * [size @ 0x1E]
            muId: {2C_CF_3F_DD} ("Triggers")
   0x1C  : uint16_t
-           muId: {63_78_9F_DC}
+           muId: {63_78_9F_DC} ("DisplayTriggerCount")
   0x1E  : uint16_t
            muId: {5C_8C_2A_C8} ("TriggersCount")
 
 float32_t
->> 14: (87_6D_0A_53)
->> id: (E4_97_56_9F)
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
 
 Genesys.Gen.CustomChevron extends Genesys.Object
->> 14: (9F_FA_06_00)
->> id: (AC_A9_15_3E)
+  >> 14: (9F_FA_06_00)
+  >> id: (AC_A9_15_3E)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : float32_t * [size @ 0x1C]
@@ -388,8 +388,8 @@ Genesys.Gen.CustomChevron extends Genesys.Object
            muId: {3E_F7_CC_F8} ("InvertNormal")
 
 Genesys.Gen.Event extends Genesys.Object
->> 14: (F2_F3_05_00)
->> id: (B8_25_62_0E)
+  >> 14: (F2_F3_05_00)
+  >> id: (B8_25_62_0E)
   0xC   : CgsCore.UniqueId * [size @ 0x42]
            muId: {A8_18_D0_22} ("AutotestCheckpoints")
   0x10  : CgsCore.UniqueId
@@ -429,15 +429,15 @@ Genesys.Gen.Event extends Genesys.Object
   0x47  : bool8_t
            muId: {F0_AE_76_0B} ("OverrideSunDirection")
   0x48  : bool8_t
-           muId: {03_7A_15_B9}
+           muId: {03_7A_15_B9} ("ReplenishingContinuous")
   0x49  : uint8_t
            muId: {FB_33_AE_5D} ("ChevronListCount")
   0x4A  : uint8_t
            muId: {6A_D8_0D_D1}
 
 Genesys.Gen.OnlineEvent extends Genesys.Gen.Event
->> 14: (55_5D_04_00)
->> id: (17_73_05_4A)
+  >> 14: (55_5D_04_00)
+  >> id: (17_73_05_4A)
   0xC   : CgsCore.UniqueId * [size @ 0x42]
            muId: {A8_18_D0_22} ("AutotestCheckpoints")
   0x10  : CgsCore.UniqueId
@@ -477,13 +477,13 @@ Genesys.Gen.OnlineEvent extends Genesys.Gen.Event
   0x47  : bool8_t
            muId: {F0_AE_76_0B} ("OverrideSunDirection")
   0x48  : bool8_t
-           muId: {03_7A_15_B9}
+           muId: {03_7A_15_B9} ("ReplenishingContinuous")
   0x49  : uint8_t
            muId: {FB_33_AE_5D} ("ChevronListCount")
   0x4A  : uint8_t
            muId: {6A_D8_0D_D1}
   0x4C  : float32_t [2] [size @ 0x68]
-           muId: {34_E1_AE_D4}
+           muId: {34_E1_AE_D4} ("MapIconOffset")
   0x54  : CgsCore.UniqueId
            muId: {EA_43_D5_F3} ("Arena")
   0x58  : CgsCore.UniqueId
@@ -502,8 +502,8 @@ Genesys.Gen.OnlineEvent extends Genesys.Gen.Event
            muId: {02_92_E0_01} ("RequiresAirport")
 
 Genesys.Gen.Challenge.OnlineChallenge extends Genesys.Gen.OnlineEvent
->> 14: (C7_36_11_00)
->> id: (7E_70_16_62)
+  >> 14: (C7_36_11_00)
+  >> id: (7E_70_16_62)
   0xC   : CgsCore.UniqueId * [size @ 0x42]
            muId: {A8_18_D0_22} ("AutotestCheckpoints")
   0x10  : CgsCore.UniqueId
@@ -543,13 +543,13 @@ Genesys.Gen.Challenge.OnlineChallenge extends Genesys.Gen.OnlineEvent
   0x47  : bool8_t
            muId: {F0_AE_76_0B} ("OverrideSunDirection")
   0x48  : bool8_t
-           muId: {03_7A_15_B9}
+           muId: {03_7A_15_B9} ("ReplenishingContinuous")
   0x49  : uint8_t
            muId: {FB_33_AE_5D} ("ChevronListCount")
   0x4A  : uint8_t
            muId: {6A_D8_0D_D1}
   0x4C  : float32_t [2] [size @ 0x68]
-           muId: {34_E1_AE_D4}
+           muId: {34_E1_AE_D4} ("MapIconOffset")
   0x54  : CgsCore.UniqueId
            muId: {EA_43_D5_F3} ("Arena")
   0x58  : CgsCore.UniqueId
@@ -580,12 +580,12 @@ Genesys.Gen.Challenge.OnlineChallenge extends Genesys.Gen.OnlineEvent
            muId: {96_41_2E_9D} ("PartsCount")
 
 Genesys.Gen.ChallengeAction.AccumulateDistance extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (B2_39_11_00)
->> id: (E3_70_B2_CC)
+  >> 14: (B2_39_11_00)
+  >> id: (E3_70_B2_CC)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -602,12 +602,12 @@ Genesys.Gen.ChallengeAction.AccumulateDistance extends Genesys.Gen.ChallengeActi
            muId: {B3_72_91_ED} ("Who")
 
 Genesys.Gen.ChallengeAction.AccumulateNearMisses extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (7D_39_11_00)
->> id: (2B_A8_0E_31)
+  >> 14: (7D_39_11_00)
+  >> id: (2B_A8_0E_31)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -630,12 +630,12 @@ Genesys.Gen.ChallengeAction.AccumulateNearMisses extends Genesys.Gen.ChallengeAc
            muId: {41_A9_F9_C9} ("InAir")
 
 Genesys.Gen.ChallengeAction.AccumulateTakedowns extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (05_39_11_00)
->> id: (D7_89_93_D1)
+  >> 14: (05_39_11_00)
+  >> id: (D7_89_93_D1)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -652,12 +652,12 @@ Genesys.Gen.ChallengeAction.AccumulateTakedowns extends Genesys.Gen.ChallengeAct
            muId: {B3_72_91_ED} ("Who")
 
 Genesys.Gen.ChallengeAction.AccumulateTime extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (B1_39_11_00)
->> id: (47_DE_09_5B)
+  >> 14: (B1_39_11_00)
+  >> id: (47_DE_09_5B)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -674,12 +674,12 @@ Genesys.Gen.ChallengeAction.AccumulateTime extends Genesys.Gen.ChallengeAction.A
            muId: {B3_72_91_ED} ("Who")
 
 Genesys.Gen.ChallengeAction.CarState extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (B0_39_11_00)
->> id: (0A_5F_28_EF)
+  >> 14: (B0_39_11_00)
+  >> id: (0A_5F_28_EF)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -697,9 +697,9 @@ Genesys.Gen.ChallengeAction.CarState extends Genesys.Gen.ChallengeAction.ActionB
   0x48  : CgsCore.UniqueId
            muId: {5E_23_1F_99} ("CarCategory")
   0x4C  : float32_t
-           muId: {9E_53_54_6B}
+           muId: {9E_53_54_6B} ("MaxDamageLevel")
   0x50  : float32_t
-           muId: {6B_20_CB_95}
+           muId: {6B_20_CB_95} ("MinDamageLevel")
   0x54  : uint16_t
            muId: {5F_8B_31_02} ("MaxSpeed")
   0x56  : uint16_t
@@ -719,19 +719,19 @@ Genesys.Gen.ChallengeAction.CarState extends Genesys.Gen.ChallengeAction.ActionB
   0x5E  : bool8_t
            muId: {B9_EA_CD_8C} ("Nitrous")
   0x5F  : bool8_t
-           muId: {4E_FA_25_A1}
+           muId: {4E_FA_25_A1} ("Oncoming")
   0x60  : bool8_t
            muId: {8E_E6_6F_0C} ("Reversing")
   0x61  : bool8_t
            muId: {12_36_06_A2} ("Slipstreaming")
 
 Genesys.Gen.ChallengeAction.CoopAccumulateDistance extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (A6_A0_19_00)
->> id: (79_8B_78_5D)
+  >> 14: (A6_A0_19_00)
+  >> id: (79_8B_78_5D)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -748,12 +748,12 @@ Genesys.Gen.ChallengeAction.CoopAccumulateDistance extends Genesys.Gen.Challenge
            muId: {B3_72_91_ED} ("Who")
 
 Genesys.Gen.ChallengeAction.DoJump extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (D8_39_11_00)
->> id: (63_66_35_21)
+  >> 14: (D8_39_11_00)
+  >> id: (63_66_35_21)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -774,12 +774,12 @@ Genesys.Gen.ChallengeAction.DoJump extends Genesys.Gen.ChallengeAction.ActionBas
            muId: {84_0F_93_3A} ("Accumulate")
 
 Genesys.Gen.ChallengeAction.GetToLocation extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (CD_36_11_00)
->> id: (B3_B4_2A_12)
+  >> 14: (CD_36_11_00)
+  >> id: (B3_B4_2A_12)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -802,12 +802,12 @@ Genesys.Gen.ChallengeAction.GetToLocation extends Genesys.Gen.ChallengeAction.Ac
            muId: {53_9B_7D_C7}
 
 Genesys.Gen.ChallengeAction.HitTrigger extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (D9_39_11_00)
->> id: (C0_99_71_A8)
+  >> 14: (D9_39_11_00)
+  >> id: (C0_99_71_A8)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -826,12 +826,12 @@ Genesys.Gen.ChallengeAction.HitTrigger extends Genesys.Gen.ChallengeAction.Actio
            muId: {CF_D5_15_1C} ("Trigger")
 
 Genesys.Gen.ChallengeAction.JumpOverPlayers extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (D3_39_11_00)
->> id: (3F_12_39_21)
+  >> 14: (D3_39_11_00)
+  >> id: (3F_12_39_21)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -852,12 +852,12 @@ Genesys.Gen.ChallengeAction.JumpOverPlayers extends Genesys.Gen.ChallengeAction.
            muId: {0C_8B_8C_00}
 
 Genesys.Gen.ChallengeAction.JumpStats extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (5C_37_11_00)
->> id: (C8_AC_8F_6A)
+  >> 14: (5C_37_11_00)
+  >> id: (C8_AC_8F_6A)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -876,12 +876,12 @@ Genesys.Gen.ChallengeAction.JumpStats extends Genesys.Gen.ChallengeAction.Action
            muId: {A4_45_04_E5} ("Location")
 
 Genesys.Gen.ChallengeAction.SpeedCameraAction extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (4E_37_11_00)
->> id: (E3_E6_76_A8)
+  >> 14: (4E_37_11_00)
+  >> id: (E3_E6_76_A8)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -901,15 +901,15 @@ Genesys.Gen.ChallengeAction.SpeedCameraAction extends Genesys.Gen.ChallengeActio
   0x4C  : CgsCore.UniqueId
            muId: {E1_28_37_A2} ("OnHitSequence")
   0x50  : Genesys.Gen.Challenge.Location *
-           muId: {E7_BB_50_3A}
+           muId: {E7_BB_50_3A} ("SpeedCameraLocation")
 
 Genesys.Gen.ChallengeAction.SpeedRun extends Genesys.Gen.ChallengeAction.ActionBase
->> 14: (FA_F8_17_00)
->> id: (D7_8C_A2_95)
+  >> 14: (FA_F8_17_00)
+  >> id: (D7_8C_A2_95)
   0xC   : Genesys.Gen.ChallengeAction.ActionBase.FeedbackData
            muId: {BE_55_EA_2E} ("FeedbackData")
   0x30  : CgsCore.UniqueId
-           muId: {48_32_3F_C4}
+           muId: {48_32_3F_C4} ("CompleteScoringAction")
   0x34  : CgsCore.UniqueId
            muId: {48_E9_30_38}
   0x38  : CgsCore.UniqueId
@@ -930,8 +930,8 @@ Genesys.Gen.ChallengeAction.SpeedRun extends Genesys.Gen.ChallengeAction.ActionB
            muId: {27_CA_7C_B1} ("RouteCount")
 
 Genesys.Gen.Chevron extends Genesys.Object
->> 14: (44_62_04_00)
->> id: (32_AC_E7_1B)
+  >> 14: (44_62_04_00)
+  >> id: (32_AC_E7_1B)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : CgsCore.UniqueId
@@ -940,16 +940,16 @@ Genesys.Gen.Chevron extends Genesys.Object
            muId: {81_BD_81_DD} ("ShouldBlockStart")
 
 Genesys.Gen.Event.CheckpointInfo extends Genesys.Object
->> 14: (83_32_04_00)
->> id: (99_45_25_4C)
+  >> 14: (83_32_04_00)
+  >> id: (99_45_25_4C)
   0xC   : CgsCore.UniqueId
            muId: {EB_97_BD_04} ("Sequence")
   0x10  : bool8_t
            muId: {26_CC_1E_EB} ("ShowSplitTime")
 
 Genesys.Gen.EventArenaData.SpawnPointCollection extends Genesys.Object
->> 14: (2E_6A_0A_00)
->> id: (F3_D1_75_E0)
+  >> 14: (2E_6A_0A_00)
+  >> id: (F3_D1_75_E0)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : CgsCore.UniqueId * [size @ 0x14]
@@ -958,8 +958,8 @@ Genesys.Gen.EventArenaData.SpawnPointCollection extends Genesys.Object
            muId: {D5_FF_4E_53} ("SpawnPointsCount")
 
 Genesys.Gen.EventArenaData extends Genesys.Object
->> 14: (5A_5D_04_00)
->> id: (87_56_5A_00)
+  >> 14: (5A_5D_04_00)
+  >> id: (87_56_5A_00)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : CgsCore.UniqueId
@@ -996,8 +996,8 @@ Genesys.Gen.EventArenaData extends Genesys.Object
            muId: {65_25_D2_23} ("CustomChevronListCount")
 
 Genesys.Gen.EventArena extends Genesys.Object
->> 14: (59_5D_04_00)
->> id: (F4_84_79_01)
+  >> 14: (59_5D_04_00)
+  >> id: (F4_84_79_01)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : CgsCore.UniqueId
@@ -1012,8 +1012,8 @@ Genesys.Gen.EventArena extends Genesys.Object
            muId: {0A_55_26_2E} ("ArenaData")
 
 Genesys.Gen.GameMode extends Genesys.Object
->> 14: (54_5D_04_00)
->> id: (9E_7A_D5_E2)
+  >> 14: (54_5D_04_00)
+  >> id: (9E_7A_D5_E2)
   0xC   : CgsCore.UniqueId
            muId: {4D_D9_30_B7} ("MapsAcceptors")
   0x10  : CgsCore.UniqueId
@@ -1039,11 +1039,11 @@ Genesys.Gen.GameMode extends Genesys.Object
   0x38  : CgsCore.UniqueId
            muId: {07_EB_ED_2D} ("ScoreViewModel")
   0x3C  : CgsCore.UniqueId
-           muId: {78_9D_7A_0C}
+           muId: {78_9D_7A_0C} ("UIColour")
   0x40  : CgsCore.UniqueId
            muId: {77_19_CC_39} ("WeaponList")
   0x44  : float32_t
-           muId: {6D_65_D6_09}
+           muId: {6D_65_D6_09} ("MaxRespawnTime")
   0x48  : float32_t
            muId: {BF_7D_F0_15} ("ModeIntroTimeLimit")
   0x4C  : float32_t
@@ -1055,7 +1055,7 @@ Genesys.Gen.GameMode extends Genesys.Object
   0x56  : 0E_F7_05_00
            muId: {F5_F3_4C_CF} ("RankingType")
   0x58  : 42_F3_0E_00
-           muId: {7A_3A_1D_F8}
+           muId: {7A_3A_1D_F8} ("TargetTimeType")
   0x5A  : uint16_t
            muId: {00_B9_0D_3C} ("InterceptingCopFrequency")
   0x5C  : uint16_t
@@ -1067,13 +1067,13 @@ Genesys.Gen.GameMode extends Genesys.Object
   0x62  : uint16_t
            muId: {AB_10_BF_85} ("TrailingCopFrequency")
   0x64  : uint16_t
-           muId: {D2_63_22_60}
+           muId: {D2_63_22_60} ("WaitingCopFrequency")
   0x66  : bool8_t
            muId: {AA_B6_AA_69} ("AllowAIRacerDamageFromWorld")
   0x67  : bool8_t
            muId: {C7_3F_14_70} ("AllowFriendlyFire")
   0x68  : bool8_t
-           muId: {47_5A_A0_F6}
+           muId: {47_5A_A0_F6} ("ScenePropReferenced")
   0x69  : bool8_t
            muId: {21_46_D3_67}
   0x6A  : bool8_t
@@ -1097,13 +1097,13 @@ Genesys.Gen.GameMode extends Genesys.Object
   0x73  : bool8_t
            muId: {15_CA_38_6F}
   0x74  : bool8_t
-           muId: {E4_4D_3F_97}
+           muId: {E4_4D_3F_97} ("UseCameraStreaming")
   0x75  : uint8_t
            muId: {EA_6A_E0_72} ("FeedbackGroupID")
 
 Genesys.Gen.Gameplay.Condition extends Genesys.Object
->> 14: (67_F1_0E_00)
->> id: (71_52_42_99)
+  >> 14: (67_F1_0E_00)
+  >> id: (71_52_42_99)
   0xC   : CgsCore.StringBase * [size @ 0x22]
            muId: {EC_3F_9B_95} ("Strings")
   0x10  : CgsCore.UniqueId
@@ -1124,8 +1124,8 @@ Genesys.Gen.Gameplay.Condition extends Genesys.Object
            muId: {54_60_73_1E} ("ValuesCount")
 
 Genesys.Gen.OfflineEvent.AIPlayerInformation extends Genesys.Object
->> 14: (9A_1D_10_00)
->> id: (24_B9_40_8F)
+  >> 14: (9A_1D_10_00)
+  >> id: (24_B9_40_8F)
   0xC   : CgsCore.UniqueId
            muId: {CE_98_83_2A} ("AIPlayerType")
   0x10  : CgsCore.UniqueId
@@ -1136,18 +1136,18 @@ Genesys.Gen.OfflineEvent.AIPlayerInformation extends Genesys.Object
            muId: {7A_E7_68_29} ("PrimaryColour")
 
 Genesys.Gen.OfflineEvent.AlternateRoutes extends Genesys.Object
->> 14: (63_F1_0E_00)
->> id: (1B_33_EC_C5)
+  >> 14: (63_F1_0E_00)
+  >> id: (1B_33_EC_C5)
   0xC   : CgsCore.UniqueId
            muId: {87_33_90_BE} ("Checkpoint")
   0x10  : CgsCore.UniqueId * [size @ 0x14]
            muId: {D8_F8_6E_FE} ("RouteMarkers")
   0x14  : uint16_t
-           muId: {68_25_BA_7F}
+           muId: {68_25_BA_7F} ("RouteMarkersCount")
 
 Genesys.Gen.OfflineEvent.CheckpointInfo extends Genesys.Object
->> 14: (C5_23_0B_00)
->> id: (99_EF_67_0A)
+  >> 14: (C5_23_0B_00)
+  >> id: (99_EF_67_0A)
   0xC   : CgsCore.UniqueId
            muId: {EB_97_BD_04} ("Sequence")
   0x10  : 2B_77_0F_00
@@ -1158,8 +1158,8 @@ Genesys.Gen.OfflineEvent.CheckpointInfo extends Genesys.Object
            muId: {26_CC_1E_EB} ("ShowSplitTime")
 
 Genesys.Gen.OfflineEvent extends Genesys.Gen.Event
->> 14: (F3_F3_05_00)
->> id: (90_3B_CC_47)
+  >> 14: (F3_F3_05_00)
+  >> id: (90_3B_CC_47)
   0xC   : CgsCore.UniqueId * [size @ 0x42]
            muId: {A8_18_D0_22} ("AutotestCheckpoints")
   0x10  : CgsCore.UniqueId
@@ -1199,7 +1199,7 @@ Genesys.Gen.OfflineEvent extends Genesys.Gen.Event
   0x47  : bool8_t
            muId: {F0_AE_76_0B} ("OverrideSunDirection")
   0x48  : bool8_t
-           muId: {03_7A_15_B9}
+           muId: {03_7A_15_B9} ("ReplenishingContinuous")
   0x49  : uint8_t
            muId: {FB_33_AE_5D} ("ChevronListCount")
   0x4A  : uint8_t
@@ -1255,9 +1255,9 @@ Genesys.Gen.OfflineEvent extends Genesys.Gen.Event
   0xB0  : float32_t
            muId: {E7_61_49_CE} ("TrafficDensity")
   0xB4  : Genesys.Gen.Chevron * [size @ 0xE0] *
-           muId: {B6_BD_FC_A5}
+           muId: {B6_BD_FC_A5} ("RoadChevronList")
   0xB8  : Genesys.Gen.CustomChevron * [size @ 0xF3] *
-           muId: {63_6B_75_C0}
+           muId: {63_6B_75_C0} ("AIChevronList")
   0xBC  : Genesys.Gen.Gameplay.Condition * [size @ 0xF4] *
            muId: {B6_9D_15_6C} ("Conditions")
   0xC0  : Genesys.Gen.OfflineEvent.AIPlayerInformation * [size @ 0xD6]
@@ -1271,13 +1271,13 @@ Genesys.Gen.OfflineEvent extends Genesys.Gen.Event
   0xD0  : F7_F2_0E_00
            muId: {6D_B7_8C_7B} ("DemoMode")
   0xD2  : uint16_t
-           muId: {26_C1_9B_A8}
+           muId: {26_C1_9B_A8} ("AdditionalAssetsCount")
   0xD4  : uint16_t
            muId: {76_8B_14_DF} ("AIHintsCount")
   0xD6  : uint16_t
            muId: {A0_2B_14_FA} ("AIPlayersCount")
   0xD8  : uint16_t
-           muId: {80_15_A8_58}
+           muId: {80_15_A8_58} ("AlternativeRoutesCount")
   0xDA  : uint16_t
            muId: {79_BC_86_34} ("CheckpointInfoCount")
   0xDC  : uint16_t
@@ -1287,15 +1287,15 @@ Genesys.Gen.OfflineEvent extends Genesys.Gen.Event
   0xE0  : uint16_t
            muId: {09_26_5E_F3}
   0xE2  : uint16_t
-           muId: {70_30_C0_26}
+           muId: {70_30_C0_26} ("TargetSpeedCount")
   0xE4  : uint16_t
            muId: {FB_AA_2E_47} ("TargetTimeCount")
   0xE6  : uint16_t
-           muId: {8B_75_1B_AC}
+           muId: {8B_75_1B_AC} ("TimelineCount")
   0xE8  : bool8_t
            muId: {A6_66_0A_A8} ("CopSpawning")
   0xE9  : bool8_t
-           muId: {80_65_F2_C8}
+           muId: {80_65_F2_C8} ("IsBlacklistEvent")
   0xEA  : bool8_t
            muId: {D4_06_38_57} ("ListensPervade")
   0xEB  : bool8_t
@@ -1315,7 +1315,7 @@ Genesys.Gen.OfflineEvent extends Genesys.Gen.Event
   0xF2  : bool8_t
            muId: {0C_A7_55_40} ("WeaponsAllowed")
   0xF3  : uint8_t
-           muId: {C6_71_EB_DB}
+           muId: {C6_71_EB_DB} ("AIChevronListCount")
   0xF4  : uint8_t
            muId: {84_3A_6A_73} ("ConditionsCount")
   0xF5  : uint8_t
@@ -1324,8 +1324,8 @@ Genesys.Gen.OfflineEvent extends Genesys.Gen.Event
            muId: {73_70_61_4C} ("Laps")
 
 Genesys.Gen.OfflineEvent.CustomChevrons extends Genesys.Object
->> 14: (9E_FA_06_00)
->> id: (20_55_7E_9D)
+  >> 14: (9E_FA_06_00)
+  >> id: (20_55_7E_9D)
   0xC   : float32_t * [size @ 0x18]
            muId: {27_88_BC_C6}
   0x10  : float32_t * [size @ 0x1A]
@@ -1340,8 +1340,8 @@ Genesys.Gen.OfflineEvent.CustomChevrons extends Genesys.Object
            muId: {7C_BF_F6_F2}
 
 Genesys.Gen.Online.VoteEvent extends Genesys.Gen.OnlineEvent
->> 14: (C6_B2_17_00)
->> id: (BA_F7_B2_C9)
+  >> 14: (C6_B2_17_00)
+  >> id: (BA_F7_B2_C9)
   0xC   : CgsCore.UniqueId * [size @ 0x42]
            muId: {A8_18_D0_22} ("AutotestCheckpoints")
   0x10  : CgsCore.UniqueId
@@ -1381,13 +1381,13 @@ Genesys.Gen.Online.VoteEvent extends Genesys.Gen.OnlineEvent
   0x47  : bool8_t
            muId: {F0_AE_76_0B} ("OverrideSunDirection")
   0x48  : bool8_t
-           muId: {03_7A_15_B9}
+           muId: {03_7A_15_B9} ("ReplenishingContinuous")
   0x49  : uint8_t
            muId: {FB_33_AE_5D} ("ChevronListCount")
   0x4A  : uint8_t
            muId: {6A_D8_0D_D1}
   0x4C  : float32_t [2] [size @ 0x68]
-           muId: {34_E1_AE_D4}
+           muId: {34_E1_AE_D4} ("MapIconOffset")
   0x54  : CgsCore.UniqueId
            muId: {EA_43_D5_F3} ("Arena")
   0x58  : CgsCore.UniqueId
@@ -1409,13 +1409,13 @@ Genesys.Gen.Online.VoteEvent extends Genesys.Gen.OnlineEvent
   0x74  : CgsCore.UniqueId
            muId: {27_F9_EC_BC}
   0x78  : CgsCore.UniqueId
-           muId: {19_0C_7C_09}
+           muId: {19_0C_7C_09} ("VoteLocationA")
   0x7C  : CgsCore.UniqueId
-           muId: {1A_0C_7C_09}
+           muId: {1A_0C_7C_09} ("VoteLocationB")
 
 Genesys.Gen.OnlineRoute extends Genesys.Object
->> 14: (14_90_0F_00)
->> id: (0C_17_6B_D6)
+  >> 14: (14_90_0F_00)
+  >> id: (0C_17_6B_D6)
   0xC   : CgsCore.UniqueId * [size @ 0x14]
            muId: {4C_EA_74_A0} ("Checkpoints")
   0x10  : CgsCore.UniqueId
@@ -1424,8 +1424,8 @@ Genesys.Gen.OnlineRoute extends Genesys.Object
            muId: {89_0D_83_72} ("CheckpointsCount")
 
 Genesys.Gen.RaceBalancingData.OpponentBalancingData extends Genesys.Object
->> 14: (1B_33_00_00)
->> id: (4B_E5_CB_0B)
+  >> 14: (1B_33_00_00)
+  >> id: (4B_E5_CB_0B)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : float32_t
@@ -1446,8 +1446,8 @@ Genesys.Gen.RaceBalancingData.OpponentBalancingData extends Genesys.Object
            muId: {40_2F_66_A7} ("StartSpeedValueBehind")
 
 Genesys.Gen.RaceBalancingData extends Genesys.Object
->> 14: (D3_29_00_00)
->> id: (B6_1C_C0_BE)
+  >> 14: (D3_29_00_00)
+  >> id: (B6_1C_C0_BE)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : float32_t
@@ -1460,8 +1460,8 @@ Genesys.Gen.RaceBalancingData extends Genesys.Object
            muId: {9F_C0_ED_8A} ("OpponentDataCount")
 
 Genesys.Gen.RaceBalancingProfile extends Genesys.Object
->> 14: (D4_29_00_00)
->> id: (A5_81_C6_D9)
+  >> 14: (D4_29_00_00)
+  >> id: (A5_81_C6_D9)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : float32_t
@@ -1470,8 +1470,8 @@ Genesys.Gen.RaceBalancingProfile extends Genesys.Object
            muId: {D2_CB_73_F9} ("MinSpeed")
 
 Genesys.Gen.ScoreViewModel.Score extends Genesys.Object
->> 14: (FE_03_0F_00)
->> id: (7B_FB_67_04)
+  >> 14: (FE_03_0F_00)
+  >> id: (7B_FB_67_04)
   0xC   : CgsCore.UniqueId
            muId: {32_B9_98_B9} ("Action")
   0x10  : CgsCore.UniqueId
@@ -1480,8 +1480,8 @@ Genesys.Gen.ScoreViewModel.Score extends Genesys.Object
            muId: {52_36_6D_5D} ("String")
 
 Genesys.Gen.ScoreViewModel extends Genesys.Object
->> 14: (79_5D_04_00)
->> id: (45_D1_C4_27)
+  >> 14: (79_5D_04_00)
+  >> id: (45_D1_C4_27)
   0xC   : CgsCore.UniqueId
            muId: {5F_3F_5D_65} ("GameChangerID")
   0x10  : Genesys.Gen.ScoreViewModel.Score * [size @ 0x14]
@@ -1490,12 +1490,12 @@ Genesys.Gen.ScoreViewModel extends Genesys.Object
            muId: {BA_F9_7D_99} ("ScoresCount")
 
 int32_t
->> 14: (62_6C_D4_12)
->> id: (83_BE_99_18)
+  >> 14: (62_6C_D4_12)
+  >> id: (83_BE_99_18)
 
 Genesys.Gen.ScoreViewModel.ScoreData extends Genesys.Object
->> 14: (7A_5D_04_00)
->> id: (24_2C_B4_CA)
+  >> 14: (7A_5D_04_00)
+  >> id: (24_2C_B4_CA)
   0xC   : CgsCore.StringBase
            muId: {95_0D_0E_11} ("BindingPath")
   0x14  : CgsCore.UniqueId
@@ -1504,5 +1504,5 @@ Genesys.Gen.ScoreViewModel.ScoreData extends Genesys.Object
            muId: {6B_6E_61_52} ("Rank")
 
 int16_t
->> 14: (35_0C_D4_BF)
->> id: (56_24_52_29)
+  >> 14: (35_0C_D4_BF)
+  >> id: (56_24_52_29)

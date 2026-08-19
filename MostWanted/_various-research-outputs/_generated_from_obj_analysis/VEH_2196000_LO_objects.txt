@@ -1,0 +1,409 @@
+00_0D_22_00 (35853650): GenesysGenVehicleDamageBehaviour
+
+03_F5_11_00 (18311221): GenesysGenLowPassButterworthDspPlugIn
+
+04_4E_0F_00 (16789522): GenesysGenMixerChannel
+
+05_4E_0F_00 (16789523): GenesysGenGinsuDspPlugIn
+
+07_4E_0F_00 (16789525): GenesysGenSendDspPlugIn
+
+08_4E_0F_00 (16789526): GenesysGenMixerChannel
+
+09_4E_0F_00 (16789527): GenesysGenDspPlugInChain
+
+09_51_0F_00 (16791429): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+  
+0A_43_0B_00 (7569496): GenesysGenSoundDistanceFalloff
+
+0A_4E_0F_00 (16789528): GenesysGenSubmixDspPlugIn
+
+0A_51_0F_00 (16791430): GenesysGenDspPlugInChain
+
+0B_4E_0F_00 (16789529): GenesysGenPan2ddspPlugIn
+
+0B_51_0F_00 (16791431): GenesysGenDspPlugInChain
+
+0C_4E_0F_00 (16789536): GenesysGenSendDspPlugIn
+
+0C_51_0F_00 (16791432): GenesysGenMixerChannel
+
+0D_51_0F_00 (16791433): GenesysGenMixerChannel
+
+0E_51_0F_00 (16791440): GenesysGenDspPlugInChain
+
+10_51_0F_00 (16791442): GenesysGenSendDspPlugIn
+
+11_51_0F_00 (16791443): GenesysGenSendDspPlugIn
+
+13_4E_0F_00 (16789543): GenesysGenDspPlugInChain
+
+14_4E_0F_00 (16789544): GenesysGenPeakingDspPlugIn
+
+15_4E_0F_00 (16789545): GenesysGenMixerChannel
+
+16_4E_0F_00 (16789552): GenesysGenSendDspPlugIn
+
+17_4E_0F_00 (16789553): GenesysGenSendDspPlugIn
+
+18_4E_0F_00 (16789554): GenesysGenDspPlugInChain
+
+19_4E_0F_00 (16789555): GenesysGenPeakingDspPlugIn
+
+1A_4E_0F_00 (16789556): GenesysGenMixerChannel
+
+1C_4E_0F_00 (16789558): GenesysGenDistortionDspPlugIn
+
+1D_4E_0F_00 (16789559): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+20_4E_0F_00 (16789568): GenesysGenSendDspPlugIn
+
+20_82_21_00 (35217408): GenesysGenVehicleComponent
+more info:
+  cgsCoreUniqueId0x6c: "D8_0A_22_00"
+  
+20_82_21_00_2 (35217408): GenesysGenRaceCarPhysicalDefinition
+
+21_08_0F_00 (9982241): GenesysGenLightSpot
+
+21_4E_0F_00 (16789569): GenesysGenMixerChannel
+
+22_4E_0F_00 (16789570): GenesysGenDspPlugInChain
+
+24_4E_0F_00 (16789572): GenesysGenDelayDspPlugIn
+
+24_82_21_00 (35217412): GenesysGenVehicleInfo
+
+25_4E_0F_00 (16789573): GenesysGenSequence
+more info:
+  count: 7
+  sequenceTypes:
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+26_06_1C_00 (25388418): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+  
+27_46_12_00 (18445831): GenesysGenVehiclePaint
+
+28_46_12_00 (18445832): GenesysGenVehiclePaint
+
+29_38_0B_00 (7557747): GenesysGenHighShelfDspPlugIn
+
+29_46_12_00 (18445833): GenesysGenVehiclePaint
+
+2A_82_21_00 (35217424): GenesysGenSuspensionWheel
+
+2B_82_21_00 (35217425): GenesysGenSuspensionWheel
+
+2C_4E_0F_00 (16789586): GenesysGenPeakingDspPlugIn
+
+2C_82_21_00 (35217426): GenesysGenSuspensionWheel
+
+2D_4E_0F_00 (16789587): GenesysGenMixerChannel
+
+2D_82_21_00 (35217427): GenesysGenSuspensionWheel
+
+2E_22_18_00 (22550036): GenesysGenMixerChannel
+
+2E_4E_0F_00 (16789588): GenesysGenDspPlugInChain
+
+2E_82_21_00 (35217428): GenesysGenWheelSuspensionConstraint
+
+2F_22_18_00 (22550037): GenesysGenMixerChannel
+
+2F_82_21_00 (35217429): GenesysGenWheelSuspensionSpringConstraint
+
+30_22_18_00 (22550038): GenesysGenMixerChannel
+
+30_4E_0F_00 (16789590): GenesysGenDelayDspPlugIn
+
+31_4E_0F_00 (16789591): GenesysGenSendDspPlugIn
+
+32_22_18_00 (22550040): GenesysGenSoundDistanceFalloff
+
+32_38_0B_00 (7557762): GenesysGenMixerChannel
+
+32_4E_0F_00 (16789592): GenesysGenDspPlugInChain
+
+32_82_21_00 (35217432): GenesysGenWheelSuspensionConstraint
+
+33_22_18_00 (22550041): GenesysGenSoundDistanceFalloff
+
+33_38_0B_00 (7557763): GenesysGenDspPlugInChain
+
+33_82_21_00 (35217433): GenesysGenWheelSuspensionSpringConstraint
+
+34_22_18_00 (22550048): GenesysGenSoundDistanceFalloff
+
+34_38_0B_00 (7557764): GenesysGenSubmixDspPlugIn
+
+35_38_0B_00 (7557765): GenesysGenSendDspPlugIn
+
+36_1B_1D_00 (26244368): GenesysGenSequence
+more info:
+  count: 5
+  sequenceTypes:
+    - GenesysGenRaceCarEffectSequenceItem
+    - GenesysGenLfoSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+  
+36_4E_0F_00 (16789602): GenesysGenPeakingDspPlugIn
+
+36_82_21_00 (35217442): GenesysGenVehicleCameraContainer
+
+37_38_0B_00 (7557767): GenesysGenSendDspPlugIn
+
+37_4E_0F_00 (16789603): GenesysGenPeakingDspPlugIn
+
+38_38_0B_00 (7557768): GenesysGenMixingGroup
+
+38_A3_06_00 (4411392): GenesysGenNitrousParameters
+
+39_38_0B_00 (7557769): GenesysGenMixingGroup
+
+3A_38_0B_00 (7557776): GenesysGenMixingGroup
+
+3B_38_0B_00 (7557777): GenesysGenMixingGroup
+
+3B_75_00_00 (196625): GenesysGenMixerChannel
+
+3B_82_21_00 (35217447): GenesysGenHandlingBehaviour
+
+3C_38_0B_00 (7557778): GenesysGenSendDspPlugIn
+
+3C_A5_06_00 (4412694): GenesysGenTyreVfxBehaviour
+
+3D_22_18_00 (22550057): GenesysGenMixerChannel
+
+3D_38_0B_00 (7557779): GenesysGenSendDspPlugIn
+
+3E_38_0B_00 (7557780): GenesysGenSendDspPlugIn
+
+44_1B_1D_00 (26244388): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenRaceCarEffectSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+  
+44_38_0B_00 (7557888): GenesysGenSoundDistanceFalloff
+
+44_46_12_00 (18445878): GenesysGenCorona
+
+47_21_18_00 (22549379): GenesysGenMixerChannel
+
+48_21_18_00 (22549380): GenesysGenMixerChannel
+
+4C_26_22_00 (35881000): GenesysGenNitrousParameters
+
+4D_26_22_00 (35881001): GenesysGenNitrousParameters
+
+4D_82_21_00 (35217477): GenesysGenVehicleColourPalette
+
+4E_82_21_00 (35217478): GenesysGenControlMesh
+
+4F_82_21_00 (35217479): GenesysGenVehicleDriverSetup
+more info:
+  cgsCoreUniqueId0x2c: "00_00_00_00"
+  cgsCoreUniqueId0x30: "47_F5_22_00"
+  
+50_82_21_00 (35217480): GenesysGenVehicleSound
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
+51_82_21_00 (35217481): GenesysGenVehicleGameplay
+more info:
+  cgsCoreUniqueId0x94: "D7_B4_21_00"
+  cgsCoreUniqueId0x98: "02_6A_22_00"
+  cgsCoreUniqueId0x9c: "D7_B4_21_00"
+  cgsCoreUniqueId0xa0: "01_6A_22_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
+54_0D_22_00 (35853878): GenesysVehiclesAnimationStateBehaviour
+
+5A_1C_1D_00 (26245122): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+5D_24_1A_00 (24195653): GenesysGenMixerChannel
+
+5E_82_21_00 (35217506): GenesysGenWheelSizes
+
+5F_82_21_00 (35217507): GenesysGenWheelSizes
+
+5F_8F_10_00 (17322617): GenesysGenVehiclesVehicleCategoryInfo
+
+69_1C_1D_00 (26245143): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+6F_72_00_00 (168597): GenesysGenSoundDistanceFalloff
+
+71_0D_22_00 (35853925): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenVfxLocatorGroupVehicleSpotEffectSequenceItem
+  
+72_72_00_00 (168600): GenesysGenSoundDistanceFalloff
+
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+74_0D_22_00 (35853928): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenVfxLocatorGroupVehicleSpotEffectSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+74_72_00_00 (168704): GenesysGenSoundDistanceFalloff
+
+78_0D_22_00 (35853938): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenVfxLocatorGroupVehicleSpotEffectSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+7C_0D_22_00 (35853942): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenVfxLocatorGroupVehicleSpotEffectSequenceItem
+  
+7F_0D_22_00 (35853945): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenVfxLocatorGroupVehicleSpotEffectSequenceItem
+  
+80_31_16_00 (21316708): GenesysGenVehiclePaint
+
+82_0D_22_00 (35853954): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenVfxLocatorGroupVehicleSpotEffectSequenceItem
+  
+85_0D_22_00 (35853957): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenVfxLocatorGroupVehicleSpotEffectSequenceItem
+  
+88_0D_22_00 (35853960): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenVfxLocatorGroupVehicleSpotEffectSequenceItem
+    - GenesysGenWaveSequenceItem
+  
+8D_67_0D_00 (8881271): GenesysGenMixerChannel
+
+90_A5_06_00 (4412928): GenesysGenNitrousParameters
+
+91_A5_06_00 (4412929): GenesysGenNitrousParameters
+
+92_A5_06_00 (4412930): GenesysGenNitrousParameters
+
+93_A5_06_00 (4412931): GenesysGenNitrousParameters
+
+9C_51_02_00 (1382756): GenesysGenCorona
+
+9F_A5_06_00 (4412949): GenesysGenVehiclesPerformanceUpgrades
+
+A9_53_02_00 (1385609): GenesysGenLightProjectedTexture
+
+AA_35_0F_00 (10053496): GenesysGenMixerChannel
+
+AA_53_02_00 (1385616): GenesysGenLightProjectedTexture
+
+AF_53_02_00 (1385621): GenesysGenLightCone
+
+B4_0D_22_00 (35854130): GenesysGenSteeringWheelBehaviour
+
+BB_51_02_00 (1382805): GenesysGenCorona
+
+BC_51_02_00 (1382806): GenesysGenCorona
+
+BD_51_02_00 (1382807): GenesysGenCorona
+
+BE_51_02_00 (1382808): GenesysGenCorona
+
+C0_51_02_00 (1384448): GenesysGenCorona
+
+C3_51_02_00 (1384451): GenesysGenCorona
+
+C3_64_06_00 (4296721): GenesysGenWheelDamage
+
+C4_64_06_00 (4296722): GenesysGenWheelDamage
+
+C5_64_06_00 (4296723): GenesysGenWheelDamage
+
+C6_51_02_00 (1384454): GenesysGenCorona
+
+C6_64_06_00 (4296724): GenesysGenWheelDamage
+
+C8_1C_1D_00 (26245394): GenesysGenEngineSound2
+
+C9_1C_1D_00 (26245395): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenGinsuSequenceItem
+  
+CB_7E_08_00 (5596999): GenesysGenMixerChannel
+
+CC_7E_08_00 (5597000): GenesysGenMixerChannel
+
+D4_B4_21_00 (35686784): GenesysGenVehicleVfxBehaviour
+
+D7_1C_1D_00 (26245415): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenRaceCarEffectSequenceItem
+  
+DB_50_0F_00 (16791353): GenesysGenMixerChannel
+
+DD_8F_06_00 (4390981): GenesysGenCameraGameplayShakeEffect
+
+EA_B4_21_00 (35688450): GenesysGenNitrousParameters
+
+F2_46_12_00 (18446352): GenesysGenCorona
+
+F4_C1_19_00 (23625810): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+F9_46_12_00 (18446359): GenesysGenLightSpot
+
+FA_46_12_00 (18446360): GenesysGenLightSpot
+
+FA_CD_19_00 (23662896): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  

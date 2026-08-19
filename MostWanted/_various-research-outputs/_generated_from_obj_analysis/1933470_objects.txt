@@ -1,0 +1,8 @@
+9E_80_1D_00 (26424432): GenesysGenFeedbackMessageGroup
+
+AE_49_13_00 (19284038): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenTeleportPlayerSequenceItem
+  

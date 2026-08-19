@@ -1,0 +1,9 @@
+F2_F5_15_00 (21205528): GenesysGenSequence
+more info:
+  count: 14
+  sequenceTypes:
+    - GenesysGenTeleportPlayerSequenceItem
+    - GenesysGenDriveLocalPlayerWithAisequenceItem
+    - GenesysGenSpawnTrafficSequenceItem
+  
+FA_F5_15_00 (21205542): GenesysGenFeedbackMessageGroup

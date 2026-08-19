@@ -1,0 +1,31 @@
+81_C8_08_00 (5723671): GenesysGenAiplayerType
+more info:
+  id: 81_C8_08_00
+  rolloutID: "(4C_FC_06_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[4]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 4
+  weavingType: 0
+  behaviour: 0
+  allowedToRespawn: 1
+  canRhino: 1
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 115
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(32_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[70]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 115
+  
+E9_2D_17_00 (22122625): GenesysGenSequence
+
+F9_2D_17_00 (22122647): GenesysGenFeedbackMessageGroup

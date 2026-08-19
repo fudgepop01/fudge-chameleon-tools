@@ -1,0 +1,27 @@
+21_08_0F_00 (9982241): GenesysGenLightSpot
+
+A3_53_02_00 (1385603): GenesysGenLightCone
+
+A9_53_02_00 (1385609): GenesysGenLightProjectedTexture
+
+AA_53_02_00 (1385616): GenesysGenLightProjectedTexture
+
+AE_53_02_00 (1385620): GenesysGenLightCone
+
+AF_53_02_00 (1385621): GenesysGenLightCone
+
+BF_20_02_00 (1283157): GenesysGenVehicleVfxBehaviour
+
+C6_51_02_00 (1384454): GenesysGenCorona
+
+C7_51_02_00 (1384455): GenesysGenCorona
+
+C8_51_02_00 (1384456): GenesysGenCorona
+
+C9_51_02_00 (1384457): GenesysGenCorona
+
+CA_51_02_00 (1384464): GenesysGenCorona
+
+CB_51_02_00 (1384465): GenesysGenCorona
+
+CC_51_02_00 (1384466): GenesysGenCorona

@@ -1,0 +1,7 @@
+73_A4_11_00 (18178577): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenTeleportPlayerSequenceItem
+  
+D9_80_1D_00 (26424617): GenesysGenFeedbackMessageGroup

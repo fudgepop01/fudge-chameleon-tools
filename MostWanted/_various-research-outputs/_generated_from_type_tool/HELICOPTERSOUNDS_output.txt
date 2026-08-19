@@ -1,0 +1,76 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.HelicopterSoundSet.Loop extends Genesys.Object
+  >> 14: (E9_32_00_00)
+  >> id: (FE_4D_3D_06)
+  0xC   : CgsResource.Handle
+           muId: {C2_F1_7E_11} ("Channel")
+  0x14  : CgsResource.Handle
+           muId: {65_76_61_57} ("Wave")
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : float32_t
+           muId: {A6_51_9D_3F}
+
+Genesys.Gen.HelicopterSoundSet.WashLoop extends Genesys.Object
+  >> 14: (EA_32_00_00)
+  >> id: (4A_2E_1C_3A)
+  0xC   : CgsResource.Handle
+           muId: {C2_F1_7E_11} ("Channel")
+  0x14  : CgsResource.Handle
+           muId: {65_76_61_57} ("Wave")
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : float32_t
+           muId: {A6_51_9D_3F}
+
+Genesys.Gen.HelicopterSoundSet.Passby extends Genesys.Object
+  >> 14: (EB_32_00_00)
+  >> id: (8A_6D_E9_F5)
+  0xC   : CgsResource.Handle
+           muId: {3A_DE_51_B6} ("Waves")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.HelicopterSoundSet extends Genesys.Object
+  >> 14: (38_28_00_00)
+  >> id: (C5_02_52_44)
+  0xC   : Genesys.Gen.HelicopterSoundSet.Loop
+           muId: {30_51_76_77} ("wvQ0")
+  0x30  : Genesys.Gen.HelicopterSoundSet.WashLoop
+           muId: {68_73_61_57} ("Wash")
+  0x54  : Genesys.Gen.HelicopterSoundSet.Passby
+           muId: {4E_77_35_E6}
+  0x6C  : Genesys.Gen.HelicopterSoundSet.Passby
+           muId: {6A_EC_4E_23}
+  0x84  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x88  : Genesys.Gen.HelicopterSoundSet.Loop * [size @ 0x90]
+           muId: {A0_4B_95_15}
+  0x8C  : Genesys.Gen.HelicopterSoundSet.Loop * [size @ 0x92]
+           muId: {27_81_A1_C3}
+  0x90  : uint16_t
+           muId: {78_0E_B6_2D}
+  0x92  : uint16_t
+           muId: {CC_97_96_54}

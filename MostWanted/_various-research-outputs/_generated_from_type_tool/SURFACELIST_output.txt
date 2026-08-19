@@ -1,0 +1,770 @@
+146165144147145160157160060061o
+
+
+1D_30_00_00
+  >> 14: (1D_30_00_00)
+  >> id: (72_89_45_9B)
+  0x0   : 
+           muId: {72_61_65_4E} ("Near")
+  0x1   : 
+           muId: {A9_79_61_AF} ("Mid")
+  0x2   : 
+           muId: {C7_B0_54_56} ("Far")
+  0x3   : 
+           muId: {83_C6_1A_AE}
+
+22_30_00_00
+  >> 14: (22_30_00_00)
+  >> id: (67_D7_0B_E4)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {F5_F5_17_79} ("Low")
+  0x2   : 
+           muId: {7C_11_17_37} ("Normal")
+  0x3   : 
+           muId: {D1_39_23_42} ("Extreme")
+
+27_30_00_00
+  >> 14: (27_30_00_00)
+  >> id: (5B_0C_BB_E9)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {43_1F_71_DE} ("Engine")
+  0x2   : 
+           muId: {64_69_6B_53} ("Skid")
+  0x3   : 
+           muId: {5C_54_8F_56} ("Player")
+  0x4   : 
+           muId: {4E_36_FD_D9} ("Competitor")
+  0x5   : 
+           muId: {66_34_1C_3B} ("Traffic")
+  0x6   : 
+           muId: {D6_A4_6E_A4} ("UI")
+
+2A_6B_07_00
+  >> 14: (2A_6B_07_00)
+  >> id: (50_60_80_1F)
+  0x0   : 
+           muId: {70_6F_74_53} ("Stop")
+  0x1   : 
+           muId: {14_C1_C5_4F} ("Restart")
+
+8E_30_00_00
+  >> 14: (8E_30_00_00)
+  >> id: (B3_E7_4E_09)
+  0x0   : 
+           muId: {62_E6_76_7D} ("Unassigned")
+  0x1   : 
+           muId: {74_73_61_46} ("Fast")
+  0x2   : 
+           muId: {78_8C_72_7C} ("Medium")
+  0x3   : 
+           muId: {77_6F_6C_53} ("Slow")
+  0x4   : 
+           muId: {DB_8F_09_52}
+  0x5   : 
+           muId: {91_78_47_E7} ("Count")
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+EE_33_07_00
+  >> 14: (EE_33_07_00)
+  >> id: (6C_BB_B2_36)
+  0x0   : 
+           muId: {41_2B_2C_3D} ("Source")
+  0x1   : 
+           muId: {02_3A_94_0F}
+  0x2   : 
+           muId: {01_3A_94_0F} ("PerceivesSeveral")
+  0x3   : 
+           muId: {00_3A_94_0F}
+  0x4   : 
+           muId: {07_3A_94_0F}
+  0x5   : 
+           muId: {06_3A_94_0F}
+  0x6   : 
+           muId: {05_3A_94_0F}
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+bool8_t
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.DigitalEnvelope.Data extends Genesys.Object
+  >> 14: (9C_32_00_00)
+  >> id: (1D_CC_7F_92)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {65_6D_69_54} ("Time")
+  0x14  : bool8_t
+           muId: {9B_D3_8A_B2} ("Value")
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.DigitalEnvelope extends Genesys.Object
+  >> 14: (C4_27_00_00)
+  >> id: (BB_3F_F3_CE)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.DigitalEnvelope.Data * [size @ 0x14]
+           muId: {61_74_61_44} ("Data")
+  0x14  : uint16_t
+           muId: {8D_E0_DC_CB} ("DataCount")
+
+Genesys.Gen.Envelope.Data extends Genesys.Object
+  >> 14: (B2_32_00_00)
+  >> id: (35_F4_56_AE)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {65_6D_69_54} ("Time")
+  0x14  : float32_t
+           muId: {9B_D3_8A_B2} ("Value")
+
+Genesys.Gen.Envelope extends Genesys.Object
+  >> 14: (DC_27_00_00)
+  >> id: (C9_A3_B8_E4)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.Envelope.Data * [size @ 0x14]
+           muId: {61_74_61_44} ("Data")
+  0x14  : uint16_t
+           muId: {8D_E0_DC_CB} ("DataCount")
+
+uint8_t
+  >> 14: (11_C0_AB_8E)
+  >> id: (35_34_7F_1D)
+
+Genesys.Gen.MixerChannel.Priority extends Genesys.Object
+  >> 14: (0E_6B_07_00)
+  >> id: (85_39_5F_B3)
+  0xC   : uint8_t
+           muId: {9B_68_CE_92} ("Priority")
+
+Genesys.Gen.VoiceGroup extends Genesys.Object
+  >> 14: (0C_6B_07_00)
+  >> id: (62_B3_C0_62)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : uint8_t
+           muId: {4C_B8_53_16} ("InstanceLimit")
+
+Genesys.Gen.MixerChannel extends Genesys.Object
+  >> 14: (8E_29_00_00)
+  >> id: (B1_24_9C_3F)
+  0xC   : CgsResource.Handle
+           muId: {4A_A1_7F_0E} ("DistanceFalloff")
+  0x14  : CgsResource.Handle
+           muId: {88_92_00_1A} ("PlugIn_Chain")
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : CgsCore.UniqueId
+           muId: {7D_0D_6B_05} ("MixingGroup")
+  0x24  : float32_t
+           muId: {C2_3F_57_73} ("CentreLevel")
+  0x28  : float32_t
+           muId: {79_5A_36_D6} ("EmitterResponse")
+  0x2C  : float32_t
+           muId: {FD_08_94_F0} ("Focus")
+  0x30  : float32_t
+           muId: {6E_69_61_47} ("Gain")
+  0x34  : float32_t
+           muId: {4F_53_21_5B} ("LfeSend")
+  0x38  : float32_t
+           muId: {9F_77_01_21} ("Panning_Cosine")
+  0x3C  : float32_t
+           muId: {E1_A4_56_BD} ("Panning_Divergence")
+  0x40  : float32_t
+           muId: {F1_05_29_47} ("Panning_Sine")
+  0x44  : float32_t
+           muId: {9B_07_B9_70} ("ReverbSendA")
+  0x48  : float32_t
+           muId: {98_07_B9_70} ("ReverbSendB")
+  0x4C  : Genesys.Gen.MixerChannel.Priority * [size @ 0x58]
+           muId: {9B_68_CE_92} ("Priority")
+  0x50  : Genesys.Gen.VoiceGroup *
+           muId: {56_E4_48_B9} ("VoiceGroup")
+  0x54  : 22_30_00_00
+           muId: {94_C6_5E_43} ("DopplerModel")
+  0x56  : 2A_6B_07_00
+           muId: {E9_66_1E_49} ("VirtualVoiceBehaviour")
+  0x58  : uint16_t
+           muId: {9F_60_76_95} ("PriorityCount")
+  0x5A  : bool8_t
+           muId: {27_D0_1D_3D} ("CullPlayingVoices")
+  0x5B  : bool8_t
+           muId: {CE_F5_F5_67} ("Panning_Override")
+  0x5C  : uint8_t
+           muId: {4C_B8_53_16} ("InstanceLimit")
+
+Genesys.Gen.RumbleEffect.Channel extends Genesys.Object
+  >> 14: (33_33_00_00)
+  >> id: (65_C4_03_90)
+  0xC   : CgsResource.Handle
+           muId: {2F_F9_35_4D} ("Envelope")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+
+Genesys.Gen.RumbleEffect.DigitalChannel extends Genesys.Object
+  >> 14: (34_33_00_00)
+  >> id: (56_72_A4_67)
+  0xC   : CgsResource.Handle
+           muId: {2F_F9_35_4D} ("Envelope")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+
+Genesys.Gen.RumbleEffect extends Genesys.Object
+  >> 14: (F2_29_00_00)
+  >> id: (E1_6B_97_28)
+  0xC   : Genesys.Gen.RumbleEffect.Channel
+           muId: {7B_09_83_81}
+  0x28  : Genesys.Gen.RumbleEffect.Channel
+           muId: {6D_60_5C_74}
+  0x44  : Genesys.Gen.RumbleEffect.Channel
+           muId: {EE_2A_17_21}
+  0x60  : Genesys.Gen.RumbleEffect.Channel
+           muId: {CD_2D_5E_BE}
+  0x7C  : Genesys.Gen.RumbleEffect.DigitalChannel
+           muId: {17_4A_9B_A5}
+  0x98  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x9C  : bool8_t
+           muId: {70_6F_6F_4C} ("Loop")
+
+Genesys.Gen.SoundDistanceFalloff extends Genesys.Object
+  >> 14: (38_2A_00_00)
+  >> id: (23_47_36_54)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {07_41_3A_21} ("CurveType")
+  0x14  : float32_t
+           muId: {2A_FB_3E_D1} ("CurveTypeReverb")
+  0x18  : float32_t
+           muId: {8D_66_2A_27} ("DivergenceAtMaxDistance")
+  0x1C  : float32_t
+           muId: {D8_4F_56_CF} ("DivergenceAtMinDistance")
+  0x20  : float32_t
+           muId: {74_8F_F1_1B}
+  0x24  : float32_t
+           muId: {FC_77_BD_96}
+  0x28  : float32_t
+           muId: {D0_01_2D_7F} ("InitialGain")
+  0x2C  : float32_t
+           muId: {3F_82_D0_2E}
+  0x30  : float32_t
+           muId: {C1_B2_E1_99} ("ArraysMotioned")
+  0x34  : float32_t
+           muId: {87_CE_BE_F5} ("MaxDistance")
+  0x38  : float32_t
+           muId: {75_62_45_EE} ("MaxDistanceDivergence")
+  0x3C  : float32_t
+           muId: {5F_B0_29_FC} ("MaxDistanceReverb")
+  0x40  : float32_t
+           muId: {D2_E7_C2_1D} ("MinDistance")
+  0x44  : float32_t
+           muId: {A3_6B_A8_B1} ("MinDistanceDivergence")
+  0x48  : float32_t
+           muId: {38_40_70_7D} ("MinDistanceReverb")
+  0x4C  : float32_t
+           muId: {0E_BA_69_63} ("OcclusionMultiplier")
+  0x50  : float32_t
+           muId: {E7_CF_0B_26} ("PeakGain")
+  0x54  : float32_t
+           muId: {8C_03_DE_1E}
+  0x58  : float32_t
+           muId: {6B_E3_F8_04} ("ReverbInitialGain")
+
+Genesys.Gen.SurfacePhysics.TyreSpecificOverrides extends Genesys.Object
+  >> 14: (B8_5D_0F_00)
+  >> id: (B0_D4_2F_5A)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {18_9F_2A_5C}
+  0x14  : float32_t
+           muId: {32_C2_11_73}
+  0x18  : float32_t
+           muId: {CB_F9_85_75}
+
+Genesys.Gen.SurfacePhysics.Surface_roughness extends Genesys.Object
+  >> 14: (47_33_00_00)
+  >> id: (98_A4_89_B5)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {9B_FD_93_81}
+  0x14  : float32_t
+           muId: {33_89_B5_7C}
+
+Genesys.Gen.SurfacePhysics extends Genesys.Object
+  >> 14: (4D_2A_00_00)
+  >> id: (AC_DD_5B_A4)
+  0xC   : Genesys.Gen.SurfacePhysics.TyreSpecificOverrides
+           muId: {63_64_B6_08}
+  0x28  : Genesys.Gen.SurfacePhysics.TyreSpecificOverrides
+           muId: {5F_0D_9D_52}
+  0x44  : Genesys.Gen.SurfacePhysics.TyreSpecificOverrides
+           muId: {D5_42_CC_32}
+  0x60  : Genesys.Gen.SurfacePhysics.TyreSpecificOverrides
+           muId: {8A_C1_0B_6E}
+  0x7C  : Genesys.Gen.SurfacePhysics.TyreSpecificOverrides
+           muId: {6A_D9_0E_8E}
+  0x98  : Genesys.Gen.SurfacePhysics.Surface_roughness
+           muId: {BE_74_63_57}
+  0xB0  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xB4  : 8E_30_00_00
+           muId: {5D_47_F8_88}
+
+Genesys.Gen.SurfaceReflection extends Genesys.Object
+  >> 14: (7A_37_0B_00)
+  >> id: (20_D4_8B_CA)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {6E_69_61_47} ("Gain")
+  0x14  : float32_t
+           muId: {A1_D8_A4_3A}
+  0x18  : float32_t
+           muId: {16_6A_DD_A9}
+  0x1C  : float32_t
+           muId: {3F_6A_64_3A} ("Occlusion")
+  0x20  : float32_t
+           muId: {55_D0_97_1F}
+
+Genesys.Gen.SurfaceSounds extends Genesys.Object
+  >> 14: (4F_2A_00_00)
+  >> id: (0F_F7_21_D9)
+  0xC   : CgsResource.Handle
+           muId: {37_60_92_FE} ("Brake")
+  0x14  : CgsResource.Handle
+           muId: {03_EC_90_1D}
+  0x1C  : CgsResource.Handle
+           muId: {94_20_1C_E4} ("Drift")
+  0x24  : CgsResource.Handle
+           muId: {E0_8E_5D_55}
+  0x2C  : CgsResource.Handle
+           muId: {44_86_9C_65} ("Reflection")
+  0x34  : CgsResource.Handle
+           muId: {3A_87_48_46}
+  0x3C  : CgsResource.Handle
+           muId: {3B_F0_76_13}
+  0x44  : CgsResource.Handle
+           muId: {6E_69_70_53} ("Spin")
+  0x4C  : CgsResource.Handle
+           muId: {67_1A_B4_E5}
+  0x54  : CgsResource.Handle
+           muId: {10_FB_DE_6B}
+  0x5C  : CgsResource.Handle
+           muId: {F7_FE_1A_F1}
+  0x64  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x68  : CgsResource.Handle * [size @ 0x88]
+           muId: {6A_9B_B2_EC}
+  0x6C  : CgsResource.Handle * [size @ 0x8A]
+           muId: {21_7B_9E_F9} ("Bumps")
+  0x70  : CgsResource.Handle * [size @ 0x8C]
+           muId: {ED_72_E3_DF}
+  0x74  : CgsResource.Handle * [size @ 0x8E]
+           muId: {A7_A9_4B_1D}
+  0x78  : CgsResource.Handle * [size @ 0x90]
+           muId: {B8_D1_A0_B2} ("Transitions")
+  0x7C  : float32_t
+           muId: {66_45_99_0F}
+  0x80  : float32_t
+           muId: {52_AE_94_BD}
+  0x84  : float32_t
+           muId: {E3_CB_AC_E0}
+  0x88  : uint16_t
+           muId: {91_1F_57_36}
+  0x8A  : uint16_t
+           muId: {00_E5_07_AB}
+  0x8C  : uint16_t
+           muId: {19_03_AB_8C}
+  0x8E  : uint16_t
+           muId: {97_A0_AD_40}
+  0x90  : uint16_t
+           muId: {18_F1_70_03} ("TransitionsCount")
+
+rw.math.vpu.Vector4
+  >> 14: (12_9F_20_28)
+  >> id: (C2_29_A8_2F)
+  0x0   : float32_t [4] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+Genesys.Gen.SurfaceType.Surface_weather_conditions.Contact_Type extends Genesys.Object
+  >> 14: (29_F1_07_00)
+  >> id: (C6_51_E4_24)
+  0xC   : CgsResource.Handle
+           muId: {B6_8E_14_D3}
+  0x14  : CgsResource.Handle
+           muId: {E9_84_CC_EB}
+  0x1C  : CgsResource.Handle
+           muId: {85_40_42_42}
+
+Genesys.Gen.SurfaceType.Surface_weather_conditions extends Genesys.Object
+  >> 14: (49_33_00_00)
+  >> id: (33_A2_BF_5E)
+  0xC   : Genesys.Gen.SurfaceType.Surface_weather_conditions.Contact_Type
+           muId: {FD_09_96_F3} ("Flats")
+  0x30  : Genesys.Gen.SurfaceType.Surface_weather_conditions.Contact_Type
+           muId: {7C_11_17_37} ("Normal")
+  0x54  : Genesys.Gen.SurfaceType.Surface_weather_conditions.Contact_Type
+           muId: {1F_8F_01_75}
+  0x78  : Genesys.Gen.SurfaceType.Surface_weather_conditions.Contact_Type
+           muId: {73_6D_69_52} ("Rims")
+  0x9C  : Genesys.Gen.SurfaceType.Surface_weather_conditions.Contact_Type
+           muId: {FB_FE_05_A8} ("Track")
+  0xC0  : CgsResource.Handle
+           muId: {6E_4A_7A_F0}
+  0xC8  : CgsResource.Handle
+           muId: {61_92_B3_8D}
+
+Genesys.Gen.SurfaceType.Collision_Rumble extends Genesys.Object
+  >> 14: (4A_33_00_00)
+  >> id: (FF_8E_B5_1E)
+  0xC   : CgsResource.Handle * [size @ 0x1C]
+           muId: {3D_CC_0F_D1} ("Large")
+  0x10  : CgsResource.Handle * [size @ 0x1D]
+           muId: {78_8C_72_7C} ("Medium")
+  0x14  : CgsResource.Handle * [size @ 0x1E]
+           muId: {65_6E_6F_4E} ("None")
+  0x18  : CgsResource.Handle * [size @ 0x1F]
+           muId: {F9_A1_42_A9} ("Small")
+  0x1C  : uint8_t
+           muId: {CD_CC_EB_74}
+  0x1D  : uint8_t
+           muId: {90_30_C6_67}
+  0x1E  : uint8_t
+           muId: {A8_00_F0_74}
+  0x1F  : uint8_t
+           muId: {25_47_B1_F8}
+
+Genesys.Gen.SurfaceType extends Genesys.Object
+  >> 14: (50_2A_00_00)
+  >> id: (BF_1F_8E_99)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+  0x20  : Genesys.Gen.SurfaceType.Surface_weather_conditions
+           muId: {19_B0_95_F3}
+  0xF0  : Genesys.Gen.SurfaceType.Surface_weather_conditions
+           muId: {25_BE_48_73}
+  0x1C0 : Genesys.Gen.SurfaceType.Collision_Rumble
+           muId: {DB_9A_4F_0C}
+  0x1E0 : CgsResource.Handle
+           muId: {5D_69_1E_77} ("Collision_Sounds")
+  0x1E8 : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x1EC : float32_t
+           muId: {E5_8D_87_C0}
+  0x1F0 : bool8_t
+           muId: {E5_27_E0_A8}
+  0x1F1 : bool8_t
+           muId: {18_E4_1F_7C}
+  0x1F2 : bool8_t
+           muId: {8B_1C_75_A5}
+  0x1F3 : bool8_t
+           muId: {47_26_27_31}
+  0x1F4 : bool8_t
+           muId: {F2_91_4F_19}
+  0x1F5 : bool8_t
+           muId: {04_66_3B_BF}
+  0x1F6 : bool8_t
+           muId: {F4_82_45_00}
+  0x1F7 : bool8_t
+           muId: {E7_83_BE_12}
+  0x1F8 : bool8_t
+           muId: {6A_7E_F3_38}
+
+Genesys.Gen.SurfaceVehicleEffects.Effect extends Genesys.Object
+  >> 14: (ED_28_10_00)
+  >> id: (BB_D5_DB_41)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {62_12_1C_EA}
+  0x14  : float32_t
+           muId: {04_A5_79_09}
+
+Genesys.Gen.SurfaceVehicleEffects extends Genesys.Object
+  >> 14: (EC_28_10_00)
+  >> id: (90_D2_AD_CC)
+  0xC   : Genesys.Gen.SurfaceVehicleEffects.Effect
+           muId: {74_72_69_44} ("Dirt")
+  0x24  : Genesys.Gen.SurfaceVehicleEffects.Effect
+           muId: {74_73_75_44} ("Dust")
+  0x3C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x40  : float32_t
+           muId: {32_CE_9E_0D}
+  0x44  : float32_t
+           muId: {83_BA_BB_F8}
+
+Genesys.Gen.SurfaceVfx.TyreMarksMaterials extends Genesys.Object
+  >> 14: (E6_5F_0F_00)
+  >> id: (45_AA_3D_91)
+  0xC   : CgsResource.Handle
+           muId: {09_6A_F1_EF} ("CrossRoad")
+  0x14  : CgsResource.Handle
+           muId: {1F_8F_01_75}
+  0x1C  : CgsResource.Handle
+           muId: {64_61_6F_52} ("Road")
+  0x24  : CgsResource.Handle
+           muId: {E1_BF_4C_B4} ("Sport")
+  0x2C  : CgsResource.Handle
+           muId: {FB_FE_05_A8} ("Track")
+
+Genesys.Gen.SurfaceVfx extends Genesys.Object
+  >> 14: (51_2A_00_00)
+  >> id: (5C_8C_74_6D)
+  0xC   : Genesys.Gen.SurfaceVfx.TyreMarksMaterials
+           muId: {E9_5D_CB_75}
+  0x40  : CgsResource.Handle
+           muId: {A9_83_CC_CF}
+  0x48  : CgsResource.Handle
+           muId: {A9_75_75_F4}
+  0x50  : CgsResource.Handle
+           muId: {FA_1C_BC_4B}
+  0x58  : CgsResource.Handle
+           muId: {83_A8_30_58}
+  0x60  : CgsResource.Handle
+           muId: {AC_27_E3_3D}
+  0x68  : CgsResource.Handle
+           muId: {41_DA_C2_DD}
+  0x70  : CgsResource.Handle
+           muId: {DE_8D_90_27}
+  0x78  : CgsResource.Handle
+           muId: {75_31_C6_62}
+  0x80  : CgsResource.Handle
+           muId: {B9_9E_FE_3F}
+  0x88  : CgsResource.Handle
+           muId: {0A_C6_A0_59}
+  0x90  : CgsResource.Handle
+           muId: {8A_5D_1D_BF}
+  0x98  : CgsResource.Handle
+           muId: {EB_EE_BD_47}
+  0xA0  : CgsResource.Handle
+           muId: {46_A2_D3_7F}
+  0xA8  : CgsResource.Handle
+           muId: {18_BE_C3_44}
+  0xB0  : CgsResource.Handle
+           muId: {19_96_1C_11}
+  0xB8  : CgsResource.Handle
+           muId: {23_DE_5A_91}
+  0xC0  : CgsResource.Handle
+           muId: {20_25_78_CD}
+  0xC8  : CgsResource.Handle
+           muId: {75_A3_15_52}
+  0xD0  : CgsResource.Handle
+           muId: {B9_78_D4_2E}
+  0xD8  : CgsResource.Handle
+           muId: {9F_1C_3B_B1}
+  0xE0  : CgsResource.Handle
+           muId: {81_85_99_AD}
+  0xE8  : CgsResource.Handle
+           muId: {6C_31_47_87}
+  0xF0  : CgsResource.Handle
+           muId: {CA_89_9D_AC}
+  0xF8  : CgsResource.Handle
+           muId: {BF_36_4D_98}
+  0x100 : CgsResource.Handle
+           muId: {3C_33_02_BB}
+  0x108 : CgsResource.Handle
+           muId: {E1_DA_53_EF}
+  0x110 : CgsResource.Handle
+           muId: {08_27_8F_1E}
+  0x118 : CgsResource.Handle
+           muId: {FD_B4_D1_01}
+  0x120 : CgsResource.Handle
+           muId: {CE_C1_67_F9}
+  0x128 : CgsResource.Handle
+           muId: {3C_9C_C4_E4} ("WheelSpotEffect")
+  0x130 : CgsResource.Handle
+           muId: {8D_B6_31_44}
+  0x138 : CgsResource.Handle
+           muId: {9A_C5_6B_60}
+  0x140 : CgsResource.Handle
+           muId: {8F_CF_F3_4C}
+  0x148 : CgsResource.Handle
+           muId: {8D_C6_9C_66}
+  0x150 : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x154 : bool8_t
+           muId: {D7_57_44_83}
+  0x155 : bool8_t
+           muId: {E6_C0_E7_6D}
+  0x156 : bool8_t
+           muId: {0D_21_2E_52}
+  0x157 : bool8_t
+           muId: {EB_DF_8E_90}
+
+Genesys.Gen.Surfaces extends Genesys.Object
+  >> 14: (4E_2A_00_00)
+  >> id: (18_B5_68_16)
+  0xC   : CgsResource.Handle
+           muId: {7C_31_D2_B2}
+  0x14  : CgsResource.Handle
+           muId: {A6_69_46_67}
+  0x1C  : CgsResource.Handle
+           muId: {28_34_DF_06}
+  0x24  : CgsResource.Handle
+           muId: {78_B1_CF_C1}
+  0x2C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x30  : CgsCore.UniqueId * [size @ 0x38]
+           muId: {C1_51_36_42}
+  0x34  : CgsResource.Handle * [size @ 0x3A]
+           muId: {F7_FB_83_2E} ("Surfaces")
+  0x38  : uint16_t
+           muId: {4C_8F_37_DC}
+  0x3A  : uint16_t
+           muId: {00_75_15_AC} ("SurfacesCount")
+
+Genesys.Gen.TyreSoundParams.Lateral extends Genesys.Object
+  >> 14: (55_33_00_00)
+  >> id: (21_9F_DA_00)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {3F_F7_8B_6C}
+  0x14  : float32_t
+           muId: {C2_16_EE_11}
+  0x18  : float32_t
+           muId: {79_60_51_04}
+  0x1C  : float32_t
+           muId: {FE_6F_B6_C0}
+  0x20  : float32_t
+           muId: {D5_8B_A2_EE}
+  0x24  : float32_t
+           muId: {7B_BF_80_84}
+  0x28  : float32_t
+           muId: {BC_23_8F_26}
+  0x2C  : float32_t
+           muId: {CE_B1_6A_DE}
+
+Genesys.Gen.TyreSoundParams.LatSlip extends Genesys.Object
+  >> 14: (EB_4E_0F_00)
+  >> id: (33_43_76_65)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {C2_5E_35_72}
+  0x14  : float32_t
+           muId: {70_DD_C5_07}
+  0x18  : float32_t
+           muId: {D6_D1_6E_16}
+  0x1C  : float32_t
+           muId: {23_79_05_4B}
+  0x20  : float32_t
+           muId: {97_06_5A_2F}
+  0x24  : float32_t
+           muId: {4D_41_61_79} ("yaAM")
+
+Genesys.Gen.TyreSoundParams.Longitudinal extends Genesys.Object
+  >> 14: (56_33_00_00)
+  >> id: (B2_61_5D_31)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {9E_75_A4_71}
+  0x14  : float32_t
+           muId: {6B_06_3B_8F}
+  0x18  : float32_t
+           muId: {76_83_8B_8C}
+  0x1C  : float32_t
+           muId: {66_CD_25_E8}
+  0x20  : float32_t
+           muId: {1B_88_0B_3F}
+  0x24  : float32_t
+           muId: {EE_FB_94_C1}
+
+Genesys.Gen.TyreSoundParams.LongSpinBraking extends Genesys.Object
+  >> 14: (EA_4E_0F_00)
+  >> id: (BE_23_B7_07)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {C2_5E_35_72}
+  0x14  : float32_t
+           muId: {70_DD_C5_07}
+  0x18  : float32_t
+           muId: {19_1B_A7_3F}
+  0x1C  : float32_t
+           muId: {23_79_05_4B}
+  0x20  : float32_t
+           muId: {DE_00_1D_55}
+  0x24  : float32_t
+           muId: {4D_41_61_79} ("yaAM")
+
+Genesys.Gen.TyreSoundParams.LongSpin extends Genesys.Object
+  >> 14: (E9_4E_0F_00)
+  >> id: (7C_10_B4_65)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {C2_5E_35_72}
+  0x14  : float32_t
+           muId: {70_DD_C5_07}
+  0x18  : float32_t
+           muId: {7C_7A_12_E4}
+  0x1C  : float32_t
+           muId: {8B_4E_C6_9C}
+  0x20  : float32_t
+           muId: {4D_41_61_79} ("yaAM")
+
+Genesys.Gen.TyreSoundParams extends Genesys.Object
+  >> 14: (73_2A_00_00)
+  >> id: (B6_0A_56_BE)
+  0xC   : Genesys.Gen.TyreSoundParams.Lateral
+           muId: {FA_E4_29_12} ("Lateral")
+  0x3C  : Genesys.Gen.TyreSoundParams.LatSlip
+           muId: {63_E4_35_07}
+  0x64  : Genesys.Gen.TyreSoundParams.Longitudinal
+           muId: {85_3E_F7_ED}
+  0x8C  : Genesys.Gen.TyreSoundParams.LongSpinBraking
+           muId: {3F_2C_22_64}
+  0xB4  : Genesys.Gen.TyreSoundParams.LongSpin
+           muId: {B3_16_00_03} ("Long_Spin")
+  0xD8  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.VfxWheelEffects extends Genesys.Object
+  >> 14: (A8_BD_07_00)
+  >> id: (CA_7C_74_90)
+  0xC   : CgsResource.Handle
+           muId: {2F_94_38_13}
+  0x14  : CgsResource.Handle
+           muId: {63_18_AC_61}
+  0x1C  : CgsResource.Handle
+           muId: {08_C1_CB_C1} ("OnRims")
+  0x24  : CgsResource.Handle
+           muId: {0C_15_A7_E7}
+  0x2C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+int16_t
+  >> 14: (35_0C_D4_BF)
+  >> id: (56_24_52_29)

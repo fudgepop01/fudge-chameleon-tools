@@ -1,0 +1,36 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.FeedbackMessageGroup extends Genesys.Object
+  >> 14: (02_28_00_00)
+  >> id: (73_F7_11_76)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsResource.Handle * [size @ 0x1C]
+           muId: {35_93_D1_74} ("Messages")
+  0x14  : CgsResource.Handle * [size @ 0x20]
+           muId: {E4_DD_64_1F} ("Sequences")
+  0x18  : CgsResource.Handle * [size @ 0x1E]
+           muId: {B4_C2_74_A1}
+  0x1C  : uint16_t
+           muId: {A2_DA_20_40} ("MessagesCount")
+  0x1E  : uint16_t
+           muId: {6F_C4_2E_77}
+  0x20  : uint16_t
+           muId: {CE_B7_4D_B9} ("SequencesCount")

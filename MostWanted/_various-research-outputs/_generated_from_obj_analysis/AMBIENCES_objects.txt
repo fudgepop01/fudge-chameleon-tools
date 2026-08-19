@@ -1,0 +1,19 @@
+07_7A_00_00 (201273): GenesysGenAmbienceSet
+
+2C_69_0F_00 (16816484): GenesysGenAmbience
+
+5B_02_0D_00 (8725873): GenesysGenAmbience
+
+5D_02_0D_00 (8725875): GenesysGenAmbience
+
+5E_02_0D_00 (8725876): GenesysGenAmbience
+
+5F_02_0D_00 (8725877): GenesysGenAmbience
+
+60_02_0D_00 (8725878): GenesysGenAmbience
+
+8B_05_1C_00 (25388071): GenesysGenAmbience
+
+8C_05_1C_00 (25388072): GenesysGenAmbience
+
+A9_68_0F_00 (16816179): GenesysGenAmbience

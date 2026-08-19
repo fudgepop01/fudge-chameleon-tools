@@ -1,0 +1,47 @@
+28_45_19_00 (23421188): GenesysGenAiplayerType
+more info:
+  id: 28_45_19_00
+  rolloutID: "(1D_F5_05_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[2]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 12
+  weavingType: 0
+  behaviour: 12
+  allowedToRespawn: 1
+  canRhino: 0
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 110
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(2D_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[68]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 160
+  
+63_72_21_00 (35199345): GenesysGenFeedbackMessageGroup
+
+D2_6E_21_00 (35197016): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(D4_6E_21_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[39]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  
+D6_E5_22_00 (36204642): GenesysGenSequence
+
+DB_E5_22_00 (36204647): GenesysGenSequence
+
+EC_E5_22_00 (36204676): GenesysGenSequence
+
+F3_E5_22_00 (36204689): GenesysGenSequence

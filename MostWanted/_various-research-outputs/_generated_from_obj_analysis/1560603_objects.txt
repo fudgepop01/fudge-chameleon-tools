@@ -1,0 +1,18 @@
+1B_D0_17_00 (22414851): GenesysGenFeedbackMessageGroup
+
+48_89_1C_00 (25624914): GenesysGenMixerChannel
+
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+82_72_00_00 (168724): GenesysGenMixingGroup
+
+BE_C1_18_00 (23209058): GenesysGenCharacterAudioSettings
+
+FC_CF_17_00 (22414706): GenesysGenSequence
+more info:
+  count: 3
+  sequenceTypes:
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenSpeechScriptLineSequenceItem
+  /instSequenceItems0x20[2]/instGenesysGenSpeechScriptLine0x24[0]/instGenesysGenSpeechLocalisedWaves0x18cgsCoreUniqueId0xc: "37_EB_1E_00"
+  

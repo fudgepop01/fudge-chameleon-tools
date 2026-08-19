@@ -1,0 +1,41 @@
+48_89_1C_00 (25624914): GenesysGenMixerChannel
+
+63_D0_17_00 (22414965): GenesysGenFeedbackMessageGroup
+
+65_CD_06_00 (4478871): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+82_72_00_00 (168724): GenesysGenMixingGroup
+
+8E_86_01_00 (629122): GenesysGenUilayoutInstanceParams
+
+94_7A_01_00 (616726): GenesysGenUitechnique
+
+95_7A_01_00 (616727): GenesysGenUimaterial
+
+99_7A_01_00 (616737): GenesysGenUitechnique
+
+9B_7A_01_00 (616739): GenesysGenUitechnique
+
+B2_F2_13_00 (19952404): GenesysGenSequence
+more info:
+  count: 8
+  sequenceTypes:
+    - GenesysGenSlowMoSequenceItem
+    - GenesysGenMovieSequenceItem
+    - GenesysGenLayoutSequenceItem
+    - GenesysGenDisableWorldRenderingSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenSpeechScriptLineSequenceItem
+  /instSequenceItems0x20[2]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[2]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[2]cgsCoreUniqueId0x54: "00_00_00_00"
+  /instSequenceItems0x20[6]/instGenesysGenSpeechScriptLine0x24[0]/instGenesysGenSpeechLocalisedWaves0x18cgsCoreUniqueId0xc: "53_EB_1E_00"
+  /instSequenceItems0x20[7]/instGenesysGenSpeechScriptLine0x24[0]/instGenesysGenSpeechLocalisedWaves0x18cgsCoreUniqueId0xc: "4B_EB_1E_00"
+  
+BE_C1_18_00 (23209058): GenesysGenCharacterAudioSettings

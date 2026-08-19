@@ -98,7 +98,13 @@ more info:
 24_FB_13_00 (19960950): GenesysGenFlashPattern
 
 25_0C_06_00 (3760933): GenesysGenVehicleGameplay
-
+more info:
+  cgsCoreUniqueId0x94: "F2_F9_01_00"
+  cgsCoreUniqueId0x98: "00_00_00_00"
+  cgsCoreUniqueId0x9c: "F2_F9_01_00"
+  cgsCoreUniqueId0xa0: "00_00_00_00"
+  cgsCoreUniqueId0xa4: "AE_DE_05_00"
+  
 25_4E_0F_00 (16789573): GenesysGenSequence
 more info:
   count: 7
@@ -268,7 +274,9 @@ more info:
 48_21_18_00 (22549380): GenesysGenMixerChannel
 
 4B_DF_01_00 (1189529): GenesysGenVehicleComponent
-
+more info:
+  cgsCoreUniqueId0x6c: "7A_98_10_00"
+  
 4B_DF_01_00_2 (1189529): GenesysGenRaceCarPhysicalDefinition
 
 53_1C_1D_00 (26245013): GenesysGenSequence
@@ -280,7 +288,10 @@ more info:
 5D_24_1A_00 (24195653): GenesysGenMixerChannel
 
 6C_EF_05_00 (3705202): GenesysGenVehicleDriverSetup
-
+more info:
+  cgsCoreUniqueId0x2c: "B6_79_17_00"
+  cgsCoreUniqueId0x30: "B5_79_17_00"
+  
 6D_1C_1D_00 (26245153): GenesysGenSequence
 more info:
   count: 1
@@ -296,7 +307,9 @@ more info:
 74_72_00_00 (168704): GenesysGenSoundDistanceFalloff
 
 75_0B_06_00 (3760457): GenesysGenVehicleSound
-
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  
 89_8F_10_00 (17322785): GenesysGenTyreVfxBehaviour
 
 8D_67_0D_00 (8881271): GenesysGenMixerChannel

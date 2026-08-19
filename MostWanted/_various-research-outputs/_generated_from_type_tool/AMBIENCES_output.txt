@@ -1,0 +1,42 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.Ambience extends Genesys.Object
+  >> 14: (1E_27_00_00)
+  >> id: (65_33_12_48)
+  0xC   : CgsResource.Handle
+           muId: {C5_04_FB_7F} ("Covered")
+  0x14  : CgsResource.Handle
+           muId: {1C_98_9E_42} ("Day")
+  0x1C  : CgsResource.Handle
+           muId: {42_F8_98_D0} ("Night")
+  0x24  : CgsResource.Handle
+           muId: {D1_00_CC_FE} ("Twilight")
+  0x2C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.AmbienceSet extends Genesys.Object
+  >> 14: (1F_27_00_00)
+  >> id: (EF_01_3C_EE)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsResource.Handle * [size @ 0x14]
+           muId: {E9_40_98_37}
+  0x14  : uint16_t
+           muId: {06_F1_00_F0}

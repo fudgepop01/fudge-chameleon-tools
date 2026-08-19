@@ -1,0 +1,642 @@
+146165144147145160157160060061o
+
+
+02_5E_0F_00
+  >> 14: (02_5E_0F_00)
+  >> id: (37_ED_86_8A)
+  0x0   : 
+           muId: {49_C8_DC_DE} ("EngineTorque")
+  0x1   : 
+           muId: {F7_7D_BF_4A} ("DriftYawTorque")
+  0x2   : 
+           muId: {35_E6_76_83} ("FrontDrag")
+  0x3   : 
+           muId: {58_36_19_E5}
+  0x4   : 
+           muId: {1F_C8_FB_35}
+  0x5   : 
+           muId: {4F_66_3B_75}
+  0x6   : 
+           muId: {EB_97_7D_D9}
+  0x7   : 
+           muId: {E6_DE_36_49}
+  0x8   : 
+           muId: {8C_5E_90_07} ("ToughnessVsRaceCar")
+  0x9   : 
+           muId: {1B_BE_6C_FA} ("ToughnessVsAI")
+  0xA   : 
+           muId: {21_42_5E_6B} ("ToughnessVsTraffic")
+  0xB   : 
+           muId: {6E_07_7E_18}
+  0xC   : 
+           muId: {5A_6A_D1_BD} ("ToughnessVsWorld")
+  0xD   : 
+           muId: {6D_2B_33_B1} ("ToughnessVsDynamic")
+  0xE   : 
+           muId: {75_CA_4E_33}
+  0xF   : 
+           muId: {8E_03_96_04}
+  0x10  : 
+           muId: {21_E4_5B_3A}
+  0x11  : 
+           muId: {1B_2D_BF_6E}
+  0x12  : 
+           muId: {73_73_61_4D} ("Mass")
+  0x13  : 
+           muId: {B2_60_1C_2D} ("Strength")
+  0x14  : 
+           muId: {3E_55_14_04} ("GearChangeTime")
+  0x15  : 
+           muId: {4F_1B_63_23}
+  0x16  : 
+           muId: {37_52_75_46} ("FuR7")
+  0x17  : 
+           muId: {7D_53_63_60}
+  0x18  : 
+           muId: {E9_BE_52_AC}
+  0x19  : 
+           muId: {1C_A0_FC_33}
+  0x1A  : 
+           muId: {72_A3_68_A1}
+  0x1B  : 
+           muId: {F7_D7_2A_79} ("RollAngleLimit")
+  0x1C  : 
+           muId: {07_24_9F_86}
+  0x1D  : 
+           muId: {30_45_B3_5D} ("ImpactCamShake")
+  0x1E  : 
+           muId: {D6_07_89_B9}
+  0x1F  : 
+           muId: {CA_79_34_CE} ("GravityMultiplier")
+  0x20  : 
+           muId: {60_04_D6_C2}
+  0x21  : 
+           muId: {38_97_59_24} ("TransmissionWhine")
+  0x22  : 
+           muId: {94_63_E6_72}
+  0x23  : 
+           muId: {04_FF_29_68}
+  0x24  : 
+           muId: {A3_A1_B3_14}
+  0x25  : 
+           muId: {92_0D_02_F7}
+  0x26  : 
+           muId: {B9_CB_E2_8F}
+  0x27  : 
+           muId: {F0_37_85_CC}
+  0x28  : 
+           muId: {29_00_11_E8} ("GearUpSpeed")
+  0x29  : 
+           muId: {FB_60_5C_84}
+  0x2A  : 
+           muId: {5F_AE_BE_9A}
+  0x2B  : 
+           muId: {30_00_88_7F}
+  0x2C  : 
+           muId: {23_DB_9A_53}
+  0x2D  : 
+           muId: {52_F0_9C_F7}
+  0x2E  : 
+           muId: {88_35_60_8F} ("PityingGun")
+  0x2F  : 
+           muId: {61_15_27_20}
+  0x30  : 
+           muId: {D7_44_9E_38}
+  0x31  : 
+           muId: {90_DD_A3_A8}
+  0x32  : 
+           muId: {02_25_8F_92} ("GameplayFrontDamageScale")
+  0x33  : 
+           muId: {F5_76_67_86}
+  0x34  : 
+           muId: {A5_19_D0_B0}
+  0x35  : 
+           muId: {B9_6B_B1_66}
+  0x36  : 
+           muId: {70_D8_00_49} ("GameplayRearDamageScale")
+
+09_5E_0F_00
+  >> 14: (09_5E_0F_00)
+  >> id: (26_57_8C_9C)
+  0x0   : 
+           muId: {32_B2_3E_1C} ("Scalar")
+  0x1   : 
+           muId: {6F_09_1D_A1} ("Addition")
+  0x2   : 
+           muId: {01_BE_60_35} ("Override")
+
+A4_5D_0F_00
+  >> 14: (A4_5D_0F_00)
+  >> id: (53_6F_75_0F)
+  0x0   : 
+           muId: {A4_52_50_41}
+  0x1   : 
+           muId: {1F_8F_01_75}
+  0x2   : 
+           muId: {FE_AE_4C_B0} ("Stock")
+  0x3   : 
+           muId: {FB_FE_05_A8} ("Track")
+  0x4   : 
+           muId: {EB_7E_A1_EA} ("Track_Pro")
+  0x5   : 
+           muId: {58_51_FC_DC}
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+F8_FF_FF_FF extends Genesys.Object
+  >> 14: (F8_FF_FF_FF)
+  >> id: (BC_85_5D_7F)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Object * [size @ 0x14] *
+           muId: {6D_65_74_49} ("Item")
+  0x14  : uint16_t
+           muId: {98_FE_7E_67} ("ItemCount")
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+bool8_t
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
+
+Genesys.Gen.NitrousParameters.TrafficOncoming extends Genesys.Object
+  >> 14: (01_33_00_00)
+  >> id: (9A_FC_FF_C1)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0x18  : float32_t
+           muId: {5E_C7_32_17} ("MinimumTime")
+  0x1C  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x20  : float32_t
+           muId: {05_EB_EE_D6} ("OncomingTimeout")
+  0x24  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.Balancing extends Genesys.Object
+  >> 14: (06_33_00_00)
+  >> id: (F3_3F_75_B9)
+  0xC   : float32_t
+           muId: {CE_1F_F5_F9} ("CloseBurnRate")
+  0x10  : float32_t
+           muId: {15_E9_68_0B} ("CloseMultiplier")
+  0x14  : float32_t
+           muId: {BC_64_C2_D2} ("FarBurnRate")
+  0x18  : float32_t
+           muId: {27_FE_6F_62} ("FarMultiplier")
+  0x1C  : float32_t
+           muId: {87_CE_BE_F5} ("MaxDistance")
+  0x20  : float32_t
+           muId: {10_A3_3F_07} ("SlipstreamDistance")
+
+Genesys.Gen.NitrousParameters.Donutting extends Genesys.Object
+  >> 14: (2F_60_0F_00)
+  >> id: (EA_26_7C_D5)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {5F_8B_31_02} ("MaxSpeed")
+  0x14  : float32_t
+           muId: {40_79_90_4D}
+  0x18  : float32_t
+           muId: {C3_0E_9A_95} ("MinimumTimeDonutting")
+  0x1C  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x20  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.Drifting extends Genesys.Object
+  >> 14: (FE_32_00_00)
+  >> id: (83_90_1A_A6)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0x18  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x1C  : float32_t
+           muId: {E5_DF_03_F0} ("TimeDrifting")
+  0x20  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.HittingAnotherCompetitor extends Genesys.Object
+  >> 14: (03_33_00_00)
+  >> id: (9E_5A_13_C6)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0x18  : float32_t
+           muId: {5E_C7_32_17} ("MinimumTime")
+  0x1C  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x20  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParametersUsage extends Genesys.Object
+  >> 14: (E8_EF_07_00)
+  >> id: (17_EE_4B_7D)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {6A_5A_3C_05} ("DecreaseNitrous")
+  0x14  : float32_t
+           muId: {79_38_5C_84} ("TimeToFullNitrous")
+  0x18  : bool8_t
+           muId: {7E_A5_79_FC} ("Enabled")
+
+Genesys.Gen.NitrousParameters.PunchUsage extends Genesys.Gen.NitrousParametersUsage
+  >> 14: (C1_03_0F_00)
+  >> id: (CF_6C_14_50)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {6A_5A_3C_05} ("DecreaseNitrous")
+  0x14  : float32_t
+           muId: {79_38_5C_84} ("TimeToFullNitrous")
+  0x18  : bool8_t
+           muId: {7E_A5_79_FC} ("Enabled")
+  0x1C  : float32_t
+           muId: {D5_5E_8A_FD} ("PunchBurnPercent")
+  0x20  : float32_t
+           muId: {CA_62_2E_A8} ("PunchDelay")
+
+Genesys.Gen.NitrousParameters.Slipstreaming extends Genesys.Object
+  >> 14: (07_33_00_00)
+  >> id: (40_73_C3_54)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0x18  : float32_t
+           muId: {4E_08_B8_EF} ("MinSlipStreaming")
+  0x1C  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x20  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.CatchingAir extends Genesys.Object
+  >> 14: (05_33_00_00)
+  >> id: (7B_B2_02_23)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x18  : float32_t
+           muId: {3D_86_E9_C8} ("TimeInAir")
+  0x1C  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.CrashEscape extends Genesys.Object
+  >> 14: (9D_94_0E_00)
+  >> id: (57_35_1A_22)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0x18  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x1C  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.HighSpeed extends Genesys.Object
+  >> 14: (04_33_00_00)
+  >> id: (9A_FD_9B_D9)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x18  : float32_t
+           muId: {6C_8E_94_21} ("SpeedPercentage")
+  0x1C  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.MinSpeed extends Genesys.Object
+  >> 14: (FD_32_00_00)
+  >> id: (E1_D8_D1_1F)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0x18  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x1C  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.NitrousUsage extends Genesys.Gen.NitrousParametersUsage
+  >> 14: (C0_03_0F_00)
+  >> id: (04_CB_C8_7C)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {6A_5A_3C_05} ("DecreaseNitrous")
+  0x14  : float32_t
+           muId: {79_38_5C_84} ("TimeToFullNitrous")
+  0x18  : bool8_t
+           muId: {7E_A5_79_FC} ("Enabled")
+  0x1C  : float32_t
+           muId: {2A_36_BF_7E} ("MinNitrousTime")
+
+Genesys.Gen.NitrousParameters.TakingShortcut extends Genesys.Object
+  >> 14: (FF_32_00_00)
+  >> id: (64_9A_22_D4)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0x18  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x1C  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.TrafficNearMiss extends Genesys.Object
+  >> 14: (00_33_00_00)
+  >> id: (FD_B5_BB_33)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {5F_C5_29_D6} ("MinimumSpeed")
+  0x18  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x1C  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.FatalHit extends Genesys.Object
+  >> 14: (08_33_00_00)
+  >> id: (E1_A3_2E_6F)
+  0xC   : CgsCore.UniqueId
+           muId: {D8_3F_81_5E} ("Message")
+  0x10  : float32_t
+           muId: {40_79_90_4D}
+  0x14  : float32_t
+           muId: {99_FF_3C_D6} ("NitrousReward")
+  0x18  : bool8_t
+           muId: {5E_49_BA_AE} ("IsEnabled")
+
+Genesys.Gen.NitrousParameters.JumpUsage extends Genesys.Gen.NitrousParametersUsage
+  >> 14: (FF_B4_21_00)
+  >> id: (37_C9_32_BD)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {6A_5A_3C_05} ("DecreaseNitrous")
+  0x14  : float32_t
+           muId: {79_38_5C_84} ("TimeToFullNitrous")
+  0x18  : bool8_t
+           muId: {7E_A5_79_FC} ("Enabled")
+
+Genesys.Gen.NitrousParameters.Restrictions extends Genesys.Object
+  >> 14: (E7_EF_07_00)
+  >> id: (52_20_55_C0)
+  0xC   : CgsCore.UniqueId
+           muId: {8F_72_E2_8C} ("NitrousReadyMessage")
+  0x10  : float32_t
+           muId: {02_F5_41_C4} ("MinNitrousAmount")
+  0x14  : float32_t
+           muId: {12_A7_FC_DD} ("MinNitrousPunch")
+  0x18  : float32_t
+           muId: {C7_87_B4_D5} ("MinNitrousSpeed")
+
+Genesys.Gen.NitrousParameters.SpeedbreakerUsage extends Genesys.Gen.NitrousParametersUsage
+  >> 14: (E8_B4_21_00)
+  >> id: (96_5C_07_2B)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {6A_5A_3C_05} ("DecreaseNitrous")
+  0x14  : float32_t
+           muId: {79_38_5C_84} ("TimeToFullNitrous")
+  0x18  : bool8_t
+           muId: {7E_A5_79_FC} ("Enabled")
+
+Genesys.Gen.NitrousParameters extends Genesys.Object
+  >> 14: (A1_29_00_00)
+  >> id: (33_03_A1_B4)
+  0xC   : Genesys.Gen.NitrousParameters.TrafficOncoming
+           muId: {59_D8_D6_6C} ("TrafficOncoming")
+  0x34  : Genesys.Gen.NitrousParameters.Balancing
+           muId: {7C_30_8F_CF} ("Balancing")
+  0x58  : Genesys.Gen.NitrousParameters.Donutting
+           muId: {21_6E_3B_66} ("Donutting")
+  0x7C  : Genesys.Gen.NitrousParameters.Drifting
+           muId: {2C_E3_E6_3D} ("Drifting")
+  0xA0  : Genesys.Gen.NitrousParameters.HittingAnotherCompetitor
+           muId: {FE_7F_7D_BF} ("HittingAnotherCompetitor")
+  0xC4  : Genesys.Gen.NitrousParameters.PunchUsage
+           muId: {24_88_0E_BC} ("Punch")
+  0xE8  : Genesys.Gen.NitrousParameters.Slipstreaming
+           muId: {BD_37_63_A1} ("SlipStreaming")
+  0x10C : Genesys.Gen.NitrousParameters.CatchingAir
+           muId: {D7_09_44_E8} ("CatchingAir")
+  0x12C : Genesys.Gen.NitrousParameters.CrashEscape
+           muId: {A0_03_71_F8} ("CrashEscape")
+  0x14C : Genesys.Gen.NitrousParameters.HighSpeed
+           muId: {BE_B7_BB_78} ("DrivingAtHighSpeed")
+  0x16C : Genesys.Gen.NitrousParameters.MinSpeed
+           muId: {6E_30_3A_EE} ("DrivingAtSpeed")
+  0x18C : Genesys.Gen.NitrousParameters.NitrousUsage
+           muId: {B9_EA_CD_8C} ("Nitrous")
+  0x1AC : Genesys.Gen.NitrousParameters.TakingShortcut
+           muId: {26_12_FA_6D} ("TakingShortcut")
+  0x1CC : Genesys.Gen.NitrousParameters.TrafficNearMiss
+           muId: {E7_0D_39_41} ("TrafficNearMiss")
+  0x1EC : Genesys.Gen.NitrousParameters.TrafficNearMiss
+           muId: {F1_8E_4C_A5} ("TrafficNearMissOncoming")
+  0x20C : Genesys.Gen.NitrousParameters.FatalHit
+           muId: {2E_99_5D_95} ("FatalHit")
+  0x228 : Genesys.Gen.NitrousParameters.JumpUsage
+           muId: {70_6D_75_4A} ("Jump")
+  0x244 : Genesys.Gen.NitrousParameters.Restrictions
+           muId: {45_7D_6B_37} ("Shared")
+  0x260 : Genesys.Gen.NitrousParameters.SpeedbreakerUsage
+           muId: {00_7F_2B_72} ("AppetiteTopological")
+  0x27C : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.NitrousParameters.NitrousPower extends Genesys.Object
+  >> 14: (02_33_00_00)
+  >> id: (94_06_6A_3D)
+  0xC   : float32_t
+           muId: {79_38_5C_84} ("TimeToFullNitrous")
+
+Genesys.Gen.PerformanceModificationItem extends Genesys.Object
+  >> 14: (2D_F1_07_00)
+  >> id: (5C_B8_53_E2)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {9B_D3_8A_B2} ("Value")
+  0x14  : 02_5E_0F_00
+           muId: {D1_7E_6A_56}
+  0x16  : 09_5E_0F_00
+           muId: {7F_33_65_77} ("ModificationType")
+
+Genesys.Gen.PerformanceModifier extends Genesys.Object
+  >> 14: (2E_F1_07_00)
+  >> id: (B2_DC_D5_BF)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.PerformanceModificationItem * [size @ 0x14] *
+           muId: {5D_F3_50_CE} ("Modifications")
+  0x14  : uint16_t
+           muId: {13_14_E8_C2} ("ModificationsCount")
+
+Genesys.Gen.Vehicles.UpgradeBase extends Genesys.Object
+  >> 14: (ED_BC_16_00)
+  >> id: (35_09_BA_49)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {6E_6F_63_49} ("Icon")
+  0x14  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+
+Genesys.Gen.Vehicles.ModifierUpgrade extends Genesys.Gen.Vehicles.UpgradeBase
+  >> 14: (EE_BC_16_00)
+  >> id: (F5_6B_04_27)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {6E_6F_63_49} ("Icon")
+  0x14  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x18  : Genesys.Gen.PerformanceModifier *
+           muId: {CD_46_AE_3A} ("Modifier")
+
+Genesys.Gen.Vehicles.NitrousUpgrade extends Genesys.Gen.Vehicles.UpgradeBase
+  >> 14: (EF_BC_16_00)
+  >> id: (3A_6B_3D_40)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {6E_6F_63_49} ("Icon")
+  0x14  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x18  : CgsResource.Handle
+           muId: {F6_38_70_5B} ("NitrousUpgrade")
+
+Genesys.Gen.Vehicles.PerformanceUpgrades.Category extends Genesys.Object
+  >> 14: (AB_5D_0F_00)
+  >> id: (84_F7_48_25)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {63_72_97_E3}
+  0x14  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {60_72_97_E3}
+  0x18  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {1E_06_06_E7}
+  0x1C  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {1D_06_06_E7}
+  0x20  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {1C_06_06_E7}
+  0x24  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {4C_FC_9B_D2}
+  0x28  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {F0_82_1D_20}
+  0x2C  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {F3_82_1D_20}
+  0x30  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {F2_82_1D_20}
+  0x34  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {F5_82_1D_20}
+  0x38  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {E4_60_FA_6F}
+  0x3C  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {CC_DA_43_0D}
+  0x40  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {B0_72_CB_05}
+  0x44  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {B3_72_CB_05}
+  0x48  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {89_0D_0E_5D}
+  0x4C  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {B0_09_56_14} ("TrackSuspensionPackage")
+  0x50  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {8B_9F_86_DD}
+
+Genesys.Gen.Vehicles.PerformanceUpgrades extends Genesys.Object
+  >> 14: (A3_5D_0F_00)
+  >> id: (27_84_3E_3F)
+  0xC   : Genesys.Gen.Vehicles.PerformanceUpgrades.Category
+           muId: {88_6D_18_CB} ("Pro")
+  0x60  : Genesys.Gen.Vehicles.PerformanceUpgrades.Category
+           muId: {1F_69_EB_6E} ("Standard")
+  0xB4  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xB8  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {1F_A8_84_C6} ("StockBody")
+  0xBC  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {CF_99_1B_F2} ("StockChassis")
+  0xC0  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {AB_8E_B5_72} ("StockNitrous")
+  0xC4  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {65_72_11_AF}
+  0xC8  : Genesys.Gen.Vehicles.UpgradeBase *
+           muId: {D1_08_D2_32}
+
+Genesys.Gen.Vehicles.TyreUpgrade extends Genesys.Gen.Vehicles.UpgradeBase
+  >> 14: (A8_D1_17_00)
+  >> id: (A5_FD_F5_AD)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {6E_6F_63_49} ("Icon")
+  0x14  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x18  : A4_5D_0F_00
+           muId: {E3_F8_16_A3}
+
+Genesys.Gen.Vehicles.VehicleCategoryInfo extends Genesys.Object
+  >> 14: (B0_5D_0F_00)
+  >> id: (00_0B_99_13)
+  0xC   : CgsCore.UniqueId
+           muId: {C3_9A_2B_E4} ("Description")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x18  : CgsCore.UniqueId
+           muId: {6E_0E_28_59} ("RestrictionString")
+
+int16_t
+  >> 14: (35_0C_D4_BF)
+  >> id: (56_24_52_29)

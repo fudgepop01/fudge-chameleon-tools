@@ -1,0 +1,9 @@
+0A_43_0B_00 (7569496): GenesysGenSoundDistanceFalloff
+
+B1_15_10_00 (17121577): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+BB_15_10_00 (17121593): GenesysGenMixerChannel

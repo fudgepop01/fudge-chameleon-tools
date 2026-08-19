@@ -1,0 +1,584 @@
+146165144147145160157160060061o
+
+
+1D_30_00_00
+  >> 14: (1D_30_00_00)
+  >> id: (72_89_45_9B)
+  0x0   : 
+           muId: {72_61_65_4E} ("Near")
+  0x1   : 
+           muId: {A9_79_61_AF} ("Mid")
+  0x2   : 
+           muId: {C7_B0_54_56} ("Far")
+  0x3   : 
+           muId: {83_C6_1A_AE}
+
+22_30_00_00
+  >> 14: (22_30_00_00)
+  >> id: (67_D7_0B_E4)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {F5_F5_17_79} ("Low")
+  0x2   : 
+           muId: {7C_11_17_37} ("Normal")
+  0x3   : 
+           muId: {D1_39_23_42} ("Extreme")
+
+27_30_00_00
+  >> 14: (27_30_00_00)
+  >> id: (5B_0C_BB_E9)
+  0x0   : 
+           muId: {65_6E_6F_4E} ("None")
+  0x1   : 
+           muId: {43_1F_71_DE} ("Engine")
+  0x2   : 
+           muId: {64_69_6B_53} ("Skid")
+  0x3   : 
+           muId: {5C_54_8F_56} ("Player")
+  0x4   : 
+           muId: {4E_36_FD_D9} ("Competitor")
+  0x5   : 
+           muId: {66_34_1C_3B} ("Traffic")
+  0x6   : 
+           muId: {D6_A4_6E_A4} ("UI")
+
+2A_6B_07_00
+  >> 14: (2A_6B_07_00)
+  >> id: (50_60_80_1F)
+  0x0   : 
+           muId: {70_6F_74_53} ("Stop")
+  0x1   : 
+           muId: {14_C1_C5_4F} ("Restart")
+
+2F_30_00_00
+  >> 14: (2F_30_00_00)
+  >> id: (73_75_2C_DF)
+  0x0   : 
+           muId: {5C_01_E4_09} ("Camera")
+  0x1   : 
+           muId: {64_1C_60_3F}
+
+70_38_0B_00
+  >> 14: (70_38_0B_00)
+  >> id: (05_62_01_5A)
+  0x0   : 
+           muId: {A8_D3_A6_31}
+  0x1   : 
+           muId: {98_0F_22_6B}
+  0x2   : 
+           muId: {70_69_6C_43} ("Clip")
+  0x3   : 
+           muId: {C6_E3_E4_83} ("Off")
+
+77_F7_03_00
+  >> 14: (77_F7_03_00)
+  >> id: (3D_A4_D0_A0)
+  0x0   : 
+           muId: {EE_7E_B4_56}
+  0x1   : 
+           muId: {BF_BC_62_EC}
+  0x2   : 
+           muId: {B9_C9_EE_BF}
+  0x3   : 
+           muId: {49_05_7A_A9}
+  0x4   : 
+           muId: {8C_DF_CF_C1} ("Music")
+  0x5   : 
+           muId: {81_4D_65_59} ("Speech")
+  0x6   : 
+           muId: {97_1A_D0_DE}
+  0x7   : 
+           muId: {BB_EA_6B_78} ("Master")
+  0x8   : 
+           muId: {8A_DF_CA_DB} ("Movie")
+
+95_2E_00_00
+  >> 14: (95_2E_00_00)
+  >> id: (53_04_E6_36)
+  0x0   : 
+           muId: {C9_C6_65_91} ("Linked")
+  0x1   : 
+           muId: {81_2A_61_97}
+
+B2_35_07_00
+  >> 14: (B2_35_07_00)
+  >> id: (A9_5B_09_FA)
+  0x0   : 
+           muId: {6D_4C_5C_18} ("Default")
+  0x1   : 
+           muId: {4C_2D_A8_C3} ("Reverb")
+  0x2   : 
+           muId: {C6_B2_ED_91}
+  0x3   : 
+           muId: {8A_CB_A2_C2}
+  0x4   : 
+           muId: {89_CB_A2_C2} ("Buffering_Percents")
+
+char
+  >> 14: (9F_57_FE_8C)
+  >> id: (05_52_C1_F7)
+
+uint32_t
+  >> 14: (81_F3_2A_0E)
+  >> id: (D4_2E_65_69)
+
+CgsCore.StringBase
+  >> 14: (01_43_40_40)
+  >> id: (95_FB_EA_BE)
+  0x0   : char (offset) [size @ 0x4]
+           muId: {3F_7A_EB_8F} ("Buffer")
+  0x4   : uint32_t
+           muId: {38_73_C0_7F} ("Capacity")
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+E4_33_07_00
+  >> 14: (E4_33_07_00)
+  >> id: (4F_1D_29_3D)
+  0x1   : 
+           muId: {6F_6E_6F_4D} ("Mono")
+  0x2   : 
+           muId: {5A_3D_76_4A} ("Stereo")
+  0x6   : 
+           muId: {0A_49_DB_10}
+
+EE_33_07_00
+  >> 14: (EE_33_07_00)
+  >> id: (6C_BB_B2_36)
+  0x0   : 
+           muId: {41_2B_2C_3D} ("Source")
+  0x1   : 
+           muId: {02_3A_94_0F}
+  0x2   : 
+           muId: {01_3A_94_0F} ("PerceivesSeveral")
+  0x3   : 
+           muId: {00_3A_94_0F}
+  0x4   : 
+           muId: {07_3A_94_0F}
+  0x5   : 
+           muId: {06_3A_94_0F}
+  0x6   : 
+           muId: {05_3A_94_0F}
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.BusMixerChannel.EQCurvePoint extends Genesys.Object
+  >> 14: (77_32_00_00)
+  >> id: (65_91_F9_67)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {91_62_09_06} ("Frequency")
+  0x14  : float32_t
+           muId: {6E_69_61_47} ("Gain")
+  0x18  : float32_t
+           muId: {E1_E7_56_7C} ("Q")
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.BusMixerChannel extends Genesys.Object
+  >> 14: (7B_27_00_00)
+  >> id: (B6_45_E1_B3)
+  0xC   : Genesys.Gen.BusMixerChannel.EQCurvePoint [3] [size @ 0x9A]
+           muId: {EC_AB_B3_F7}
+  0x60  : CgsResource.Handle
+           muId: {E0_15_B4_AC} ("Compressor")
+  0x68  : CgsResource.Handle
+           muId: {E8_4D_F1_7F} ("Routing")
+  0x70  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x74  : float32_t
+           muId: {54_1A_A6_3C}
+  0x78  : float32_t
+           muId: {F6_CB_A2_79}
+  0x7C  : float32_t
+           muId: {26_E1_61_8B} ("FrontLeft")
+  0x80  : float32_t
+           muId: {CA_2A_CF_EE} ("FrontRight")
+  0x84  : float32_t
+           muId: {7E_8E_1E_F3}
+  0x88  : float32_t
+           muId: {79_21_4F_0E}
+  0x8C  : float32_t
+           muId: {4F_FE_C6_BE}
+  0x90  : float32_t
+           muId: {7D_25_A6_FC}
+  0x94  : float32_t
+           muId: {28_3C_F8_D7}
+  0x98  : 70_38_0B_00
+           muId: {84_6F_D9_09}
+  0x9A  : uint16_t
+           muId: {15_1B_D3_B2}
+
+Genesys.Gen.BusRoute extends Genesys.Object
+  >> 14: (67_F7_03_00)
+  >> id: (37_20_F2_15)
+  0xC   : CgsCore.StringBase
+           muId: {41_59_65_42} ("BeYA")
+  0x14  : CgsCore.UniqueId
+           muId: {78_F1_09_FB}
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x1C  : CgsCore.UniqueId
+           muId: {F9_4F_47_2E}
+  0x20  : CgsCore.UniqueId * [size @ 0x2A]
+           muId: {D9_BA_BF_31} ("Mixing_Groups")
+  0x24  : float32_t
+           muId: {04_A4_A1_DA}
+  0x28  : 77_F7_03_00
+           muId: {0B_23_21_E3}
+  0x2A  : uint16_t
+           muId: {D6_AF_E1_35} ("Mixing_GroupsCount")
+
+Genesys.Gen.Compressor extends Genesys.Object
+  >> 14: (AC_27_00_00)
+  >> id: (C1_CC_EF_2B)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {42_3E_C6_EB} ("Attack")
+  0x14  : float32_t
+           muId: {8B_7E_35_DD}
+  0x18  : float32_t
+           muId: {4D_B9_96_A1} ("Ratio")
+  0x1C  : float32_t
+           muId: {C8_A6_9B_2A} ("Release")
+  0x20  : float32_t
+           muId: {07_49_56_FF} ("Threshold")
+  0x24  : 95_2E_00_00
+           muId: {65_64_6F_4D} ("Mode")
+
+Genesys.Gen.DspPlugIn extends Genesys.Object
+  >> 14: (C0_33_07_00)
+  >> id: (50_E0_3C_00)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : E4_33_07_00
+           muId: {25_0B_74_2A} ("Output_Channels")
+
+uint8_t
+  >> 14: (11_C0_AB_8E)
+  >> id: (35_34_7F_1D)
+
+Genesys.Gen.DspPlugInChain extends Genesys.Object
+  >> 14: (CB_33_07_00)
+  >> id: (E4_0E_7E_5D)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsResource.Handle * [size @ 0x14]
+           muId: {21_4B_8B_1D} ("PlugIns")
+  0x14  : uint8_t
+           muId: {4F_C1_DB_F2} ("PlugInsCount")
+
+Genesys.Gen.MixerChannel.Priority extends Genesys.Object
+  >> 14: (0E_6B_07_00)
+  >> id: (85_39_5F_B3)
+  0xC   : uint8_t
+           muId: {9B_68_CE_92} ("Priority")
+
+Genesys.Gen.VoiceGroup extends Genesys.Object
+  >> 14: (0C_6B_07_00)
+  >> id: (62_B3_C0_62)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : uint8_t
+           muId: {4C_B8_53_16} ("InstanceLimit")
+
+bool8_t
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
+
+Genesys.Gen.MixerChannel extends Genesys.Object
+  >> 14: (8E_29_00_00)
+  >> id: (B1_24_9C_3F)
+  0xC   : CgsResource.Handle
+           muId: {4A_A1_7F_0E} ("DistanceFalloff")
+  0x14  : CgsResource.Handle
+           muId: {88_92_00_1A} ("PlugIn_Chain")
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : CgsCore.UniqueId
+           muId: {7D_0D_6B_05} ("MixingGroup")
+  0x24  : float32_t
+           muId: {C2_3F_57_73} ("CentreLevel")
+  0x28  : float32_t
+           muId: {79_5A_36_D6} ("EmitterResponse")
+  0x2C  : float32_t
+           muId: {FD_08_94_F0} ("Focus")
+  0x30  : float32_t
+           muId: {6E_69_61_47} ("Gain")
+  0x34  : float32_t
+           muId: {4F_53_21_5B} ("LfeSend")
+  0x38  : float32_t
+           muId: {9F_77_01_21} ("Panning_Cosine")
+  0x3C  : float32_t
+           muId: {E1_A4_56_BD} ("Panning_Divergence")
+  0x40  : float32_t
+           muId: {F1_05_29_47} ("Panning_Sine")
+  0x44  : float32_t
+           muId: {9B_07_B9_70} ("ReverbSendA")
+  0x48  : float32_t
+           muId: {98_07_B9_70} ("ReverbSendB")
+  0x4C  : Genesys.Gen.MixerChannel.Priority * [size @ 0x58]
+           muId: {9B_68_CE_92} ("Priority")
+  0x50  : Genesys.Gen.VoiceGroup *
+           muId: {56_E4_48_B9} ("VoiceGroup")
+  0x54  : 22_30_00_00
+           muId: {94_C6_5E_43} ("DopplerModel")
+  0x56  : 2A_6B_07_00
+           muId: {E9_66_1E_49} ("VirtualVoiceBehaviour")
+  0x58  : uint16_t
+           muId: {9F_60_76_95} ("PriorityCount")
+  0x5A  : bool8_t
+           muId: {27_D0_1D_3D} ("CullPlayingVoices")
+  0x5B  : bool8_t
+           muId: {CE_F5_F5_67} ("Panning_Override")
+  0x5C  : uint8_t
+           muId: {4C_B8_53_16} ("InstanceLimit")
+
+Genesys.Gen.MixSnapshot extends Genesys.Object
+  >> 14: (90_29_00_00)
+  >> id: (5B_07_C6_00)
+  0xC   : CgsCore.StringBase
+           muId: {41_59_65_42} ("BeYA")
+  0x14  : CgsCore.StringBase
+           muId: {34_E7_59_B7} ("Friendly_Name")
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : CgsResource.Handle * [size @ 0x11E]
+           muId: {3E_7A_FE_9A} ("Busses")
+  0x24  : float32_t
+           muId: {44_F3_84_C5}
+  0x28  : Genesys.Gen.MixerChannel *
+           muId: {7D_72_D1_5A}
+  0x2C  : Genesys.Gen.MixerChannel *
+           muId: {5E_3E_69_17} ("Animation")
+  0x30  : Genesys.Gen.MixerChannel *
+           muId: {03_EC_90_1D}
+  0x34  : Genesys.Gen.MixerChannel *
+           muId: {B2_63_E3_73}
+  0x38  : Genesys.Gen.MixerChannel *
+           muId: {FD_7C_A6_FE}
+  0x3C  : Genesys.Gen.MixerChannel *
+           muId: {17_90_6A_7F}
+  0x40  : Genesys.Gen.MixerChannel *
+           muId: {38_17_04_6C}
+  0x44  : Genesys.Gen.MixerChannel *
+           muId: {06_FA_1B_0F}
+  0x48  : Genesys.Gen.MixerChannel *
+           muId: {DA_21_61_52}
+  0x4C  : Genesys.Gen.MixerChannel *
+           muId: {90_20_27_AA}
+  0x50  : Genesys.Gen.MixerChannel *
+           muId: {34_41_01_06}
+  0x54  : Genesys.Gen.MixerChannel *
+           muId: {2F_E4_FF_9D}
+  0x58  : Genesys.Gen.MixerChannel *
+           muId: {D6_73_98_15}
+  0x5C  : Genesys.Gen.MixerChannel *
+           muId: {25_97_69_D5}
+  0x60  : Genesys.Gen.MixerChannel *
+           muId: {E0_8E_5D_55}
+  0x64  : Genesys.Gen.MixerChannel *
+           muId: {1A_A2_E0_71}
+  0x68  : Genesys.Gen.MixerChannel *
+           muId: {E7_E8_6A_CD}
+  0x6C  : Genesys.Gen.MixerChannel *
+           muId: {62_AD_9E_57}
+  0x70  : Genesys.Gen.MixerChannel *
+           muId: {90_DE_21_95}
+  0x74  : Genesys.Gen.MixerChannel *
+           muId: {54_B3_6C_ED}
+  0x78  : Genesys.Gen.MixerChannel *
+           muId: {8A_DF_CA_DB} ("Movie")
+  0x7C  : Genesys.Gen.MixerChannel *
+           muId: {D9_66_F8_08}
+  0x80  : Genesys.Gen.MixerChannel *
+           muId: {B4_B2_53_0E}
+  0x84  : Genesys.Gen.MixerChannel *
+           muId: {64_93_71_F2}
+  0x88  : Genesys.Gen.MixerChannel *
+           muId: {09_1D_9C_8E}
+  0x8C  : Genesys.Gen.MixerChannel *
+           muId: {16_DD_ED_0C}
+  0x90  : Genesys.Gen.MixerChannel *
+           muId: {15_6B_94_02}
+  0x94  : Genesys.Gen.MixerChannel *
+           muId: {78_F3_80_55}
+  0x98  : Genesys.Gen.MixerChannel *
+           muId: {48_E0_0A_C0}
+  0x9C  : Genesys.Gen.MixerChannel *
+           muId: {6A_9F_48_6F}
+  0xA0  : Genesys.Gen.MixerChannel *
+           muId: {4D_17_C6_8D}
+  0xA4  : Genesys.Gen.MixerChannel *
+           muId: {B2_F3_AF_1C}
+  0xA8  : Genesys.Gen.MixerChannel *
+           muId: {FA_F6_A3_BB}
+  0xAC  : Genesys.Gen.MixerChannel *
+           muId: {87_C9_1C_54}
+  0xB0  : Genesys.Gen.MixerChannel *
+           muId: {45_99_8F_C2}
+  0xB4  : Genesys.Gen.MixerChannel *
+           muId: {0D_2D_25_A9}
+  0xB8  : Genesys.Gen.MixerChannel *
+           muId: {74_74_AE_03}
+  0xBC  : Genesys.Gen.MixerChannel *
+           muId: {C3_A2_D7_F5}
+  0xC0  : Genesys.Gen.MixerChannel *
+           muId: {A9_D6_6D_AC}
+  0xC4  : Genesys.Gen.MixerChannel *
+           muId: {A5_9D_0D_9A}
+  0xC8  : Genesys.Gen.MixerChannel *
+           muId: {E5_5F_36_82}
+  0xCC  : Genesys.Gen.MixerChannel *
+           muId: {E0_FA_4E_59}
+  0xD0  : Genesys.Gen.MixerChannel *
+           muId: {C1_6A_30_4E}
+  0xD4  : Genesys.Gen.MixerChannel *
+           muId: {AF_AD_8A_3A}
+  0xD8  : Genesys.Gen.MixerChannel *
+           muId: {26_C6_F6_76}
+  0xDC  : Genesys.Gen.MixerChannel *
+           muId: {DE_36_1D_2B}
+  0xE0  : Genesys.Gen.MixerChannel *
+           muId: {81_4D_65_59} ("Speech")
+  0xE4  : Genesys.Gen.MixerChannel *
+           muId: {67_1A_B4_E5}
+  0xE8  : Genesys.Gen.MixerChannel *
+           muId: {7E_4A_1E_DB}
+  0xEC  : Genesys.Gen.MixerChannel *
+           muId: {9C_3A_34_05}
+  0xF0  : Genesys.Gen.MixerChannel *
+           muId: {6D_22_03_5D}
+  0xF4  : Genesys.Gen.MixerChannel *
+           muId: {60_C3_EE_15}
+  0xF8  : Genesys.Gen.MixerChannel *
+           muId: {46_D1_1D_61}
+  0xFC  : Genesys.Gen.MixerChannel *
+           muId: {D6_A4_6E_A4} ("UI")
+  0x100 : Genesys.Gen.MixerChannel *
+           muId: {2C_B7_B8_18}
+  0x104 : Genesys.Gen.MixerChannel *
+           muId: {6C_EB_93_35}
+  0x108 : Genesys.Gen.MixerChannel *
+           muId: {31_CD_0F_E0}
+  0x10C : Genesys.Gen.MixerChannel *
+           muId: {23_FC_31_E6}
+  0x110 : Genesys.Gen.MixerChannel *
+           muId: {37_9A_F0_E5}
+  0x114 : Genesys.Gen.MixerChannel *
+           muId: {11_8B_C9_24}
+  0x118 : Genesys.Gen.MixerChannel *
+           muId: {EE_98_CC_C1}
+  0x11C : 2F_30_00_00
+           muId: {C2_C3_78_CA}
+  0x11E : uint8_t
+           muId: {7E_93_4B_E2}
+
+Genesys.Gen.MixSnapshotSet extends Genesys.Object
+  >> 14: (91_29_00_00)
+  >> id: (EC_DB_3E_6D)
+  0xC   : CgsResource.Handle
+           muId: {80_54_1A_BE}
+  0x14  : CgsResource.Handle
+           muId: {3C_C2_AE_5B}
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : float32_t
+           muId: {0D_78_BC_44}
+
+Genesys.Gen.MixingGroup extends Genesys.Object
+  >> 14: (8F_29_00_00)
+  >> id: (F1_5E_68_36)
+  0xC   : CgsCore.UniqueId
+           muId: {DA_EE_69_94} ("Bus")
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.SendDspPlugIn extends Genesys.Gen.DspPlugIn
+  >> 14: (C5_33_07_00)
+  >> id: (17_88_5D_2B)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : E4_33_07_00
+           muId: {25_0B_74_2A} ("Output_Channels")
+  0x14  : CgsResource.Handle
+           muId: {EA_8D_CB_89} ("Mixing_Group")
+  0x1C  : CgsResource.Handle
+           muId: {C5_65_6E_F7} ("Voice_Routing")
+  0x24  : float32_t
+           muId: {6E_69_61_47} ("Gain")
+  0x28  : B2_35_07_00
+           muId: {5C_C7_BC_A4} ("Bus_Routing")
+
+Genesys.Gen.SndPlayerDspPlugIn extends Genesys.Gen.DspPlugIn
+  >> 14: (E2_33_07_00)
+  >> id: (93_74_3C_35)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : E4_33_07_00
+           muId: {25_0B_74_2A} ("Output_Channels")
+
+Genesys.Gen.SoundDistanceFalloff extends Genesys.Object
+  >> 14: (38_2A_00_00)
+  >> id: (23_47_36_54)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {07_41_3A_21} ("CurveType")
+  0x14  : float32_t
+           muId: {2A_FB_3E_D1} ("CurveTypeReverb")
+  0x18  : float32_t
+           muId: {8D_66_2A_27} ("DivergenceAtMaxDistance")
+  0x1C  : float32_t
+           muId: {D8_4F_56_CF} ("DivergenceAtMinDistance")
+  0x20  : float32_t
+           muId: {74_8F_F1_1B}
+  0x24  : float32_t
+           muId: {FC_77_BD_96}
+  0x28  : float32_t
+           muId: {D0_01_2D_7F} ("InitialGain")
+  0x2C  : float32_t
+           muId: {3F_82_D0_2E}
+  0x30  : float32_t
+           muId: {C1_B2_E1_99} ("ArraysMotioned")
+  0x34  : float32_t
+           muId: {87_CE_BE_F5} ("MaxDistance")
+  0x38  : float32_t
+           muId: {75_62_45_EE} ("MaxDistanceDivergence")
+  0x3C  : float32_t
+           muId: {5F_B0_29_FC} ("MaxDistanceReverb")
+  0x40  : float32_t
+           muId: {D2_E7_C2_1D} ("MinDistance")
+  0x44  : float32_t
+           muId: {A3_6B_A8_B1} ("MinDistanceDivergence")
+  0x48  : float32_t
+           muId: {38_40_70_7D} ("MinDistanceReverb")
+  0x4C  : float32_t
+           muId: {0E_BA_69_63} ("OcclusionMultiplier")
+  0x50  : float32_t
+           muId: {E7_CF_0B_26} ("PeakGain")
+  0x54  : float32_t
+           muId: {8C_03_DE_1E}
+  0x58  : float32_t
+           muId: {6B_E3_F8_04} ("ReverbInitialGain")
+
+int16_t
+  >> 14: (35_0C_D4_BF)
+  >> id: (56_24_52_29)

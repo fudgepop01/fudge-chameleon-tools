@@ -1,0 +1,9 @@
+3B_F6_15_00 (21205649): GenesysGenSequence
+more info:
+  count: 14
+  sequenceTypes:
+    - GenesysGenTeleportPlayerSequenceItem
+    - GenesysGenDriveLocalPlayerWithAisequenceItem
+    - GenesysGenSpawnTrafficSequenceItem
+  
+3F_F6_15_00 (21205653): GenesysGenFeedbackMessageGroup

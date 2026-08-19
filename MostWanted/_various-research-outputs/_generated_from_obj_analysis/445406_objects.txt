@@ -1,0 +1,131 @@
+00_0C_0D_00 (8736832): GenesysGenSoundDistanceFalloff
+
+00_57_07_00 (4722724): GenesysGenSequence
+more info:
+  count: 6
+  sequenceTypes:
+    - GenesysGenAddBehaviourSequenceItem
+  
+0E_57_07_00 (4722744): GenesysGenWeaponRechargeData
+
+21_57_07_00 (4722775): GenesysGenWcsequenceBehaviour
+
+22_57_07_00 (4722776): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenAnimationSequenceItem
+  
+29_57_07_00 (4722789): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenCameraShakeSequenceItem
+  
+32_57_07_00 (4722804): GenesysGenRaceCarHandlingDisruptionEffect
+
+33_57_07_00 (4722805): GenesysGenSequence
+more info:
+  count: 6
+  sequenceTypes:
+    - GenesysGenAddBehaviourSequenceItem
+  
+3B_57_07_00 (4722819): GenesysGenWcvfxBehaviour
+
+3C_57_07_00 (4722820): GenesysGenCorona
+
+3D_0C_0D_00 (8737025): GenesysGenSndPlayerDspPlugIn
+
+3D_57_07_00 (4722821): GenesysGenWcsequenceBehaviour
+
+3E_0C_0D_00 (8737026): GenesysGenSendDspPlugIn
+
+42_57_07_00 (4722832): GenesysGenSpikeStripAimAssistUpgrade
+
+49_57_07_00 (4722839): GenesysGenWcvfxBehaviour
+
+4B_57_07_00 (4722841): GenesysGenSpikeStripDualstrikeUpgrade
+
+4E_E2_08_00 (5775906): GenesysGenSequence
+more info:
+  count: 13
+  sequenceTypes:
+    - GenesysGenVfxSpotEffectSequenceItem
+    - GenesysGenApplyVehicleKickSequenceItem
+    - GenesysGenEventTriggerSequenceItem
+    - GenesysGenWaveSequenceItem
+    - GenesysGenWaveSelectSequenceItem
+    - GenesysGenCameraShakeSequenceItem
+    - GenesysGenBehaviourEnabledSequenceItemGameplay
+  
+4F_57_07_00 (4722947): GenesysGenSpikestripQuickExtendUpgrade
+
+52_68_0A_00 (6824038): GenesysGenFastLaunchWeaponUpgrade
+
+56_AC_07_00 (5253232): GenesysGenWcvfxBehaviour
+
+58_E2_08_00 (5775922): GenesysGenWcsequenceBehaviour
+
+59_E2_08_00 (5775923): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenAnimationSequenceItem
+  
+5A_57_07_00 (4722964): GenesysGenSpikeStripIncreasedWidthUpgrade
+
+5C_64_04_00 (2652214): GenesysGenSilentLaunchWeaponUpgrade
+
+5C_89_06_00 (4359040): GenesysGenCorona
+
+5D_57_07_00 (4722967): GenesysGenWcsequenceBehaviour
+
+5D_F7_0A_00 (7440005): GenesysGenMixerChannel
+
+5E_57_07_00 (4722968): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenAnimationSequenceItem
+  
+5E_F7_0A_00 (7440006): GenesysGenDspPlugInChain
+
+64_F7_03_00 (2464064): GenesysGenMixerChannel
+
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+81_57_07_00 (4723027): GenesysGenWcshowBehaviour
+
+84_F7_0A_00 (7440164): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+88_88_06_00_1 (4358504): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+8B_88_06_00 (4358513): GenesysGenWcvfxBehaviour
+
+8D_88_06_00 (4358515): GenesysGenLightCone
+
+94_64_04_00 (2652306): GenesysGenExtraAmmoWeaponUpgrade
+
+A5_64_04_00 (2652425): GenesysGenSpikeStripBodyBlowUpgrade
+
+A6_64_04_00 (2652432): GenesysGenSpikeStripBlowoutUpgrade
+
+DE_CB_06_00 (4477958): GenesysGenWeaponList
+
+E7_0B_0D_00 (8736789): GenesysGenMixerChannel
+
+F4_CB_06_00 (4477992): GenesysGenSpikeStripWeapon
+more info:
+  /baseObjectcgsCoreUniqueId0x5c: "(6D_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[51]"
+  /baseObjectcgsCoreUniqueId0x60: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x64: "(6C_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[50]"
+  /baseObjectcgsCoreUniqueId0x68: "(32_F7_05_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[29]"
+  /baseObjectcgsCoreUniqueId0x6c: "00_00_00_00"
+  
+F8_56_07_00 (4722710): GenesysGenMakePhysicalBehaviour
+
+FF_56_07_00 (4722723): GenesysGenWcsequenceBehaviour

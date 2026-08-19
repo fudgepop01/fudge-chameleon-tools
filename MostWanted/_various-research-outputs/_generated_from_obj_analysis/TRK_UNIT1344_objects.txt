@@ -1,0 +1,5 @@
+71_57_02_00 (1389655): GenesysGenLightPoint
+
+DF_8A_14_00 (20210289): GenesysGenLightSpot
+
+E1_8A_14_00 (20210291): GenesysGenLightSpot

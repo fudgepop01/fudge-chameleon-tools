@@ -1,0 +1,104 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.Physics.DampingConstraint.SingleAxisAngular.HighSpeedDamp extends Genesys.Object
+  >> 14: (43_29_10_00)
+  >> id: (25_8F_E8_CA)
+  0xC   : float32_t
+           muId: {70_6D_61_44} ("Damp")
+  0x10  : float32_t
+           muId: {AF_96_40_34}
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.Physics.DampingConstraint.SingleAxisAngular extends Genesys.Object
+  >> 14: (42_29_10_00)
+  >> id: (8E_8D_4C_32)
+  0xC   : float32_t * [size @ 0x14]
+           muId: {70_AA_A2_9D}
+  0x10  : Genesys.Gen.Physics.DampingConstraint.SingleAxisAngular.HighSpeedDamp * [size @ 0x16]
+           muId: {41_62_F0_F5}
+  0x14  : uint16_t
+           muId: {1B_EB_9F_13}
+  0x16  : uint16_t
+           muId: {52_11_97_BB}
+
+Genesys.Gen.Physics.DampingConstraint.SingleAxisLinear.HighSpeedDamp extends Genesys.Object
+  >> 14: (40_29_10_00)
+  >> id: (10_85_BB_57)
+  0xC   : float32_t
+           muId: {70_6D_61_44} ("Damp")
+  0x10  : float32_t
+           muId: {31_66_42_22}
+
+Genesys.Gen.Physics.DampingConstraint.SingleAxisLinear extends Genesys.Object
+  >> 14: (3F_29_10_00)
+  >> id: (C6_5A_0F_EB)
+  0xC   : float32_t * [size @ 0x14]
+           muId: {70_AA_A2_9D}
+  0x10  : Genesys.Gen.Physics.DampingConstraint.SingleAxisLinear.HighSpeedDamp * [size @ 0x16]
+           muId: {41_62_F0_F5}
+  0x14  : uint16_t
+           muId: {1B_EB_9F_13}
+  0x16  : uint16_t
+           muId: {52_11_97_BB}
+
+Genesys.Gen.Physics.DampingConstraint extends Genesys.Object
+  >> 14: (3E_29_10_00)
+  >> id: (37_28_59_9B)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.Physics.DampingConstraint.SingleAxisAngular * [size @ 0x28]
+           muId: {45_E5_E3_21}
+  0x14  : Genesys.Gen.Physics.DampingConstraint.SingleAxisAngular * [size @ 0x2A]
+           muId: {44_E5_E3_21}
+  0x18  : Genesys.Gen.Physics.DampingConstraint.SingleAxisAngular * [size @ 0x2C]
+           muId: {47_E5_E3_21}
+  0x1C  : Genesys.Gen.Physics.DampingConstraint.SingleAxisLinear * [size @ 0x2E]
+           muId: {68_96_E0_CA}
+  0x20  : Genesys.Gen.Physics.DampingConstraint.SingleAxisLinear * [size @ 0x30]
+           muId: {BA_E6_7F_80}
+  0x24  : Genesys.Gen.Physics.DampingConstraint.SingleAxisLinear * [size @ 0x32]
+           muId: {87_B6_F0_50}
+  0x28  : uint16_t
+           muId: {4E_23_F5_28}
+  0x2A  : uint16_t
+           muId: {92_E2_EC_FA}
+  0x2C  : uint16_t
+           muId: {41_BD_07_88}
+  0x2E  : uint16_t
+           muId: {24_23_4C_B5}
+  0x30  : uint16_t
+           muId: {21_56_32_F7}
+  0x32  : uint16_t
+           muId: {11_E1_16_7A}
+
+Genesys.Gen.Physics.DampingConstraintsList extends Genesys.Object
+  >> 14: (45_29_10_00)
+  >> id: (7C_7E_5C_66)
+  0xC   : CgsResource.Handle
+           muId: {B3_58_72_8F}
+  0x14  : CgsResource.Handle
+           muId: {B4_4A_8C_D2}
+  0x1C  : CgsResource.Handle
+           muId: {70_6F_72_50} ("Prop")
+  0x24  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")

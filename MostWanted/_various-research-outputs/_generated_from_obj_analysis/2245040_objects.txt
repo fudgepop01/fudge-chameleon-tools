@@ -1,0 +1,11 @@
+29_C0_17_00 (22373665): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(EB_C1_17_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[32]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  
+B0_41_22_00 (35934272): GenesysGenFeedbackMessageGroup

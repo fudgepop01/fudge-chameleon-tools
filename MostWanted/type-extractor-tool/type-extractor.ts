@@ -1,5 +1,5 @@
 import KaitaiStream from 'kaitai-struct/KaitaiStream';
-import { readFile, writeFile } from 'fs/promises';
+import { readdir, readFile, writeFile } from 'fs/promises';
 import { GenesysType as GenesysTypeBE } from '../ParserStuff-BE/genesys-type-BE';
 import { GenesysType as GenesysTypeLE } from '../ParserStuff-LE/genesys-type';
 // import { argv } from 'process';
@@ -18,6 +18,7 @@ interface TypeDictionary {
             hash: string,
             tableEntryOffset: number,
             unhashedName: string,
+            alignment: number,
             offset: number,
             valueTypeBits: number[],
             arrayCountSpecified: number,
@@ -26,7 +27,7 @@ interface TypeDictionary {
     }
 };
 
-const E3_PATH = `../ParserStuff-BE`;
+const E3_PATH = `../E3_BUILD`;
 const E3_BNDLS = [
     [E3_PATH + '/unpacked/GLOBALRESOURCES', 'GLOBALRESOURCES'],
     [E3_PATH + '/unpacked/GAMEMODES', 'GAMEMODES'],
@@ -35,7 +36,7 @@ const E3_BNDLS = [
     [E3_PATH + '/unpacked/WEAPONS_457359', 'WEAPONS_457359'],
 ];
 
-const RETAIL_PATH = '../ParserStuff-LE';
+const RETAIL_PATH = '.';
 const RETAIL_BNDLS = [
     [RETAIL_PATH + '/../all_unpacked/gamemodes', 'gamemodes'],
     [RETAIL_PATH + '/../all_unpacked/globalresources', 'globalresources'],
@@ -53,12 +54,15 @@ const RETAIL_BNDLS = [
     [RETAIL_PATH + '/../all_unpacked/ui/screens2/264716', 'ui_264716'],
     [RETAIL_PATH + '/../all_unpacked/ui/screens2/371621', 'ui_371621'],
     [RETAIL_PATH + '/../all_unpacked/EN_US/FEEDBACKGROUPS/457708', 'fbg_457708'],
+    [RETAIL_PATH + '/../all_unpacked/FBG_2090138', 'fbg_2090138'],
+    [RETAIL_PATH + '/../all_unpacked/GLOBALCONFIG', 'GLOBALCONFIG'],
 ];
 
 let ROOT_PATH = __dirname + '/';
 let BNDL_LIST = [];
 let GenesysType: typeof GenesysTypeBE | typeof GenesysTypeLE;
-if (process.argv[2] === 'E3') {
+const IS_E3 = process.argv[2] === 'E3';
+if (IS_E3) {
     ROOT_PATH += E3_PATH;
     BNDL_LIST = E3_BNDLS;
     GenesysType = GenesysTypeBE;
@@ -109,16 +113,29 @@ const extractFullHash = (te: GenesysTypeLE.GenesysTypeEntry | GenesysTypeBE.Gene
         let val = ([...te.typeHashId]).map(v => v.toString(16).padStart(2, '0').toUpperCase()).join('_').slice(12, 23)
         if (te.typeHashId[1] != 0) {
             // if (Math.random() < 1) process.exit();
-            val += '_' + te.typeHashId[0];
+            val += '_' + te.typeHashId[3];
             val += '_' + te.typeHashId[1];
         }
-        else if (te.typeHashId[0] != 0) {
-            val += '_' + te.typeHashId[0];
+        else if (te.typeHashId[3] != 0) {
+            val += '_' + te.typeHashId[3];
         }
         else if (val.endsWith('_00')) { val = val.slice(0, 11); }
         return val;
     }
     
+}
+
+const checkHashError = (hash: string) => {
+    if (IS_E3) {
+        return hash.endsWith('_1') || hash.match(/_1_\d$/g);
+    }
+    return hash.endsWith('_1');
+}
+const correctStandardHashError = (hash: string) => {
+    return hash.slice(0, hash.length - 2);
+}
+const correctE3HashError = (hash: string) => {
+    return hash.replace(/_1_(\d)$/g, '_0_$1');    
 }
 
 const extractType = async (directory: string, name: string) => {
@@ -178,25 +195,34 @@ const extractType = async (directory: string, name: string) => {
             // parses enums specifically
         } else {
             // parses types without a name
-            if (typeData.muBaseTypeVersion) {
-                const extendsFrom = localVersionLookup.get(typeData.muBaseTypeVersion);
-                if (extendsFrom) {   
-                    localTypeDictionary[name].extends = extendsFrom;
-                }
-            
-                if (!extendsFrom) {
-                    try {
-                        const baseTypeTableEntry = new GenesysType.GenesysTypeEntry(new KaitaiStream(file.subarray(typeTableStart, typeTableStart + 0x10)));
-                        let hash = extractFullHash(baseTypeTableEntry);
-                        if (hash.endsWith('_1')) {
-                            try {
-                                await readFile(__dirname + `/${directory}/GenesysType/${hash}.dat`);
-                            } catch {
-                                hash = hash.slice(0, hash.length - 2);
+            if (typeData.muBaseTypeVersion) {           
+                try {
+                    const baseTypeTableEntry = new GenesysType.GenesysTypeEntry(new KaitaiStream(file.subarray(typeTableStart, typeTableStart + 0x10)));
+                    let hash = extractFullHash(baseTypeTableEntry);
+                    if (checkHashError(hash)) {
+                        try {
+                            await readFile(__dirname + `/${directory}/GenesysType/${hash}.dat`);
+                        } catch {
+                            let chkHash = correctStandardHashError(hash);
+                            if (IS_E3) {
+                                try {
+                                    await readFile(__dirname + `/${directory}/GenesysType/${chkHash}.dat`);
+                                } catch {
+                                    chkHash = correctE3HashError(hash);
+                                }
                             }
+                            hash = chkHash;
                         }
-                        localTypeDictionary[name].extends = hash;
-                    } catch {}
+                    }
+                    localTypeDictionary[name].extends = hash;
+                } catch {
+                }
+                
+                if (!localTypeDictionary[name].extends) {
+                    const extendsFrom = localVersionLookup.get(typeData.muBaseTypeVersion);
+                    if (extendsFrom) {   
+                        localTypeDictionary[name].extends = extendsFrom;
+                    }
                 }
             }
         }
@@ -236,6 +262,7 @@ const extractType = async (directory: string, name: string) => {
             localTypeDictionary[name].types.push({
                 muID: (`muId: {${LEHash}}${unhashedName ? ` ("${unhashedName}")` : "" }`),
                 hash: hash,
+                alignment: prop.muTypeAlignment,
                 unhashedName: unhashedName,
                 offset: prop.muOffset,
                 arrayCountSpecified: prop.muCount,
@@ -264,11 +291,20 @@ const extractType = async (directory: string, name: string) => {
             try {
                 const baseTypeTableEntry = new GenesysType.GenesysTypeEntry(new KaitaiStream(file.subarray(typeTableStart, typeTableStart + 0x10)));
                 let hash = extractFullHash(baseTypeTableEntry);
-                if (hash.endsWith('_1')) {
+
+                if (checkHashError(hash)) {
                     try {
                         await readFile(__dirname + `/${directory}/GenesysType/${hash}.dat`);
                     } catch {
-                        hash = hash.slice(0, hash.length - 2);
+                        let chkHash = correctStandardHashError(hash);
+                        if (IS_E3) {
+                            try {
+                                await readFile(__dirname + `/${directory}/GenesysType/${chkHash}.dat`);
+                            } catch {
+                                chkHash = correctE3HashError(hash);
+                            }
+                        }
+                        hash = chkHash;
                     }
                 }
                 localTypeDictionary[name].extends = hash;
@@ -306,6 +342,7 @@ const extractType = async (directory: string, name: string) => {
             localTypeDictionary[name].types.push({
                 muID: (`muId: {${LEHash}}${unhashedName ? ` ("${unhashedName}")` : "" }`),
                 hash: hash,
+                alignment: innerTypeData.muTypeAlignment,
                 unhashedName: unhashedName,
                 offset: innerTypeData.muOffset,
                 arrayCountSpecified: innerTypeData.muCount,
@@ -394,7 +431,7 @@ const createDictionaryData = (dict: TypeDictionary, errorSet: Set<string>) => {
         const data = dict[hash];
         
         let extendsFrom = (dict[data.extends] ?? {name: data.extends}).name;
-        out.push(`${data.name}${extendsFrom.length > 0 ? ' extends ' + extendsFrom: ''}\n>> 14: (${hash})\n>> id: (${data.muVersionID})`);
+        out.push(`${data.name}${extendsFrom.length > 0 ? ' extends ' + extendsFrom: ''}\n  >> 14: (${hash})\n  >> id: (${data.muVersionID})`);
         // out.push(`>> 15: (${data.objectHash})`);
         // if (data.name === "02_5E_0F_00") {
         //     console.log(data.name, data);
@@ -460,7 +497,7 @@ const commonTypesToKaitaiType = (t: string) => {
     }
 }
 
-const commonTypesToSize = (t: string) => {
+const commonTypesToSize = (t: string, types?: {[key: string]: KaitaiStructData}): number => {
     switch (t) {
         case 'char': return 1; 
         case 'bool8_t': return 1; 
@@ -483,6 +520,9 @@ const commonTypesToSize = (t: string) => {
         case 'CgsCore.UniqueId': return 4;
         case 'Genesys.Object': return 12; 
         default:
+            if (types && types[t]) {
+                return types[t].instances['size']?.value as number ?? 4;
+            }
             return 4;
     }
 }
@@ -559,6 +599,10 @@ const generateParserStructs = (target: string, dict: TypeDictionary, types: {[ke
 
     const data = dict[targetHash];
     
+    // if (target === 'Genesys.Gen.SequenceItem') {
+    //     console.log(data)
+    // }
+
     if (!data.types.length) {
         return {
             thisType: {
@@ -583,12 +627,15 @@ const generateParserStructs = (target: string, dict: TypeDictionary, types: {[ke
     
     let parentSize = 0;
 
+    let hasBase = false;
     if (data.extends && dict[data.extends].name === 'Genesys.Object') {
+        hasBase = true;
         seq.push({
             id: 'base_object',
             type: 'genesys_object'
         });
     } else if (data.extends && dict[data.extends].name) {
+        hasBase = true;
         const parsedBase = generateParserStructs(dict[data.extends].name, dict, types, enums);
         let ksyBaseName = toSnakeCase(dict[data.extends].name);
         if (ksyBaseName.match(/^\d/g)) {
@@ -604,6 +651,7 @@ const generateParserStructs = (target: string, dict: TypeDictionary, types: {[ke
             type: ksyBaseName
         })
     } else if (data.extends) {
+        hasBase = true;
         const newEntry = {id: 'base_object', type: data.extends};
         if (data.extends.match(/^[0-9]/g)) {
             newEntry.type = 't_' + newEntry.type;
@@ -615,6 +663,23 @@ const generateParserStructs = (target: string, dict: TypeDictionary, types: {[ke
     
     for (const [idx, t] of data.types.entries()) {
         if (t.offset < parentSize) continue;    
+
+        // some of the hackiest code i've ever written good LORD
+        if (idx != 0) {
+            const prevSeq = seq[seq.length - 1];
+            let prevOffset = seq.length === 1 ? 0 : data.types[idx - 1].offset;
+            let prevSize = ((prevSeq.size as number) ?? (commonTypesToSize(prevSeq?.type, types) ?? prevSeq.size as number));
+            if (prevSeq.repeat) {
+                prevSize *= prevSeq['repeat-expr'] as number;
+            }
+
+            const postPosition = prevOffset + prevSize;
+            if (postPosition != t.offset) {
+                seq.push({id: `padding_pre_0x${t.offset.toString(16)}`, size: t.offset - postPosition})
+            }
+        } else if (t.offset > 0xC) {
+            seq.push({id: `padding_pre_data_0x${t.offset.toString(16)}`, size: t.offset - 0xC})
+        }
 
         if (arrayLengthOffsets[t.offset] != undefined) {
             const newSeqEntry: KaitaiSeqEntry = {
@@ -630,6 +695,7 @@ const generateParserStructs = (target: string, dict: TypeDictionary, types: {[ke
                 process.exit();
             }
             newSeqEntry.type = typeName;
+
             if (t.unhashedName) {
                 newSeqEntry.doc = `"${t.unhashedName}"`;   
             }
@@ -658,7 +724,10 @@ const generateParserStructs = (target: string, dict: TypeDictionary, types: {[ke
             id = t.hash.toLowerCase();
         } else {
             id = toSnakeCase(dict[t.hash].name);
-            if (!commonTypesList.includes(id) && !types[dict[t.hash]?.name]) {
+            if (id.match(/^\d/g)) {
+                id = 't_' + id;
+            }
+            if (!commonTypesList.includes(id) && !types[id]) {
                 const newStructData = generateParserStructs(dict[t.hash].name, dict, types, enums);
                 types[id] = newStructData.thisType;
             }
@@ -769,10 +838,11 @@ const generateParserStructs = (target: string, dict: TypeDictionary, types: {[ke
                 }
             }
 
-            if (!commonTypesList.includes(typeName) && !types[typeName]) {
-                const newStructData = generateParserStructs(nameToCompare, dict, types, enums);
-                types[typeName] = newStructData.thisType;
-            }
+        }
+
+        if (!commonTypesList.includes(typeName) && !types[typeName]) {
+            const newStructData = generateParserStructs(nameToCompare, dict, types, enums);
+            types[typeName] = newStructData.thisType;
         }
 
         if (newSeqEntry.type === 'cgs_resource__handle') {
@@ -787,7 +857,13 @@ const generateParserStructs = (target: string, dict: TypeDictionary, types: {[ke
 
     const lastType = data.types[data.types.length - 1];
     if (lastType) {
-        let finalSize = lastType.offset + commonTypesToSize(seq[seq.length - 1].type);
+        const lastSeq = seq[seq.length - 1];
+        let lastSeqSize = commonTypesToSize(seq[seq.length - 1].type, types);
+        if (lastSeq.repeat) {
+            lastSeqSize *= lastSeq['repeat-expr'] as number; 
+        }
+        
+        let finalSize = (lastType.offset >= parentSize ? lastType.offset : 0) + lastSeqSize;
     
         if (finalSize % 4 != 0) {
             seq.push({
@@ -801,6 +877,13 @@ const generateParserStructs = (target: string, dict: TypeDictionary, types: {[ke
         instances['mu_version_hash'] = { value: '0x' + data.muVersionID.toLowerCase() }
     }
 
+    // if (data.name.startsWith('rw.math.vpu.Vector')) {
+    //     seq.push({
+    //         id: 'vec_padding',
+    //         size: 0x10 - (instances['size'].value as number)
+    //     });
+    //     instances['size'] = { value: 0x10 }
+    // }
 
     for (const t of Object.keys(types)) {
         if (t.match(/^[0-9]/g)) {
@@ -836,7 +919,6 @@ const generateParser = (target: string, dict: TypeDictionary, errorSet: Set<stri
         let enums = {};
         for (const [k, v] of Object.entries(dict)) {
             const generated = generateParserStructs(v.name, dict, types, enums);
-            // console.log(v.name);
             types[toSnakeCase(v.name)] = generated.thisType;
         }
 
@@ -859,7 +941,7 @@ const generateParser = (target: string, dict: TypeDictionary, errorSet: Set<stri
         types['genesys_object'] = {
             seq: [
                 {id: 'dynamic_gamedata', size: 0x8},
-                {id: 'mu_type_version', type: 'u4le'}
+                {id: 'mu_type_version', type: IS_E3 ? 'u4le' : 'u4be'}
             ],
             instances: {}
         };
@@ -985,7 +1067,15 @@ const process_files = async (directory: string, names: string[], resultName: str
 const main = async () => {
     // THIS IS WHERE YOU PLACE THE PATHS TO THE GenesysType FOLDERS
     // the first part is the path, the 2nd part is what the resulting file will be named
-    const pathNameResultPair = BNDL_LIST;
+    
+    let pathNameResultPair = BNDL_LIST;
+    
+    if (process.argv[2] === 'EVERYTHING') {
+        const FULL_DIR = await readdir(__dirname + '/../ALL_BNDL')
+        pathNameResultPair = FULL_DIR.filter(v => !v.endsWith('.BNDL') && !v.endsWith(`.exe`) && !v.endsWith('.py') && v != '_generated_from_type_tool').map(v => {
+            return ['/../ALL_BNDL/' + v, v];
+        })
+    }
 
     (await readFile(ROOT_PATH + "/foundHashes.txt", "ascii")).split("\n").forEach(v => {
         let pair = v.split(',');
@@ -993,10 +1083,12 @@ const main = async () => {
         knownHashes.set(pair[0], pair[1]);
     })
 
-    for (const [path, fileName] of pathNameResultPair) {
+    for (const [idx, [path, fileName]] of pathNameResultPair.entries()) {
         const names = readdirSync(ROOT_PATH + `/${path}/GenesysType`)
             .map(n => n.slice(0, n.length - 4));
-        
+
+
+        console.log(`${idx} / ${pathNameResultPair.length}: ${fileName}`);
         await process_files(path, names, fileName);
     }
     // sortDepdendencies(typeDictionary);
@@ -1008,7 +1100,7 @@ const main = async () => {
     const typeIdx = process.argv[2] !== 'E3' ? 2 : 3;
     console.log(typeIdx);
     let generatedParserType = process.argv[typeIdx];
-    if (generatedParserType == 'all') {
+    if (generatedParserType == 'all' || generatedParserType == 'EVERYTHING') {
         generatedParserType = 'generic_gen_object';
     }
     if (generatedParserType) {

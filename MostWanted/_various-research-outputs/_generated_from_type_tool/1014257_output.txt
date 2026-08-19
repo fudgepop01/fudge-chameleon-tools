@@ -1,0 +1,322 @@
+146165144147145160157160060061o
+
+
+B7_28_07_00
+  >> 14: (B7_28_07_00)
+  >> id: (A4_FB_D5_D4)
+  0x0   : 
+           muId: {0F_9D_F2_54}
+  0x1   : 
+           muId: {F9_C7_9D_9C}
+  0x2   : 
+           muId: {1A_69_21_5B}
+  0x3   : 
+           muId: {0C_36_75_51}
+  0x4   : 
+           muId: {AC_71_90_7A}
+  0x5   : 
+           muId: {ED_37_58_C4}
+  0x6   : 
+           muId: {2E_92_B0_F0}
+
+B8_28_07_00
+  >> 14: (B8_28_07_00)
+  >> id: (3B_7A_2D_AC)
+  0x1   : 
+           muId: {1F_E7_F0_79}
+  0x2   : 
+           muId: {3B_C0_95_9E}
+  0x3   : 
+           muId: {49_55_A4_2B}
+
+char
+  >> 14: (9F_57_FE_8C)
+  >> id: (05_52_C1_F7)
+
+uint32_t
+  >> 14: (81_F3_2A_0E)
+  >> id: (D4_2E_65_69)
+
+CgsCore.StringBase
+  >> 14: (01_43_40_40)
+  >> id: (95_FB_EA_BE)
+  0x0   : char (offset) [size @ 0x4]
+           muId: {3F_7A_EB_8F} ("Buffer")
+  0x4   : uint32_t
+           muId: {38_73_C0_7F} ("Capacity")
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+bool8_t
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.UserActionInstance extends Genesys.Object
+  >> 14: (C9_08_04_00)
+  >> id: (BF_14_A1_2F)
+  0xC   : CgsCore.StringBase
+           muId: {C0_93_3E_05} ("ActiveBinding")
+  0x14  : CgsCore.StringBase
+           muId: {B4_28_03_A0}
+  0x1C  : CgsCore.StringBase
+           muId: {ED_49_02_00} ("SuccessBinding")
+  0x24  : CgsCore.StringBase
+           muId: {18_24_E3_EC}
+  0x2C  : CgsResource.Handle
+           muId: {25_BD_BF_89} ("ActionDefinition")
+  0x34  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x38  : bool8_t
+           muId: {CA_88_18_DA}
+
+Genesys.Gen.WidgetDefinition.DataSource extends Genesys.Object
+  >> 14: (6A_09_04_00)
+  >> id: (9F_2A_BF_85)
+  0xC   : CgsCore.StringBase
+           muId: {65_6D_61_4E} ("Name")
+  0x14  : CgsCore.UniqueId
+           muId: {C1_52_B4_F6} ("ViewModel")
+
+Genesys.Gen.WidgetDefinition.Layout extends Genesys.Object
+  >> 14: (1D_09_04_00)
+  >> id: (01_C4_79_91)
+  0xC   : CgsResource.Handle
+           muId: {61_3B_69_A0} ("Layout")
+  0x14  : CgsResource.Handle
+           muId: {89_88_C0_EC} ("LayoutInstanceParams")
+
+Genesys.Gen.WidgetDefinition.Script extends Genesys.Object
+  >> 14: (36_09_04_00)
+  >> id: (D6_64_F6_27)
+  0xC   : CgsCore.StringBase
+           muId: {65_6D_61_4E} ("Name")
+  0x14  : CgsResource.Handle
+           muId: {34_A3_3B_0F} ("Script")
+
+uint8_t
+  >> 14: (11_C0_AB_8E)
+  >> id: (35_34_7F_1D)
+
+Genesys.Gen.WidgetDefinition extends Genesys.Object
+  >> 14: (1C_09_04_00)
+  >> id: (48_F7_7A_C6)
+  0xC   : CgsCore.StringBase
+           muId: {65_6D_61_4E} ("Name")
+  0x14  : CgsCore.UniqueId * [size @ 0x3D]
+           muId: {78_DF_F4_58} ("Adapters")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x1C  : CgsResource.Handle * [size @ 0x3F]
+           muId: {2C_A2_4B_E1}
+  0x20  : CgsResource.Handle * [size @ 0x43]
+           muId: {9F_09_72_08} ("Timers")
+  0x24  : Genesys.Gen.UserActionInstance * [size @ 0x3C] *
+           muId: {49_0F_B9_B6} ("Actions")
+  0x28  : Genesys.Gen.WidgetDefinition.DataSource * [size @ 0x3E]
+           muId: {6D_A3_1D_F1}
+  0x2C  : Genesys.Gen.WidgetDefinition.DataSource * [size @ 0x41]
+           muId: {E4_39_87_68}
+  0x30  : Genesys.Gen.WidgetDefinition.Layout * [size @ 0x40]
+           muId: {36_77_E3_29} ("Layouts")
+  0x34  : Genesys.Gen.WidgetDefinition.Script * [size @ 0x42]
+           muId: {85_C9_1B_B2} ("Scripts")
+  0x38  : B7_28_07_00
+           muId: {9F_4B_5F_51} ("LayoutLayer")
+  0x3A  : B8_28_07_00
+           muId: {EC_B5_C1_65} ("ModalMode")
+  0x3C  : uint8_t
+           muId: {A2_A0_D7_5D} ("ActionsCount")
+  0x3D  : uint8_t
+           muId: {44_F7_96_4B} ("AdaptersCount")
+  0x3E  : uint8_t
+           muId: {CA_AD_67_2B}
+  0x3F  : uint8_t
+           muId: {FB_7B_DA_DC}
+  0x40  : uint8_t
+           muId: {1C_68_2E_98} ("LayoutsCount")
+  0x41  : uint8_t
+           muId: {4C_89_B2_9F}
+  0x42  : uint8_t
+           muId: {69_2F_3E_1F} ("ScriptsCount")
+  0x43  : uint8_t
+           muId: {7D_1E_05_FF} ("TimersCount")
+
+Genesys.Gen.WidgetGroup extends Genesys.Object
+  >> 14: (34_09_04_00)
+  >> id: (39_7E_25_87)
+  0xC   : CgsResource.Handle
+           muId: {D0_1F_55_7A} ("DefaultTransition")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsResource.Handle * [size @ 0x20]
+           muId: {B8_D1_A0_B2} ("Transitions")
+  0x1C  : Genesys.Gen.WidgetDefinition * [size @ 0x21] *
+           muId: {06_30_41_C7}
+  0x20  : uint8_t
+           muId: {18_F1_70_03} ("TransitionsCount")
+  0x21  : uint8_t
+           muId: {9B_BF_D5_D0}
+
+Genesys.Gen.Screen2 extends Genesys.Object
+  >> 14: (70_09_04_00)
+  >> id: (93_DB_6E_54)
+  0xC   : CgsCore.StringBase
+           muId: {7A_73_FF_DF} ("BundleName")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {61_3A_FE_31} ("UICamera")
+  0x1C  : Genesys.Gen.WidgetGroup * [size @ 0x20] *
+           muId: {27_5D_F0_75} ("WidgetGroups")
+  0x20  : uint8_t
+           muId: {1F_89_61_1F} ("WidgetGroupsCount")
+
+Genesys.Gen.Widget_ImagePalette extends Genesys.Gen.WidgetDefinition
+  >> 14: (6A_5E_04_00)
+  >> id: (71_B3_92_A7)
+  0xC   : CgsCore.StringBase
+           muId: {65_6D_61_4E} ("Name")
+  0x14  : CgsCore.UniqueId * [size @ 0x3D]
+           muId: {78_DF_F4_58} ("Adapters")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x1C  : CgsResource.Handle * [size @ 0x3F]
+           muId: {2C_A2_4B_E1}
+  0x20  : CgsResource.Handle * [size @ 0x43]
+           muId: {9F_09_72_08} ("Timers")
+  0x24  : Genesys.Gen.UserActionInstance * [size @ 0x3C] *
+           muId: {49_0F_B9_B6} ("Actions")
+  0x28  : Genesys.Gen.WidgetDefinition.DataSource * [size @ 0x3E]
+           muId: {6D_A3_1D_F1}
+  0x2C  : Genesys.Gen.WidgetDefinition.DataSource * [size @ 0x41]
+           muId: {E4_39_87_68}
+  0x30  : Genesys.Gen.WidgetDefinition.Layout * [size @ 0x40]
+           muId: {36_77_E3_29} ("Layouts")
+  0x34  : Genesys.Gen.WidgetDefinition.Script * [size @ 0x42]
+           muId: {85_C9_1B_B2} ("Scripts")
+  0x38  : B7_28_07_00
+           muId: {9F_4B_5F_51} ("LayoutLayer")
+  0x3A  : B8_28_07_00
+           muId: {EC_B5_C1_65} ("ModalMode")
+  0x3C  : uint8_t
+           muId: {A2_A0_D7_5D} ("ActionsCount")
+  0x3D  : uint8_t
+           muId: {44_F7_96_4B} ("AdaptersCount")
+  0x3E  : uint8_t
+           muId: {CA_AD_67_2B}
+  0x3F  : uint8_t
+           muId: {FB_7B_DA_DC}
+  0x40  : uint8_t
+           muId: {1C_68_2E_98} ("LayoutsCount")
+  0x41  : uint8_t
+           muId: {4C_89_B2_9F}
+  0x42  : uint8_t
+           muId: {69_2F_3E_1F} ("ScriptsCount")
+  0x43  : uint8_t
+           muId: {7D_1E_05_FF} ("TimersCount")
+  0x44  : CgsResource.Handle * [size @ 0x48]
+           muId: {56_A7_D9_CA} ("Image")
+  0x48  : uint8_t
+           muId: {1D_EF_1D_F5} ("ImageCount")
+
+Genesys.Gen.Widget_ShowLayouts extends Genesys.Gen.WidgetDefinition
+  >> 14: (82_5E_04_00)
+  >> id: (53_0D_17_CA)
+  0xC   : CgsCore.StringBase
+           muId: {65_6D_61_4E} ("Name")
+  0x14  : CgsCore.UniqueId * [size @ 0x3D]
+           muId: {78_DF_F4_58} ("Adapters")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x1C  : CgsResource.Handle * [size @ 0x3F]
+           muId: {2C_A2_4B_E1}
+  0x20  : CgsResource.Handle * [size @ 0x43]
+           muId: {9F_09_72_08} ("Timers")
+  0x24  : Genesys.Gen.UserActionInstance * [size @ 0x3C] *
+           muId: {49_0F_B9_B6} ("Actions")
+  0x28  : Genesys.Gen.WidgetDefinition.DataSource * [size @ 0x3E]
+           muId: {6D_A3_1D_F1}
+  0x2C  : Genesys.Gen.WidgetDefinition.DataSource * [size @ 0x41]
+           muId: {E4_39_87_68}
+  0x30  : Genesys.Gen.WidgetDefinition.Layout * [size @ 0x40]
+           muId: {36_77_E3_29} ("Layouts")
+  0x34  : Genesys.Gen.WidgetDefinition.Script * [size @ 0x42]
+           muId: {85_C9_1B_B2} ("Scripts")
+  0x38  : B7_28_07_00
+           muId: {9F_4B_5F_51} ("LayoutLayer")
+  0x3A  : B8_28_07_00
+           muId: {EC_B5_C1_65} ("ModalMode")
+  0x3C  : uint8_t
+           muId: {A2_A0_D7_5D} ("ActionsCount")
+  0x3D  : uint8_t
+           muId: {44_F7_96_4B} ("AdaptersCount")
+  0x3E  : uint8_t
+           muId: {CA_AD_67_2B}
+  0x3F  : uint8_t
+           muId: {FB_7B_DA_DC}
+  0x40  : uint8_t
+           muId: {1C_68_2E_98} ("LayoutsCount")
+  0x41  : uint8_t
+           muId: {4C_89_B2_9F}
+  0x42  : uint8_t
+           muId: {69_2F_3E_1F} ("ScriptsCount")
+  0x43  : uint8_t
+           muId: {7D_1E_05_FF} ("TimersCount")
+
+Genesys.Gen.Widget_Speedwall extends Genesys.Gen.WidgetDefinition
+  >> 14: (E6_F4_05_00)
+  >> id: (53_7E_8B_A5)
+  0xC   : CgsCore.StringBase
+           muId: {65_6D_61_4E} ("Name")
+  0x14  : CgsCore.UniqueId * [size @ 0x3D]
+           muId: {78_DF_F4_58} ("Adapters")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x1C  : CgsResource.Handle * [size @ 0x3F]
+           muId: {2C_A2_4B_E1}
+  0x20  : CgsResource.Handle * [size @ 0x43]
+           muId: {9F_09_72_08} ("Timers")
+  0x24  : Genesys.Gen.UserActionInstance * [size @ 0x3C] *
+           muId: {49_0F_B9_B6} ("Actions")
+  0x28  : Genesys.Gen.WidgetDefinition.DataSource * [size @ 0x3E]
+           muId: {6D_A3_1D_F1}
+  0x2C  : Genesys.Gen.WidgetDefinition.DataSource * [size @ 0x41]
+           muId: {E4_39_87_68}
+  0x30  : Genesys.Gen.WidgetDefinition.Layout * [size @ 0x40]
+           muId: {36_77_E3_29} ("Layouts")
+  0x34  : Genesys.Gen.WidgetDefinition.Script * [size @ 0x42]
+           muId: {85_C9_1B_B2} ("Scripts")
+  0x38  : B7_28_07_00
+           muId: {9F_4B_5F_51} ("LayoutLayer")
+  0x3A  : B8_28_07_00
+           muId: {EC_B5_C1_65} ("ModalMode")
+  0x3C  : uint8_t
+           muId: {A2_A0_D7_5D} ("ActionsCount")
+  0x3D  : uint8_t
+           muId: {44_F7_96_4B} ("AdaptersCount")
+  0x3E  : uint8_t
+           muId: {CA_AD_67_2B}
+  0x3F  : uint8_t
+           muId: {FB_7B_DA_DC}
+  0x40  : uint8_t
+           muId: {1C_68_2E_98} ("LayoutsCount")
+  0x41  : uint8_t
+           muId: {4C_89_B2_9F}
+  0x42  : uint8_t
+           muId: {69_2F_3E_1F} ("ScriptsCount")
+  0x43  : uint8_t
+           muId: {7D_1E_05_FF} ("TimersCount")
+
+int16_t
+  >> 14: (35_0C_D4_BF)
+  >> id: (56_24_52_29)

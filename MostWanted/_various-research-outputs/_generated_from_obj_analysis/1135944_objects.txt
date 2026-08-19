@@ -1,0 +1,11 @@
+48_55_11_00 (18045252): GenesysGenFeedbackMessageGroup
+
+59_55_11_00 (18045281): GenesysGenCameraDynamicCamera
+
+F9_7B_16_00 (21443881): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenSequenceItemsDynamicCameraSequenceItem
+  /instSequenceItems0x20[0]cgsCoreUniqueId0x2c: "00_00_00_00"
+  

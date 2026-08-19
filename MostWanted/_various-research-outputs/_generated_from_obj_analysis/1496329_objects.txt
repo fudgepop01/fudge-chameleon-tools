@@ -1,0 +1,12 @@
+06_D5_16_00 (21586726): GenesysGenSequence
+more info:
+  count: 2
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (14) EV14
+      data: "(19_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[3]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+    - GenesysGenSpeechEventSequenceItem
+  
+09_D5_16_00 (21586729): GenesysGenFeedbackMessageGroup

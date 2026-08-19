@@ -1,0 +1,23 @@
+12_4F_02_00 (1381140): GenesysGenVfxGlobals
+
+58_92_04_00 (2725384): GenesysGenCorona
+
+69_51_02_00 (1382675): GenesysGenCorona
+
+7B_57_07_00 (4723015): GenesysGenVfxWheelEffects
+
+7C_57_07_00 (4723016): GenesysGenVfxWheelEffects
+
+8C_51_02_00 (1382728): GenesysGenCorona
+
+A0_50_02_00 (1382162): GenesysGenVfxDebug
+
+A4_50_02_00 (1382166): GenesysGenVfxMisc
+
+A5_50_02_00 (1382167): GenesysGenVfxVehicleCollisions
+
+A6_50_02_00 (1382168): GenesysGenVfxVehicleCollisions
+
+A9_BD_07_00 (5272325): GenesysGenVfxWheelEffects
+
+B6_53_02_00 (1385730): GenesysGenParticleLighting

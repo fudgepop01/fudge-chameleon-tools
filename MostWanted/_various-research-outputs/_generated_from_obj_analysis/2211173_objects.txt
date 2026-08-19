@@ -1,0 +1,63 @@
+00_0C_0D_00 (8736832): GenesysGenSoundDistanceFalloff
+
+0E_57_07_00 (4722744): GenesysGenWeaponRechargeData
+
+29_57_07_00 (4722789): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenCameraShakeSequenceItem
+  
+3D_0C_0D_00 (8737025): GenesysGenSndPlayerDspPlugIn
+
+3E_0C_0D_00 (8737026): GenesysGenSendDspPlugIn
+
+5D_F7_0A_00 (7440005): GenesysGenMixerChannel
+
+5E_F7_0A_00 (7440006): GenesysGenDspPlugInChain
+
+63_BD_21_00 (35721585): GenesysGenSpikeStripWeapon
+more info:
+  /baseObjectcgsCoreUniqueId0x5c: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x60: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x64: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x68: "00_00_00_00"
+  /baseObjectcgsCoreUniqueId0x6c: "00_00_00_00"
+  
+64_F7_03_00 (2464064): GenesysGenMixerChannel
+
+65_BD_21_00 (35721587): GenesysGenWeaponList
+
+73_72_00_00 (168601): GenesysGenSoundDistanceFalloff
+
+84_F7_0A_00 (7440164): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+89_51_02_00 (1382725): GenesysGenCorona
+
+97_B9_21_00 (35717529): GenesysGenMakePhysicalBehaviour
+
+A6_CB_22_00 (36176728): GenesysGenWcvfxBehaviour
+
+B0_CB_22_00 (36176744): GenesysGenWcvfxBehaviour
+
+B3_67_22_00 (35997553): GenesysGenCompoundAdditionalInfo
+
+C1_5A_09_00 (6369367): GenesysGenWcplaySoundBehaviour
+
+C4_CB_22_00 (36176776): GenesysGenWcvfxBehaviour
+
+D4_C1_17_00 (22374728): GenesysGenSequence
+more info:
+  count: 4
+  sequenceTypes:
+    - GenesysGenEventTriggerSequenceItem
+    - GenesysGenWaveSelectSequenceItem
+    - GenesysGenBehaviourEnabledSequenceItemGameplay
+  
+DA_B8_21_00_1 (35717136): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+E7_0B_0D_00 (8736789): GenesysGenMixerChannel

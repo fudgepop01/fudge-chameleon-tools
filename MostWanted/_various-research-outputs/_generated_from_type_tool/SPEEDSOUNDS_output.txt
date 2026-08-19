@@ -1,0 +1,118 @@
+146165144147145160157160060061o
+
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.SpeedSoundSet.WindLayer extends Genesys.Object
+  >> 14: (43_33_00_00)
+  >> id: (C8_FE_A3_CE)
+  0xC   : CgsResource.Handle
+           muId: {93_19_9E_2E}
+  0x14  : CgsResource.Handle
+           muId: {E3_FE_4C_68}
+  0x1C  : CgsResource.Handle
+           muId: {9F_D2_17_23}
+  0x24  : CgsResource.Handle
+           muId: {5A_9F_F0_DF}
+  0x2C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x30  : float32_t
+           muId: {AF_A9_E1_65}
+  0x34  : float32_t
+           muId: {21_EC_F9_DA}
+  0x38  : float32_t
+           muId: {6E_69_61_47} ("Gain")
+  0x3C  : float32_t
+           muId: {13_A3_5A_91}
+  0x40  : float32_t
+           muId: {9B_E8_B5_34} ("Start_Speed_Mph")
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.SpeedSoundSet.WorldLayer extends Genesys.Object
+  >> 14: (44_33_00_00)
+  >> id: (B4_A5_73_12)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsResource.Handle * [size @ 0x20]
+           muId: {3A_DE_51_B6} ("Waves")
+  0x14  : float32_t
+           muId: {AB_78_AA_8E}
+  0x18  : float32_t
+           muId: {2C_44_E8_09}
+  0x1C  : float32_t
+           muId: {9F_99_B1_1B}
+  0x20  : uint16_t
+           muId: {0C_4B_51_BC} ("WavesCount")
+
+Genesys.Gen.SpeedSoundSet.FlybyLayer extends Genesys.Object
+  >> 14: (45_33_00_00)
+  >> id: (15_08_3B_1E)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsResource.Handle * [size @ 0x18]
+           muId: {3A_DE_51_B6} ("Waves")
+  0x14  : float32_t
+           muId: {F1_A8_46_B4} ("Speed")
+  0x18  : uint16_t
+           muId: {0C_4B_51_BC} ("WavesCount")
+
+Genesys.Gen.SpeedSoundSet extends Genesys.Object
+  >> 14: (3A_2A_00_00)
+  >> id: (9B_EA_B7_DE)
+  0xC   : Genesys.Gen.SpeedSoundSet.WindLayer
+           muId: {3B_96_39_BD}
+  0x50  : Genesys.Gen.SpeedSoundSet.WindLayer
+           muId: {A3_52_5C_87}
+  0x94  : Genesys.Gen.SpeedSoundSet.WorldLayer
+           muId: {1B_B9_96_66}
+  0xB8  : Genesys.Gen.SpeedSoundSet.WorldLayer
+           muId: {72_86_51_A1}
+  0xDC  : Genesys.Gen.SpeedSoundSet.WorldLayer
+           muId: {36_C1_01_BB}
+  0x100 : Genesys.Gen.SpeedSoundSet.WorldLayer
+           muId: {2D_6D_BD_C7}
+  0x124 : Genesys.Gen.SpeedSoundSet.FlybyLayer
+           muId: {E7_41_B5_15}
+  0x140 : Genesys.Gen.SpeedSoundSet.FlybyLayer
+           muId: {C5_84_E7_24}
+  0x15C : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x160 : float32_t
+           muId: {F7_CD_48_B1}
+  0x164 : float32_t
+           muId: {AB_78_AA_8E}
+  0x168 : float32_t
+           muId: {21_EC_F9_DA}
+  0x16C : float32_t
+           muId: {AF_E6_5A_E5}
+  0x170 : float32_t
+           muId: {8C_F6_04_6A}
+  0x174 : float32_t
+           muId: {9F_99_B1_1B}
+  0x178 : float32_t
+           muId: {9B_E8_B5_34} ("Start_Speed_Mph")
+  0x17C : float32_t
+           muId: {EB_B2_95_58}
+  0x180 : float32_t
+           muId: {E9_6B_91_20}
+  0x184 : float32_t
+           muId: {D4_5F_2E_1D}
+  0x188 : float32_t
+           muId: {B8_B1_59_3B}

@@ -1,0 +1,15 @@
+13_C9_07_00 (5308967): GenesysGenDynamicAdditionalInfo
+
+19_6D_0A_00 (6828681): GenesysGenLightPoint
+
+5C_4C_09_00 (6329202): GenesysGenLightPoint
+
+6D_0A_09_00_1 (5842067): GenesysGenRaceCarPhysicalDefinitionPhysicalDefinition
+
+71_0A_09_00 (5842071): GenesysGenCorona
+
+73_0A_09_00 (5842073): GenesysGenWcvfxBehaviour
+
+90_54_1D_00 (26354066): GenesysGenWcrotateBehaviour
+
+B5_C6_1E_00 (33646921): GenesysGenLightSpot

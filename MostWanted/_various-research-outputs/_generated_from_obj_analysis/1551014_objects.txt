@@ -1,0 +1,12 @@
+A3_AA_17_00 (22351889): GenesysGenSequence
+more info:
+  count: 2
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (14) EV14
+      data: "(19_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[3]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+    - GenesysGenSpeechEventSequenceItem
+  
+A6_AA_17_00 (22351892): GenesysGenFeedbackMessageGroup

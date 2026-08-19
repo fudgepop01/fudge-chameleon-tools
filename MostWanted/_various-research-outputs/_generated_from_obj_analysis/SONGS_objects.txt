@@ -1,0 +1,400 @@
+0A_C7_01_00 (1139856): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+0B_C7_01_00 (1139857): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+0D_C7_01_00 (1139859): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+0E_C7_01_00 (1139860): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+0F_C7_01_00 (1139861): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+10_C7_01_00 (1139862): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+11_C7_01_00 (1139863): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+12_C7_01_00 (1139864): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+13_C7_01_00 (1139865): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+14_C7_01_00 (1139968): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+15_C7_01_00 (1139969): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+1A_8A_1C_00 (25625442): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+1B_8A_1C_00 (25625443): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "80_E1_14_00"
+  cgsCoreUniqueId0x28: "A2_E1_14_00"
+  
+25_E2_14_00 (20350483): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "28_E2_14_00"
+  cgsCoreUniqueId0x28: "27_E2_14_00"
+  
+29_E2_14_00 (20350487): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "2C_E2_14_00"
+  cgsCoreUniqueId0x28: "2B_E2_14_00"
+  
+2E_E2_14_00 (20350498): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "F5_E1_14_00"
+  cgsCoreUniqueId0x28: "30_E2_14_00"
+  
+31_E2_14_00 (20350501): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "34_E2_14_00"
+  cgsCoreUniqueId0x28: "33_E2_14_00"
+  
+3D_E2_14_00 (20350519): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "40_E2_14_00"
+  cgsCoreUniqueId0x28: "3F_E2_14_00"
+  
+41_E2_14_00 (20350529): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "44_E2_14_00"
+  cgsCoreUniqueId0x28: "43_E2_14_00"
+  
+45_E2_14_00 (20350533): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "48_E2_14_00"
+  cgsCoreUniqueId0x28: "47_E2_14_00"
+  
+49_E2_14_00 (20350537): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "4C_E2_14_00"
+  cgsCoreUniqueId0x28: "4B_E2_14_00"
+  
+4C_89_1C_00 (25624918): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+4D_E2_14_00 (20350547): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "50_E2_14_00"
+  cgsCoreUniqueId0x28: "4F_E2_14_00"
+  
+51_E2_14_00 (20350551): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "54_E2_14_00"
+  cgsCoreUniqueId0x28: "53_E2_14_00"
+  
+59_E2_14_00 (20350565): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "58_E2_14_00"
+  cgsCoreUniqueId0x28: "5B_E2_14_00"
+  
+5C_E2_14_00 (20350568): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "5F_E2_14_00"
+  cgsCoreUniqueId0x28: "5E_E2_14_00"
+  
+60_E2_14_00 (20350578): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "63_E2_14_00"
+  cgsCoreUniqueId0x28: "62_E2_14_00"
+  
+64_E2_14_00 (20350582): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "67_E2_14_00"
+  cgsCoreUniqueId0x28: "66_E2_14_00"
+  
+68_E2_14_00 (20350592): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "6B_E2_14_00"
+  cgsCoreUniqueId0x28: "6A_E2_14_00"
+  
+68_EB_1E_00 (33710916): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "00_00_00_00"
+  cgsCoreUniqueId0x28: "00_00_00_00"
+  
+69_EB_1E_00 (33710917): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+6D_E1_14_00 (20349993): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "6F_E1_14_00"
+  cgsCoreUniqueId0x28: "6E_E1_14_00"
+  
+71_E1_14_00 (20350003): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "74_E1_14_00"
+  cgsCoreUniqueId0x28: "73_E1_14_00"
+  
+78_06_1C_00 (25388644): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+79_06_1C_00 (25388645): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "B3_E1_14_00"
+  cgsCoreUniqueId0x28: "B2_E1_14_00"
+  
+7D_E1_14_00 (20350021): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "80_E1_14_00"
+  cgsCoreUniqueId0x28: "A2_E1_14_00"
+  
+81_E1_14_00 (20350025): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "84_E1_14_00"
+  cgsCoreUniqueId0x28: "83_E1_14_00"
+  
+85_E1_14_00 (20350035): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "88_E1_14_00"
+  cgsCoreUniqueId0x28: "87_E1_14_00"
+  
+91_E1_14_00 (20350053): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "94_E1_14_00"
+  cgsCoreUniqueId0x28: "93_E1_14_00"
+  
+95_E1_14_00 (20350057): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "98_E1_14_00"
+  cgsCoreUniqueId0x28: "97_E1_14_00"
+  
+99_E1_14_00 (20350067): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "9C_E1_14_00"
+  cgsCoreUniqueId0x28: "9B_E1_14_00"
+  
+A3_E1_14_00 (20350083): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "A6_E1_14_00"
+  cgsCoreUniqueId0x28: "A5_E1_14_00"
+  
+A5_29_1C_00 (25450089): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "(67_77_00_00): GenesysGenFeedbackMessage 67_77_00_00"
+  
+A7_89_1C_00 (25625159): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+A7_E1_14_00 (20350087): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "AA_E1_14_00"
+  cgsCoreUniqueId0x28: "A9_E1_14_00"
+  
+AC_E1_14_00 (20350098): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "AF_E1_14_00"
+  cgsCoreUniqueId0x28: "AE_E1_14_00"
+  
+AD_C1_18_00 (23209029): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "B0_C1_18_00"
+  cgsCoreUniqueId0x28: "AF_C1_18_00"
+  
+B0_E1_14_00 (20350102): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "B3_E1_14_00"
+  cgsCoreUniqueId0x28: "B2_E1_14_00"
+  
+B1_C1_18_00 (23209033): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "B0_C1_18_00"
+  cgsCoreUniqueId0x28: "B3_C1_18_00"
+  
+B4_C1_18_00 (23209042): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "B9_C1_18_00"
+  cgsCoreUniqueId0x28: "B8_C1_18_00"
+  
+B4_E1_14_00 (20350208): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "B7_E1_14_00"
+  cgsCoreUniqueId0x28: "B6_E1_14_00"
+  
+B7_C1_18_00 (23209045): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "(67_77_00_00): GenesysGenFeedbackMessage 67_77_00_00"
+  
+B8_E1_14_00 (20350212): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "BB_E1_14_00"
+  cgsCoreUniqueId0x28: "BA_E1_14_00"
+  
+BA_8D_10_00 (17320024): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+BA_C1_18_00 (23209048): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "BD_C1_18_00"
+  cgsCoreUniqueId0x28: "BC_C1_18_00"
+  
+C1_E1_14_00 (20350227): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "C4_E1_14_00"
+  cgsCoreUniqueId0x28: "C3_E1_14_00"
+  
+C9_E1_14_00 (20350241): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "CC_E1_14_00"
+  cgsCoreUniqueId0x28: "CB_E1_14_00"
+  
+CD_E1_14_00 (20350245): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "D0_E1_14_00"
+  cgsCoreUniqueId0x28: "CF_E1_14_00"
+  
+D5_E1_14_00 (20350259): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "D8_E1_14_00"
+  cgsCoreUniqueId0x28: "D7_E1_14_00"
+  
+DD_E1_14_00 (20350273): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "E0_E1_14_00"
+  cgsCoreUniqueId0x28: "DF_E1_14_00"
+  
+E1_E1_14_00 (20350277): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "E4_E1_14_00"
+  cgsCoreUniqueId0x28: "E3_E1_14_00"
+  
+E5_76_00_00 (197687): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+E7_94_0B_00 (7704597): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "00_00_00_00"
+  
+E7_E1_14_00 (20350289): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "EA_E1_14_00"
+  cgsCoreUniqueId0x28: "E9_E1_14_00"
+  
+EC_E1_14_00 (20350294): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "EA_E1_14_00"
+  cgsCoreUniqueId0x28: "E9_E1_14_00"
+  
+EE_E1_14_00 (20350296): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "EA_E1_14_00"
+  cgsCoreUniqueId0x28: "E9_E1_14_00"
+  
+F0_E1_14_00 (20350304): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "EA_E1_14_00"
+  cgsCoreUniqueId0x28: "E9_E1_14_00"
+  
+F2_E1_14_00 (20350306): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "F5_E1_14_00"
+  cgsCoreUniqueId0x28: "F4_E1_14_00"
+  
+F6_E1_14_00 (20350310): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "F5_E1_14_00"
+  cgsCoreUniqueId0x28: "F7_E1_14_00"
+  
+F8_04_1C_00 (25387648): GenesysGenSongList
+more info:
+  cgsCoreUniqueId0x14: "(67_77_00_00): GenesysGenFeedbackMessage 67_77_00_00"
+  
+F9_E1_14_00 (20350313): GenesysGenSong
+more info:
+  cgsCoreUniqueId0x1c: "00_00_00_00"
+  cgsCoreUniqueId0x20: "FC_E1_14_00"
+  cgsCoreUniqueId0x28: "FB_E1_14_00"
+  

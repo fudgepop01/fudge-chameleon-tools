@@ -1,0 +1,12 @@
+C0_E5_22_00 (36204608): GenesysGenFeedbackMessageGroup
+
+D2_6E_21_00 (35197016): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(D4_6E_21_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[39]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  

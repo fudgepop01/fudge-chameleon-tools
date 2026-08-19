@@ -1,0 +1,678 @@
+03_B5_21_00 (35688487): GenesysGenVehiclesSmokeColour
+
+04_60_18_00 (22639684): GenesysGenRichPresenceRichPresenceDataBase
+
+04_B5_21_00 (35688488): GenesysGenVehiclesSmokeColour
+
+05_60_18_00 (22639685): GenesysGenRichPresenceRichPresenceDataBase
+
+06_60_18_00 (22639686): GenesysGenRichPresenceRichPresenceDataBase
+
+07_30_04_00 (2573369): GenesysGenCloudCompeteAwardConfig
+more info:
+  cgsCoreUniqueId0xc: "(B1_09_15_00): (GenesysObjCollection) GenesysGenCloudCompeteAward E6_F3_0E_00/objCollection[79]"
+  cgsCoreUniqueId0x10: "(E9_F3_0E_00): (GenesysObjCollection) GenesysGenCloudCompeteAward E6_F3_0E_00/objCollection[30]"
+  cgsCoreUniqueId0x14: "(92_F4_0E_00): (GenesysObjCollection) GenesysGenCloudCompeteAward E6_F3_0E_00/objCollection[31]"
+  cgsCoreUniqueId0x1c: "(9B_F4_0E_00): (GenesysObjCollection) GenesysGenCloudCompeteAward E6_F3_0E_00/objCollection[32]"
+  cgsCoreUniqueId0x20: "(FF_CD_17_00): (GenesysObjCollection) GenesysGenCloudCompeteAward E6_F3_0E_00/objCollection[120]"
+  cgsCoreUniqueId0x24: "(00_CE_17_00): (GenesysObjCollection) GenesysGenCloudCompeteAward E6_F3_0E_00/objCollection[121]"
+  cgsCoreUniqueId0x28: "(6D_47_09_00): (GenesysObjCollection) GenesysGenCloudCompeteAward E6_F3_0E_00/objCollection[1]"
+  cgsCoreUniqueId0x30: "(6B_47_09_00): (GenesysObjCollection) GenesysGenCloudCompeteAward E6_F3_0E_00/objCollection[0]"
+  cgsCoreUniqueId0x34: "(DC_F3_0E_00): (GenesysObjCollection) GenesysGenCloudCompeteAward E6_F3_0E_00/objCollection[29]"
+  
+07_60_18_00 (22639687): GenesysGenRichPresenceRichPresenceDataBase
+
+08_60_18_00 (22639688): GenesysGenRichPresenceRichPresenceDataBase
+
+09_60_18_00 (22639689): GenesysGenRichPresenceRichPresenceDataBase
+
+0A_60_18_00 (22639696): GenesysGenRichPresenceRichPresenceDataBase
+
+0E_FB_07_00 (5386274): GenesysGenAiconfig
+
+18_60_0F_00 (16807488): GenesysGenGameLogicGameLogicRumble
+
+19_60_0F_00 (16807489): GenesysGenRumbleEffect
+
+1B_60_0F_00 (16807491): GenesysGenEnvelope
+
+20_60_0F_00 (16807496): GenesysGenEnvelope
+
+21_60_0F_00 (16807497): GenesysGenEnvelope
+
+22_60_0F_00 (16807504): GenesysGenEnvelope
+
+23_60_0F_00 (16807505): GenesysGenDigitalEnvelope
+
+24_60_0F_00 (16807506): GenesysGenRumbleEffect
+
+25_60_0F_00 (16807507): GenesysGenRumbleEffect
+
+34_F7_05_00 (3737956): GenesysGenScoringConfig
+more info:
+  cgsCoreUniqueId0x10: "(DE_2E_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[113]"
+  cgsCoreUniqueId0x18: "(C2_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[97]"
+  cgsCoreUniqueId0x24: "(CE_30_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[121]"
+  cgsCoreUniqueId0x28: "(C1_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[77]"
+  cgsCoreUniqueId0x2c: "(A1_AC_13_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[154]"
+  cgsCoreUniqueId0x30: "(84_8C_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[127]"
+  cgsCoreUniqueId0x34: "(50_2F_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[117]"
+  cgsCoreUniqueId0x38: "(C0_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[96]"
+  cgsCoreUniqueId0x40: "(5B_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[73]"
+  cgsCoreUniqueId0x48: "(A7_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[56]"
+  cgsCoreUniqueId0x4c: "(15_4B_13_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[150]"
+  cgsCoreUniqueId0x50: "(63_FC_06_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[47]"
+  cgsCoreUniqueId0x54: "(C7_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[79]"
+  cgsCoreUniqueId0x58: "(75_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[52]"
+  cgsCoreUniqueId0x5c: "(78_8C_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[126]"
+  cgsCoreUniqueId0x68: "(AA_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[57]"
+  cgsCoreUniqueId0x6c: "(DB_2F_17_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[181]"
+  cgsCoreUniqueId0x70: "(A7_C1_18_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[192]"
+  cgsCoreUniqueId0x74: "(A8_C1_18_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[193]"
+  cgsCoreUniqueId0x80: "(8C_F5_05_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[22]"
+  cgsCoreUniqueId0x84: "(AC_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[92]"
+  cgsCoreUniqueId0x90: "(56_4B_13_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[152]"
+  cgsCoreUniqueId0x94: "(55_4B_13_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[151]"
+  cgsCoreUniqueId0x98: "(A8_D5_1A_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[212]"
+  cgsCoreUniqueId0xa4: "(57_29_10_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[132]"
+  cgsCoreUniqueId0xa8: "(F4_B2_17_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[184]"
+  cgsCoreUniqueId0xac: "(F3_B2_17_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[183]"
+  cgsCoreUniqueId0xb4: "(1D_5B_23_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[222]"
+  cgsCoreUniqueId0xb8: "(1C_5B_23_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[221]"
+  cgsCoreUniqueId0xbc: "(7B_BD_21_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[220]"
+  cgsCoreUniqueId0xc0: "(E5_BC_21_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[219]"
+  cgsCoreUniqueId0xc8: "(C9_38_11_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[138]"
+  cgsCoreUniqueId0xcc: "(D4_36_11_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[136]"
+  cgsCoreUniqueId0xd4: "(7C_7D_12_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[145]"
+  cgsCoreUniqueId0xe8: "(A2_F5_05_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[27]"
+  cgsCoreUniqueId0xec: "(64_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[82]"
+  cgsCoreUniqueId0x114: "(DE_2F_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[118]"
+  cgsCoreUniqueId0x11c: "(6E_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[74]"
+  cgsCoreUniqueId0x120: "(5E_7D_12_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[141]"
+  cgsCoreUniqueId0x124: "(A6_D5_1A_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[210]"
+  cgsCoreUniqueId0x128: "(A7_D5_1A_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[211]"
+  cgsCoreUniqueId0x12c: "(F7_2E_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[115]"
+  cgsCoreUniqueId0x134: "(3C_E3_08_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[49]"
+  cgsCoreUniqueId0x138: "(DD_55_19_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[194]"
+  cgsCoreUniqueId0x13c: "(76_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[53]"
+  cgsCoreUniqueId0x140: "(DE_63_04_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[4]"
+  cgsCoreUniqueId0x148: "(FD_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[102]"
+  cgsCoreUniqueId0x14c: "(FE_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[103]"
+  cgsCoreUniqueId0x158: "(6F_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[75]"
+  cgsCoreUniqueId0x15c: "(D3_38_11_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[139]"
+  cgsCoreUniqueId0x160: "(F9_E0_10_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[133]"
+  cgsCoreUniqueId0x164: "(C0_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[76]"
+  cgsCoreUniqueId0x170: "(0C_FD_06_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[48]"
+  cgsCoreUniqueId0x174: "(AE_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[59]"
+  cgsCoreUniqueId0x178: "(AF_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[60]"
+  cgsCoreUniqueId0x17c: "(70_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[167]"
+  cgsCoreUniqueId0x180: "(6F_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[166]"
+  cgsCoreUniqueId0x184: "(7B_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[178]"
+  cgsCoreUniqueId0x188: "(72_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[169]"
+  cgsCoreUniqueId0x18c: "(3B_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[164]"
+  cgsCoreUniqueId0x190: "(75_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[172]"
+  cgsCoreUniqueId0x194: "(77_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[174]"
+  cgsCoreUniqueId0x198: "(79_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[176]"
+  cgsCoreUniqueId0x19c: "(CD_D5_19_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[206]"
+  cgsCoreUniqueId0x1a0: "(5F_7D_12_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[142]"
+  cgsCoreUniqueId0x1a8: "(78_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[54]"
+  cgsCoreUniqueId0x1ac: "(6F_03_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[161]"
+  cgsCoreUniqueId0x1b0: "(6E_03_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[160]"
+  cgsCoreUniqueId0x1b4: "(A5_D5_19_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[205]"
+  cgsCoreUniqueId0x1b8: "(D6_2F_17_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[179]"
+  cgsCoreUniqueId0x1bc: "(6B_03_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[157]"
+  cgsCoreUniqueId0x1c0: "(6C_03_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[158]"
+  cgsCoreUniqueId0x1c4: "(6D_03_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[159]"
+  cgsCoreUniqueId0x1c8: "(69_03_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[155]"
+  cgsCoreUniqueId0x1cc: "(6A_03_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[156]"
+  cgsCoreUniqueId0x1d0: "(D7_2F_17_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[180]"
+  cgsCoreUniqueId0x1d4: "(71_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[168]"
+  cgsCoreUniqueId0x1d8: "(6E_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[165]"
+  cgsCoreUniqueId0x1dc: "(7A_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[177]"
+  cgsCoreUniqueId0x1e0: "(73_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[170]"
+  cgsCoreUniqueId0x1e4: "(3A_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[163]"
+  cgsCoreUniqueId0x1e8: "(74_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[171]"
+  cgsCoreUniqueId0x1ec: "(76_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[173]"
+  cgsCoreUniqueId0x1f0: "(78_06_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[175]"
+  cgsCoreUniqueId0x1f8: "(AA_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[91]"
+  cgsCoreUniqueId0x1fc: "(70_03_15_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[162]"
+  cgsCoreUniqueId0x200: "(D1_79_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[125]"
+  cgsCoreUniqueId0x204: "(FE_55_19_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[195]"
+  cgsCoreUniqueId0x20c: "(43_05_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[107]"
+  cgsCoreUniqueId0x210: "(D9_04_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[106]"
+  cgsCoreUniqueId0x214: "(AB_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[58]"
+  cgsCoreUniqueId0x218: "(A3_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[88]"
+  cgsCoreUniqueId0x238: "(AE_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[93]"
+  cgsCoreUniqueId0x23c: "(10_6B_1F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[215]"
+  cgsCoreUniqueId0x240: "(11_6B_1F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[216]"
+  cgsCoreUniqueId0x250: "(59_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[72]"
+  cgsCoreUniqueId0x254: "(BA_37_09_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[61]"
+  cgsCoreUniqueId0x258: "(C6_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[78]"
+  cgsCoreUniqueId0x25c: "(6A_30_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[120]"
+  cgsCoreUniqueId0x260: "(F9_2F_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[119]"
+  cgsCoreUniqueId0x270: "(38_7D_12_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[140]"
+  cgsCoreUniqueId0x274: "(17_90_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[131]"
+  cgsCoreUniqueId0x278: "(12_90_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[130]"
+  cgsCoreUniqueId0x288: "(C3_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[98]"
+  cgsCoreUniqueId0x28c: "(BF_94_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[95]"
+  cgsCoreUniqueId0x2a4: "(8B_59_18_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[191]"
+  cgsCoreUniqueId0x2a8: "(A9_06_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[112]"
+  cgsCoreUniqueId0x2ac: "(F2_6A_0A_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[63]"
+  cgsCoreUniqueId0x2c0: "(09_E1_10_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[134]"
+  cgsCoreUniqueId0x2c4: "(AE_8C_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[129]"
+  cgsCoreUniqueId0x2c8: "(9E_8C_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[128]"
+  cgsCoreUniqueId0x2cc: "(0F_6B_1F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[214]"
+  cgsCoreUniqueId0x2d0: "(4A_93_19_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[204]"
+  cgsCoreUniqueId0x2d4: "(AE_7D_12_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[148]"
+  cgsCoreUniqueId0x2d8: "(5E_FA_17_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[189]"
+  cgsCoreUniqueId0x2dc: "(F6_2E_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[114]"
+  cgsCoreUniqueId0x2e0: "(F1_31_0F_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[123]"
+  cgsCoreUniqueId0x304: "(87_7D_12_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[147]"
+  cgsCoreUniqueId0x308: "(2D_93_19_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[203]"
+  cgsCoreUniqueId0x30c: "(2C_93_19_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[202]"
+  cgsCoreUniqueId0x310: "(86_7D_12_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[146]"
+  
+43_94_06_00 (4395377): GenesysGenTrafficConfig
+
+44_94_06_00 (4395378): GenesysGenTrafficParamConfig
+
+45_94_06_00 (4395379): GenesysGenTrafficVehicleConfig
+
+46_94_06_00 (4395380): GenesysGenTrafficSystemConfig
+
+4C_94_06_00 (4395392): GenesysGenTrafficFuzzyLogicConfig
+
+58_C6_22_00 (36147200): GenesysGenVehiclesSmokeColour
+
+59_C6_22_00 (36147201): GenesysGenVehiclesSmokeColour
+
+68_94_06_00 (4395528): GenesysGenTrafficManoeuvreConfig
+
+6F_49_1F_00 (33883157): GenesysGenGamePackConfig
+more info:
+  cgsCoreUniqueId0xc: "(BB_45_20_00): (GenesysObjCollection) GenesysGenGamePack BA_33_00_00/objCollection[1]"
+  cgsCoreUniqueId0x10: "(6A_83_21_00): (GenesysObjCollection) GenesysGenGamePack BA_33_00_00/objCollection[2]"
+  cgsCoreUniqueId0x14: "(B4_84_21_00): (GenesysObjCollection) GenesysGenGamePack BA_33_00_00/objCollection[3]"
+  cgsCoreUniqueId0x18: "(B5_84_21_00): (GenesysObjCollection) GenesysGenGamePack BA_33_00_00/objCollection[4]"
+  cgsCoreUniqueId0x20: "(E7_42_00_00): (GenesysObjCollection) GenesysGenGamePack BA_33_00_00/objCollection[0]"
+  
+6F_5E_04_00 (2646809): GenesysGenGameLogicConfig
+more info:
+  defaultRespawnSpeed0x220: 30
+  defaultRespawnSpeedScalar0x224: 0.699999988079071
+  eventStartRadius0x244: 22
+  raceRespawnSpeed0x268: 50
+  raceRespawnSpeedScalar0x26c: 0.699999988079071
+  staticBustDistance0x288: 20
+  staticBustSpeed0x28c: 25
+  staticBustTimer0x290: 4
+  float32T0x208: 275
+  float32T0x20c: 275
+  float32T0x210: 125
+  float32T0x214: 125
+  float32T0x218: 200
+  float32T0x21c: 20
+  float32T0x22c: 45
+  float32T0x230: 50
+  float32T0x234: 0.5
+  float32T0x238: 7.5
+  float32T0x23c: 0.7250000238418579
+  float32T0x240: 0.5
+  float32T0x248: 3
+  float32T0x24c: 50
+  float32T0x250: 10
+  float32T0x254: 200
+  float32T0x258: 150
+  float32T0x25c: 150
+  float32T0x260: 100
+  float32T0x264: 110
+  float32T0x270: 6
+  float32T0x274: 4
+  float32T0x278: 200
+  float32T0x27c: 5
+  float32T0x280: 500
+  float32T0x284: 70
+  float32T0x294: 1
+  float32T0x298: 0.5
+  float32T0x29c: 0.05000000074505806
+  float32T0x2a0: 80
+  float32T0x2a4: 20
+  uint32T0x2c8: 100
+  uint16T0x2d4: 10
+  defaultHeatLevels:
+    - "(16_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[0]"
+    - "(17_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[1]"
+    - "(18_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[2]"
+    - "(19_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[3]"
+    - "(1A_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[4]"
+    - "(1B_F5_05_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[5]"
+    - "(94_A2_0A_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[9]"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[0]cgsCoreUniqueId0x10: "5E_CE_17_00"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[1]cgsCoreUniqueId0x10: "5C_CE_17_00"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[2]cgsCoreUniqueId0x10: "5B_CE_17_00"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[3]cgsCoreUniqueId0x10: "5A_CE_17_00"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[4]cgsCoreUniqueId0x10: "5D_CE_17_00"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[5]cgsCoreUniqueId0x10: "5F_CE_17_00"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[6]cgsCoreUniqueId0x10: "E7_7F_12_00"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[7]cgsCoreUniqueId0x10: "E8_7F_12_00"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[8]cgsCoreUniqueId0x10: "E9_7F_12_00"
+  /instGenesysGenGameplayDistrictConfig0x2c4/instGenesysGenGameplayDistrictConfigDistrict0x10[9]cgsCoreUniqueId0x10: "60_A1_21_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[0]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[1]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[2]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[3]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[4]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[5]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[6]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[7]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[8]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[9]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[10]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[11]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[12]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenGameLogicConfigFirstSeenScores0x2b8[13]cgsCoreUniqueId0xc: "00_00_00_00"
+  /instGenesysGenCheckPointsConfig0x2a8cgsCoreUniqueId0xc: "(0F_77_0F_00): GenesysGenPointOfInterestVisuals 56_96_0E_00"
+  /instGenesysGenCheckPointsConfig0x2a8cgsCoreUniqueId0x1c: "(0F_77_0F_00): GenesysGenPointOfInterestVisuals 56_96_0E_00"
+  /instGenesysGenCheckPointsConfig0x2a8cgsCoreUniqueId0x20: "(0F_77_0F_00): GenesysGenPointOfInterestVisuals 56_96_0E_00"
+  /instGenesysGenCheckPointsConfig0x2a8cgsCoreUniqueId0x24: "(0E_77_0F_00): GenesysGenPointOfInterestVisuals 56_38_09_00"
+  /instGenesysGenCheckPointsConfig0x2a8cgsCoreUniqueId0x28: "(0F_77_0F_00): GenesysGenPointOfInterestVisuals 56_96_0E_00"
+  /instGenesysGenCheckPointsConfig0x2a8cgsCoreUniqueId0x2c: "(0F_77_0F_00): GenesysGenPointOfInterestVisuals 56_96_0E_00"
+  /instGenesysGenCheckPointsConfig0x2a8cgsCoreUniqueId0x30: "(0F_77_0F_00): GenesysGenPointOfInterestVisuals 56_96_0E_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0xc: "F3_76_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x10: "(23_0C_16_00): GenesysGenPointOfInterestVisuals 24_0C_16_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x18: "(0D_77_0F_00): GenesysGenPointOfInterestVisuals 85_73_0C_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x1c: "(11_77_0F_00): GenesysGenPointOfInterestVisuals 82_73_0C_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x20: "C4_31_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x38: "01_77_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x40: "00_77_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x44: "FF_76_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x48: "F9_76_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x4c: "FE_76_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x50: "FD_76_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x58: "F2_76_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x60: "(EF_76_0F_00): GenesysGenPointOfInterestVisuals 52_AC_05_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x68: "F8_76_0F_00"
+  /instGenesysGenGameLogicMapPoiConfig0x2accgsCoreUniqueId0x6c: "FA_76_0F_00"
+  /instGenesysGenGameLogicSmashAndGrabConfig0x2b0/genesysGenGameLogicSmashAndGrabConfigGrabItem0xccgsCoreUniqueId0xc: "(17_B9_21_00): GenesysGenPointOfInterestVisuals 18_B9_21_00"
+  /instGenesysGenGameLogicSmashAndGrabConfig0x2b0/genesysGenGameLogicSmashAndGrabConfigGrabItem0x24cgsCoreUniqueId0xc: "(3D_B9_21_00): GenesysGenPointOfInterestVisuals 40_B9_21_00"
+  /instGenesysGenGameLogicSmashAndGrabConfig0x2b0/genesysGenGameLogicSmashAndGrabConfigGrabItem0x3ccgsCoreUniqueId0xc: "3E_B9_21_00"
+  /instGenesysGenGameLogicSmashAndGrabConfig0x2b0/genesysGenGameLogicSmashAndGrabConfigGrabItem0x54cgsCoreUniqueId0xc: "(3F_B9_21_00): GenesysGenPointOfInterestVisuals 42_B9_21_00"
+  cgsCoreUniqueId0x3c: "8A_25_19_00"
+  cgsCoreUniqueId0x40: "87_25_19_00"
+  cgsCoreUniqueId0x44: "89_25_19_00"
+  cgsCoreUniqueId0x48: "86_25_19_00"
+  cgsCoreUniqueId0x4c: "8B_25_19_00"
+  cgsCoreUniqueId0x50: "88_25_19_00"
+  cgsCoreUniqueId0x54: "(8E_FA_06_00): GenesysObjCollection (gameplay/8E_FA_06_00)"
+  cgsCoreUniqueId0x58: "98_BD_21_00"
+  cgsCoreUniqueId0x60: "(29_F4_05_00): (GenesysObjCollection) GenesysGenGameMode EC_5E_04_00/objCollection[2]"
+  cgsCoreUniqueId0x64: "(F3_5D_04_00): GenesysObjCollection (gamemodes/F3_5D_04_00)"
+  cgsCoreUniqueId0x6c: "(E6_F3_0E_00): GenesysObjCollection (gameplay/E6_F3_0E_00)"
+  cgsCoreUniqueId0x70: "46_55_19_00"
+  cgsCoreUniqueId0x74: "45_55_19_00"
+  cgsCoreUniqueId0x78: "D0_F4_1F_00"
+  cgsCoreUniqueId0x7c: "00_00_00_00"
+  cgsCoreUniqueId0x80: "47_55_19_00"
+  cgsCoreUniqueId0x88: "00_00_00_00"
+  cgsCoreUniqueId0x8c: "(20_32_0F_00): GenesysGenSequence 20_32_0F_00"
+  cgsCoreUniqueId0x90: "(68_82_0F_00): GenesysGenSequence 68_82_0F_00"
+  cgsCoreUniqueId0x98: "39_36_17_00"
+  cgsCoreUniqueId0x9c: "CD_38_17_00"
+  cgsCoreUniqueId0xa8: "(E7_A9_1F_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[90]"
+  cgsCoreUniqueId0xb4: "00_00_00_00"
+  cgsCoreUniqueId0xb8: "F5_38_17_00"
+  cgsCoreUniqueId0xbc: "00_00_00_00"
+  cgsCoreUniqueId0xc4: "(5B_5D_04_00): GenesysObjCollection (gamemodes/5B_5D_04_00)"
+  cgsCoreUniqueId0xc8: "8D_31_0F_00"
+  cgsCoreUniqueId0xdc: "(0A_56_19_00): (GenesysObjCollection) GenesysGenGameplayTrigger 3D_FB_06_00/objCollection[161]"
+  cgsCoreUniqueId0xe4: "E8_F1_0E_00"
+  cgsCoreUniqueId0xe8: "5C_5D_04_00"
+  cgsCoreUniqueId0xec: "(BA_33_00_00): GenesysObjCollection (gameplay/BA_33_00_00)"
+  cgsCoreUniqueId0xf4: "(3D_FB_06_00): GenesysObjCollection (gameplay/3D_FB_06_00)"
+  cgsCoreUniqueId0xf8: "(1C_F5_05_00): GenesysObjCollection (gameplay/1C_F5_05_00)"
+  cgsCoreUniqueId0x104: "(1A_CE_17_00): GenesysGenSequence 1A_CE_17_00"
+  cgsCoreUniqueId0x10c: "F3_DF_1E_00"
+  cgsCoreUniqueId0x110: "0A_CE_17_00"
+  cgsCoreUniqueId0x114: "09_CE_17_00"
+  cgsCoreUniqueId0x124: "1C_7E_1C_00"
+  cgsCoreUniqueId0x128: "D6_7D_1C_00"
+  cgsCoreUniqueId0x12c: "87_A5_11_00"
+  cgsCoreUniqueId0x134: "(21_64_04_00): GenesysObjCollection (gameplay/21_64_04_00)"
+  cgsCoreUniqueId0x138: "EE_F3_0E_00"
+  cgsCoreUniqueId0x13c: "EF_F3_0E_00"
+  cgsCoreUniqueId0x140: "A3_F3_0E_00"
+  cgsCoreUniqueId0x144: "04_39_17_00"
+  cgsCoreUniqueId0x148: "F2_F3_0E_00"
+  cgsCoreUniqueId0x14c: "7F_32_0F_00"
+  cgsCoreUniqueId0x150: "C2_CD_17_00"
+  cgsCoreUniqueId0x154: "F0_F3_0E_00"
+  cgsCoreUniqueId0x158: "F1_F3_0E_00"
+  cgsCoreUniqueId0x15c: "A5_F3_0E_00"
+  cgsCoreUniqueId0x160: "BC_47_00_00"
+  cgsCoreUniqueId0x164: "BD_47_00_00"
+  cgsCoreUniqueId0x168: "56_F4_1F_00"
+  cgsCoreUniqueId0x16c: "D4_92_0E_00"
+  cgsCoreUniqueId0x174: "37_56_19_00"
+  cgsCoreUniqueId0x178: "73_7D_1C_00"
+  cgsCoreUniqueId0x17c: "75_7D_1C_00"
+  cgsCoreUniqueId0x180: "74_7D_1C_00"
+  cgsCoreUniqueId0x184: "76_7D_1C_00"
+  cgsCoreUniqueId0x188: "(43_7D_1C_00): GenesysGenSequence 43_7D_1C_00"
+  cgsCoreUniqueId0x18c: "71_7D_1C_00"
+  cgsCoreUniqueId0x190: "72_7D_1C_00"
+  cgsCoreUniqueId0x194: "3E_49_11_00"
+  cgsCoreUniqueId0x198: "3F_49_11_00"
+  cgsCoreUniqueId0x19c: "(19_7D_1C_00): GenesysGenSequence 19_7D_1C_00"
+  cgsCoreUniqueId0x1a0: "(27_7D_1C_00): GenesysGenSequence 27_7D_1C_00"
+  cgsCoreUniqueId0x1a4: "40_49_11_00"
+  cgsCoreUniqueId0x1a8: "41_49_11_00"
+  cgsCoreUniqueId0x1b4: "8B_32_0F_00"
+  cgsCoreUniqueId0x1c8: "(94_61_04_00): GenesysObjCollection (gameplay/94_61_04_00)"
+  cgsCoreUniqueId0x1d4: "8C_32_0F_00"
+  cgsCoreUniqueId0x1d8: "B9_D1_17_00"
+  cgsCoreUniqueId0x1dc: "88_32_0F_00"
+  cgsCoreUniqueId0x1e0: "(BD_F3_05_00): GenesysObjCollection (gameplay/BD_F3_05_00)"
+  cgsCoreUniqueId0x1ec: "(B1_94_0E_00): (GenesysObjCollection) GenesysGenGameMode EC_5E_04_00/objCollection[3]"
+  cgsCoreUniqueId0x1f0: "(2C_AD_17_00): GenesysGenEntitlement 2C_AD_17_00"
+  cgsCoreUniqueId0x1f4: "A7_5F_04_00"
+  cgsCoreUniqueId0x1f8: "18_56_19_00"
+  cgsCoreUniqueId0x1fc: "80_BC_07_00"
+  cgsCoreUniqueId0x200: "00_95_0E_00"
+  
+71_5E_04_00 (2646817): GenesysGenGameLogicScoringConfig
+more info:
+  cgsCoreUniqueId0xc: "10_64_04_00"
+  cgsCoreUniqueId0x10: "(91_43_19_00): GenesysGenSequence 91_43_19_00"
+  cgsCoreUniqueId0x14: "(0B_64_04_00): GenesysGenSequence 0B_64_04_00"
+  cgsCoreUniqueId0x18: "60_E2_08_00"
+  cgsCoreUniqueId0x24: "8E_E2_08_00"
+  cgsCoreUniqueId0x2c: "(2A_58_1B_00): GenesysGenSequence 2A_58_1B_00"
+  cgsCoreUniqueId0x30: "(9F_5F_04_00): GenesysGenSequence 9F_5F_04_00"
+  cgsCoreUniqueId0x34: "88_61_04_00"
+  cgsCoreUniqueId0x38: "33_5E_04_00"
+  cgsCoreUniqueId0x3c: "(0A_58_1B_00): GenesysGenSequence 0A_58_1B_00"
+  cgsCoreUniqueId0x40: "20_68_0A_00"
+  cgsCoreUniqueId0x44: "FB_6A_0A_00"
+  cgsCoreUniqueId0x48: "2B_68_0A_00"
+  cgsCoreUniqueId0x4c: "29_6B_0A_00"
+  cgsCoreUniqueId0x50: "(5F_03_15_00): GenesysGenSequence 5F_03_15_00"
+  cgsCoreUniqueId0x54: "2B_BD_16_00"
+  cgsCoreUniqueId0x58: "2A_BD_16_00"
+  cgsCoreUniqueId0x5c: "(E5_A0_1D_00): GenesysGenSequence E5_A0_1D_00"
+  cgsCoreUniqueId0x60: "00_00_00_00"
+  
+7B_37_11_00 (17990421): GenesysGenOnlineConfig
+more info:
+  /unlockTypeNames0x3ccgsCoreUniqueId0x14: "16_05_15_00"
+  cgsCoreUniqueId0x94: "(DE_60_22_00): GenesysGenDialog DE_60_22_00"
+  cgsCoreUniqueId0x9c: "00_65_12_00"
+  cgsCoreUniqueId0xa0: "14_6B_1F_00"
+  cgsCoreUniqueId0xa8: "B8_CD_01_00"
+  cgsCoreUniqueId0xac: "B7_CD_01_00"
+  cgsCoreUniqueId0xb4: "C3_06_15_00"
+  cgsCoreUniqueId0xb8: "84_31_17_00"
+  cgsCoreUniqueId0xc4: "(04_F9_17_00): GenesysGenSequence 04_F9_17_00"
+  cgsCoreUniqueId0xc8: "(5E_6A_0A_00): (GenesysGenUicolourPalette) GenesysGenUicolour AA_72_01_00/instGenesysGenUicolour0x10[36]"
+  cgsCoreUniqueId0xd8: "(1F_FB_17_00): GenesysGenDialog 1F_FB_17_00"
+  cgsCoreUniqueId0xdc: "(1A_FB_17_00): GenesysGenDialog 1A_FB_17_00"
+  cgsCoreUniqueId0xe0: "(8D_FB_17_00): GenesysGenDialog 8D_FB_17_00"
+  cgsCoreUniqueId0xe4: "(0B_88_22_00): GenesysGenDialog 0B_88_22_00"
+  cgsCoreUniqueId0xe8: "(44_47_23_00): (GenesysObjCollection) GenesysGenEventArena F3_5D_04_00/objCollection[9]"
+  cgsCoreUniqueId0xec: "(BF_E9_1B_00): (GenesysObjCollection) GenesysGenEventArena F3_5D_04_00/objCollection[6]"
+  cgsCoreUniqueId0xf0: "(8C_FA_17_00): GenesysGenSequence 8C_FA_17_00"
+  cgsCoreUniqueId0xf8: "(0A_F9_17_00): GenesysGenSequence 0A_F9_17_00"
+  cgsCoreUniqueId0xfc: "(07_F9_17_00): GenesysGenSequence 07_F9_17_00"
+  cgsCoreUniqueId0x100: "(A5_24_20_00): (GenesysObjCollection) GenesysGenOnlineLicensePlate CD_8E_14_00/objCollection[283]"
+  
+92_0B_04_00 (2511110): GenesysGenBootConfig
+more info:
+  cgsCoreUniqueId0xc: "00_00_00_00"
+  cgsCoreUniqueId0x10: "3E_A9_05_00"
+  
+B1_6C_00_00 (161829): GenesysGenAutologConfig
+
+B2_6C_00_00 (161830): GenesysGenFeedbackControllerConfig
+more info:
+  cgsCoreUniqueId0xc: "06_CD_01_00"
+  cgsCoreUniqueId0x10: "49_CE_01_00"
+  cgsCoreUniqueId0x14: "4A_CE_01_00"
+  cgsCoreUniqueId0x18: "07_CD_01_00"
+  cgsCoreUniqueId0x1c: "08_CD_01_00"
+  cgsCoreUniqueId0x20: "7C_CB_01_00"
+  cgsCoreUniqueId0x24: "C1_CB_01_00"
+  cgsCoreUniqueId0x28: "7E_CB_01_00"
+  cgsCoreUniqueId0x2c: "E5_CC_01_00"
+  cgsCoreUniqueId0x30: "C8_CB_01_00"
+  cgsCoreUniqueId0x34: "75_D1_01_00"
+  cgsCoreUniqueId0x38: "76_D1_01_00"
+  cgsCoreUniqueId0x3c: "BD_C8_01_00"
+  cgsCoreUniqueId0x40: "26_CB_01_00"
+  cgsCoreUniqueId0x44: "BC_CB_01_00"
+  cgsCoreUniqueId0x48: "25_CB_01_00"
+  cgsCoreUniqueId0x4c: "89_D1_01_00"
+  cgsCoreUniqueId0x50: "8A_D1_01_00"
+  cgsCoreUniqueId0x54: "93_CA_01_00"
+  cgsCoreUniqueId0x58: "94_CA_01_00"
+  cgsCoreUniqueId0x5c: "7B_D1_01_00"
+  cgsCoreUniqueId0x60: "F0_CA_01_00"
+  cgsCoreUniqueId0x64: "F1_CA_01_00"
+  cgsCoreUniqueId0x68: "12_CC_01_00"
+  cgsCoreUniqueId0x6c: "13_CC_01_00"
+  cgsCoreUniqueId0x70: "A8_CD_01_00"
+  cgsCoreUniqueId0x74: "A9_CD_01_00"
+  cgsCoreUniqueId0x78: "AD_CD_01_00"
+  cgsCoreUniqueId0x7c: "AA_CD_01_00"
+  cgsCoreUniqueId0x80: "AB_CD_01_00"
+  cgsCoreUniqueId0x84: "AC_CD_01_00"
+  cgsCoreUniqueId0x88: "C6_CB_01_00"
+  cgsCoreUniqueId0x8c: "C7_CB_01_00"
+  cgsCoreUniqueId0x90: "09_CD_01_00"
+  cgsCoreUniqueId0x98: "31_CD_01_00"
+  cgsCoreUniqueId0x9c: "32_CD_01_00"
+  cgsCoreUniqueId0xa0: "3F_CD_01_00"
+  cgsCoreUniqueId0xa4: "33_CD_01_00"
+  cgsCoreUniqueId0xa8: "34_CD_01_00"
+  cgsCoreUniqueId0xac: "35_CD_01_00"
+  cgsCoreUniqueId0xb0: "9A_CB_01_00"
+  cgsCoreUniqueId0xb4: "9B_CB_01_00"
+  cgsCoreUniqueId0xb8: "0C_CD_01_00"
+  cgsCoreUniqueId0xbc: "0A_CD_01_00"
+  cgsCoreUniqueId0xc0: "B8_CB_01_00"
+  cgsCoreUniqueId0xc4: "B9_CB_01_00"
+  cgsCoreUniqueId0xc8: "BA_CB_01_00"
+  cgsCoreUniqueId0xcc: "BB_CB_01_00"
+  cgsCoreUniqueId0xd0: "BD_CB_01_00"
+  cgsCoreUniqueId0xd4: "BE_CB_01_00"
+  cgsCoreUniqueId0xd8: "C0_CB_01_00"
+  cgsCoreUniqueId0xdc: "C1_CB_01_00"
+  cgsCoreUniqueId0xe0: "C3_CB_01_00"
+  cgsCoreUniqueId0xe4: "B3_CB_01_00"
+  cgsCoreUniqueId0xe8: "B4_CB_01_00"
+  cgsCoreUniqueId0xec: "0B_CD_01_00"
+  cgsCoreUniqueId0xf0: "4B_CE_01_00"
+  cgsCoreUniqueId0xf4: "4C_CE_01_00"
+  cgsCoreUniqueId0xf8: "C4_CB_01_00"
+  cgsCoreUniqueId0xfc: "C5_CB_01_00"
+  cgsCoreUniqueId0x100: "C8_CB_01_00"
+  cgsCoreUniqueId0x104: "77_D1_01_00"
+  cgsCoreUniqueId0x108: "C9_CB_01_00"
+  cgsCoreUniqueId0x10c: "CA_CB_01_00"
+  cgsCoreUniqueId0x110: "CD_CB_01_00"
+  cgsCoreUniqueId0x114: "B5_CB_01_00"
+  cgsCoreUniqueId0x118: "4D_CE_01_00"
+  cgsCoreUniqueId0x11c: "4F_CE_01_00"
+  cgsCoreUniqueId0x120: "CF_CB_01_00"
+  cgsCoreUniqueId0x124: "0D_CD_01_00"
+  cgsCoreUniqueId0x128: "D0_CB_01_00"
+  cgsCoreUniqueId0x12c: "B6_CB_01_00"
+  cgsCoreUniqueId0x130: "D2_CB_01_00"
+  cgsCoreUniqueId0x134: "7B_D1_01_00"
+  cgsCoreUniqueId0x138: "D4_CB_01_00"
+  cgsCoreUniqueId0x13c: "B7_CB_01_00"
+  cgsCoreUniqueId0x140: "50_CE_01_00"
+  cgsCoreUniqueId0x144: "0E_CD_01_00"
+  cgsCoreUniqueId0x148: "D5_CB_01_00"
+  cgsCoreUniqueId0x14c: "51_CE_01_00"
+  cgsCoreUniqueId0x150: "52_CE_01_00"
+  cgsCoreUniqueId0x154: "53_CE_01_00"
+  cgsCoreUniqueId0x158: "54_CE_01_00"
+  cgsCoreUniqueId0x15c: "07_CC_01_00"
+  cgsCoreUniqueId0x160: "08_CC_01_00"
+  cgsCoreUniqueId0x164: "E8_85_01_00"
+  cgsCoreUniqueId0x168: "E9_85_01_00"
+  cgsCoreUniqueId0x16c: "09_CC_01_00"
+  cgsCoreUniqueId0x170: "0A_CC_01_00"
+  cgsCoreUniqueId0x174: "10_CD_01_00"
+  cgsCoreUniqueId0x178: "0B_CC_01_00"
+  cgsCoreUniqueId0x17c: "0C_CC_01_00"
+  cgsCoreUniqueId0x180: "12_CD_01_00"
+  cgsCoreUniqueId0x188: "57_CE_01_00"
+  cgsCoreUniqueId0x18c: "58_CE_01_00"
+  cgsCoreUniqueId0x190: "76_D1_01_00"
+  cgsCoreUniqueId0x194: "75_D1_01_00"
+  cgsCoreUniqueId0x198: "F6_CD_01_00"
+  cgsCoreUniqueId0x19c: "F3_CD_01_00"
+  cgsCoreUniqueId0x1a0: "F7_CD_01_00"
+  cgsCoreUniqueId0x1a4: "F5_CD_01_00"
+  cgsCoreUniqueId0x1a8: "F4_CD_01_00"
+  cgsCoreUniqueId0x1ac: "88_D1_01_00"
+  cgsCoreUniqueId0x1b0: "56_CE_01_00"
+  cgsCoreUniqueId0x1b4: "55_CE_01_00"
+  cgsCoreUniqueId0x1b8: "05_CD_01_00"
+  cgsCoreUniqueId0x1bc: "14_CD_01_00"
+  cgsCoreUniqueId0x1c0: "0F_CD_01_00"
+  cgsCoreUniqueId0x1c4: "11_CD_01_00"
+  cgsCoreUniqueId0x1c8: "89_D1_01_00"
+  cgsCoreUniqueId0x1cc: "8A_D1_01_00"
+  cgsCoreUniqueId0x1d0: "E2_CB_01_00"
+  cgsCoreUniqueId0x1d4: "E1_CB_01_00"
+  cgsCoreUniqueId0x1d8: "0D_CC_01_00"
+  cgsCoreUniqueId0x1dc: "0E_CC_01_00"
+  cgsCoreUniqueId0x1e0: "EA_CB_01_00"
+  cgsCoreUniqueId0x1e4: "10_CC_01_00"
+  cgsCoreUniqueId0x1e8: "11_CC_01_00"
+  cgsCoreUniqueId0x1ec: "13_CD_01_00"
+  
+B3_6C_00_00 (161831): GenesysGenGlobalConfig
+
+BE_1B_11_00 (17961492): GenesysGenRichPresenceRichPresenceList
+
+BF_1B_11_00 (17961493): GenesysGenRichPresenceRichPresenceConditions
+
+C3_5F_18_00 (22639481): GenesysGenRichPresenceRichPresenceDataBase
+
+C4_1B_11_00 (17961504): GenesysGenRichPresenceRichPresenceConditions
+
+C4_5F_18_00 (22639488): GenesysGenRichPresenceRichPresenceDataBase
+
+C6_1B_11_00 (17961506): GenesysGenRichPresenceRichPresenceDataBase
+
+C6_5F_18_00 (22639490): GenesysGenRichPresenceRichPresenceDataBase
+
+C7_1B_11_00 (17961507): GenesysGenRichPresenceRichPresenceDataBase
+
+C7_5F_18_00 (22639491): GenesysGenRichPresenceRichPresenceDataBase
+
+C8_5F_18_00 (22639492): GenesysGenRichPresenceRichPresenceDataBase
+
+C9_5F_18_00 (22639493): GenesysGenRichPresenceRichPresenceDataBase
+
+CA_5F_18_00 (22639494): GenesysGenRichPresenceRichPresenceDataBase
+
+CC_24_1A_00 (24195926): GenesysGenSpeechInputConfig
+
+CD_5F_18_00 (22639497): GenesysGenRichPresenceRichPresenceDataBase
+
+CE_5F_18_00 (22639504): GenesysGenRichPresenceRichPresenceDataBase
+
+CF_5F_18_00 (22639505): GenesysGenRichPresenceRichPresenceDataBase
+
+D0_5F_18_00 (22639506): GenesysGenRichPresenceRichPresenceDataBase
+
+D1_5F_18_00 (22639507): GenesysGenRichPresenceRichPresenceDataBase
+
+D2_5F_18_00 (22639508): GenesysGenRichPresenceRichPresenceConditions
+
+D6_5F_18_00 (22639512): GenesysGenRichPresenceRichPresenceConditions
+
+D7_5F_18_00 (22639513): GenesysGenRichPresenceRichPresenceConditions
+
+D8_5F_18_00 (22639616): GenesysGenRichPresenceRichPresenceConditions
+
+D9_5F_18_00 (22639617): GenesysGenRichPresenceRichPresenceConditions
+
+DA_5F_18_00 (22639618): GenesysGenRichPresenceRichPresenceConditions
+
+DB_5F_18_00 (22639619): GenesysGenRichPresenceRichPresenceConditions
+
+DC_5F_18_00 (22639620): GenesysGenRichPresenceRichPresenceDataBase
+
+EC_DD_0D_00 (9471872): GenesysGenCollectablesConfig
+more info:
+  cgsCoreUniqueId0xc: "D2_55_19_00"
+  cgsCoreUniqueId0x10: "1F_0C_16_00"
+  cgsCoreUniqueId0x14: "D6_55_19_00"
+  cgsCoreUniqueId0x1c: "0C_77_0F_00"
+  cgsCoreUniqueId0x34: "2E_95_0E_00"
+  cgsCoreUniqueId0x38: "B2_9B_20_00"
+  cgsCoreUniqueId0x3c: "8B_32_22_00"
+  cgsCoreUniqueId0x40: "8C_32_22_00"
+  cgsCoreUniqueId0x44: "8D_32_22_00"
+  cgsCoreUniqueId0x48: "04_77_0F_00"
+  cgsCoreUniqueId0x4c: "D7_55_19_00"
+  cgsCoreUniqueId0x50: "D3_55_19_00"
+  cgsCoreUniqueId0x54: "12_77_0F_00"
+  cgsCoreUniqueId0x58: "D5_55_19_00"
+  cgsCoreUniqueId0x5c: "D4_55_19_00"
+  
+ED_1B_11_00 (17961569): GenesysGenRichPresenceRichPresenceDataBase
+
+EE_1B_11_00 (17961570): GenesysGenRichPresenceRichPresenceConditions
+
+EE_5F_18_00 (22639650): GenesysGenRichPresenceRichPresenceDataBase
+
+EF_5F_18_00 (22639651): GenesysGenRichPresenceRichPresenceDataBase
+
+F0_5F_18_00 (22639652): GenesysGenRichPresenceRichPresenceDataBase
+
+F1_1B_11_00 (17961573): GenesysGenRichPresenceRichPresenceDataBase
+
+F1_5F_18_00 (22639653): GenesysGenRichPresenceRichPresenceDataBase
+
+F1_61_04_00 (2650647): GenesysGenDamageImpactConfig
+more info:
+  cgsCoreUniqueId0x10: "EC_61_04_00"
+  cgsCoreUniqueId0x1c: "ED_61_04_00"
+  cgsCoreUniqueId0x24: "EF_61_04_00"
+  
+F2_1B_11_00 (17961574): GenesysGenRichPresenceRichPresenceConditions
+
+F3_5F_18_00 (22639655): GenesysGenRichPresenceRichPresenceDataBase
+
+F4_5F_18_00 (22639656): GenesysGenRichPresenceRichPresenceDataBase
+
+F6_5F_18_00 (22639664): GenesysGenRichPresenceRichPresenceDataBase
+
+F7_5F_18_00 (22639665): GenesysGenRichPresenceRichPresenceDataBase
+
+F8_1B_11_00 (17961586): GenesysGenRichPresenceRichPresenceDataBase
+
+F8_5F_18_00 (22639666): GenesysGenRichPresenceRichPresenceDataBase
+
+F9_1B_11_00 (17961587): GenesysGenRichPresenceRichPresenceDataBase
+
+F9_5F_18_00 (22639667): GenesysGenRichPresenceRichPresenceDataBase
+
+F9_61_04_00 (2650661): GenesysGenRolloutConfig
+more info:
+  cgsCoreUniqueId0xc: "F7_61_04_00"
+  
+FA_1B_11_00 (17961588): GenesysGenRichPresenceRichPresenceConditions
+
+FA_5F_18_00 (22639668): GenesysGenRichPresenceRichPresenceDataBase
+
+FB_1B_11_00 (17961589): GenesysGenRichPresenceRichPresenceConditions
+
+FD_1B_11_00 (17961591): GenesysGenRichPresenceRichPresenceDataBase
+
+FE_1B_11_00 (17961592): GenesysGenRichPresenceRichPresenceConditions

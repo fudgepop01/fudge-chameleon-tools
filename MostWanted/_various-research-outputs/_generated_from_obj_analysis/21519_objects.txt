@@ -1,0 +1,6 @@
+B5_BB_01_00 (1127817): GenesysGenUierrorList
+more info:
+  /instGenesysGenUierrorListError0x10[0]cgsCoreUniqueId0x1c: "00_00_00_00"
+  /instGenesysGenUierrorListError0x10[0]cgsCoreUniqueId0x20: "00_00_00_00"
+  /instGenesysGenUierrorListError0x10[0]cgsCoreUniqueId0x2c: "DC_D3_01_00"
+  

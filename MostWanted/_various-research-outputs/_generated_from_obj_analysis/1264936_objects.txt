@@ -1,0 +1,189 @@
+26_4D_13_00 (19286324): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(29_4D_13_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[12]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  
+28_4D_13_00 (19286326): GenesysGenFeedbackMessageGroup
+
+28_AC_12_00 (19019552): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+2C_AC_12_00 (19019556): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+32_75_00_00 (196610): GenesysGenMixerChannel
+
+39_F6_15_00 (21205641): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  
+3B_A7_11_00 (18180387): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(3D_A7_11_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[11]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  
+3C_CD_06_00 (4478806): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+49_4D_13_00 (19286377): GenesysGenSequence
+more info:
+  count: 40
+  gameplaySequenceItems:
+    - idx: 7
+      triggerType: (0) END_EVENT
+      data: "00_00_00_00"
+    - idx: 39
+      triggerType: (12) KILL_AI
+      data: "00_00_00_00"
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+    - GenesysGenBusMixerChannelSequenceItem
+    - GenesysGenGameplaySequenceItem
+    - GenesysGenMovieSequenceItem
+    - GenesysGenLayoutSequenceItem
+    - GenesysGenSlowMoSequenceItem
+    - GenesysGenHideHudSequenceItem
+    - GenesysGenSpawnAnimatedTrafficSequenceItem
+    - GenesysGenAddRaceCarSequenceItem
+    - GenesysGenSetTimeOfDaySequenceItem
+    - GenesysGenAddBehaviourToRaceCarSequenceItem
+    - GenesysGenAnimatedCameraSequenceItem
+    - GenesysGenDisableWorldRenderingSequenceItem
+  /instSequenceItems0x20[9]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[9]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[9]cgsCoreUniqueId0x54: "00_00_00_00"
+  /instSequenceItems0x20[11]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[11]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[11]cgsCoreUniqueId0x54: "00_00_00_00"
+  /instSequenceItems0x20[21]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[21]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[21]cgsCoreUniqueId0x54: "00_00_00_00"
+  /instSequenceItems0x20[23]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[24]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[25]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[27]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[29]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[31]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[32]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[33]cgsCoreUniqueId0x4c: "00_00_00_00"
+  /instSequenceItems0x20[33]cgsCoreUniqueId0x50: "00_00_00_00"
+  /instSequenceItems0x20[33]cgsCoreUniqueId0x54: "00_00_00_00"
+  /instSequenceItems0x20[35]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[36]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[37]cgsCoreUniqueId0x30: "00_00_00_00"
+  /instSequenceItems0x20[38]cgsCoreUniqueId0x30: "00_00_00_00"
+  
+4C_0A_15_00 (20416658): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[1]/tint0xb8cgsCoreUniqueId0x2c: "00_00_00_00"
+  
+5E_0A_15_00 (20416784): GenesysGenSequence
+more info:
+  count: 7
+  sequenceTypes:
+    - GenesysGenSpawnTrafficSequenceItem
+    - GenesysGenClearTrafficSequenceItem
+  
+5F_AC_12_00 (19019637): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+5F_F2_13_00 (19952177): GenesysGenMovieSequenceItem
+
+63_AC_12_00 (19019641): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+65_CD_06_00 (4478871): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  /instElements0x10[1]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  
+66_A7_11_00 (18180454): GenesysGenSequence
+more info:
+  count: 1
+  sequenceTypes:
+    - GenesysGenClearTrafficSequenceItem
+  
+67_AC_12_00 (19019651): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+6B_AC_12_00 (19019655): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+6C_F6_15_00 (21205824): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+    - GenesysGenMixerChannelSequenceItem
+  
+72_F6_15_00 (21205830): GenesysGenSequence
+more info:
+  count: 0
+  sequenceTypes: []
+  
+8E_86_01_00 (629122): GenesysGenUilayoutInstanceParams
+
+94_7A_01_00 (616726): GenesysGenUitechnique
+
+95_7A_01_00 (616727): GenesysGenUimaterial
+
+96_AB_12_00 (19019124): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+98_AB_12_00 (19019126): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+99_7A_01_00 (616737): GenesysGenUitechnique
+
+9B_7A_01_00 (616739): GenesysGenUitechnique
+
+C5_AB_12_00 (19019297): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+C9_AB_12_00 (19019301): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+E2_AB_12_00 (19019344): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+E6_AB_12_00 (19019348): GenesysGenAnimatedRaceCarBehaviour
+more info:
+  cgsCoreUniqueId0x44: "00_00_00_00"
+  
+F1_CC_06_00 (4478593): GenesysGenUilayout
+more info:
+  /instElements0x10[0]/baseObject/baseObjectcgsCoreUniqueId0x14: "9C_C6_35_61"
+  /instElements0x10[0]cgsCoreUniqueId0xd0: "00_00_00_00"
+  

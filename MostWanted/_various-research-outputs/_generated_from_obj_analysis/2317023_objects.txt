@@ -1,0 +1,8 @@
+DF_5A_23_00 (36794403): GenesysGenFeedbackMessageGroup
+
+E0_5A_23_00 (36794404): GenesysGenSequence
+more info:
+  count: 2
+  sequenceTypes:
+    - GenesysGenWaveSequenceItem
+  

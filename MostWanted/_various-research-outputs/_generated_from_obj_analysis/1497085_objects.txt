@@ -1,0 +1,71 @@
+29_C0_17_00 (22373665): GenesysGenSequence
+more info:
+  count: 1
+  gameplaySequenceItems:
+    - idx: 0
+      triggerType: (1) SET_HEAT_LEVEL
+      data: "(EB_C1_17_00): (GenesysObjCollection) GenesysGenHeatLevel 1C_F5_05_00/objCollection[32]"
+  sequenceTypes:
+    - GenesysGenGameplaySequenceItem
+  
+63_7E_12_00 (18948099): GenesysGenAiplayerType
+more info:
+  id: 63_7E_12_00
+  rolloutID: "(61_7E_12_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[34]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 11
+  weavingType: 0
+  behaviour: 0
+  allowedToRespawn: 1
+  canRhino: 0
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 120
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(30_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[69]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 120
+  
+BD_21_1D_00 (26251649): GenesysGenSequence
+
+CA_21_1D_00 (26251668): GenesysGenSequence
+
+E4_92_0E_00 (9785608): GenesysGenAiplayerType
+more info:
+  id: E4_92_0E_00
+  rolloutID: "(E5_92_0E_00): (GenesysObjCollection) GenesysGenRollout 94_61_04_00/objCollection[8]"
+  aggressionType: 0
+  aggressionFrequency: -1
+  aggressionDelay: -1
+  chasingBehaviour: 12
+  weavingType: 0
+  behaviour: 0
+  allowedToRespawn: 1
+  canRhino: 0
+  shortcutTakingPercentage0x68: -1
+  nitrousUsage: 0
+  doUturns: 1
+  isAggressor: 0
+  isBlacklist: 0
+  isCop: 1
+  speedMatchingMaxDistance0x74: -1
+  speedMatchingMaxSpeed0x78: 155
+  speedMatchingMinSpeed0x80: -1
+  speedMatchingSpeedDifference0x84: -1
+  customTakedownAction0xc: "(34_93_0E_00): (GenesysObjCollection) GenesysGenScoringAction BD_F3_05_00/objCollection[71]"
+  flatOutInitialTime0x30: -1
+  flatOutTime0x34: -1
+  speed: -1
+  float32T0x7c: 155
+  
+FD_D7_16_00 (21590149): GenesysGenFeedbackMessageGroup

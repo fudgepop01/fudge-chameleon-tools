@@ -1,0 +1,3092 @@
+146165144147145160157160060061o
+
+
+58_F0_0E_00
+  >> 14: (58_F0_0E_00)
+  >> id: (7F_51_E1_0D)
+  0x0   : 
+           muId: {62_C9_B0_AC}
+  0x1   : 
+           muId: {64_8E_16_42}
+  0x2   : 
+           muId: {ED_DF_CB_EE} ("Cooldown")
+  0x3   : 
+           muId: {91_C7_F3_D5} ("Backup")
+  0x4   : 
+           muId: {F8_AF_BA_98} ("SpeedCamera")
+  0x5   : 
+           muId: {36_8C_14_12} ("Billboard")
+  0x6   : 
+           muId: {70_6D_75_4A} ("Jump")
+  0x7   : 
+           muId: {59_4A_26_BA}
+  0x8   : 
+           muId: {2B_1B_3B_C3} ("CooldownSpot")
+  0x9   : 
+           muId: {FC_FA_0C_2B} ("SwapSpot")
+  0xA   : 
+           muId: {F1_35_C4_53} ("Garage")
+  0xB   : 
+           muId: {BA_11_A5_FA}
+  0xC   : 
+           muId: {C5_7B_3D_C2}
+  0xD   : 
+           muId: {40_FE_70_5A}
+  0xE   : 
+           muId: {F7_8E_A2_5C}
+  0xF   : 
+           muId: {B1_4B_73_01}
+  0x11  : 
+           muId: {25_68_FD_0F}
+  0x12  : 
+           muId: {54_CB_C1_81}
+  0x13  : 
+           muId: {F3_07_02_93}
+
+AB_1B_11_00
+  >> 14: (AB_1B_11_00)
+  >> id: (38_75_9C_67)
+  0x0   : 
+           muId: {DA_C6_10_18} ("StringId")
+  0x1   : 
+           muId: {52_36_6D_5D} ("String")
+  0x2   : 
+           muId: {C4_18_83_4B} ("Number")
+  0x3   : 
+           muId: {5C_54_8F_56} ("Player")
+  0x4   : 
+           muId: {23_35_D1_E4} ("Event")
+  0x5   : 
+           muId: {64_61_6F_52} ("Road")
+  0x6   : 
+           muId: {8A_90_8C_07} ("Car")
+  0x7   : 
+           muId: {C9_61_13_33} ("GameMode")
+
+char
+  >> 14: (9F_57_FE_8C)
+  >> id: (05_52_C1_F7)
+
+uint32_t
+  >> 14: (81_F3_2A_0E)
+  >> id: (D4_2E_65_69)
+
+CgsCore.StringBase
+  >> 14: (01_43_40_40)
+  >> id: (95_FB_EA_BE)
+  0x0   : char (offset) [size @ 0x4]
+           muId: {3F_7A_EB_8F} ("Buffer")
+  0x4   : uint32_t
+           muId: {38_73_C0_7F} ("Capacity")
+
+CgsCore.UniqueId
+  >> 14: (F2_85_22_B9)
+  >> id: (83_06_B9_EF)
+
+CgsResource.Handle
+  >> 14: (8A_E4_3F_0B)
+  >> id: (A3_E1_89_8A)
+
+D3_4F_0F_00
+  >> 14: (D3_4F_0F_00)
+  >> id: (D6_A8_6A_4F)
+  0x0   : 
+           muId: {2F_F4_88_A4} ("Invalid")
+  0x1   : 
+           muId: {0F_F3_81_E8} ("Change_Camera")
+  0x2   : 
+           muId: {CA_D2_A5_DC} ("Look_Back")
+  0x3   : 
+           muId: {C5_27_38_E8} ("Look_Around")
+  0x4   : 
+           muId: {2D_25_51_C1} ("Engine_Start")
+  0x5   : 
+           muId: {9D_1D_2F_1B} ("Engine_Off")
+  0x6   : 
+           muId: {FA_F4_3F_27} ("Swap_Car")
+  0x7   : 
+           muId: {29_98_15_A8} ("Pause")
+  0x8   : 
+           muId: {3A_4D_AC_60} ("Recommends")
+  0x9   : 
+           muId: {81_1E_49_6E} ("Speed_Cameras")
+  0xA   : 
+           muId: {26_96_E8_E0} ("Billboards")
+  0xB   : 
+           muId: {F0_AC_AF_AD} ("Swap_Spots")
+  0xC   : 
+           muId: {E4_4F_61_64} ("Easy_Drive")
+  0xD   : 
+           muId: {51_B5_81_A1} ("Races")
+  0xE   : 
+           muId: {81_B8_61_89}
+  0xF   : 
+           muId: {73_72_61_43} ("Cars")
+  0x10  : 
+           muId: {73_64_6F_4D} ("Mods")
+  0x11  : 
+           muId: {5E_1E_F1_1E}
+  0x12  : 
+           muId: {44_47_00_15}
+  0x13  : 
+           muId: {85_30_1C_E4} ("Drive")
+  0x14  : 
+           muId: {F1_F5_B9_52} ("Yes")
+  0x15  : 
+           muId: {26_78_EF_D1} ("No")
+  0x16  : 
+           muId: {05_9C_69_89} ("Map")
+  0x17  : 
+           muId: {65_72_6F_4D} ("More")
+  0x18  : 
+           muId: {15_20_7C_28} ("Previous")
+  0x19  : 
+           muId: {39_F6_60_C5}
+  0x1A  : 
+           muId: {5B_A2_96_A5} ("Retry")
+  0x1B  : 
+           muId: {B5_41_08_DD} ("Leave_Event")
+  0x1C  : 
+           muId: {E3_F8_16_A3}
+  0x1D  : 
+           muId: {B9_EA_CD_8C} ("Nitrous")
+  0x1E  : 
+           muId: {DD_FD_63_0C} ("Chassis")
+  0x1F  : 
+           muId: {79_64_6F_42} ("Body")
+  0x20  : 
+           muId: {BB_D5_40_D0} ("Transmission")
+  0x21  : 
+           muId: {BA_C7_54_1F}
+
+float32_t
+  >> 14: (87_6D_0A_53)
+  >> id: (E4_97_56_9F)
+
+Genesys.Object
+  >> 14: (E7_25_DB_2E)
+  >> id: (43_95_24_D7)
+
+Genesys.Gen.FuzzyLogicEnvelope extends Genesys.Object
+  >> 14: (48_94_06_00)
+  >> id: (4E_4D_14_49)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {78_FC_B8_51} ("AttackStart")
+  0x14  : float32_t
+           muId: {A3_1F_C8_93} ("AttackStop")
+  0x18  : float32_t
+           muId: {10_46_CD_2A} ("DecayStart")
+  0x1C  : float32_t
+           muId: {2F_99_11_68} ("DecayStop")
+
+uint8_t
+  >> 14: (11_C0_AB_8E)
+  >> id: (35_34_7F_1D)
+
+Genesys.Gen.AIConfig extends Genesys.Object
+  >> 14: (0D_FB_07_00)
+  >> id: (D5_9C_70_B7)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {FB_3B_D2_54} ("AINitrousEarningRate")
+  0x14  : float32_t
+           muId: {40_A2_98_08}
+  0x18  : float32_t
+           muId: {45_7F_6F_BD}
+  0x1C  : float32_t
+           muId: {01_94_F1_C6}
+  0x20  : float32_t
+           muId: {99_2C_C0_AC}
+  0x24  : float32_t
+           muId: {E4_97_64_30}
+  0x28  : float32_t
+           muId: {3F_D2_76_6F}
+  0x2C  : float32_t
+           muId: {7A_53_65_3D}
+  0x30  : float32_t
+           muId: {4B_53_0C_63}
+  0x34  : float32_t
+           muId: {39_70_11_3F}
+  0x38  : float32_t
+           muId: {23_14_F8_4D}
+  0x3C  : float32_t
+           muId: {C9_45_05_29}
+  0x40  : float32_t
+           muId: {5C_62_4F_B6}
+  0x44  : float32_t
+           muId: {4C_10_ED_19}
+  0x48  : float32_t
+           muId: {BD_7B_39_A8} ("ChaseLookAhead")
+  0x4C  : float32_t
+           muId: {34_EE_8A_94} ("Chasing_CatchupDistance")
+  0x50  : float32_t
+           muId: {C3_72_BF_15} ("Chasing_DriveStraightAtDistance")
+  0x54  : float32_t
+           muId: {84_46_F3_61}
+  0x58  : float32_t
+           muId: {2A_2F_65_15} ("Chasing_SideSpacing")
+  0x5C  : float32_t
+           muId: {BC_D5_78_F9} ("Chasing_Spacing")
+  0x60  : float32_t
+           muId: {14_CD_A0_A7}
+  0x64  : float32_t
+           muId: {01_14_AB_8B}
+  0x68  : float32_t
+           muId: {99_C0_A1_CD}
+  0x6C  : float32_t
+           muId: {EA_39_A1_B8}
+  0x70  : float32_t
+           muId: {E6_B8_EC_97}
+  0x74  : float32_t
+           muId: {41_B2_24_74}
+  0x78  : float32_t
+           muId: {25_4D_8D_16}
+  0x7C  : float32_t
+           muId: {51_DD_E1_B6}
+  0x80  : float32_t
+           muId: {D3_F2_50_3D}
+  0x84  : float32_t
+           muId: {67_C1_0B_ED}
+  0x88  : float32_t
+           muId: {85_54_7C_00}
+  0x8C  : float32_t
+           muId: {9C_0F_7C_F6}
+  0x90  : float32_t
+           muId: {B6_5E_F2_0E}
+  0x94  : float32_t
+           muId: {FE_85_45_AB}
+  0x98  : float32_t
+           muId: {EF_99_01_B7}
+  0x9C  : float32_t
+           muId: {B9_CC_0C_D9}
+  0xA0  : float32_t
+           muId: {BC_A7_DB_01}
+  0xA4  : float32_t
+           muId: {AB_06_F1_2B}
+  0xA8  : float32_t
+           muId: {8D_90_EF_F9}
+  0xAC  : float32_t
+           muId: {41_48_B0_DA}
+  0xB0  : float32_t
+           muId: {34_A9_A4_B9}
+  0xB4  : float32_t
+           muId: {C6_68_A7_B9}
+  0xB8  : float32_t
+           muId: {74_7C_95_83}
+  0xBC  : float32_t
+           muId: {E8_B1_97_B6}
+  0xC0  : float32_t
+           muId: {45_E2_98_B0}
+  0xC4  : float32_t
+           muId: {6A_C8_06_C8}
+  0xC8  : float32_t
+           muId: {DB_7D_2F_49}
+  0xCC  : float32_t
+           muId: {73_8D_AF_C2} ("Cornering_MaxAngleSpeed")
+  0xD0  : float32_t
+           muId: {24_DA_6D_93} ("Cornering_MaxBrakeAngle")
+  0xD4  : float32_t
+           muId: {50_CA_63_57} ("Cornering_MinAngleSpeed")
+  0xD8  : float32_t
+           muId: {07_9D_A1_06} ("Cornering_MinBrakeAngle")
+  0xDC  : float32_t
+           muId: {B8_8E_62_AF} ("JumpHandbrakeSpeed")
+  0xE0  : float32_t
+           muId: {3B_AC_1F_3A} ("JumpMinimumSpeed")
+  0xE4  : float32_t
+           muId: {77_64_11_D3} ("JumpTargetSpeed")
+  0xE8  : float32_t
+           muId: {36_20_BD_C5}
+  0xEC  : float32_t
+           muId: {A7_87_5C_EA}
+  0xF0  : float32_t
+           muId: {B2_C5_B3_F7}
+  0xF4  : float32_t
+           muId: {9B_0A_2E_C3}
+  0xF8  : float32_t
+           muId: {52_2D_FD_F2}
+  0xFC  : float32_t
+           muId: {DE_C5_49_89}
+  0x100 : float32_t
+           muId: {27_C6_C6_29}
+  0x104 : float32_t
+           muId: {E2_38_CE_63}
+  0x108 : float32_t
+           muId: {02_FE_45_41}
+  0x10C : float32_t
+           muId: {24_6E_83_03}
+  0x110 : float32_t
+           muId: {0D_F5_D6_CA}
+  0x114 : float32_t
+           muId: {1C_BC_06_8B}
+  0x118 : float32_t
+           muId: {B8_29_D1_1A}
+  0x11C : float32_t
+           muId: {A1_36_95_29}
+  0x120 : float32_t
+           muId: {52_88_C7_D4}
+  0x124 : float32_t
+           muId: {55_8B_D1_27} ("MaxAngleForContinuingNitrous")
+  0x128 : float32_t
+           muId: {4A_37_C7_63} ("MaxAngleForStartingNitrous")
+  0x12C : float32_t
+           muId: {A7_A8_57_FA} ("MaxChaseLookAhead")
+  0x130 : float32_t
+           muId: {6E_91_D7_50} ("MaxTimeToJumpForFail")
+  0x134 : float32_t
+           muId: {DB_C5_FF_F4} ("MaxTimeToStackForFail")
+  0x138 : float32_t
+           muId: {52_D3_F6_AA}
+  0x13C : float32_t
+           muId: {D2_D4_7A_AD}
+  0x140 : float32_t
+           muId: {7B_96_64_C0} ("MinNitrousRatio")
+  0x144 : float32_t
+           muId: {A2_5B_D4_E9}
+  0x148 : float32_t
+           muId: {88_25_FF_D3} ("NitrousCornerLookAheadDistance")
+  0x14C : float32_t
+           muId: {BB_C3_95_D6} ("NitrousMinSpeedDifference")
+  0x150 : float32_t
+           muId: {02_28_A5_08}
+  0x154 : float32_t
+           muId: {C6_39_52_21}
+  0x158 : float32_t
+           muId: {78_FE_02_31}
+  0x15C : float32_t
+           muId: {83_8B_55_31}
+  0x160 : float32_t
+           muId: {08_60_A1_7A}
+  0x164 : float32_t
+           muId: {0C_1E_77_EF}
+  0x168 : float32_t
+           muId: {EB_04_21_75}
+  0x16C : float32_t
+           muId: {5D_49_5E_EC}
+  0x170 : float32_t
+           muId: {E8_B4_FC_46}
+  0x174 : float32_t
+           muId: {2F_9F_F6_67}
+  0x178 : float32_t
+           muId: {35_B1_AC_DE}
+  0x17C : float32_t
+           muId: {9F_63_FF_D2}
+  0x180 : float32_t
+           muId: {03_DC_9A_2B}
+  0x184 : float32_t
+           muId: {AC_12_4A_E2}
+  0x188 : float32_t
+           muId: {6A_10_60_2C}
+  0x18C : float32_t
+           muId: {21_52_08_19}
+  0x190 : float32_t
+           muId: {82_59_E5_40}
+  0x194 : float32_t
+           muId: {48_4C_A7_50}
+  0x198 : float32_t
+           muId: {B1_15_45_FE}
+  0x19C : float32_t
+           muId: {00_72_9A_61}
+  0x1A0 : float32_t
+           muId: {31_D8_C3_51}
+  0x1A4 : float32_t
+           muId: {15_A7_76_AE}
+  0x1A8 : float32_t
+           muId: {56_0D_F3_AE} ("RoadblockMaxSpawnDistance")
+  0x1AC : float32_t
+           muId: {60_6E_F2_5C} ("RoadblockMinSpawnDistance")
+  0x1B0 : float32_t
+           muId: {48_B2_7B_C2}
+  0x1B4 : float32_t
+           muId: {11_AE_AA_07}
+  0x1B8 : float32_t
+           muId: {10_F8_E8_4D}
+  0x1BC : float32_t
+           muId: {9F_07_08_38}
+  0x1C0 : float32_t
+           muId: {C5_9C_39_6B}
+  0x1C4 : float32_t
+           muId: {38_92_35_04} ("Speedmatch_AheadOffset")
+  0x1C8 : float32_t
+           muId: {CD_85_FD_8E} ("Speedmatch_BehindOffset")
+  0x1CC : float32_t
+           muId: {5C_D3_E5_96} ("Speedmatch_FlatoutTime")
+  0x1D0 : float32_t
+           muId: {BB_44_A5_CE} ("Speedmatch_MinSpeed")
+  0x1D4 : float32_t
+           muId: {13_8E_75_A8}
+  0x1D8 : float32_t
+           muId: {48_AC_87_22} ("Speedmatch_Scale")
+  0x1DC : float32_t
+           muId: {1D_9D_07_DC} ("Speedmatch_TargetSpeedRange")
+  0x1E0 : float32_t
+           muId: {BF_C7_3A_C6} ("SpikeStripDetectionTime")
+  0x1E4 : float32_t
+           muId: {3B_ED_22_A1}
+  0x1E8 : float32_t
+           muId: {F2_77_FF_A0}
+  0x1EC : float32_t
+           muId: {DA_A6_2E_07}
+  0x1F0 : float32_t
+           muId: {B3_D6_44_87}
+  0x1F4 : float32_t
+           muId: {D4_B6_32_C9}
+  0x1F8 : float32_t
+           muId: {B2_ED_69_A4}
+  0x1FC : float32_t
+           muId: {74_CD_FE_ED}
+  0x200 : float32_t
+           muId: {86_80_9D_5F}
+  0x204 : float32_t
+           muId: {51_C9_A9_A0}
+  0x208 : float32_t
+           muId: {4A_3C_A2_4B}
+  0x20C : float32_t
+           muId: {34_89_0B_86}
+  0x210 : float32_t
+           muId: {FA_1A_52_69}
+  0x214 : float32_t
+           muId: {9A_A3_7D_F8}
+  0x218 : float32_t
+           muId: {AD_A2_0E_0A}
+  0x21C : float32_t
+           muId: {02_EA_0A_74}
+  0x220 : float32_t
+           muId: {1D_1A_C7_77} ("Weapon_MinSpeed")
+  0x224 : float32_t
+           muId: {4F_5B_A9_6C}
+  0x228 : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {42_5A_39_78} ("x9ZB")
+  0x22C : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {5A_ED_5D_64}
+  0x230 : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {E3_15_5F_F0}
+  0x234 : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {F9_FA_F9_74} ("DrivePositioningScoring")
+  0x238 : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {C1_B0_02_1D} ("TimeToImpact")
+  0x23C : uint8_t
+           muId: {81_B1_5E_51}
+
+uint16_t
+  >> 14: (D6_93_2A_A3)
+  >> id: (82_F3_7A_EC)
+
+Genesys.Gen.Autolog.CloudCompete.CloudCompeteParameterisedAward.ParameterAwardMap extends Genesys.Object
+  >> 14: (99_F4_0E_00)
+  >> id: (2A_AD_99_34)
+  0xC   : CgsCore.UniqueId
+           muId: {EF_5F_D1_F6} ("Award")
+  0x10  : uint16_t
+           muId: {BF_97_8C_E5} ("ParameterValue")
+
+Genesys.Gen.Autolog.CloudCompete.CloudCompeteParameterisedAward extends Genesys.Object
+  >> 14: (98_F4_0E_00)
+  >> id: (CA_DC_83_30)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.Autolog.CloudCompete.CloudCompeteParameterisedAward.ParameterAwardMap * [size @ 0x14]
+           muId: {83_1F_96_F3} ("Awards")
+  0x14  : uint16_t
+           muId: {9B_C6_9F_C9}
+
+Genesys.Gen.AutologConfig extends Genesys.Object
+  >> 14: (2A_27_00_00)
+  >> id: (FB_D5_0B_9F)
+  0xC   : CgsResource.Handle
+           muId: {F6_31_71_38} ("CloudCompeteAwardConfig")
+  0x14  : CgsResource.Handle
+           muId: {F6_9F_95_05} ("FeedbackControllerConfig")
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.BootConfig extends Genesys.Object
+  >> 14: (91_0B_04_00)
+  >> id: (A2_12_C2_1D)
+  0xC   : CgsCore.UniqueId
+           muId: {3C_43_BA_9D}
+  0x10  : CgsCore.UniqueId
+           muId: {B5_DB_33_0A}
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : CgsCore.UniqueId
+           muId: {DE_31_7D_CF} ("TopLevelHSM")
+
+bool8_t
+  >> 14: (8C_D7_46_52)
+  >> id: (0F_EE_3F_41)
+
+Genesys.Gen.CustomChevron extends Genesys.Object
+  >> 14: (9F_FA_06_00)
+  >> id: (AC_A9_15_3E)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t * [size @ 0x1C]
+           muId: {27_88_BC_C6}
+  0x14  : float32_t * [size @ 0x1E]
+           muId: {91_94_7D_C2}
+  0x18  : float32_t * [size @ 0x20]
+           muId: {4B_B1_3E_CF}
+  0x1C  : uint16_t
+           muId: {73_21_04_52}
+  0x1E  : uint16_t
+           muId: {AF_E0_1D_80}
+  0x20  : uint16_t
+           muId: {7C_BF_F6_F2}
+  0x22  : bool8_t
+           muId: {3E_F7_CC_F8} ("InvertNormal")
+
+Genesys.Gen.CheckPointsConfig extends Genesys.Object
+  >> 14: (32_77_0F_00)
+  >> id: (96_65_89_62)
+  0xC   : CgsCore.UniqueId
+           muId: {6C_08_90_9C}
+  0x10  : CgsCore.UniqueId
+           muId: {A3_01_B3_BE} ("ChevronBlockRoad")
+  0x14  : CgsCore.UniqueId
+           muId: {21_6C_A7_53} ("ChevronJunction")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x1C  : CgsCore.UniqueId
+           muId: {29_84_78_BA}
+  0x20  : CgsCore.UniqueId
+           muId: {A6_74_CA_57}
+  0x24  : CgsCore.UniqueId
+           muId: {FE_21_D2_E9}
+  0x28  : CgsCore.UniqueId
+           muId: {3D_D1_11_78}
+  0x2C  : CgsCore.UniqueId
+           muId: {49_F7_86_8E}
+  0x30  : CgsCore.UniqueId
+           muId: {BA_41_84_9B}
+  0x34  : Genesys.Gen.CustomChevron * [size @ 0x38] *
+           muId: {E2_E7_4D_E7}
+  0x38  : uint8_t
+           muId: {C5_24_1E_72}
+
+Genesys.Gen.CloudCompeteAwardConfig.CloudCompeteAwardWithName extends Genesys.Object
+  >> 14: (B8_F6_0E_00)
+  >> id: (23_A5_23_E2)
+  0xC   : CgsCore.StringBase
+           muId: {23_BA_24_4B} ("AwardName")
+  0x14  : Genesys.Gen.Autolog.CloudCompete.CloudCompeteParameterisedAward *
+           muId: {EF_5F_D1_F6} ("Award")
+
+Genesys.Gen.CloudCompeteAwardConfig extends Genesys.Object
+  >> 14: (FC_2F_04_00)
+  >> id: (88_28_BC_4D)
+  0xC   : CgsCore.UniqueId
+           muId: {86_1B_35_84}
+  0x10  : CgsCore.UniqueId
+           muId: {2C_CA_D0_3B}
+  0x14  : CgsCore.UniqueId
+           muId: {F9_75_E1_E1}
+  0x18  : CgsCore.UniqueId
+           muId: {84_9C_95_CD} ("Defeated_Previous_Info")
+  0x1C  : CgsCore.UniqueId
+           muId: {A4_F9_0D_4B}
+  0x20  : CgsCore.UniqueId
+           muId: {D5_25_0C_F7}
+  0x24  : CgsCore.UniqueId
+           muId: {D9_9B_1E_16}
+  0x28  : CgsCore.UniqueId
+           muId: {D9_16_6C_AE}
+  0x2C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x30  : CgsCore.UniqueId
+           muId: {AE_1F_CE_F2}
+  0x34  : CgsCore.UniqueId
+           muId: {E4_CB_F3_FF}
+  0x38  : Genesys.Gen.CloudCompeteAwardConfig.CloudCompeteAwardWithName * [size @ 0x3C]
+           muId: {A6_28_C8_6D}
+  0x3C  : uint16_t
+           muId: {C2_0D_D6_3F}
+
+Genesys.Gen.CollectablesConfig extends Genesys.Object
+  >> 14: (EB_DD_0D_00)
+  >> id: (7B_4E_98_D3)
+  0xC   : CgsCore.UniqueId
+           muId: {5E_34_FA_04}
+  0x10  : CgsCore.UniqueId
+           muId: {55_BA_1D_D7}
+  0x14  : CgsCore.UniqueId
+           muId: {80_30_7B_FD}
+  0x18  : CgsCore.UniqueId * [size @ 0x68]
+           muId: {3D_59_78_5F}
+  0x1C  : CgsCore.UniqueId
+           muId: {C2_80_CD_5A}
+  0x20  : CgsCore.UniqueId * [size @ 0x6A]
+           muId: {3F_A3_F0_9E}
+  0x24  : CgsCore.UniqueId * [size @ 0x6C]
+           muId: {22_40_30_8C}
+  0x28  : CgsCore.UniqueId * [size @ 0x6E]
+           muId: {44_EA_30_7E}
+  0x2C  : CgsCore.UniqueId * [size @ 0x70]
+           muId: {18_86_B1_A9}
+  0x30  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x34  : CgsCore.UniqueId
+           muId: {6A_D8_B2_A1}
+  0x38  : CgsCore.UniqueId
+           muId: {8B_B4_C9_E3}
+  0x3C  : CgsCore.UniqueId
+           muId: {02_41_A0_E1}
+  0x40  : CgsCore.UniqueId
+           muId: {85_ED_78_E0}
+  0x44  : CgsCore.UniqueId
+           muId: {10_AA_73_E5}
+  0x48  : CgsCore.UniqueId
+           muId: {87_9D_7E_50}
+  0x4C  : CgsCore.UniqueId
+           muId: {80_FC_2B_66}
+  0x50  : CgsCore.UniqueId
+           muId: {4C_90_3D_FE}
+  0x54  : CgsCore.UniqueId
+           muId: {CD_01_D8_CE}
+  0x58  : CgsCore.UniqueId
+           muId: {78_EB_64_9A}
+  0x5C  : CgsCore.UniqueId
+           muId: {75_76_7E_86}
+  0x60  : float32_t
+           muId: {68_8B_36_7C}
+  0x64  : float32_t
+           muId: {A4_ED_9E_D8}
+  0x68  : uint16_t
+           muId: {E9_11_72_AD}
+  0x6A  : uint16_t
+           muId: {78_4F_49_A1}
+  0x6C  : uint16_t
+           muId: {3B_1C_51_69}
+  0x6E  : uint16_t
+           muId: {FA_D2_A6_2E}
+  0x70  : uint16_t
+           muId: {0A_A7_A0_FD}
+
+Genesys.Gen.DamageImpactConfig extends Genesys.Object
+  >> 14: (F0_61_04_00)
+  >> id: (10_75_87_6C)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {80_D6_DB_6B}
+  0x14  : CgsCore.UniqueId
+           muId: {59_FA_55_09} ("ChanceScoringLayout")
+  0x18  : CgsCore.UniqueId
+           muId: {19_D5_F7_A4} ("ShuntString")
+  0x1C  : CgsCore.UniqueId
+           muId: {F6_A7_B3_1A}
+  0x20  : CgsCore.UniqueId
+           muId: {B4_21_78_EA} ("SlamString")
+  0x24  : CgsCore.UniqueId
+           muId: {2C_34_4F_40}
+  0x28  : CgsCore.UniqueId
+           muId: {D7_8A_B3_87} ("TBoneString")
+
+Genesys.Gen.DigitalEnvelope.Data extends Genesys.Object
+  >> 14: (9C_32_00_00)
+  >> id: (1D_CC_7F_92)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {65_6D_69_54} ("Time")
+  0x14  : bool8_t
+           muId: {9B_D3_8A_B2} ("Value")
+
+Genesys.Gen.DigitalEnvelope extends Genesys.Object
+  >> 14: (C4_27_00_00)
+  >> id: (BB_3F_F3_CE)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.DigitalEnvelope.Data * [size @ 0x14]
+           muId: {61_74_61_44} ("Data")
+  0x14  : uint16_t
+           muId: {8D_E0_DC_CB} ("DataCount")
+
+Genesys.Gen.Envelope.Data extends Genesys.Object
+  >> 14: (B2_32_00_00)
+  >> id: (35_F4_56_AE)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {65_6D_69_54} ("Time")
+  0x14  : float32_t
+           muId: {9B_D3_8A_B2} ("Value")
+
+Genesys.Gen.Envelope extends Genesys.Object
+  >> 14: (DC_27_00_00)
+  >> id: (C9_A3_B8_E4)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.Envelope.Data * [size @ 0x14]
+           muId: {61_74_61_44} ("Data")
+  0x14  : uint16_t
+           muId: {8D_E0_DC_CB} ("DataCount")
+
+Genesys.Gen.FeedbackControllerConfig extends Genesys.Object
+  >> 14: (FF_27_00_00)
+  >> id: (54_54_8F_A0)
+  0xC   : CgsCore.UniqueId
+           muId: {46_9D_4C_DA}
+  0x10  : CgsCore.UniqueId
+           muId: {C4_EA_13_3B}
+  0x14  : CgsCore.UniqueId
+           muId: {3D_A1_E3_0D}
+  0x18  : CgsCore.UniqueId
+           muId: {99_B6_6F_54}
+  0x1C  : CgsCore.UniqueId
+           muId: {17_87_55_E5}
+  0x20  : CgsCore.UniqueId
+           muId: {23_56_0A_D8}
+  0x24  : CgsCore.UniqueId
+           muId: {27_57_0A_D8}
+  0x28  : CgsCore.UniqueId
+           muId: {49_CF_25_8C}
+  0x2C  : CgsCore.UniqueId
+           muId: {1D_03_C1_5A}
+  0x30  : CgsCore.UniqueId
+           muId: {BB_25_D1_EC}
+  0x34  : CgsCore.UniqueId
+           muId: {38_93_E3_C1}
+  0x38  : CgsCore.UniqueId
+           muId: {33_EF_43_0A}
+  0x3C  : CgsCore.UniqueId
+           muId: {95_7F_3A_C5}
+  0x40  : CgsCore.UniqueId
+           muId: {0D_C6_A9_7B}
+  0x44  : CgsCore.UniqueId
+           muId: {0E_9E_F3_3F}
+  0x48  : CgsCore.UniqueId
+           muId: {AE_76_36_9F}
+  0x4C  : CgsCore.UniqueId
+           muId: {15_A7_54_3C}
+  0x50  : CgsCore.UniqueId
+           muId: {D7_25_52_35}
+  0x54  : CgsCore.UniqueId
+           muId: {12_D0_74_BC}
+  0x58  : CgsCore.UniqueId
+           muId: {28_53_1A_57}
+  0x5C  : CgsCore.UniqueId
+           muId: {30_DC_19_52}
+  0x60  : CgsCore.UniqueId
+           muId: {A6_F1_A1_C1}
+  0x64  : CgsCore.UniqueId
+           muId: {20_73_41_45}
+  0x68  : CgsCore.UniqueId
+           muId: {93_A0_5E_52}
+  0x6C  : CgsCore.UniqueId
+           muId: {67_5B_4E_92}
+  0x70  : CgsCore.UniqueId
+           muId: {9B_0C_AE_22}
+  0x74  : CgsCore.UniqueId
+           muId: {38_03_F1_D5}
+  0x78  : CgsCore.UniqueId
+           muId: {CD_73_41_C5}
+  0x7C  : CgsCore.UniqueId
+           muId: {FE_7C_C7_BA}
+  0x80  : CgsCore.UniqueId
+           muId: {F8_30_1F_FD}
+  0x84  : CgsCore.UniqueId
+           muId: {C2_23_1B_DB}
+  0x88  : CgsCore.UniqueId
+           muId: {2D_64_5C_DD}
+  0x8C  : CgsCore.UniqueId
+           muId: {94_A4_D3_5E}
+  0x90  : CgsCore.UniqueId
+           muId: {6E_E3_00_ED}
+  0x94  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x98  : CgsCore.UniqueId
+           muId: {8C_9F_1A_74}
+  0x9C  : CgsCore.UniqueId
+           muId: {5B_AF_C6_A8}
+  0xA0  : CgsCore.UniqueId
+           muId: {81_24_47_EF}
+  0xA4  : CgsCore.UniqueId
+           muId: {8C_83_1A_77}
+  0xA8  : CgsCore.UniqueId
+           muId: {4A_85_06_30}
+  0xAC  : CgsCore.UniqueId
+           muId: {8D_D4_7F_CE}
+  0xB0  : CgsCore.UniqueId
+           muId: {A0_49_F7_EA}
+  0xB4  : CgsCore.UniqueId
+           muId: {A1_08_91_A0}
+  0xB8  : CgsCore.UniqueId
+           muId: {CF_F9_8C_A6}
+  0xBC  : CgsCore.UniqueId
+           muId: {A2_75_B1_46}
+  0xC0  : CgsCore.UniqueId
+           muId: {0C_EF_A9_A3}
+  0xC4  : CgsCore.UniqueId
+           muId: {47_D3_4E_11}
+  0xC8  : CgsCore.UniqueId
+           muId: {69_32_AA_9A}
+  0xCC  : CgsCore.UniqueId
+           muId: {18_78_59_12}
+  0xD0  : CgsCore.UniqueId
+           muId: {64_6F_13_41}
+  0xD4  : CgsCore.UniqueId
+           muId: {2E_48_E2_04}
+  0xD8  : CgsCore.UniqueId
+           muId: {2C_60_C1_C1}
+  0xDC  : CgsCore.UniqueId
+           muId: {EC_5A_8E_C7}
+  0xE0  : CgsCore.UniqueId
+           muId: {8C_94_EF_39}
+  0xE4  : CgsCore.UniqueId
+           muId: {B8_94_09_58}
+  0xE8  : CgsCore.UniqueId
+           muId: {EB_6D_37_1E}
+  0xEC  : CgsCore.UniqueId
+           muId: {19_9B_89_2D}
+  0xF0  : CgsCore.UniqueId
+           muId: {66_C7_6B_EC}
+  0xF4  : CgsCore.UniqueId
+           muId: {61_B8_14_29}
+  0xF8  : CgsCore.UniqueId
+           muId: {FF_42_C5_36}
+  0xFC  : CgsCore.UniqueId
+           muId: {DE_E8_46_83}
+  0x100 : CgsCore.UniqueId
+           muId: {31_3F_34_8C}
+  0x104 : CgsCore.UniqueId
+           muId: {9D_65_AF_4A}
+  0x108 : CgsCore.UniqueId
+           muId: {3F_31_3A_86}
+  0x10C : CgsCore.UniqueId
+           muId: {C3_9C_FB_47}
+  0x110 : CgsCore.UniqueId
+           muId: {5D_CB_76_DC}
+  0x114 : CgsCore.UniqueId
+           muId: {5A_DC_4B_03}
+  0x118 : CgsCore.UniqueId
+           muId: {FC_D6_8F_CC}
+  0x11C : CgsCore.UniqueId
+           muId: {81_94_26_55}
+  0x120 : CgsCore.UniqueId
+           muId: {A8_1B_F8_F7}
+  0x124 : CgsCore.UniqueId
+           muId: {F6_23_7E_2E}
+  0x128 : CgsCore.UniqueId
+           muId: {CF_93_0A_13}
+  0x12C : CgsCore.UniqueId
+           muId: {0E_11_2B_FE}
+  0x130 : CgsCore.UniqueId
+           muId: {FB_50_0B_DF}
+  0x134 : CgsCore.UniqueId
+           muId: {62_CF_A9_F8}
+  0x138 : CgsCore.UniqueId
+           muId: {37_62_3B_76}
+  0x13C : CgsCore.UniqueId
+           muId: {A5_32_10_7D}
+  0x140 : CgsCore.UniqueId
+           muId: {5B_0B_F1_20}
+  0x144 : CgsCore.UniqueId
+           muId: {91_C2_16_9B}
+  0x148 : CgsCore.UniqueId
+           muId: {92_C5_97_4B}
+  0x14C : CgsCore.UniqueId
+           muId: {60_63_22_80}
+  0x150 : CgsCore.UniqueId
+           muId: {9B_61_2F_99}
+  0x154 : CgsCore.UniqueId
+           muId: {B3_AB_E5_4C}
+  0x158 : CgsCore.UniqueId
+           muId: {6F_3B_57_56}
+  0x15C : CgsCore.UniqueId
+           muId: {E7_8B_54_0C}
+  0x160 : CgsCore.UniqueId
+           muId: {6A_24_7C_DC}
+  0x164 : CgsCore.UniqueId
+           muId: {09_EA_52_23}
+  0x168 : CgsCore.UniqueId
+           muId: {02_30_7A_3C}
+  0x16C : CgsCore.UniqueId
+           muId: {1E_EA_01_A3}
+  0x170 : CgsCore.UniqueId
+           muId: {D9_36_7D_40}
+  0x174 : CgsCore.UniqueId
+           muId: {59_32_8D_49}
+  0x178 : CgsCore.UniqueId
+           muId: {3D_BB_2B_69}
+  0x17C : CgsCore.UniqueId
+           muId: {96_53_2C_18}
+  0x180 : CgsCore.UniqueId
+           muId: {C5_B0_90_AD}
+  0x184 : CgsCore.UniqueId
+           muId: {F0_B1_5D_14} ("Property")
+  0x188 : CgsCore.UniqueId
+           muId: {DC_53_97_52}
+  0x18C : CgsCore.UniqueId
+           muId: {DD_53_97_52}
+  0x190 : CgsCore.UniqueId
+           muId: {12_0D_B1_57}
+  0x194 : CgsCore.UniqueId
+           muId: {13_0D_B1_57}
+  0x198 : CgsCore.UniqueId
+           muId: {10_0D_B1_57}
+  0x19C : CgsCore.UniqueId
+           muId: {11_0D_B1_57}
+  0x1A0 : CgsCore.UniqueId
+           muId: {16_0D_B1_57}
+  0x1A4 : CgsCore.UniqueId
+           muId: {17_0D_B1_57}
+  0x1A8 : CgsCore.UniqueId
+           muId: {14_0D_B1_57}
+  0x1AC : CgsCore.UniqueId
+           muId: {15_0D_B1_57}
+  0x1B0 : CgsCore.UniqueId
+           muId: {DE_53_97_52}
+  0x1B4 : CgsCore.UniqueId
+           muId: {DF_53_97_52}
+  0x1B8 : CgsCore.UniqueId
+           muId: {D8_53_97_52}
+  0x1BC : CgsCore.UniqueId
+           muId: {D9_53_97_52}
+  0x1C0 : CgsCore.UniqueId
+           muId: {DA_53_97_52}
+  0x1C4 : CgsCore.UniqueId
+           muId: {DB_53_97_52}
+  0x1C8 : CgsCore.UniqueId
+           muId: {D4_53_97_52}
+  0x1CC : CgsCore.UniqueId
+           muId: {D5_53_97_52}
+  0x1D0 : CgsCore.UniqueId
+           muId: {06_BC_69_DB}
+  0x1D4 : CgsCore.UniqueId
+           muId: {66_F9_D1_92}
+  0x1D8 : CgsCore.UniqueId
+           muId: {BC_83_FE_14}
+  0x1DC : CgsCore.UniqueId
+           muId: {A2_49_6D_1C}
+  0x1E0 : CgsCore.UniqueId
+           muId: {7B_82_B6_85}
+  0x1E4 : CgsCore.UniqueId
+           muId: {4A_7B_C6_E7}
+  0x1E8 : CgsCore.UniqueId
+           muId: {72_64_6E_A0}
+  0x1EC : CgsCore.UniqueId
+           muId: {69_7F_77_FF}
+
+Genesys.Gen.GameLogic.GameLogicRumble.RumbleData extends Genesys.Object
+  >> 14: (17_60_0F_00)
+  >> id: (4E_DC_4B_DB)
+  0xC   : CgsResource.Handle
+           muId: {F3_1A_73_8C}
+  0x14  : float32_t
+           muId: {A8_C8_0A_13} ("Proximity")
+  0x18  : float32_t
+           muId: {0C_FB_C6_8E}
+
+Genesys.Gen.GameLogic.GameLogicRumble extends Genesys.Object
+  >> 14: (16_60_0F_00)
+  >> id: (C1_A8_06_BC)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.GameLogic.GameLogicRumble.RumbleData * [size @ 0x14]
+           muId: {35_F9_1A_07} ("RumbleData")
+  0x14  : uint16_t
+           muId: {F2_75_68_B3} ("RumbleDataCount")
+
+Genesys.Gen.GameLogic.MapPoiConfig extends Genesys.Object
+  >> 14: (15_B9_21_00)
+  >> id: (F2_80_9F_DD)
+  0xC   : CgsCore.UniqueId
+           muId: {BD_A8_2A_A3}
+  0x10  : CgsCore.UniqueId
+           muId: {D2_B7_DA_69}
+  0x14  : CgsCore.UniqueId
+           muId: {6F_08_A4_54} ("ChallengeLocationIcon")
+  0x18  : CgsCore.UniqueId
+           muId: {AB_F5_9E_22}
+  0x1C  : CgsCore.UniqueId
+           muId: {53_35_FB_5B}
+  0x20  : CgsCore.UniqueId
+           muId: {01_14_B2_05}
+  0x24  : CgsCore.UniqueId
+           muId: {81_94_02_50} ("DriftMarkerIcon")
+  0x28  : CgsCore.UniqueId
+           muId: {7C_17_D5_F4} ("FinishLineIcon")
+  0x2C  : CgsCore.UniqueId
+           muId: {2D_56_67_8D} ("PursuitRoutesHit")
+  0x30  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x34  : CgsCore.UniqueId
+           muId: {AA_CB_74_7B} ("HelicopterIcon")
+  0x38  : CgsCore.UniqueId
+           muId: {CA_05_B9_2F}
+  0x3C  : CgsCore.UniqueId
+           muId: {56_17_8F_D6} ("OnlineEventIcon")
+  0x40  : CgsCore.UniqueId
+           muId: {8A_F1_37_5E}
+  0x44  : CgsCore.UniqueId
+           muId: {85_FB_26_56}
+  0x48  : CgsCore.UniqueId
+           muId: {05_D8_2F_FC}
+  0x4C  : CgsCore.UniqueId
+           muId: {41_3A_02_8C}
+  0x50  : CgsCore.UniqueId
+           muId: {42_3A_02_8C}
+  0x54  : CgsCore.UniqueId
+           muId: {78_12_40_29} ("PlayerIcon")
+  0x58  : CgsCore.UniqueId
+           muId: {63_6F_C1_8C}
+  0x5C  : CgsCore.UniqueId
+           muId: {53_C5_B0_52} ("PursuitRadiusIcon")
+  0x60  : CgsCore.UniqueId
+           muId: {5B_69_C1_86}
+  0x64  : CgsCore.UniqueId
+           muId: {36_7A_DB_29} ("RoadBlockIcon")
+  0x68  : CgsCore.UniqueId
+           muId: {6B_F9_30_93}
+  0x6C  : CgsCore.UniqueId
+           muId: {2E_88_66_15}
+
+Genesys.Gen.GameLogic.SmashAndGrabConfig.GrabItem extends Genesys.Object
+  >> 14: (3B_B9_21_00)
+  >> id: (70_76_A7_3B)
+  0xC   : CgsCore.UniqueId
+           muId: {2D_2D_C4_B6}
+  0x10  : CgsCore.UniqueId
+           muId: {AF_37_BC_ED} ("ScoringAction")
+  0x14  : uint16_t
+           muId: {F0_BF_4C_A7} ("Score")
+
+Genesys.Gen.GameLogic.SmashAndGrabConfig extends Genesys.Object
+  >> 14: (3A_B9_21_00)
+  >> id: (46_A8_4C_D2)
+  0xC   : Genesys.Gen.GameLogic.SmashAndGrabConfig.GrabItem
+           muId: {02_AD_DD_D3}
+  0x24  : Genesys.Gen.GameLogic.SmashAndGrabConfig.GrabItem
+           muId: {01_AD_DD_D3}
+  0x3C  : Genesys.Gen.GameLogic.SmashAndGrabConfig.GrabItem
+           muId: {00_AD_DD_D3}
+  0x54  : Genesys.Gen.GameLogic.SmashAndGrabConfig.GrabItem
+           muId: {07_AD_DD_D3}
+  0x6C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x70  : CgsCore.UniqueId
+           muId: {C9_61_13_33} ("GameMode")
+
+Genesys.Gen.GameLogic.TyreTemperature extends Genesys.Object
+  >> 14: (5A_29_10_00)
+  >> id: (5F_61_87_6C)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {6B_3D_A2_34} ("BarSize")
+  0x14  : float32_t
+           muId: {3A_82_04_69} ("DecayRate")
+  0x18  : float32_t
+           muId: {D3_F1_E7_F6}
+  0x1C  : float32_t
+           muId: {0C_96_97_FC}
+  0x20  : float32_t
+           muId: {12_EE_9E_0D}
+  0x24  : float32_t
+           muId: {A3_9A_BB_F8}
+
+Genesys.Gen.GameLogicConfig.FirstSeenScores extends Genesys.Object
+  >> 14: (FF_FC_06_00)
+  >> id: (6C_11_DC_7E)
+  0xC   : CgsCore.UniqueId
+           muId: {58_3E_30_52}
+  0x10  : CgsCore.UniqueId
+           muId: {C2_F8_74_A1} ("SequenceID")
+  0x14  : 58_F0_0E_00
+           muId: {2F_EA_ED_E8}
+
+Genesys.Gen.GameLogicConfig.ScoredCompoundObject extends Genesys.Object
+  >> 14: (5D_F0_0E_00)
+  >> id: (9C_14_75_7D)
+  0xC   : CgsCore.UniqueId
+           muId: {CB_8C_EE_55}
+  0x10  : CgsCore.UniqueId
+           muId: {AF_37_BC_ED} ("ScoringAction")
+
+Genesys.Gen.GameLogicConfig.UnlockTypeMetadata extends Genesys.Object
+  >> 14: (AD_8C_1E_00)
+  >> id: (CA_F4_0E_F6)
+  0xC   : CgsCore.UniqueId
+           muId: {6E_6F_63_49} ("Icon")
+  0x10  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+
+Genesys.Gen.Gameplay.DistrictConfig.District extends Genesys.Object
+  >> 14: (8E_CE_17_00)
+  >> id: (AA_CB_6F_9B)
+  0xC   : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x10  : CgsCore.UniqueId
+           muId: {D6_7B_D5_E2}
+
+Genesys.Gen.Gameplay.DistrictConfig extends Genesys.Object
+  >> 14: (8D_CE_17_00)
+  >> id: (C7_90_35_00)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.Gameplay.DistrictConfig.District * [size @ 0x14]
+           muId: {54_2E_B4_66} ("Districts")
+  0x14  : uint16_t
+           muId: {A7_E1_C0_BB}
+
+Genesys.Gen.GameLogicConfig extends Genesys.Object
+  >> 14: (6E_5E_04_00)
+  >> id: (83_EE_3D_97)
+  0xC   : CgsResource.Handle
+           muId: {2A_DB_C2_C4}
+  0x14  : CgsResource.Handle
+           muId: {2A_64_90_E0}
+  0x1C  : CgsResource.Handle
+           muId: {C6_BF_43_31}
+  0x24  : CgsResource.Handle
+           muId: {79_6D_0B_09}
+  0x2C  : CgsResource.Handle
+           muId: {CD_34_4D_62} ("ScoringConfig")
+  0x34  : CgsResource.Handle
+           muId: {15_AA_B5_EC}
+  0x3C  : CgsCore.UniqueId
+           muId: {27_AC_C4_21}
+  0x40  : CgsCore.UniqueId
+           muId: {EE_9A_26_AD}
+  0x44  : CgsCore.UniqueId
+           muId: {3F_2A_65_A9}
+  0x48  : CgsCore.UniqueId
+           muId: {85_5E_85_1D}
+  0x4C  : CgsCore.UniqueId
+           muId: {A4_96_2B_01}
+  0x50  : CgsCore.UniqueId
+           muId: {52_CD_D3_D1}
+  0x54  : CgsCore.UniqueId
+           muId: {20_37_FB_43}
+  0x58  : CgsCore.UniqueId
+           muId: {45_49_BC_ED}
+  0x5C  : CgsCore.UniqueId
+           muId: {A9_99_A4_75} ("AllowedVehicleList")
+  0x60  : CgsCore.UniqueId
+           muId: {2D_47_86_4C}
+  0x64  : CgsCore.UniqueId
+           muId: {73_8C_4E_03}
+  0x68  : CgsCore.UniqueId * [size @ 0x2CC]
+           muId: {02_E6_9E_FA}
+  0x6C  : CgsCore.UniqueId
+           muId: {F2_AD_72_78}
+  0x70  : CgsCore.UniqueId
+           muId: {47_18_8E_2A}
+  0x74  : CgsCore.UniqueId
+           muId: {01_D0_D2_4C}
+  0x78  : CgsCore.UniqueId
+           muId: {D3_EB_AF_60}
+  0x7C  : CgsCore.UniqueId
+           muId: {48_77_F2_34}
+  0x80  : CgsCore.UniqueId
+           muId: {0B_DC_BF_7A}
+  0x84  : CgsCore.UniqueId
+           muId: {0F_86_60_7B} ("BlacklistDataList")
+  0x88  : CgsCore.UniqueId
+           muId: {E2_BF_AB_9E}
+  0x8C  : CgsCore.UniqueId
+           muId: {9A_5E_F1_FD}
+  0x90  : CgsCore.UniqueId
+           muId: {E7_B4_40_81}
+  0x94  : CgsCore.UniqueId * [size @ 0x2CE]
+           muId: {CE_B9_A3_1C} ("ChangeCarList")
+  0x98  : CgsCore.UniqueId
+           muId: {B5_A0_0F_4B}
+  0x9C  : CgsCore.UniqueId
+           muId: {07_7B_2D_DE}
+  0xA0  : CgsCore.UniqueId * [size @ 0x2D0]
+           muId: {FD_53_4E_AB} ("DefaultHeatLevels")
+  0xA4  : CgsCore.UniqueId
+           muId: {8A_DD_7F_7C} ("DefaultRollout")
+  0xA8  : CgsCore.UniqueId
+           muId: {10_EB_DA_93}
+  0xAC  : CgsCore.UniqueId * [size @ 0x2D2]
+           muId: {67_23_98_4C}
+  0xB0  : CgsCore.UniqueId
+           muId: {17_F9_E2_05} ("DriftGameMode")
+  0xB4  : CgsCore.UniqueId
+           muId: {30_5A_64_BD}
+  0xB8  : CgsCore.UniqueId
+           muId: {AD_DF_1D_40}
+  0xBC  : CgsCore.UniqueId
+           muId: {0F_3B_F6_5B}
+  0xC0  : CgsCore.UniqueId * [size @ 0x2D6]
+           muId: {42_06_B7_37}
+  0xC4  : CgsCore.UniqueId
+           muId: {94_2C_5B_6B}
+  0xC8  : CgsCore.UniqueId
+           muId: {65_80_E3_8B}
+  0xCC  : CgsCore.UniqueId
+           muId: {1A_68_25_BC} ("FinishedAtString")
+  0xD0  : CgsCore.UniqueId
+           muId: {56_05_31_55} ("FinishedInString")
+  0xD4  : CgsCore.UniqueId
+           muId: {43_EC_05_DD} ("FinishedPosition")
+  0xD8  : CgsCore.UniqueId
+           muId: {DC_1D_3C_1B} ("FreedriveGameMode")
+  0xDC  : CgsCore.UniqueId
+           muId: {43_AA_80_58}
+  0xE0  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xE4  : CgsCore.UniqueId
+           muId: {EE_F3_85_1E}
+  0xE8  : CgsCore.UniqueId
+           muId: {08_89_0D_2E}
+  0xEC  : CgsCore.UniqueId
+           muId: {20_11_13_BD}
+  0xF0  : CgsCore.UniqueId
+           muId: {1B_E3_7E_05} ("GameplayCopType")
+  0xF4  : CgsCore.UniqueId
+           muId: {59_9F_4E_DD}
+  0xF8  : CgsCore.UniqueId
+           muId: {C8_CB_EA_FD}
+  0xFC  : CgsCore.UniqueId
+           muId: {9F_FA_9A_4B} ("IntroEvent")
+  0x100 : CgsCore.UniqueId
+           muId: {FC_73_4C_81} ("IntroRaceEvent")
+  0x104 : CgsCore.UniqueId
+           muId: {61_10_F1_48}
+  0x108 : CgsCore.UniqueId
+           muId: {59_7A_58_44} ("DXzY")
+  0x10C : CgsCore.UniqueId
+           muId: {92_5F_EC_4C}
+  0x110 : CgsCore.UniqueId
+           muId: {29_C2_88_91}
+  0x114 : CgsCore.UniqueId
+           muId: {0C_64_EE_18}
+  0x118 : CgsCore.UniqueId
+           muId: {10_F0_F6_C9} ("MilestoneComplete")
+  0x11C : CgsCore.UniqueId
+           muId: {77_03_23_A9} ("MilestoneDescriptionString")
+  0x120 : CgsCore.UniqueId
+           muId: {59_DA_49_1C} ("MilestoneProgressString")
+  0x124 : CgsCore.UniqueId
+           muId: {FF_32_31_92}
+  0x128 : CgsCore.UniqueId
+           muId: {77_7C_EB_22}
+  0x12C : CgsCore.UniqueId
+           muId: {C2_0B_AB_BE}
+  0x130 : CgsCore.UniqueId
+           muId: {5A_A2_09_3D} ("OnlineFreedriveGameMode")
+  0x134 : CgsCore.UniqueId
+           muId: {F0_A7_FC_B0}
+  0x138 : CgsCore.UniqueId
+           muId: {26_86_52_87}
+  0x13C : CgsCore.UniqueId
+           muId: {C0_F2_C1_E9}
+  0x140 : CgsCore.UniqueId
+           muId: {53_11_36_C6}
+  0x144 : CgsCore.UniqueId
+           muId: {6D_D6_00_88}
+  0x148 : CgsCore.UniqueId
+           muId: {D7_1A_53_AF}
+  0x14C : CgsCore.UniqueId
+           muId: {62_EF_49_49}
+  0x150 : CgsCore.UniqueId
+           muId: {DA_BF_5B_D8}
+  0x154 : CgsCore.UniqueId
+           muId: {90_FF_25_C5}
+  0x158 : CgsCore.UniqueId
+           muId: {22_10_A6_F9}
+  0x15C : CgsCore.UniqueId
+           muId: {23_E6_64_D3}
+  0x160 : CgsCore.UniqueId
+           muId: {27_28_F8_D8}
+  0x164 : CgsCore.UniqueId
+           muId: {38_BC_50_E9}
+  0x168 : CgsCore.UniqueId
+           muId: {F4_A2_65_8C}
+  0x16C : CgsCore.UniqueId
+           muId: {FA_3E_E8_A1}
+  0x170 : CgsCore.UniqueId
+           muId: {3D_B5_7A_D3} ("RaceGameMode")
+  0x174 : CgsCore.UniqueId
+           muId: {6C_76_14_C2}
+  0x178 : CgsCore.UniqueId
+           muId: {CD_97_4C_F1}
+  0x17C : CgsCore.UniqueId
+           muId: {DC_61_1C_62}
+  0x180 : CgsCore.UniqueId
+           muId: {BF_93_0D_D8}
+  0x184 : CgsCore.UniqueId
+           muId: {11_B0_5F_DF}
+  0x188 : CgsCore.UniqueId
+           muId: {2C_BE_29_DF}
+  0x18C : CgsCore.UniqueId
+           muId: {ED_22_9B_25}
+  0x190 : CgsCore.UniqueId
+           muId: {02_16_75_DE}
+  0x194 : CgsCore.UniqueId
+           muId: {2D_B4_86_AD}
+  0x198 : CgsCore.UniqueId
+           muId: {B4_47_B2_FE}
+  0x19C : CgsCore.UniqueId
+           muId: {3E_C3_74_43}
+  0x1A0 : CgsCore.UniqueId
+           muId: {90_27_F9_B0}
+  0x1A4 : CgsCore.UniqueId
+           muId: {C8_CB_EA_C3}
+  0x1A8 : CgsCore.UniqueId
+           muId: {2D_4F_5A_D9}
+  0x1AC : CgsCore.UniqueId
+           muId: {54_D7_80_FA} ("RoadblockDefinitionList")
+  0x1B0 : CgsCore.UniqueId
+           muId: {64_A8_B5_ED} ("RoadblockLayerList")
+  0x1B4 : CgsCore.UniqueId
+           muId: {61_03_01_79}
+  0x1B8 : CgsCore.UniqueId
+           muId: {28_32_35_5A} ("RolloutBodyStock")
+  0x1BC : CgsCore.UniqueId
+           muId: {F0_04_C9_82} ("RolloutChassis")
+  0x1C0 : CgsCore.UniqueId
+           muId: {78_67_F2_80} ("RolloutChassisStock")
+  0x1C4 : CgsCore.UniqueId
+           muId: {94_D7_E6_B0} ("RolloutEngineStock")
+  0x1C8 : CgsCore.UniqueId
+           muId: {88_03_74_8C}
+  0x1CC : CgsCore.UniqueId
+           muId: {94_13_67_02} ("RolloutNitrous")
+  0x1D0 : CgsCore.UniqueId
+           muId: {D8_12_2C_C4} ("RolloutNitrousStock")
+  0x1D4 : CgsCore.UniqueId
+           muId: {B0_07_1C_A7}
+  0x1D8 : CgsCore.UniqueId
+           muId: {EB_CE_82_6D}
+  0x1DC : CgsCore.UniqueId
+           muId: {12_46_08_32}
+  0x1E0 : CgsCore.UniqueId
+           muId: {E9_23_F5_5E}
+  0x1E4 : CgsCore.UniqueId
+           muId: {0C_00_C1_16} ("SpeechEventList")
+  0x1E8 : CgsCore.UniqueId
+           muId: {11_F0_66_E2} ("SpeedbreakerId")
+  0x1EC : CgsCore.UniqueId
+           muId: {36_C5_D2_3C}
+  0x1F0 : CgsCore.UniqueId
+           muId: {22_E6_97_1E}
+  0x1F4 : CgsCore.UniqueId
+           muId: {FC_15_09_25}
+  0x1F8 : CgsCore.UniqueId
+           muId: {85_B5_50_BD}
+  0x1FC : CgsCore.UniqueId
+           muId: {67_63_6D_7E}
+  0x200 : CgsCore.UniqueId
+           muId: {60_76_B0_F1}
+  0x204 : CgsResource.Handle * [size @ 0x2DE]
+           muId: {6C_2B_9C_6B}
+  0x208 : float32_t
+           muId: {9D_A4_79_69}
+  0x20C : float32_t
+           muId: {B7_38_11_08}
+  0x210 : float32_t
+           muId: {6A_8A_59_C0}
+  0x214 : float32_t
+           muId: {B6_69_D9_FB}
+  0x218 : float32_t
+           muId: {DE_06_E2_F0}
+  0x21C : float32_t
+           muId: {FF_DA_88_2A}
+  0x220 : float32_t
+           muId: {D5_2D_D8_75} ("DefaultRespawnSpeed")
+  0x224 : float32_t
+           muId: {F3_B2_4E_A4} ("DefaultRespawnSpeedScalar")
+  0x228 : float32_t
+           muId: {A5_DD_DA_BA} ("DriftAnglePower")
+  0x22C : float32_t
+           muId: {82_3A_64_2B}
+  0x230 : float32_t
+           muId: {4C_4C_1C_05}
+  0x234 : float32_t
+           muId: {A2_EF_72_33}
+  0x238 : float32_t
+           muId: {B1_21_8F_7B}
+  0x23C : float32_t
+           muId: {B4_5B_1C_14}
+  0x240 : float32_t
+           muId: {6E_73_CC_5D}
+  0x244 : float32_t
+           muId: {23_F4_CA_49} ("EventStartRadius")
+  0x248 : float32_t
+           muId: {66_94_EF_62}
+  0x24C : float32_t
+           muId: {F4_1D_52_74}
+  0x250 : float32_t
+           muId: {8A_4B_B4_17}
+  0x254 : float32_t
+           muId: {BD_5C_ED_07}
+  0x258 : float32_t
+           muId: {C4_7F_E3_4D}
+  0x25C : float32_t
+           muId: {8B_A1_ED_19}
+  0x260 : float32_t
+           muId: {56_13_A5_D1}
+  0x264 : float32_t
+           muId: {71_93_90_4F}
+  0x268 : float32_t
+           muId: {D9_40_BA_D7} ("RaceRespawnSpeed")
+  0x26C : float32_t
+           muId: {DA_98_0D_A3} ("RaceRespawnSpeedScalar")
+  0x270 : float32_t
+           muId: {13_A8_D1_B6}
+  0x274 : float32_t
+           muId: {C2_EB_A0_49}
+  0x278 : float32_t
+           muId: {32_58_FC_6E}
+  0x27C : float32_t
+           muId: {3D_DD_DE_B0}
+  0x280 : float32_t
+           muId: {3F_BB_F9_C1}
+  0x284 : float32_t
+           muId: {6F_EF_4A_FF}
+  0x288 : float32_t
+           muId: {84_AA_8D_D3} ("StaticBustDistance")
+  0x28C : float32_t
+           muId: {91_95_D8_35} ("StaticBustSpeed")
+  0x290 : float32_t
+           muId: {82_C5_97_32} ("StaticBustTimer")
+  0x294 : float32_t
+           muId: {37_B3_F2_00}
+  0x298 : float32_t
+           muId: {0A_61_A8_90}
+  0x29C : float32_t
+           muId: {B6_4C_06_72}
+  0x2A0 : float32_t
+           muId: {3F_7F_8A_21}
+  0x2A4 : float32_t
+           muId: {09_5E_4D_21}
+  0x2A8 : Genesys.Gen.CheckPointsConfig *
+           muId: {2B_8A_4D_EE}
+  0x2AC : Genesys.Gen.GameLogic.MapPoiConfig *
+           muId: {DE_59_85_00}
+  0x2B0 : Genesys.Gen.GameLogic.SmashAndGrabConfig *
+           muId: {AA_5C_37_35}
+  0x2B4 : Genesys.Gen.GameLogic.TyreTemperature *
+           muId: {E2_3D_F5_B5}
+  0x2B8 : Genesys.Gen.GameLogicConfig.FirstSeenScores * [size @ 0x2D8]
+           muId: {CD_15_5D_41}
+  0x2BC : Genesys.Gen.GameLogicConfig.ScoredCompoundObject * [size @ 0x2DA]
+           muId: {1B_0D_22_82}
+  0x2C0 : Genesys.Gen.GameLogicConfig.UnlockTypeMetadata * [size @ 0x2DC]
+           muId: {74_20_99_23}
+  0x2C4 : Genesys.Gen.Gameplay.DistrictConfig *
+           muId: {05_66_0E_27}
+  0x2C8 : uint32_t
+           muId: {9C_A6_55_B6}
+  0x2CC : uint16_t
+           muId: {31_D5_FB_DB}
+  0x2CE : uint16_t
+           muId: {3D_A4_68_49}
+  0x2D0 : uint16_t
+           muId: {47_1E_C3_15} ("DefaultHeatLevelsCount")
+  0x2D2 : uint16_t
+           muId: {AF_32_C6_4E}
+  0x2D4 : uint16_t
+           muId: {7D_3C_07_76}
+  0x2D6 : uint16_t
+           muId: {7B_E9_F5_D7}
+  0x2D8 : uint16_t
+           muId: {3C_2A_62_1B}
+  0x2DA : uint16_t
+           muId: {06_26_AF_C7}
+  0x2DC : uint16_t
+           muId: {B2_B7_DD_4D}
+  0x2DE : uint8_t
+           muId: {A8_2C_D3_3C}
+
+Genesys.Gen.GameLogicScoringConfig extends Genesys.Object
+  >> 14: (70_5E_04_00)
+  >> id: (B3_1F_0E_62)
+  0xC   : CgsCore.UniqueId
+           muId: {D6_C4_F9_37}
+  0x10  : CgsCore.UniqueId
+           muId: {14_58_1B_76}
+  0x14  : CgsCore.UniqueId
+           muId: {3F_38_8B_3A}
+  0x18  : CgsCore.UniqueId
+           muId: {EC_AE_10_FA}
+  0x1C  : CgsCore.UniqueId
+           muId: {1D_3C_35_BF} ("DefaultUnlockSequence")
+  0x20  : CgsCore.UniqueId
+           muId: {39_3C_1D_B6} ("DefaultUnlockTitle")
+  0x24  : CgsCore.UniqueId
+           muId: {B1_34_34_C7}
+  0x28  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x2C  : CgsCore.UniqueId
+           muId: {21_FD_9D_E4}
+  0x30  : CgsCore.UniqueId
+           muId: {95_C5_C8_F5}
+  0x34  : CgsCore.UniqueId
+           muId: {6E_72_1E_47}
+  0x38  : CgsCore.UniqueId
+           muId: {6D_72_1E_47}
+  0x3C  : CgsCore.UniqueId
+           muId: {B8_50_25_5D}
+  0x40  : CgsCore.UniqueId
+           muId: {8E_7D_6A_3E}
+  0x44  : CgsCore.UniqueId
+           muId: {1E_64_DC_4D}
+  0x48  : CgsCore.UniqueId
+           muId: {DB_2C_2E_DA}
+  0x4C  : CgsCore.UniqueId
+           muId: {43_AC_BF_8B}
+  0x50  : CgsCore.UniqueId
+           muId: {AB_D3_D5_A0}
+  0x54  : CgsCore.UniqueId
+           muId: {07_17_07_1A}
+  0x58  : CgsCore.UniqueId
+           muId: {8A_99_20_2E}
+  0x5C  : CgsCore.UniqueId
+           muId: {DE_A1_AB_B8}
+  0x60  : CgsCore.UniqueId
+           muId: {86_05_33_51}
+
+Genesys.Gen.GamePackConfig extends Genesys.Object
+  >> 14: (6E_49_1F_00)
+  >> id: (F0_25_D8_E7)
+  0xC   : CgsCore.UniqueId
+           muId: {95_4D_CD_4C}
+  0x10  : CgsCore.UniqueId
+           muId: {46_12_26_3E}
+  0x14  : CgsCore.UniqueId
+           muId: {9A_D3_3F_EC}
+  0x18  : CgsCore.UniqueId
+           muId: {E0_AD_F0_DB}
+  0x1C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x20  : CgsCore.UniqueId
+           muId: {61_79_8A_4C}
+
+Genesys.Gen.GlobalConfig extends Genesys.Object
+  >> 14: (24_28_00_00)
+  >> id: (47_7F_27_7D)
+  0xC   : CgsResource.Handle
+           muId: {CB_E0_92_85} ("AIConfig")
+  0x14  : CgsResource.Handle
+           muId: {64_C5_BA_03} ("AutologConfig")
+  0x1C  : CgsResource.Handle
+           muId: {77_3E_90_DC} ("BootConfig")
+  0x24  : CgsResource.Handle
+           muId: {AD_ED_94_93} ("GameLogicConfig")
+  0x2C  : CgsResource.Handle
+           muId: {FF_D5_F7_28}
+  0x34  : CgsResource.Handle
+           muId: {C0_29_A2_72}
+  0x3C  : CgsResource.Handle
+           muId: {72_11_F8_88}
+  0x44  : CgsResource.Handle
+           muId: {CD_34_4D_62} ("ScoringConfig")
+  0x4C  : CgsResource.Handle
+           muId: {C3_A1_9D_48}
+  0x54  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x58  : CgsCore.UniqueId
+           muId: {6D_81_73_0E} ("UIConfig")
+
+Genesys.Gen.Online.LiveryUnlockConfig.UnlockImageMap extends Genesys.Object
+  >> 14: (41_BD_1F_00)
+  >> id: (6C_B3_3B_6B)
+  0xC   : CgsCore.UniqueId
+           muId: {56_A7_D9_CA} ("Image")
+  0x10  : CgsCore.UniqueId
+           muId: {5E_89_26_C5} ("Unlock")
+
+Genesys.Gen.Online.LiveryUnlockConfig extends Genesys.Object
+  >> 14: (40_BD_1F_00)
+  >> id: (40_EA_2F_7B)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.Online.LiveryUnlockConfig.UnlockImageMap * [size @ 0x14]
+           muId: {05_9C_69_89} ("Map")
+  0x14  : uint8_t
+           muId: {6D_18_78_DB} ("MapCount")
+
+Genesys.Gen.Online.Playlist extends Genesys.Object
+  >> 14: (C8_33_04_00)
+  >> id: (D4_6A_3F_86)
+  0xC   : CgsCore.UniqueId [10] [size @ 0x68]
+           muId: {9D_33_6F_B6} ("Events")
+  0x34  : CgsCore.UniqueId [10] [size @ 0x6A]
+           muId: {85_42_96_26} ("Restrictions")
+  0x5C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x60  : CgsCore.UniqueId
+           muId: {C7_66_1D_2E} ("GamePack")
+  0x64  : CgsCore.UniqueId
+           muId: {65_6D_61_4E} ("Name")
+  0x68  : uint16_t
+           muId: {4F_C4_5E_A4} ("EventsCount")
+  0x6A  : uint16_t
+           muId: {CE_05_E2_AE} ("RestrictionsCount")
+
+Genesys.Gen.OnlineConfig.UnlockTypeNames extends Genesys.Object
+  >> 14: (C6_A0_1D_00)
+  >> id: (8D_41_B7_2D)
+  0xC   : CgsCore.UniqueId
+           muId: {BE_E3_F6_BD} ("LicensePlate")
+  0x10  : CgsCore.UniqueId
+           muId: {45_B8_37_48} ("MilestoneList")
+  0x14  : CgsCore.UniqueId
+           muId: {1B_32_E7_B5}
+  0x18  : CgsCore.UniqueId
+           muId: {73_D2_E9_35} ("PaintPack")
+  0x1C  : CgsCore.UniqueId
+           muId: {9E_E1_BF_CE} ("RevengeBonus")
+  0x20  : CgsCore.UniqueId
+           muId: {08_7D_FF_32} ("Vehicle")
+
+Genesys.Gen.OnlineConfig extends Genesys.Object
+  >> 14: (7A_37_11_00)
+  >> id: (77_B8_18_7A)
+  0xC   : CgsCore.UniqueId [12] [size @ 0x118]
+           muId: {95_5D_68_CE}
+  0x3C  : Genesys.Gen.OnlineConfig.UnlockTypeNames
+           muId: {1B_E0_66_14} ("UnlockTypeNames")
+  0x60  : CgsCore.UniqueId [6] [size @ 0x116]
+           muId: {39_24_30_DF}
+  0x78  : CgsCore.UniqueId [4] [size @ 0x114]
+           muId: {FA_FA_74_14}
+  0x88  : CgsCore.UniqueId [2] [size @ 0x11C]
+           muId: {40_9B_72_DF} ("TeamNames")
+  0x90  : CgsCore.UniqueId
+           muId: {10_24_20_02} ("AirportArenaData")
+  0x94  : CgsCore.UniqueId
+           muId: {5E_CB_58_D8}
+  0x98  : CgsCore.UniqueId
+           muId: {A8_7F_04_CA} ("AutotestFreedriveEvent")
+  0x9C  : CgsCore.UniqueId
+           muId: {DA_95_43_50}
+  0xA0  : CgsCore.UniqueId
+           muId: {9F_97_A7_5B}
+  0xA4  : CgsCore.UniqueId
+           muId: {5E_A2_0A_62} ("ChallengeHeadingScore")
+  0xA8  : CgsCore.UniqueId
+           muId: {A3_FD_28_BB}
+  0xAC  : CgsCore.UniqueId
+           muId: {BD_5F_E6_38}
+  0xB0  : CgsCore.UniqueId
+           muId: {2E_EE_95_17} ("ChallengeHeadingTime")
+  0xB4  : CgsCore.UniqueId
+           muId: {BF_DC_10_CC}
+  0xB8  : CgsCore.UniqueId
+           muId: {F9_E8_68_EA}
+  0xBC  : CgsCore.UniqueId
+           muId: {0F_9B_E1_BF} ("DefaultRevengeBonus")
+  0xC0  : CgsCore.UniqueId
+           muId: {8A_DD_7F_7C} ("DefaultRollout")
+  0xC4  : CgsCore.UniqueId
+           muId: {0C_4F_B3_FA}
+  0xC8  : CgsCore.UniqueId
+           muId: {C2_36_90_3D}
+  0xCC  : CgsCore.UniqueId
+           muId: {56_6C_D2_A6} ("FreedriveEvent")
+  0xD0  : CgsCore.UniqueId
+           muId: {FD_EB_B4_05} ("FriendlyColour")
+  0xD4  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xD8  : CgsCore.UniqueId
+           muId: {86_5E_4E_0F}
+  0xDC  : CgsCore.UniqueId
+           muId: {2E_ED_EE_F4}
+  0xE0  : CgsCore.UniqueId
+           muId: {90_09_10_C6}
+  0xE4  : CgsCore.UniqueId
+           muId: {91_B5_DF_A4}
+  0xE8  : CgsCore.UniqueId
+           muId: {90_E6_33_DD}
+  0xEC  : CgsCore.UniqueId
+           muId: {CF_6D_B0_6D}
+  0xF0  : CgsCore.UniqueId
+           muId: {B2_9B_A5_61}
+  0xF4  : CgsCore.UniqueId * [size @ 0x11A]
+           muId: {BA_76_A9_FF} ("ResultsScoringActions")
+  0xF8  : CgsCore.UniqueId
+           muId: {44_10_6D_5A}
+  0xFC  : CgsCore.UniqueId
+           muId: {8F_B7_C3_2A}
+  0x100 : CgsCore.UniqueId
+           muId: {A2_A3_CF_5E}
+  0x104 : CgsCore.UniqueId
+           muId: {52_39_35_76} ("v59R")
+  0x108 : CgsCore.UniqueId
+           muId: {38_B2_E9_44} ("UnlockNames")
+  0x10C : Genesys.Gen.Online.LiveryUnlockConfig *
+           muId: {6E_B5_20_11} ("LiveryUnlockMap")
+  0x110 : Genesys.Gen.Online.Playlist * [size @ 0x120] *
+           muId: {D0_85_5C_E0}
+  0x114 : uint16_t
+           muId: {6E_85_76_95}
+  0x116 : uint16_t
+           muId: {50_3D_F0_95}
+  0x118 : uint16_t
+           muId: {87_4C_28_B2}
+  0x11A : uint16_t
+           muId: {09_19_97_7A}
+  0x11C : uint16_t
+           muId: {96_FE_1B_10} ("TeamNamesCount")
+  0x11E : bool8_t
+           muId: {88_02_5B_B0}
+  0x11F : bool8_t
+           muId: {BA_EE_68_9E}
+  0x120 : uint8_t
+           muId: {D1_63_0B_7C}
+
+Genesys.Gen.RichPresence.RichPresenceConditions extends Genesys.Object
+  >> 14: (A8_1B_11_00)
+  >> id: (05_5E_D2_C5)
+  0xC   : CgsResource.Handle
+           muId: {88_7B_40_30}
+  0x14  : CgsCore.StringBase * [size @ 0x24]
+           muId: {B6_9D_15_6C} ("Conditions")
+  0x18  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x1C  : CgsResource.Handle * [size @ 0x26]
+           muId: {C5_E0_BD_E9}
+  0x20  : CgsResource.Handle * [size @ 0x27]
+           muId: {73_70_E2_63}
+  0x24  : uint16_t
+           muId: {84_3A_6A_73} ("ConditionsCount")
+  0x26  : uint8_t
+           muId: {89_A6_76_F9}
+  0x27  : uint8_t
+           muId: {45_F2_0A_42}
+
+Genesys.Gen.RichPresence.RichPresenceDataBase.Parameters extends Genesys.Object
+  >> 14: (AA_1B_11_00)
+  >> id: (68_38_31_77)
+  0xC   : CgsCore.StringBase
+           muId: {2F_2A_F7_F0} ("Binding")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : AB_1B_11_00
+           muId: {65_70_79_54} ("Type")
+
+Genesys.Gen.RichPresence.RichPresenceDataBase extends Genesys.Object
+  >> 14: (A9_1B_11_00)
+  >> id: (30_39_AF_C1)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {BB_BD_67_72} ("MainStringId")
+  0x14  : Genesys.Gen.RichPresence.RichPresenceDataBase.Parameters * [size @ 0x18]
+           muId: {4D_8E_B3_89} ("MainStringParameters")
+  0x18  : uint16_t
+           muId: {6E_FD_30_8A}
+
+Genesys.Gen.RichPresence.RichPresenceList extends Genesys.Object
+  >> 14: (BD_1B_11_00)
+  >> id: (E7_80_B6_46)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsResource.Handle * [size @ 0x1C]
+           muId: {72_11_F8_88}
+  0x14  : float32_t
+           muId: {22_10_CC_84} ("UpdateRate")
+  0x18  : float32_t
+           muId: {D3_61_9D_F4}
+  0x1C  : uint8_t
+           muId: {92_18_D4_FC}
+
+Genesys.Gen.RolloutConfig.ModTimesaver extends Genesys.Object
+  >> 14: (F3_A1_21_00)
+  >> id: (AE_F1_29_6A)
+  0xC   : CgsCore.UniqueId * [size @ 0x14]
+           muId: {4D_22_E6_2D} ("Category")
+  0x10  : CgsCore.UniqueId
+           muId: {3B_AF_61_30} ("Entitlement")
+  0x14  : uint16_t
+           muId: {FE_17_4E_FC} ("CategoryCount")
+
+Genesys.Gen.RolloutConfig extends Genesys.Object
+  >> 14: (F8_61_04_00)
+  >> id: (9F_81_CF_EC)
+  0xC   : CgsCore.UniqueId
+           muId: {A0_E4_1B_32}
+  0x10  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x14  : Genesys.Gen.RolloutConfig.ModTimesaver * [size @ 0x18]
+           muId: {E9_C1_CA_88}
+  0x18  : uint16_t
+           muId: {23_AE_BA_B0}
+
+Genesys.Gen.RumbleEffect.Channel extends Genesys.Object
+  >> 14: (33_33_00_00)
+  >> id: (65_C4_03_90)
+  0xC   : CgsResource.Handle
+           muId: {2F_F9_35_4D} ("Envelope")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+
+Genesys.Gen.RumbleEffect.DigitalChannel extends Genesys.Object
+  >> 14: (34_33_00_00)
+  >> id: (56_72_A4_67)
+  0xC   : CgsResource.Handle
+           muId: {2F_F9_35_4D} ("Envelope")
+  0x14  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x18  : float32_t
+           muId: {27_72_58_CE} ("Duration")
+
+Genesys.Gen.RumbleEffect extends Genesys.Object
+  >> 14: (F2_29_00_00)
+  >> id: (E1_6B_97_28)
+  0xC   : Genesys.Gen.RumbleEffect.Channel
+           muId: {7B_09_83_81}
+  0x28  : Genesys.Gen.RumbleEffect.Channel
+           muId: {6D_60_5C_74}
+  0x44  : Genesys.Gen.RumbleEffect.Channel
+           muId: {EE_2A_17_21}
+  0x60  : Genesys.Gen.RumbleEffect.Channel
+           muId: {CD_2D_5E_BE}
+  0x7C  : Genesys.Gen.RumbleEffect.DigitalChannel
+           muId: {17_4A_9B_A5}
+  0x98  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x9C  : bool8_t
+           muId: {70_6F_6F_4C} ("Loop")
+
+Genesys.Gen.ScoringConfig extends Genesys.Object
+  >> 14: (33_F7_05_00)
+  >> id: (9F_45_5E_89)
+  0xC   : CgsCore.UniqueId
+           muId: {2E_B2_9B_38} ("AerialTakedown")
+  0x10  : CgsCore.UniqueId
+           muId: {8A_C3_32_77}
+  0x14  : CgsCore.UniqueId
+           muId: {E9_B9_0D_7E} ("Avenger")
+  0x18  : CgsCore.UniqueId
+           muId: {D1_E6_DC_C6}
+  0x1C  : CgsCore.UniqueId
+           muId: {45_30_66_53} ("Sf0E")
+  0x20  : CgsCore.UniqueId
+           muId: {69_CA_91_8C} ("BlacklistSpottedYou")
+  0x24  : CgsCore.UniqueId
+           muId: {96_70_93_30}
+  0x28  : CgsCore.UniqueId
+           muId: {2C_2A_78_6E}
+  0x2C  : CgsCore.UniqueId
+           muId: {64_62_E2_8D}
+  0x30  : CgsCore.UniqueId
+           muId: {C0_19_6D_E2}
+  0x34  : CgsCore.UniqueId
+           muId: {4B_E9_50_F9}
+  0x38  : CgsCore.UniqueId
+           muId: {1F_8B_B3_A0}
+  0x3C  : CgsCore.UniqueId
+           muId: {17_83_90_1D} ("CarSwapFound")
+  0x40  : CgsCore.UniqueId
+           muId: {1E_29_00_45}
+  0x44  : CgsCore.UniqueId
+           muId: {2E_39_91_83} ("ChallengeComplete")
+  0x48  : CgsCore.UniqueId
+           muId: {C2_21_B9_42}
+  0x4C  : CgsCore.UniqueId
+           muId: {E7_29_7B_CC}
+  0x50  : CgsCore.UniqueId
+           muId: {FE_74_F3_D2}
+  0x54  : CgsCore.UniqueId
+           muId: {B7_60_D4_80}
+  0x58  : CgsCore.UniqueId
+           muId: {0E_92_D9_88}
+  0x5C  : CgsCore.UniqueId
+           muId: {2D_49_0A_E0}
+  0x60  : CgsCore.UniqueId
+           muId: {73_77_A0_44} ("CheckpointHit")
+  0x64  : CgsCore.UniqueId
+           muId: {E8_A5_FE_6A} ("Comeback")
+  0x68  : CgsCore.UniqueId
+           muId: {29_82_0F_46}
+  0x6C  : CgsCore.UniqueId
+           muId: {F6_96_66_81}
+  0x70  : CgsCore.UniqueId
+           muId: {56_7B_AE_51}
+  0x74  : CgsCore.UniqueId
+           muId: {01_58_AC_90}
+  0x78  : CgsCore.UniqueId
+           muId: {18_93_40_CD} ("CopHitPayload")
+  0x7C  : CgsCore.UniqueId
+           muId: {D5_74_C0_AA} ("CopHitPlayer")
+  0x80  : CgsCore.UniqueId
+           muId: {8B_DD_04_84}
+  0x84  : CgsCore.UniqueId
+           muId: {B5_33_EE_AF}
+  0x88  : CgsCore.UniqueId
+           muId: {03_F4_35_AB} ("CopShuntCollision")
+  0x8C  : CgsCore.UniqueId
+           muId: {E0_CA_DD_1B} ("CopSlamCollision")
+  0x90  : CgsCore.UniqueId
+           muId: {26_71_DF_85}
+  0x94  : CgsCore.UniqueId
+           muId: {AE_91_06_07}
+  0x98  : CgsCore.UniqueId
+           muId: {1F_2B_80_5A}
+  0x9C  : CgsCore.UniqueId
+           muId: {81_CD_6E_22} ("CopWaterTakedown")
+  0xA0  : CgsCore.UniqueId
+           muId: {A0_03_71_F8} ("CrashEscape")
+  0xA4  : CgsCore.UniqueId
+           muId: {48_C2_0C_B9}
+  0xA8  : CgsCore.UniqueId
+           muId: {D7_6E_B8_97}
+  0xAC  : CgsCore.UniqueId
+           muId: {16_D0_0C_FE}
+  0xB0  : CgsCore.UniqueId
+           muId: {32_19_01_5F} ("DoubleTakedown")
+  0xB4  : CgsCore.UniqueId
+           muId: {95_DB_9C_FE}
+  0xB8  : CgsCore.UniqueId
+           muId: {A4_B4_66_A9}
+  0xBC  : CgsCore.UniqueId
+           muId: {54_AE_51_35}
+  0xC0  : CgsCore.UniqueId
+           muId: {3D_68_F8_E2}
+  0xC4  : CgsCore.UniqueId
+           muId: {E6_FB_3E_45} ("EnterCooldown")
+  0xC8  : CgsCore.UniqueId
+           muId: {94_EB_80_61}
+  0xCC  : CgsCore.UniqueId
+           muId: {A5_5E_22_60}
+  0xD0  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0xD4  : CgsCore.UniqueId
+           muId: {2D_43_83_58}
+  0xD8  : CgsCore.UniqueId
+           muId: {0E_56_42_EE} ("HeadOn")
+  0xDC  : CgsCore.UniqueId
+           muId: {D3_F4_DC_06} ("HeadOnCollision")
+  0xE0  : CgsCore.UniqueId
+           muId: {93_73_36_10} ("HeadOnOffline")
+  0xE4  : CgsCore.UniqueId
+           muId: {95_15_5B_1F} ("HeatLevelDecrease")
+  0xE8  : CgsCore.UniqueId
+           muId: {9C_CA_85_4A}
+  0xEC  : CgsCore.UniqueId
+           muId: {1E_A9_41_89}
+  0xF0  : CgsCore.UniqueId
+           muId: {15_93_98_47} ("HighSpeed")
+  0xF4  : CgsCore.UniqueId
+           muId: {FD_97_F6_22} ("HitByCop")
+  0xF8  : CgsCore.UniqueId
+           muId: {74_ED_69_CE} ("HitCop")
+  0xFC  : CgsCore.UniqueId
+           muId: {A8_19_04_B0} ("HitJump")
+  0x100 : CgsCore.UniqueId
+           muId: {21_5D_04_67} ("HitStack")
+  0x104 : CgsCore.UniqueId
+           muId: {A3_7C_FC_CD} ("ImmobilisedCop")
+  0x108 : CgsCore.UniqueId
+           muId: {E5_61_54_68} ("IntoCity")
+  0x10C : CgsCore.UniqueId
+           muId: {3E_8B_F6_E6} ("IntoTraffic")
+  0x110 : CgsCore.UniqueId
+           muId: {BA_3F_2E_38} ("IntoWater")
+  0x114 : CgsCore.UniqueId
+           muId: {43_98_82_6F}
+  0x118 : CgsCore.UniqueId
+           muId: {45_18_EE_47} ("JumpTakedown")
+  0x11C : CgsCore.UniqueId
+           muId: {2C_86_5D_58}
+  0x120 : CgsCore.UniqueId
+           muId: {ED_72_C0_ED}
+  0x124 : CgsCore.UniqueId
+           muId: {1B_80_73_70}
+  0x128 : CgsCore.UniqueId
+           muId: {A6_39_6D_D6}
+  0x12C : CgsCore.UniqueId
+           muId: {34_5A_98_60}
+  0x130 : CgsCore.UniqueId
+           muId: {86_15_DB_D1} ("MostWantedSpotBonus")
+  0x134 : CgsCore.UniqueId
+           muId: {37_80_4D_4D}
+  0x138 : CgsCore.UniqueId
+           muId: {F4_3A_0A_CF}
+  0x13C : CgsCore.UniqueId
+           muId: {23_C9_5A_2D}
+  0x140 : CgsCore.UniqueId
+           muId: {72_25_A4_F4}
+  0x144 : CgsCore.UniqueId
+           muId: {8D_D3_1D_CA} ("NitrousTakedown")
+  0x148 : CgsCore.UniqueId
+           muId: {42_A1_80_F6}
+  0x14C : CgsCore.UniqueId
+           muId: {25_49_47_4D}
+  0x150 : CgsCore.UniqueId * [size @ 0x314]
+           muId: {ED_EF_E3_9D}
+  0x154 : CgsCore.UniqueId * [size @ 0x316]
+           muId: {09_B7_15_3D} ("OfflineTakedownList")
+  0x158 : CgsCore.UniqueId
+           muId: {78_BF_09_EF}
+  0x15C : CgsCore.UniqueId
+           muId: {CC_51_F6_ED}
+  0x160 : CgsCore.UniqueId
+           muId: {5A_09_04_37}
+  0x164 : CgsCore.UniqueId
+           muId: {D2_42_5A_27}
+  0x168 : CgsCore.UniqueId
+           muId: {AA_D8_63_5A} ("PayloadSpilled")
+  0x16C : CgsCore.UniqueId
+           muId: {68_70_D3_0F} ("PayloadTakedown")
+  0x170 : CgsCore.UniqueId
+           muId: {3F_3E_59_1B}
+  0x174 : CgsCore.UniqueId
+           muId: {1B_60_85_5C}
+  0x178 : CgsCore.UniqueId
+           muId: {A9_2D_03_46}
+  0x17C : CgsCore.UniqueId
+           muId: {37_E4_A0_98}
+  0x180 : CgsCore.UniqueId
+           muId: {0C_FA_1E_79}
+  0x184 : CgsCore.UniqueId
+           muId: {80_F2_57_17}
+  0x188 : CgsCore.UniqueId
+           muId: {3D_06_BF_1B}
+  0x18C : CgsCore.UniqueId
+           muId: {2A_5D_5C_6E}
+  0x190 : CgsCore.UniqueId
+           muId: {9F_9B_F5_FA}
+  0x194 : CgsCore.UniqueId
+           muId: {AD_FD_B5_73}
+  0x198 : CgsCore.UniqueId
+           muId: {28_F9_EF_76}
+  0x19C : CgsCore.UniqueId
+           muId: {8D_CF_C3_91}
+  0x1A0 : CgsCore.UniqueId
+           muId: {E6_87_F2_F6}
+  0x1A4 : CgsCore.UniqueId
+           muId: {84_3E_4E_7A} ("PlayerEliminatedSelf")
+  0x1A8 : CgsCore.UniqueId
+           muId: {C5_E5_CC_23}
+  0x1AC : CgsCore.UniqueId
+           muId: {6C_46_05_52}
+  0x1B0 : CgsCore.UniqueId
+           muId: {ED_D1_3F_5C}
+  0x1B4 : CgsCore.UniqueId
+           muId: {A5_CB_5A_D2}
+  0x1B8 : CgsCore.UniqueId
+           muId: {38_88_1C_5F}
+  0x1BC : CgsCore.UniqueId
+           muId: {4A_72_AA_46}
+  0x1C0 : CgsCore.UniqueId
+           muId: {D1_E1_3F_4C}
+  0x1C4 : CgsCore.UniqueId
+           muId: {71_25_E9_9E}
+  0x1C8 : CgsCore.UniqueId
+           muId: {96_67_F7_77}
+  0x1CC : CgsCore.UniqueId
+           muId: {7B_7F_78_CF}
+  0x1D0 : CgsCore.UniqueId
+           muId: {32_DB_E8_FD}
+  0x1D4 : CgsCore.UniqueId
+           muId: {B4_B7_12_90}
+  0x1D8 : CgsCore.UniqueId
+           muId: {8D_9B_F8_8D}
+  0x1DC : CgsCore.UniqueId
+           muId: {2F_46_76_60}
+  0x1E0 : CgsCore.UniqueId
+           muId: {DF_E4_F8_C4}
+  0x1E4 : CgsCore.UniqueId
+           muId: {6E_5F_C1_84}
+  0x1E8 : CgsCore.UniqueId
+           muId: {27_F5_AE_6E}
+  0x1EC : CgsCore.UniqueId
+           muId: {15_93_EE_E7}
+  0x1F0 : CgsCore.UniqueId
+           muId: {6A_0C_98_1B}
+  0x1F4 : CgsCore.UniqueId
+           muId: {10_02_76_68} ("PlayerSpotted")
+  0x1F8 : CgsCore.UniqueId
+           muId: {AF_9B_99_5F}
+  0x1FC : CgsCore.UniqueId
+           muId: {30_70_1A_69}
+  0x200 : CgsCore.UniqueId
+           muId: {32_28_15_C7}
+  0x204 : CgsCore.UniqueId
+           muId: {16_49_7D_EB}
+  0x208 : CgsCore.UniqueId
+           muId: {61_86_5A_63} ("PropDestroyed")
+  0x20C : CgsCore.UniqueId
+           muId: {F8_F9_B3_18}
+  0x210 : CgsCore.UniqueId
+           muId: {F0_4D_F0_DE}
+  0x214 : CgsCore.UniqueId
+           muId: {5F_81_C0_0B}
+  0x218 : CgsCore.UniqueId
+           muId: {1D_DE_2B_E9}
+  0x21C : CgsCore.UniqueId
+           muId: {CF_AD_12_AE} ("RacerShuntTakedown")
+  0x220 : CgsCore.UniqueId
+           muId: {FC_C7_22_CB} ("RacerSlamTakedown")
+  0x224 : CgsCore.UniqueId
+           muId: {D0_25_A8_50} ("RacerTakedown")
+  0x228 : CgsCore.UniqueId
+           muId: {91_C2_16_84} ("RacerTBoneTakedown")
+  0x22C : CgsCore.UniqueId
+           muId: {38_94_7D_EF} ("RacerTrafficTakedown")
+  0x230 : CgsCore.UniqueId
+           muId: {BA_7B_FF_ED} ("RacerWaterTakedown")
+  0x234 : CgsCore.UniqueId
+           muId: {3B_C4_B4_E8} ("RacerWeaponTakedown")
+  0x238 : CgsCore.UniqueId
+           muId: {CF_0C_7E_E4}
+  0x23C : CgsCore.UniqueId
+           muId: {B9_13_6C_09}
+  0x240 : CgsCore.UniqueId
+           muId: {2F_DC_40_08}
+  0x244 : CgsCore.UniqueId
+           muId: {6E_BF_0F_49} ("Revenge")
+  0x248 : CgsCore.UniqueId
+           muId: {6E_AB_13_49} ("Reverse")
+  0x24C : CgsCore.UniqueId
+           muId: {C0_72_E8_0F} ("RoadblockCopHit")
+  0x250 : CgsCore.UniqueId
+           muId: {1A_1A_E7_52}
+  0x254 : CgsCore.UniqueId
+           muId: {99_71_B8_30}
+  0x258 : CgsCore.UniqueId
+           muId: {1E_84_41_A6}
+  0x25C : CgsCore.UniqueId
+           muId: {1A_54_BA_5F}
+  0x260 : CgsCore.UniqueId
+           muId: {8C_E2_17_08}
+  0x264 : CgsCore.UniqueId
+           muId: {E1_A3_56_AC} ("Shunt")
+  0x268 : CgsCore.UniqueId
+           muId: {15_35_C7_24} ("ShuntCollision")
+  0x26C : CgsCore.UniqueId
+           muId: {18_C6_95_5A} ("ShuntOffline")
+  0x270 : CgsCore.UniqueId
+           muId: {DF_71_49_51}
+  0x274 : CgsCore.UniqueId
+           muId: {79_00_91_19}
+  0x278 : CgsCore.UniqueId
+           muId: {6E_C4_79_24}
+  0x27C : CgsCore.UniqueId
+           muId: {6D_61_6C_53} ("Slam")
+  0x280 : CgsCore.UniqueId
+           muId: {9A_F5_4D_50} ("SlamCollision")
+  0x284 : CgsCore.UniqueId
+           muId: {65_BB_69_DD} ("SlamOffline")
+  0x288 : CgsCore.UniqueId
+           muId: {34_99_99_55}
+  0x28C : CgsCore.UniqueId
+           muId: {76_1F_9C_58}
+  0x290 : CgsCore.UniqueId
+           muId: {96_54_23_6D} ("SpeedCameraFound")
+  0x294 : CgsCore.UniqueId
+           muId: {41_02_44_D3} ("SpeedCameraTriggered")
+  0x298 : CgsCore.UniqueId
+           muId: {37_ED_DF_2A} ("Suicide")
+  0x29C : CgsCore.UniqueId
+           muId: {A9_52_A6_68} ("Takedown")
+  0x2A0 : CgsCore.UniqueId
+           muId: {46_F8_96_72} ("TakedownFrenzy")
+  0x2A4 : CgsCore.UniqueId
+           muId: {0C_23_24_76}
+  0x2A8 : CgsCore.UniqueId
+           muId: {98_15_59_D4}
+  0x2AC : CgsCore.UniqueId
+           muId: {80_D5_77_F8}
+  0x2B0 : CgsCore.UniqueId
+           muId: {DC_0D_9A_B9} ("Takendown")
+  0x2B4 : CgsCore.UniqueId
+           muId: {F5_F3_0B_98} ("TBone")
+  0x2B8 : CgsCore.UniqueId
+           muId: {23_0B_01_97} ("TBoneCollision")
+  0x2BC : CgsCore.UniqueId
+           muId: {21_98_AA_8B} ("TBoneOffline")
+  0x2C0 : CgsCore.UniqueId
+           muId: {90_A5_9B_FC}
+  0x2C4 : CgsCore.UniqueId
+           muId: {3D_3D_E9_7E}
+  0x2C8 : CgsCore.UniqueId
+           muId: {AD_EC_1E_7C}
+  0x2CC : CgsCore.UniqueId
+           muId: {8F_6B_19_3A}
+  0x2D0 : CgsCore.UniqueId
+           muId: {07_74_92_1F}
+  0x2D4 : CgsCore.UniqueId
+           muId: {E2_B1_DA_47}
+  0x2D8 : CgsCore.UniqueId
+           muId: {39_80_E1_49}
+  0x2DC : CgsCore.UniqueId
+           muId: {98_59_27_36}
+  0x2E0 : CgsCore.UniqueId
+           muId: {79_71_BA_BF}
+  0x2E4 : CgsCore.UniqueId
+           muId: {0E_C0_EB_1C} ("TrafficHit")
+  0x2E8 : CgsCore.UniqueId
+           muId: {AA_9F_AE_21} ("TrafficImmobilised")
+  0x2EC : CgsCore.UniqueId
+           muId: {BE_70_55_A5} ("TrafficTakedown")
+  0x2F0 : CgsCore.UniqueId
+           muId: {B1_FC_8B_BA} ("TripleTakedown")
+  0x2F4 : CgsCore.UniqueId
+           muId: {34_01_02_DE} ("Vertical")
+  0x2F8 : CgsCore.UniqueId
+           muId: {B3_AC_86_9A} ("WeaponHit")
+  0x2FC : CgsCore.UniqueId
+           muId: {3F_5F_D9_C6} ("WreckedInChase")
+  0x300 : CgsCore.UniqueId
+           muId: {1E_D8_E1_F7} ("YouEliminatedSelf")
+  0x304 : CgsCore.UniqueId
+           muId: {52_87_5F_FA}
+  0x308 : CgsCore.UniqueId
+           muId: {2C_3D_37_C8}
+  0x30C : CgsCore.UniqueId
+           muId: {A3_50_C5_47}
+  0x310 : CgsCore.UniqueId
+           muId: {A9_BC_8E_38}
+  0x314 : uint16_t
+           muId: {0E_3E_D8_E1}
+  0x316 : uint16_t
+           muId: {08_B5_E7_86}
+
+Genesys.Gen.SpeechInput.Config.Command extends Genesys.Object
+  >> 14: (CD_24_1A_00)
+  >> id: (A8_11_CE_27)
+  0xC   : CgsCore.UniqueId
+           muId: {52_36_6D_5D} ("String")
+  0x10  : D3_4F_0F_00
+           muId: {D4_1F_B2_10} ("Command")
+
+Genesys.Gen.SpeechInput.Config extends Genesys.Object
+  >> 14: (CB_24_1A_00)
+  >> id: (8B_40_CE_8F)
+  0xC   : Genesys.Gen.SpeechInput.Config.Command
+           muId: {85_30_1C_E4} ("Drive")
+  0x20  : Genesys.Gen.SpeechInput.Config.Command
+           muId: {39_F6_60_C5}
+  0x34  : Genesys.Gen.SpeechInput.Config.Command
+           muId: {65_72_6F_4D} ("More")
+  0x48  : Genesys.Gen.SpeechInput.Config.Command
+           muId: {74_78_65_4E} ("Next")
+  0x5C  : Genesys.Gen.SpeechInput.Config.Command
+           muId: {15_20_7C_28} ("Previous")
+  0x70  : Genesys.Gen.SpeechInput.Config.Command
+           muId: {F1_F5_B9_52} ("Yes")
+  0x84  : D3_4F_0F_00 * [size @ 0x98]
+           muId: {AC_75_B0_0E}
+  0x88  : D3_4F_0F_00 * [size @ 0x9A]
+           muId: {4F_EC_FB_FC}
+  0x8C  : D3_4F_0F_00 * [size @ 0x9C]
+           muId: {FE_95_42_D5}
+  0x90  : D3_4F_0F_00 * [size @ 0x9E]
+           muId: {B6_F4_38_67}
+  0x94  : D3_4F_0F_00 * [size @ 0xA0]
+           muId: {0A_61_5D_DD}
+  0x98  : uint16_t
+           muId: {E7_8A_0E_9D}
+  0x9A  : uint16_t
+           muId: {E3_6B_30_A3}
+  0x9C  : uint16_t
+           muId: {AB_5B_E3_09}
+  0x9E  : uint16_t
+           muId: {C3_E4_2C_18}
+  0xA0  : uint16_t
+           muId: {EB_A7_EA_57}
+
+Genesys.Gen.TrafficConfig extends Genesys.Object
+  >> 14: (3F_94_06_00)
+  >> id: (B1_11_61_FD)
+  0xC   : CgsResource.Handle
+           muId: {4D_D5_57_7E}
+  0x14  : CgsResource.Handle
+           muId: {8F_C8_BE_CB}
+  0x1C  : CgsResource.Handle
+           muId: {2A_CA_7E_D0}
+  0x24  : CgsResource.Handle
+           muId: {61_EF_E4_7D}
+  0x2C  : CgsResource.Handle
+           muId: {95_CC_4D_4E}
+  0x34  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.TrafficFuzzyLogicConfig extends Genesys.Object
+  >> 14: (4B_94_06_00)
+  >> id: (58_CA_71_43)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {66_C7_A8_9C}
+  0x14  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {40_4E_86_72}
+  0x18  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {67_8B_CA_13}
+  0x1C  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {C3_DA_72_00}
+  0x20  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {69_85_D1_01}
+  0x24  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {1B_01_83_54}
+  0x28  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {ED_D3_5D_3A}
+  0x2C  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {1D_40_9C_24} ("DistanceMiddle")
+  0x30  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {CE_E5_5C_E1} ("DistanceNear")
+  0x34  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {70_E5_B6_07}
+  0x38  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {DD_EC_26_A0} ("HeightNear")
+  0x3C  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {14_39_F4_CF}
+  0x40  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {B8_31_EC_6E}
+  0x44  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {7E_BC_C8_87}
+  0x48  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {D3_96_52_6A}
+  0x4C  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {12_13_00_FC}
+  0x50  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {8D_80_84_21}
+  0x54  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {8E_5A_58_90}
+  0x58  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {6E_5E_0A_05}
+  0x5C  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {25_5F_6D_8C}
+  0x60  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {00_86_20_97}
+  0x64  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {AA_C1_82_9F}
+  0x68  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {F5_9C_49_C7}
+  0x6C  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {5B_19_11_8E}
+  0x70  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {A4_3D_F0_87}
+  0x74  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {08_EB_DD_3E}
+  0x78  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {A5_42_58_26}
+  0x7C  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {D3_D8_EF_66}
+  0x80  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {A4_46_0B_3E}
+  0x84  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {19_E2_1F_72}
+  0x88  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {45_C0_47_B6}
+  0x8C  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {23_BA_DF_E2}
+  0x90  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {28_66_F3_44}
+  0x94  : Genesys.Gen.FuzzyLogicEnvelope *
+           muId: {7F_96_B0_C4}
+
+Genesys.Gen.TrafficManoeuvreConfig.WeaveManoeuvre extends Genesys.Object
+  >> 14: (6C_94_06_00)
+  >> id: (9A_56_49_91)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {E7_56_2C_F9}
+  0x14  : float32_t
+           muId: {1E_5B_E5_48}
+  0x18  : float32_t
+           muId: {7A_94_75_74}
+  0x1C  : float32_t
+           muId: {F7_E5_27_18}
+  0x20  : float32_t
+           muId: {54_27_DB_B3}
+  0x24  : float32_t
+           muId: {2E_A8_54_66}
+  0x28  : float32_t
+           muId: {2D_E3_1C_99}
+  0x2C  : float32_t
+           muId: {ED_3C_62_AF}
+  0x30  : float32_t
+           muId: {72_70_13_16}
+  0x34  : float32_t
+           muId: {DD_D2_B2_B1}
+  0x38  : float32_t
+           muId: {30_55_24_E3}
+  0x3C  : float32_t
+           muId: {3C_8B_4B_D6}
+  0x40  : float32_t
+           muId: {60_5B_6F_E6}
+  0x44  : float32_t
+           muId: {9C_F7_BF_EF}
+  0x48  : float32_t
+           muId: {5A_7E_6A_B0}
+  0x4C  : float32_t
+           muId: {57_F5_B4_63}
+  0x50  : float32_t
+           muId: {FC_8E_2E_3E}
+  0x54  : float32_t
+           muId: {74_70_8C_1D}
+  0x58  : float32_t
+           muId: {78_5B_7A_0A}
+  0x5C  : float32_t
+           muId: {CF_39_61_B5}
+  0x60  : float32_t
+           muId: {BB_B2_04_ED}
+  0x64  : float32_t
+           muId: {ED_E6_79_71}
+  0x68  : float32_t
+           muId: {F9_17_81_54}
+  0x6C  : float32_t
+           muId: {96_DC_D6_F3}
+  0x70  : float32_t
+           muId: {48_95_B9_B4}
+  0x74  : float32_t
+           muId: {DC_12_94_6D}
+
+Genesys.Gen.TrafficManoeuvreConfig.JackKnifeManoeuvre extends Genesys.Object
+  >> 14: (69_94_06_00)
+  >> id: (41_33_5C_48)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : CgsCore.UniqueId
+           muId: {EB_97_BD_04} ("Sequence")
+  0x14  : float32_t
+           muId: {98_3B_C1_03} ("EndGasValue")
+  0x18  : float32_t
+           muId: {7C_AB_10_F1}
+  0x1C  : float32_t
+           muId: {BD_79_32_43} ("EndSteeringValue")
+  0x20  : float32_t
+           muId: {E7_56_2C_F9}
+  0x24  : float32_t
+           muId: {1E_5B_E5_48}
+  0x28  : float32_t
+           muId: {7A_94_75_74}
+  0x2C  : float32_t
+           muId: {F7_E5_27_18}
+  0x30  : float32_t
+           muId: {54_27_DB_B3}
+  0x34  : float32_t
+           muId: {2E_A8_54_66}
+  0x38  : float32_t
+           muId: {2D_E3_1C_99}
+  0x3C  : float32_t
+           muId: {ED_3C_62_AF}
+  0x40  : float32_t
+           muId: {72_70_13_16}
+  0x44  : float32_t
+           muId: {DD_D2_B2_B1}
+  0x48  : float32_t
+           muId: {30_55_24_E3}
+  0x4C  : float32_t
+           muId: {3C_8B_4B_D6}
+  0x50  : float32_t
+           muId: {60_5B_6F_E6}
+  0x54  : float32_t
+           muId: {9C_F7_BF_EF}
+  0x58  : float32_t
+           muId: {5A_7E_6A_B0}
+  0x5C  : float32_t
+           muId: {57_F5_B4_63}
+
+Genesys.Gen.TrafficManoeuvreConfig.PanicManoeuvre extends Genesys.Object
+  >> 14: (6A_94_06_00)
+  >> id: (9A_CE_FD_F1)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {7C_AB_10_F1}
+  0x14  : float32_t
+           muId: {BD_79_32_43} ("EndSteeringValue")
+  0x18  : float32_t
+           muId: {1B_25_3F_CA}
+  0x1C  : float32_t
+           muId: {1E_5B_E5_48}
+  0x20  : float32_t
+           muId: {7A_94_75_74}
+  0x24  : float32_t
+           muId: {F7_E5_27_18}
+  0x28  : float32_t
+           muId: {54_27_DB_B3}
+  0x2C  : float32_t
+           muId: {2E_A8_54_66}
+  0x30  : float32_t
+           muId: {2D_E3_1C_99}
+  0x34  : float32_t
+           muId: {ED_3C_62_AF}
+  0x38  : float32_t
+           muId: {72_70_13_16}
+  0x3C  : float32_t
+           muId: {DD_D2_B2_B1}
+  0x40  : float32_t
+           muId: {30_55_24_E3}
+  0x44  : float32_t
+           muId: {3C_8B_4B_D6}
+  0x48  : float32_t
+           muId: {60_5B_6F_E6}
+  0x4C  : float32_t
+           muId: {9C_F7_BF_EF}
+  0x50  : float32_t
+           muId: {5A_7E_6A_B0}
+  0x54  : float32_t
+           muId: {57_F5_B4_63}
+
+Genesys.Gen.TrafficManoeuvreConfig.CutupManoeuvre extends Genesys.Object
+  >> 14: (6B_94_06_00)
+  >> id: (B5_04_DC_E5)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {7C_AB_10_F1}
+  0x14  : float32_t
+           muId: {1B_25_3F_CA}
+  0x18  : float32_t
+           muId: {1E_5B_E5_48}
+  0x1C  : float32_t
+           muId: {7A_94_75_74}
+  0x20  : float32_t
+           muId: {F7_E5_27_18}
+  0x24  : float32_t
+           muId: {54_27_DB_B3}
+  0x28  : float32_t
+           muId: {2E_A8_54_66}
+  0x2C  : float32_t
+           muId: {2D_E3_1C_99}
+  0x30  : float32_t
+           muId: {ED_3C_62_AF}
+  0x34  : float32_t
+           muId: {72_70_13_16}
+  0x38  : float32_t
+           muId: {DD_D2_B2_B1}
+  0x3C  : float32_t
+           muId: {30_55_24_E3}
+  0x40  : float32_t
+           muId: {3C_8B_4B_D6}
+  0x44  : float32_t
+           muId: {60_5B_6F_E6}
+  0x48  : float32_t
+           muId: {9C_F7_BF_EF}
+  0x4C  : float32_t
+           muId: {5A_7E_6A_B0}
+  0x50  : float32_t
+           muId: {57_F5_B4_63}
+
+Genesys.Gen.TrafficManoeuvreConfig.SwerveManoeuvre extends Genesys.Object
+  >> 14: (6E_94_06_00)
+  >> id: (BA_D5_89_04)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {7C_AB_10_F1}
+  0x14  : float32_t
+           muId: {1B_25_3F_CA}
+  0x18  : float32_t
+           muId: {1E_5B_E5_48}
+  0x1C  : float32_t
+           muId: {7A_94_75_74}
+  0x20  : float32_t
+           muId: {F7_E5_27_18}
+  0x24  : float32_t
+           muId: {54_27_DB_B3}
+  0x28  : float32_t
+           muId: {2E_A8_54_66}
+  0x2C  : float32_t
+           muId: {2D_E3_1C_99}
+  0x30  : float32_t
+           muId: {ED_3C_62_AF}
+  0x34  : float32_t
+           muId: {72_70_13_16}
+  0x38  : float32_t
+           muId: {DD_D2_B2_B1}
+  0x3C  : float32_t
+           muId: {30_55_24_E3}
+  0x40  : float32_t
+           muId: {3C_8B_4B_D6}
+  0x44  : float32_t
+           muId: {60_5B_6F_E6}
+  0x48  : float32_t
+           muId: {9C_F7_BF_EF}
+  0x4C  : float32_t
+           muId: {5A_7E_6A_B0}
+  0x50  : float32_t
+           muId: {57_F5_B4_63}
+
+Genesys.Gen.TrafficManoeuvreConfig.SlowSpeedPanicManoeuvre extends Genesys.Object
+  >> 14: (71_94_06_00)
+  >> id: (E8_31_4E_C9)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {1B_25_3F_CA}
+  0x14  : float32_t
+           muId: {1E_5B_E5_48}
+  0x18  : float32_t
+           muId: {7A_94_75_74}
+  0x1C  : float32_t
+           muId: {F7_E5_27_18}
+  0x20  : float32_t
+           muId: {54_27_DB_B3}
+  0x24  : float32_t
+           muId: {2E_A8_54_66}
+  0x28  : float32_t
+           muId: {2D_E3_1C_99}
+  0x2C  : float32_t
+           muId: {ED_3C_62_AF}
+  0x30  : float32_t
+           muId: {72_70_13_16}
+  0x34  : float32_t
+           muId: {DD_D2_B2_B1}
+  0x38  : float32_t
+           muId: {30_55_24_E3}
+  0x3C  : float32_t
+           muId: {3C_8B_4B_D6}
+  0x40  : float32_t
+           muId: {60_5B_6F_E6}
+  0x44  : float32_t
+           muId: {9C_F7_BF_EF}
+  0x48  : float32_t
+           muId: {5A_7E_6A_B0}
+  0x4C  : float32_t
+           muId: {57_F5_B4_63}
+
+Genesys.Gen.TrafficManoeuvreConfig.NearMissManoeuvre extends Genesys.Object
+  >> 14: (6D_94_06_00)
+  >> id: (D4_EC_3E_7B)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {7C_AB_10_F1}
+  0x14  : float32_t
+           muId: {1B_25_3F_CA}
+  0x18  : float32_t
+           muId: {1E_5B_E5_48}
+  0x1C  : float32_t
+           muId: {7A_94_75_74}
+  0x20  : float32_t
+           muId: {F7_E5_27_18}
+  0x24  : float32_t
+           muId: {54_27_DB_B3}
+  0x28  : float32_t
+           muId: {2E_A8_54_66}
+  0x2C  : float32_t
+           muId: {2D_E3_1C_99}
+  0x30  : float32_t
+           muId: {ED_3C_62_AF}
+  0x34  : float32_t
+           muId: {72_70_13_16}
+  0x38  : float32_t
+           muId: {DD_D2_B2_B1}
+  0x3C  : float32_t
+           muId: {30_55_24_E3}
+
+Genesys.Gen.TrafficManoeuvreConfig extends Genesys.Object
+  >> 14: (67_94_06_00)
+  >> id: (F8_18_8F_9E)
+  0xC   : Genesys.Gen.TrafficManoeuvreConfig.WeaveManoeuvre
+           muId: {C6_CA_F5_E0}
+  0x84  : Genesys.Gen.TrafficManoeuvreConfig.JackKnifeManoeuvre
+           muId: {7C_ED_D6_42}
+  0xE4  : Genesys.Gen.TrafficManoeuvreConfig.PanicManoeuvre
+           muId: {5C_AF_F1_0F}
+  0x13C : Genesys.Gen.TrafficManoeuvreConfig.CutupManoeuvre
+           muId: {B8_A2_DE_D5}
+  0x190 : Genesys.Gen.TrafficManoeuvreConfig.SwerveManoeuvre
+           muId: {5E_2A_5C_E4}
+  0x1E4 : Genesys.Gen.TrafficManoeuvreConfig.SlowSpeedPanicManoeuvre
+           muId: {E1_1F_C5_1A}
+  0x234 : Genesys.Gen.TrafficManoeuvreConfig.NearMissManoeuvre
+           muId: {FC_0A_24_3B}
+  0x274 : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+
+Genesys.Gen.TrafficParamConfig extends Genesys.Object
+  >> 14: (41_94_06_00)
+  >> id: (B3_73_5C_CA)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {B8_60_CD_A5} ("AvoidanceBias")
+  0x14  : float32_t
+           muId: {33_0E_82_92}
+  0x18  : float32_t
+           muId: {92_4E_F0_E1}
+  0x1C  : float32_t
+           muId: {CA_FD_92_17}
+  0x20  : float32_t
+           muId: {01_E5_1B_83}
+  0x24  : float32_t
+           muId: {86_A6_75_FA}
+  0x28  : float32_t
+           muId: {6B_62_92_29}
+  0x2C  : float32_t
+           muId: {7D_82_07_7F}
+  0x30  : float32_t
+           muId: {C4_B6_04_FF}
+  0x34  : float32_t
+           muId: {92_07_A8_29}
+  0x38  : float32_t
+           muId: {AD_9B_2F_FF}
+  0x3C  : float32_t
+           muId: {E0_45_A8_0E}
+  0x40  : float32_t
+           muId: {3A_99_19_B9}
+  0x44  : float32_t
+           muId: {8E_78_BE_B9} ("MaxAcceleration")
+  0x48  : float32_t
+           muId: {A8_6D_0E_34}
+  0x4C  : float32_t
+           muId: {C3_89_10_FC} ("MaxNormalAcceleration")
+  0x50  : float32_t
+           muId: {8D_D0_FB_93} ("MinAcceleration")
+  0x54  : float32_t
+           muId: {17_1A_8E_AB}
+  0x58  : float32_t
+           muId: {66_4C_4A_61} ("aJLf")
+  0x5C  : float32_t
+           muId: {2B_E3_EE_FC}
+  0x60  : float32_t
+           muId: {14_E6_E5_D5}
+  0x64  : float32_t
+           muId: {15_80_FD_A3} ("MinNormalAcceleration")
+  0x68  : float32_t
+           muId: {3E_02_63_C8} ("MinSpawnDistance")
+  0x6C  : float32_t
+           muId: {9B_BE_FB_CA} ("MinSpawnTime")
+  0x70  : float32_t
+           muId: {EF_41_F4_45}
+  0x74  : float32_t
+           muId: {36_A0_FD_0F}
+  0x78  : float32_t
+           muId: {EC_19_9F_0A}
+  0x7C  : float32_t
+           muId: {5B_30_B4_E9}
+  0x80  : float32_t
+           muId: {64_81_74_AC}
+  0x84  : float32_t
+           muId: {45_29_BB_7A}
+  0x88  : float32_t
+           muId: {1E_99_0E_F9}
+  0x8C  : float32_t
+           muId: {0A_90_7A_0D}
+  0x90  : float32_t
+           muId: {B3_95_F1_E9}
+  0x94  : float32_t
+           muId: {B6_66_B0_D6}
+  0x98  : float32_t
+           muId: {FA_24_1C_2C}
+  0x9C  : float32_t
+           muId: {E3_F9_58_8B}
+  0xA0  : float32_t
+           muId: {57_40_9B_5F}
+  0xA4  : float32_t
+           muId: {01_05_87_32}
+  0xA8  : float32_t
+           muId: {62_6F_DF_ED}
+  0xAC  : float32_t
+           muId: {46_19_55_E0}
+  0xB0  : float32_t
+           muId: {91_DD_B3_4F}
+  0xB4  : float32_t
+           muId: {66_13_95_13}
+  0xB8  : float32_t
+           muId: {5C_0E_0E_3A}
+
+int32_t
+  >> 14: (62_6C_D4_12)
+  >> id: (83_BE_99_18)
+
+Genesys.Gen.TrafficSystemConfig extends Genesys.Object
+  >> 14: (40_94_06_00)
+  >> id: (76_FE_41_8B)
+  0xC   : float32_t [24] [size @ 0x14C]
+           muId: {2E_C3_83_97} ("TimeOfDayTrafficDensity")
+  0x6C  : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x70  : float32_t
+           muId: {5F_DD_61_0F}
+  0x74  : float32_t
+           muId: {8C_E2_1A_82} ("DefaultRenderRadius")
+  0x78  : float32_t
+           muId: {34_B3_24_BE}
+  0x7C  : float32_t
+           muId: {29_D3_8E_B4}
+  0x80  : float32_t
+           muId: {18_75_9D_80} ("DensityBaseScale")
+  0x84  : float32_t
+           muId: {38_C3_A3_A3}
+  0x88  : float32_t
+           muId: {9D_B2_EB_56} ("FreedriveScaleMax")
+  0x8C  : float32_t
+           muId: {64_2F_85_5F}
+  0x90  : float32_t
+           muId: {8B_BA_EB_56} ("FreedriveScaleMin")
+  0x94  : float32_t
+           muId: {31_06_F9_B7}
+  0x98  : float32_t
+           muId: {0F_EE_BB_52}
+  0x9C  : float32_t
+           muId: {A8_AC_B1_50}
+  0xA0  : float32_t
+           muId: {14_12_DD_83}
+  0xA4  : float32_t
+           muId: {37_E0_A7_87}
+  0xA8  : float32_t
+           muId: {19_B8_23_C3}
+  0xAC  : float32_t
+           muId: {2A_21_C1_25}
+  0xB0  : float32_t
+           muId: {10_41_37_FB}
+  0xB4  : float32_t
+           muId: {72_EC_EA_80}
+  0xB8  : float32_t
+           muId: {C2_30_D7_96}
+  0xBC  : float32_t
+           muId: {12_70_F2_CB}
+  0xC0  : float32_t
+           muId: {FD_B2_27_9C} ("MaxTrafficDensity")
+  0xC4  : float32_t
+           muId: {0A_07_F2_90}
+  0xC8  : float32_t
+           muId: {8E_72_7B_6C}
+  0xCC  : float32_t
+           muId: {5E_E2_F8_48} ("MinimumVehicleSpeed")
+  0xD0  : float32_t
+           muId: {F8_4B_46_0C}
+  0xD4  : float32_t
+           muId: {E5_04_CF_67}
+  0xD8  : float32_t
+           muId: {9A_42_7E_1D} ("MinTrafficDensity")
+  0xDC  : float32_t
+           muId: {7F_97_C8_BD}
+  0xE0  : float32_t
+           muId: {25_9C_1E_C7}
+  0xE4  : float32_t
+           muId: {32_75_33_A9}
+  0xE8  : float32_t
+           muId: {10_E7_4A_EF}
+  0xEC  : float32_t
+           muId: {ED_42_88_DB}
+  0xF0  : float32_t
+           muId: {1B_25_3F_CA}
+  0xF4  : float32_t
+           muId: {48_A0_E0_BE}
+  0xF8  : float32_t
+           muId: {7C_EB_88_9A}
+  0xFC  : float32_t
+           muId: {68_5C_C5_D7}
+  0x100 : float32_t
+           muId: {95_4F_FD_26}
+  0x104 : float32_t
+           muId: {82_79_60_EE}
+  0x108 : float32_t
+           muId: {29_61_C0_0B}
+  0x10C : float32_t
+           muId: {40_D5_1A_20} ("PursuitScale")
+  0x110 : float32_t
+           muId: {97_A8_A2_01} ("RenderCullDistance")
+  0x114 : float32_t
+           muId: {36_38_F8_C2}
+  0x118 : float32_t
+           muId: {7E_46_9A_CF}
+  0x11C : float32_t
+           muId: {20_BA_B2_B3}
+  0x120 : float32_t
+           muId: {76_8D_77_A3}
+  0x124 : float32_t
+           muId: {01_FC_61_BF}
+  0x128 : float32_t
+           muId: {FF_EC_3D_35}
+  0x12C : float32_t
+           muId: {6A_C1_DC_11}
+  0x130 : float32_t
+           muId: {0C_A0_7B_E6}
+  0x134 : int32_t
+           muId: {EB_82_CE_52}
+  0x138 : int32_t
+           muId: {24_D1_52_66}
+  0x13C : int32_t
+           muId: {10_A8_36_05}
+  0x140 : int32_t
+           muId: {C2_3C_7B_25}
+  0x144 : int32_t
+           muId: {D0_E0_05_E1}
+  0x148 : int32_t
+           muId: {C7_A6_22_54}
+  0x14C : uint16_t
+           muId: {75_8D_42_8A}
+
+Genesys.Gen.TrafficVehicleConfig extends Genesys.Object
+  >> 14: (42_94_06_00)
+  >> id: (B1_65_BF_EC)
+  0xC   : CgsCore.UniqueId
+           muId: {5F_3F_5D_65} ("GameChangerID")
+  0x10  : float32_t
+           muId: {48_85_58_0F} ("AvoidabilityRadius")
+  0x14  : float32_t
+           muId: {47_A7_D3_44} ("AvoidanceOverallriskBrake")
+  0x18  : float32_t
+           muId: {55_A1_87_C9} ("AvoidConeDepth")
+  0x1C  : float32_t
+           muId: {28_9F_5B_F1} ("AvoidConeHalfAngle")
+  0x20  : float32_t
+           muId: {09_0C_39_5F} ("AvoidConeSquishingScale")
+  0x24  : float32_t
+           muId: {CC_4B_58_68} ("AvoidOffcourseScoreFactor")
+  0x28  : float32_t
+           muId: {04_1D_23_06} ("BulbWarmthDeltaPerSecond")
+  0x2C  : float32_t
+           muId: {13_BB_5A_AB} ("CollidabilityRadius")
+  0x30  : float32_t
+           muId: {4F_2D_3F_E8} ("ContactDiscardSide")
+  0x34  : float32_t
+           muId: {52_46_49_EC} ("ContactFrontBack")
+  0x38  : float32_t
+           muId: {8C_4D_57_A2} ("ContactSide")
+  0x3C  : float32_t
+           muId: {B9_F6_7B_D0}
+  0x40  : float32_t
+           muId: {AA_F9_04_8B} ("D2TDistBehindToInitiateTurn")
+  0x44  : float32_t
+           muId: {D1_75_5D_8A} ("D2TGiveUpMinSpeed")
+  0x48  : float32_t
+           muId: {E5_1E_1D_1E} ("D2TGiveUpOnSlam")
+  0x4C  : float32_t
+           muId: {AA_08_AC_F1} ("DirectionDampingFactor")
+  0x50  : float32_t
+           muId: {EF_62_55_3E} ("DistVehicle")
+  0x54  : float32_t
+           muId: {87_1E_38_11} ("ExtremeSwerveDontUseAvoidanceTime")
+  0x58  : float32_t
+           muId: {39_A6_57_CB} ("ExtremeSwerveStickiness")
+  0x5C  : float32_t
+           muId: {59_20_24_D0} ("FallingOutOfWorldHeight")
+  0x60  : float32_t
+           muId: {0A_DE_5C_E3} ("GasBrakeMinSpeed")
+  0x64  : float32_t
+           muId: {90_D6_9E_46} ("GasBrakeTimeForTinySpeed")
+  0x68  : float32_t
+           muId: {8D_75_4C_B7} ("GasBrakeTimeToSlow")
+  0x6C  : float32_t
+           muId: {15_E2_37_5C} ("HandbrakeTillCrashTime")
+  0x70  : float32_t
+           muId: {F9_F5_68_2E} ("HandbrakeTillCrashTimeLockup")
+  0x74  : float32_t
+           muId: {AC_93_CF_82} ("MaxChangeSwerveDirectionTime")
+  0x78  : float32_t
+           muId: {D2_B6_D5_8B} ("MaxDistForSwerve")
+  0x7C  : float32_t
+           muId: {0F_32_61_D6} ("MaxDistFromLaneCentre")
+  0x80  : float32_t
+           muId: {51_FC_BB_D4} ("MaxIndicatorFlashTime")
+  0x84  : float32_t
+           muId: {B7_14_7D_24} ("MaxSteeringAngle")
+  0x88  : float32_t
+           muId: {D8_67_B3_38} ("MaxSteeringDelta")
+  0x8C  : float32_t
+           muId: {F2_D6_38_06} ("MaxSwerveDistance")
+  0x90  : float32_t
+           muId: {D3_68_0A_F3} ("MaxTimeReverse")
+  0x94  : float32_t
+           muId: {F3_94_47_90} ("MinChangeSwerveDirectionTime")
+  0x98  : float32_t
+           muId: {4E_67_D8_17} ("MinCosAngleForSlamRecovery")
+  0x9C  : float32_t
+           muId: {4F_2D_26_8C} ("MinDistanceToMove")
+  0xA0  : float32_t
+           muId: {BC_9E_1E_7C} ("MinDistAvoidCalcStreering")
+  0xA4  : float32_t
+           muId: {31_16_3F_41} ("MinDistForCleanup")
+  0xA8  : float32_t
+           muId: {18_CE_37_51} ("MinDistForSlamRecovery")
+  0xAC  : float32_t
+           muId: {87_F5_56_8B} ("MinIndicatorFlashTime")
+  0xB0  : float32_t
+           muId: {F4_E3_10_79} ("MinOverallAvoidCalcSteering")
+  0xB4  : float32_t
+           muId: {8C_27_A1_49} ("MinReactToPlayerSpeed")
+  0xB8  : float32_t
+           muId: {4F_0C_D2_E7} ("MinSpeedToRecover")
+  0xBC  : float32_t
+           muId: {88_6E_07_94} ("MinSpontaneousCrashSpeed")
+  0xC0  : float32_t
+           muId: {23_59_56_EE} ("MinStuckTime")
+  0xC4  : float32_t
+           muId: {7B_18_F2_BC} ("MinTimeForRecovery")
+  0xC8  : float32_t
+           muId: {E8_BB_22_1E} ("MinTimeForStuck")
+  0xCC  : float32_t
+           muId: {29_C2_77_25} ("NotDrivingSoShouldGetClearedTime")
+  0xD0  : float32_t
+           muId: {FB_55_C1_95} ("OptimalDistanceFromTarget")
+  0xD4  : float32_t
+           muId: {D5_43_67_EA} ("OverallBiggerSteering")
+  0xD8  : float32_t
+           muId: {49_F8_54_6E} ("PartialUpdateDistance")
+  0xDC  : float32_t
+           muId: {CA_CE_63_21} ("Phase1Speed")
+  0xE0  : float32_t
+           muId: {B0_1C_AD_21} ("PhysicalSteeringIfRisk")
+  0xE4  : float32_t
+           muId: {81_60_EC_56} ("PhysicalSteeringScale")
+  0xE8  : float32_t
+           muId: {A3_F3_BA_0D} ("Cop_Frequency_Phase")
+  0xEC  : float32_t
+           muId: {12_F8_E5_4D} ("PitchMaxDecel")
+  0xF0  : float32_t
+           muId: {5A_F3_5E_AC} ("PitchScale")
+  0xF4  : float32_t
+           muId: {0C_AC_48_BF} ("RollFactor")
+  0xF8  : float32_t
+           muId: {B4_4B_40_96} ("RollFilter")
+  0xFC  : float32_t
+           muId: {1E_77_08_73} ("RollSpeedMinMPH")
+  0x100 : float32_t
+           muId: {2E_B4_87_DE} ("SpeedBalanceFactor")
+  0x104 : float32_t
+           muId: {0A_F2_E3_3F} ("SpontaneousConeDepth")
+  0x108 : float32_t
+           muId: {E4_80_C4_72} ("SpontaneousConeHalfAngle")
+  0x10C : float32_t
+           muId: {0F_E9_C2_27} ("SpontaneousConeSquishingScale")
+  0x110 : float32_t
+           muId: {43_E2_BD_28} ("StartDistanceFromTarget")
+  0x114 : float32_t
+           muId: {0E_74_0B_8C} ("StoplineSideSpace")
+  0x118 : float32_t
+           muId: {F1_B0_04_0F} ("StoplineSideVariation")
+  0x11C : float32_t
+           muId: {6C_44_10_3C} ("StuckReverseChance")
+  0x120 : float32_t
+           muId: {88_F7_E0_42} ("StuckTimeMin")
+  0x124 : float32_t
+           muId: {3C_CB_39_49} ("StuckTimeRampUp")
+  0x128 : float32_t
+           muId: {CE_CA_15_E4} ("StuckTimeRampUpThres")
+  0x12C : float32_t
+           muId: {B3_3F_EF_7E} ("SwerveScoreScale")
+  0x130 : float32_t
+           muId: {EF_22_28_64} ("SympatheticTimeout")
+  0x134 : float32_t
+           muId: {8D_B5_44_A6} ("SympMinDistForFlipout")
+  0x138 : float32_t
+           muId: {29_4D_DD_80} ("TimeForNewSwerve")
+  0x13C : float32_t
+           muId: {3C_E7_E0_0F} ("TimeToSteerFromSlam")
+  0x140 : float32_t
+           muId: {1C_53_06_DD} ("UngiveupTime")
+  0x144 : int32_t
+           muId: {F7_A0_6A_A9} ("MaxBrakelightDebounce")
+  0x148 : int32_t
+           muId: {21_A9_87_F6} ("MinBrakelightDebounce")
+
+rw.math.vpu.Vector4
+  >> 14: (12_9F_20_28)
+  >> id: (C2_29_A8_2F)
+  0x0   : float32_t [4] [size @ 0x-1]
+           muId: {4F_8D_37_03} ("Elements")
+
+Genesys.Gen.Vehicles.SmokeColour extends Genesys.Object
+  >> 14: (02_B5_21_00)
+  >> id: (30_AF_FB_E6)
+  0x10  : rw.math.vpu.Vector4
+           muId: {45_A6_60_34} ("Colour")
+
+int16_t
+  >> 14: (35_0C_D4_BF)
+  >> id: (56_24_52_29)
